@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18079">
+  <titre>Rougaille saucisse</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 saucisses (de Toulouse ou autres)</p>
+    <p>4 oignons moyens</p>
+    <p>4 gousses d'ail</p>
+    <p>1 boîte de tomates pelées (600 g)</p>
+    <p>1 ou 2 pointes de couteau de curry</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>quelques rondelles de piment (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les saucisses en morceaux de 4cm environ. Les faire revenir dans une cocotte dans une cuillère d'huile. Les retourner jusqu'à ce qu'ils soient bien grillés (pas carbonisés). 
+    Pendant ce temps, émincer les oignons en fines demi-rondelles et hacher l'ail. 
+    Quand les saucisses sont grillées, réserver-les. Jeter le gras et remettre 2 cuillères d'huile dans la cocotte pour les oignons. Faire dorer les oignons. Quand ils sont dorés, ajouter les morceaux de saucisses, l'ail, le curry et le piment.
+    Mélanger quelques minutes puis ajouter la boîte de tomates. Mélanger et laisser cuire à feu doux avec un couvercle. 
+    Remuer de temps en temps pendant environ 1h, il faut que le liquide s'évapore et que la sauce s'assèche. A la fin, les tomates et les oignons sont légèrement confits. 
+    Servir avec du riz blanc.
+    NDLR : retrouvez aussi notre dossier sur les saucisses
+  ]]>
+  </preparation>
+</recette>

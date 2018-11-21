@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16615">
+  <titre>Tôt-fait à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de rhubarbe</p>
+    <p>150 g sucre poudre</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>1/2 citron (le zeste)</p>
+    <p>6 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher la rhubarbe et la couper en petits dés. Ajouter 100 g de sucre et le zeste de citron haché dans une casserole. Faire fondre à feu très doux, sans eau et sans couvercle, pendant 35 mn environ (retirer dès que la rhubarbe s’affaisse sous la cuillère).Allumer le four à thermostat 7 (230°C). Ecraser les morceaux de rhubarbe et y mélanger le beurre, les jaunes d'œufs, la maïzena délayée dans le lait et 1 cuillère à soupe de sucre.
+    Battre les blancs en neige ferme et les incorporer délicatement au mélange.
+    Verser dans un plat beurré à bords hauts. Saupoudrer de sucre et passer au four 20 mn.
+    Servir chaud ou tiède.
+  ]]>
+  </preparation>
+</recette>

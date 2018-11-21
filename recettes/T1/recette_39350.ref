@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39350">
+  <titre>Salade Fromagère</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Salade verte (laitue, batavia, mâche...selon les goûts)</p>
+    <p>2 tomates</p>
+    <p>1 bûche de chèvre</p>
+    <p>1 part de brie</p>
+    <p>2 tranches de jambon de pays</p>
+    <p>1 petite boîte de poire au sirop</p>
+    <p>Du miel</p>
+    <p>32 tranches de pain, de 5 cm de diamètre, environ (de campagne ou au céréales). Pour la vinaigrette :</p>
+    <p>vinaigre balsamique</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les poires au sirop, et les coupez en cubes. 
+    Laisser macérer dans le miel.
+    Epépiner les tomates, puis les couper en petits morceaux.
+    Dans chaque assiette, disposer la salade et les dés de tomates. Assaisonner avec la vinaigrette.
+    Disposer, sur la moitié des tranches de pain, une rondelle de chèvre, et sur l'autre moitié, 1 tranche de brie. 
+    Passer au four, le temps que le fromage fonde, et que le pain soit légèrement croustillant.
+    Pendant ce temps, préparer des lanières de jambon de pays.
+    Une fois les tartines sorties du four : Mettre sur celles au chèvre, un petit morceau de poire au miel.
+    Sur celles au brie, une lanière de jambon.
+    Disposer 4 tartines de chèvre et 4 tartines de brie, dans chaque assiette et servir.Bonne appétit et régalez-vous!!!
+  ]]>
+  </preparation>
+</recette>

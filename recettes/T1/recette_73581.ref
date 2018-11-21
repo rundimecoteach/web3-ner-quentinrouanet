@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73581">
+  <titre>Tarte du soir végétarienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 belles courgettes</p>
+    <p>4 tomates</p>
+    <p>1 bûche de chèvre type chavroux</p>
+    <p>1 pâte brisée</p>
+    <p>2 oeufs</p>
+    <p>1 verre de lait </p>
+    <p>moutarde</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive </p>
+    <p>thym, origan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tout d'abord, peler les courgettes et les couper en fines rondelles.
+    Couper les tomates en cubes et faire revenir le tout 30 min dans une poêle avec un filet d'huile d'olive.
+    Poivrer, saler et mettre une cuillère à café d'herbes provençales si vous le souhaitez.
+    Ensuite étaler la pâte brisée, la piquer avec une fourchette et étaler de la moutarde au pinceau.
+    Incorporer les légumes avec le jus .Battre les 2 oeufs avec le lait et verser au dessus des légumes.
+    Couper la bûche de chèvre en rondelles et les disposer sur le dessus de la tarte.
+    Saler et poivrer.
+    Enfourner 30 min à 220°, thermostat 7-8. Un beaujolais
+  ]]>
+  </preparation>
+</recette>

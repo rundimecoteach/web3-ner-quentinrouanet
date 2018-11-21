@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39192">
+  <titre>Salade de poulet ultra-simple</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 nuggets de poulets</p>
+    <p>2 petites boîtes de maïs (300 g) </p>
+    <p>1/2 bocal de poivrons rouges grillés, pelés et marinés (200 g) </p>
+    <p>4 oeufs durs</p>
+    <p>100 g d'emmental ou de comté </p>
+    <p>Herbes fraîches</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez en fines tranches les nuggets de poulet, que vous aurez préalablement cuits au four.
+    Coupez en cubes le fromage, les poivrons rouges et les oeufs durs.
+    Ajoutez le maïs et assaisonner, à votre convenance.
+    Servez frais, 
+    Bon appetit.
+    Personnellement, j'ajoute toujours quelques pincées de mélange, tout prêt, de "persillade", et je confectionne une petite sauce avec 4 ou 5 cuillères à café de mayonnaise, délayées dans le jus des poivrons (15 cl). 
+  ]]>
+  </preparation>
+</recette>

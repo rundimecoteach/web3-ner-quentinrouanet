@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27714">
+  <titre>Velouté en coque de potiron et croûtons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 beau potiron avec le fond "plat" et la peau non abîmée</p>
+    <p>2 oignons</p>
+    <p>10 cl de crème fraîche</p>
+    <p>20 cl de lait</p>
+    <p>pain rassis</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez un chapeau au potiron.
+    Evidez-le, retirez les pépins, mais laissez au moins 2 cm de chair dans la coque.
+    Découpez la chair retirée en petits dés.
+    Hacher les oignons, découpez le pain en dés et faites-les griller à la poêle avec du beurre.
+    Garnissez le potiron d'oignons, croûtons et chair de potiron alternativement, sans oublier de saler, poivrer et parsemer de noisettes de beurre entre chaque.
+    Versez le lait et couvrez de fromage et de crème fraîche.
+    Mettez-le dans un plat et reposez la calotte sur le potiron.
+    Enfournez et laissez cuire 2 h au four à 150°C (thermostat 5).
+    Servez bien chaud directement dans le potiron apporté sur la table.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82369">
+  <titre>Saucisse fraiche en sauce tomate et haricots plats</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de saucisse fraiche type de toulouse</p>
+    <p>500 g d'haricots plat frais ou congelés</p>
+    <p>1 oignon</p>
+    <p>400 g de tomates entières ou une petite brick de coulis</p>
+    <p>sel, poivre </p>
+    <p>1 branche de thym</p>
+    <p>1 branche de laurier</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire revenir dans un peu d'huile la saucisse, faire dorer rapidement et rajouter l'oignons coupé en petit morceaux.
+    Bien faire dorer, saler, poivrer et rajouter la tomate (en conserve ou en brick), le sucre (pour l'acidité de la tomate), du thym, du laurier et bien sûr les haricots plats.
+    Faire mijoter à demi-couvert sur feu doux en rajoutant si besoin un peu d'eau.
+    Une fois les haricots cuits, faire diminuer un peu la sauce et rectifier l'assaisonnement si nécessaire.
+    C'est prêt!!!
+    on peut aussi rajouter de la pomme de terre coupé en cube pour avoir un plat plus copieux et plus complet, en general les enfants aiment bien se plat (si la tomate est assez cuite) et les grands aussi!!!peut se faire avec des tomates fraiches mais dans ce cas un conseil faite les cuirent a part en coulis sinon la saucisse risque d'etre trop cuite.
+  ]]>
+  </preparation>
+</recette>

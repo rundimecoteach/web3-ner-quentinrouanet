@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65945">
+  <titre>Pâté de foie de volailles rapide et très facile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de foies de volaille</p>
+    <p>175 g de beurre</p>
+    <p>du lait pour faire tremper les foies</p>
+    <p>50 cl d'eau</p>
+    <p>1/2 verre de porto (7,5 cl)</p>
+    <p>1 cube de bouillon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper toute une nuit les foies dans le lait.
+    Les égoutter.
+    Dans une casserole, mettre l'eau, le cube, le porto, le sel le poivre à chauffer.
+    Y plonger les foies et les faire pocher 5 minutes.
+    Les égoutter et les mixer avec le beurre.
+    Mettre dans une terrine au réfrigérateur.
+    Cela fait un pâté de la taille d'un beurrier. 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16000">
+  <titre>Gâteau au chocolat tendre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de chocolat à croquer</p>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>1/2 paquet de levure</p>
+    <p>cannelle, muscade, sucre glace</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs et les jaunes des œufs. Incorporez le sucre au jaunes et fouettez le tout énergiquement.
+    Casser votre chocolat en morceaux puis faites-les fondre à feu très doux, additionnés du lait, laissez refroidir. Dans une autre casserole faites fondre le beurre.
+    Incorporez à vos jaunes sucrés, le beurre fondu et fouettez l’ensemble délicatement.
+    Incorporez le chocolat refroidi et fondu. Remuez délicatement, toujours au fouet.
+    Ajoutez un peu de cannelle et de muscade râpées. Incorporez ensuite la farine tamisée en remuant très délicatement l’ensemble à l’aide d’une spatule en bois.
+    Juste avant d’incorporer vos blancs d’œufs montés en neige, ajoutez la levure et le sel. Beurrez et farinez votre moule.
+    Enfournez le gâteau, faites-le cuire à feu moyen (thermostat 5 ou 6) pendant 35 à 40 mn.
+  ]]>
+  </preparation>
+</recette>

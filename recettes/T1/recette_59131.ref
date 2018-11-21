@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59131">
+  <titre>PIzza-tartine du sud</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 demi-baguette</p>
+    <p>1 petite aubergine</p>
+    <p>1 oignon blanc</p>
+    <p>135 g de tomates séchées (environ 8 tomates)</p>
+    <p>1 mozzarella (de bufflonne, de préférence)</p>
+    <p>quelques pointes de pesto au basilic</p>
+    <p>huile d'olive</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la demi-baguette comme pour faire un sandwich, en désolidarisant les deux morceaux, puis recouper chaque morceau en deux dans le sens de la longueur.
+    Enlever la mie en surplus (en laisser une fine couche sur chaque tartine).
+    Faire revenir l'aubergine coupée en rondelles et l'oignon dans une poêle huilée.
+    Couper chaque tomate en deux.
+    Couper la mozzarella en fines tranches.
+    Répartir ensuite entre les quatre tartines l'ensemble aubergine-oignon, les tomates, la mozzarella puis ajouter quelques pointes de pesto sur les tartines ainsi qu'un soupçon de poivre.
+    Enfourner à 230°C (thermsotat 7-8) pendant 15 min.
+    Déguster.
+    Une alternative rapide à la pizza, et toute aussi bonne. On peut aussi découper le pain en carré et agrémenter chacun des carrés pour faire des amuses-gueule en apéritif.
+  ]]>
+  </preparation>
+</recette>

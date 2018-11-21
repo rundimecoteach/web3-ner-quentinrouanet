@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24882">
+  <titre>Sauces variées au fromage blanc à dipper</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de fromage blanc</p>
+    <p>biscuits salés (type crackers, tortilla chips...)</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce aux herbes :</p>
+    <p>2 cuillères à soupe de ciboulette hachée</p>
+    <p>2 échalotes hachées</p>
+    <p>1 cuillère à soupe de persil hachéPour la sauce aux poivrons :</p>
+    <p>2 poivrons frais épépinés taillés en petits dés</p>
+    <p>1 cuillère à soupe de tabasco</p>
+    <p>Pour la sauce au curry :</p>
+    <p>1 cuillère à soupe de curry en poudre</p>
+    <p>1 cuillère à soupe de coriandre hachée</p>
+    <p>Pour la sauce aux oignons :</p>
+    <p>1 sachet de soupe à l'oignon déshydratée</p>
+    <p>Pour la sauce aux olives et saumon :</p>
+    <p>100 g d'olives vertes hachées</p>
+    <p>100 g de saumon fumé haché</p>
+    <p>1 citron</p>
+    <p>Pour la sauce à l'avocat :</p>
+    <p>1 avocat</p>
+    <p>1/2 cuillère à café de cumin</p>
+    <p>1 tomate</p>
+    <p>1 citron vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    "Dipper" veut dire tremper. C'est pour cela qu'on appelle les sauce apéritives "Dip".Dip aux herbes : mélanger 200 g de fromage blanc, du sel, du poivre, et les herbes et échalotes hachées.
+    Dip aux poivrons : mélanger 200 g de fromage blanc, du sel, du poivre. Ajouter les poivrons et le tabasco.
+    Dip au curry : mélanger 200 g de fromage blanc, du sel, du poivre, le curry et la coriandre. On peut également ajouter un peu de coco râpée.
+    Dip aux oignons : mélanger 200 g de fromage blanc, du sel, du poivre et le sachet de soupe déshydratée.
+    Dip aux olives et saumon : mélanger 200 g de fromage blanc, du sel, du poivre. Ajouter les olives, le saumon et un trait de jus de citron.
+    Dip à l'avocat : mélanger 200 g de fromage blanc, du sel, du poivre. Ajouter l'avocat coupé en dés, la tomate coupée en dés, le cumin et le jus du citron vert. On peut aussi y ajouter du thon émietté ou 1 oignon haché.Présenter les sauces avec des petits légumes crus coupés en bâtonnets ou bouquets (carottes, chou-fleur, champignons, radis, concombre, navets...), des biscuits secs salés et du pain grillé.
+  ]]>
+  </preparation>
+</recette>

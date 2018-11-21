@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230128">
+  <titre>Tarte aux légumes d'été et aux allumettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Une pâte feuilletée</p>
+    <p>4 petites tomates bien mures</p>
+    <p>Une grosse cuillère à soupe d'olives vertes ( à dénoyauter )</p>
+    <p>4 morceaux poivrons marinés ( de la taille d'une cuillère à café )</p>
+    <p>Un petit paquet d' allumettes nature</p>
+    <p>4 œufs</p>
+    <p>Un verre de lait</p>
+    <p>Sel et poivre</p>
+    <p>Une poignet de gruyère ( ou autre fromage rapé )</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déposer la pâte feuilletée dans un plat à tarte.
+    Battez 4 œufs dans un saladier, ajouter le lait, les allumettes. Remuez bien.
+    Coupez les tomates et les poivrons en morceaux ( pas trop gros )
+    Émincez les olives et mettez tous les ingrédients dans le saladier avec les œufs.
+    Remuez, salez et poivrer puis déposez le tout dans le plat. 
+    Ajouter le gruyère sur la tarte.
+    Enfournez le plat pendant environ 20 min à 200°C.
+    Surveillez la cuisson au bout le 15 min, baissez le thermostat (si la tarte bruni trop...)
+  ]]>
+  </preparation>
+</recette>

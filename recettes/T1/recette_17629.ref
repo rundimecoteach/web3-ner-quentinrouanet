@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17629">
+  <titre>Moelleux aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>8 cuillères à soupe de sucre</p>
+    <p>100 g de beurre</p>
+    <p>5 cuillères à soupe de farine</p>
+    <p>1 pincée de sel</p>
+    <p>1/2 paquet de levure</p>
+    <p>1 boîte de poires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs et le sucre ensemble jusqu'à ce que le mélange blanchisse et que le sucre soit bien fondu.
+    Ajoutez le beurre fondu, la farine, le sel et la levure pour former une pâte fluide.
+    Versez la pâte dans un moule beurré.
+    Disposez les poires en lamelles sur la pâte.
+    Mettez au four à thermostat 5/6 (170°C) pendant 30 min environ.
+    Très facile, très peu cher, et très bon !!! vin mousseux
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95948">
+  <titre>Lapin au cidre et aux pruneaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>250 gr de pruneaux dénoyautés</p>
+    <p>40 gr de raisins secs</p>
+    <p>250 gr de lardons</p>
+    <p>2 beaux oignons</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 bouteille de cidre brut</p>
+    <p>30 gr de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le lapin en morceaux, fariner les morceaux.
+    Dans une cocotte, faire dorer  les morceaux de lapin sur tous les côtés et réserver.
+    Dans la même cocotte, faire revenir les oignons hachés grossièrement puis les lardons.
+     
+    Quand les oignons ont pris une belle couleur, ajouter un verre de cidre et laisser mijoter encore 4 à 5 mn.
+    Incorporer les morceaux de lapin, les pruneaux, les raisins secs. Recouvrir avec le reste de la bouteille de cidre(Utiliser une petite cocotte afin que les ingredients soient bien recouverts). Saler et poivrer.
+    Laisser mijoter à petit feu pendant 50 minutes.
+    Servez ce plat bien chaud, accompagné de pâtes fraiches. Cidre
+  ]]>
+  </preparation>
+</recette>

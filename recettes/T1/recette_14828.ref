@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14828">
+  <titre>Bacalhao</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de morue désalée</p>
+    <p>500 g de pommes allumettes</p>
+    <p>2 gros oignons</p>
+    <p>persil, poivre, olives, huile d'olive</p>
+    <p>2 jaunes d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons et les faire dorer dans l'huile d'olive.
+    Ajouter la morue émiettée (la faire dessaler à l'avance et la cuire sans faire bouillir l'eau).
+    Poivrer mais ne pas saler, car la morue apporte le sel.
+    Faire cuire les frites sans les rendre dures. Les ajouter au mélange oignons et morue et les écraser avec une fourchette.
+    Ajouter les jaunes d'oeufs et le persil, puis mélanger. Servir chaud.
+    Ne pas oublier de retirer les arêtes, car ce plat excellent peux devenir une galère si il en reste. rosé ou vin du Portugal
+  ]]>
+  </preparation>
+</recette>

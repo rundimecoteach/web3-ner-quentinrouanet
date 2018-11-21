@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39910">
+  <titre>Pain farci</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pain de campagne </p>
+    <p>3 cuillères à soupe de câpres</p>
+    <p>1 boîte de 200 g de thon</p>
+    <p>6 oeufs durs</p>
+    <p>1 petite tomate</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'entame du pain, et le vider de sa mie.
+    Ajouter à la mie, le thon emietté, les câpres, la tomate (sans sa pulpe), les oeufs durs coupés en petit morceaux, et le beurre fondu.
+    Saler, poivrer, et disposer la farce dans le pain vidé.
+    Placer au frigo, pendant une nuit.
+    Ce plat est parfait pour un pique-nique!
+  ]]>
+  </preparation>
+</recette>

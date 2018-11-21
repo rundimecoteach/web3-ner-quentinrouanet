@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57531">
+  <titre>Pommes caramel et gelée d'orange au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 pommes golden</p>
+    <p>6 cuillères à soupe de sucre roux</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>1 noisette de beurre</p>
+    <p>50 cl de jus d'orange sans pulpe</p>
+    <p>le jus d'1 citron</p>
+    <p>1 zeste d'orange</p>
+    <p>1 pincée de sel</p>
+    <p>3 feuilles de gelatine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les pommes en cubes.
+    Citronner.
+    Faire ramollir la gélatine dans de l'eau froide.
+    Dans une casserole faire caraméliser le sucre, ajouter le beurre et le sel et mettre les pommes.
+    Ajouter le jus d'orange puis le rhum.
+    Laisser réduire.
+    Retirer les pommes, elle doivent rester un peu fermes.
+    Hors du feu, ajouter la gélatine.
+    Remettre les pommes.
+    Présenter dans des verres et avant de servir ajouter une rondelle de citron ou d'orange sur le dessus.
+    Une variante servie chaude : pas de gélatine mais une boule de glace vanille sur le dessus avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26960">
+  <titre>Pommes en croûte d'amande</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pommes Golden</p>
+    <p>40 g de beurre</p>
+    <p>40 g de cassonade</p>
+    <p>40 g de poudre d'amande</p>
+    <p>2 pincées de cannelle (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes et en débiter une moitié en fines tranches par ramequin allant au four. 
+    Mettez 10 g de beurre coupés en petits cubes par ramequin. Ajoutez 10 g de sucre et 10 g de poudre d'amande sur les pommes. 
+    Enfournez pendant 10 mn dans un four à 220°C .
+    A la sortie du four, la poudre d'amande est gratinée et les pommes moelleuses. Servir tiède avec une boule de glace à la vanille ou saveur crème brûlée.
+  ]]>
+  </preparation>
+</recette>

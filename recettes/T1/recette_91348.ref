@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91348">
+  <titre>Asperges chaudes au comté</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g d'asperges fraiches </p>
+    <p>30 g de beurre</p>
+    <p>25 cl de crème fraîche épaisse</p>
+    <p>150 g de comté</p>
+    <p>1 brin de ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les asperges, les laver.
+    Les faire cuire dans une eau salée pendant environ 20 minutes.
+    Pendant ce temps, faire fondre le beurre.
+    Y ajouter la crème fraîche et les morceaux de comté coupés en petits dés.
+    Réserver la sauce au chaud.
+    Servir les asperges chaudes nappées de la sauce au comté.
+    Décorer avec des brins de ciboulette.
+  ]]>
+  </preparation>
+</recette>

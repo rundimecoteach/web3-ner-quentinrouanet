@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65776">
+  <titre>Purée de pois cassé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pois cassé</p>
+    <p>3 tranche de poitrine fumée</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail écrasée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre tous les ingrédients dans une cocotte, mouiller à hauteur et saler.
+    Porter à ébullition et faire cuire à petit feu pendant 1 heure à couvert.
+    Mixer avec un mixeur plongeant et rectifier l'assaisonnement.
+  ]]>
+  </preparation>
+</recette>

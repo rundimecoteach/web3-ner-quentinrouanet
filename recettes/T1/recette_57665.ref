@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57665">
+  <titre>Carbonade de boeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g d'oignons</p>
+    <p>500 g de carbonade de boeuf (dans le gîte)</p>
+    <p>250 g de tomates</p>
+    <p>1 cuillère à café de paprika en poudre</p>
+    <p>1 cuillère à café de marjolaine</p>
+    <p>1/2 cube de bouillon de boeuf dégraissé</p>
+    <p>10 cl de yaourt</p>
+    <p>beurre</p>
+    <p>persil</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prenez une casserole avec couvercle.
+    Coupez en fines rondelles les oignons et faites-les dorer dans le beurre.
+    Ajoutez ensuite la viande détaillée en dés, assaisonnez de poivre et de sel.
+    Lorsque la viande est saisie, ajoutez les tomates épluchées, épépinées et coupées en morceaux.
+    Saupoudrez avec le paprika et la marjolaine.
+    Ajoutez le 1/2 cube de bouillon, celui-ci corsera le goût.
+    Laissez mijoter, à feu doux, 2 heures, casserole couverte.
+    Mélangez de temps en temps et, s'il manque du liquide, ajoutez un peu d'eau.
+    Lorsque la viande est bien cuite, ajoutez le yaourt et mélangez.
+    Parsemez de persil haché.
+    Servez avec des pâtes ou du riz.
+  ]]>
+  </preparation>
+</recette>

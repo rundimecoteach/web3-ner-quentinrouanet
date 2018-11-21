@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24185">
+  <titre>Tarte amandine aux abricots au miel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>225 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>50 g de sucre glace</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 pincée de sel</p>
+    <p>700 g d'abricots</p>
+    <p>50 g de poudre d'amandes</p>
+    <p>2 oeufs</p>
+    <p>15 cl de crème fraîche</p>
+    <p>40 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, le sucre et le sel, creuser un puit et y mettre le beurre coupé en dés.
+    Malaxer du bout des doigts puis ajouter le jaune d'oeuf et quelques cuillérées d'eau jusqu'à l'obtention d'une pâte que l'on peut rouler en boule et qui ne colle pas.
+    Laisser reposer 1 heure au réfrigérateur.
+    Préchauffer le four à 180°C (thermostat 6).Etaler la pâte à l'aide d'un rouleau à pâtisserie et la disposer dans un moule à tarte beurré.
+    Piquer la pâte à l'aide d'une fourchette et faire cuire à blanc (recouvrir la pâte d'aluminium et d'un poids : haricots secs) pendant 10 minutes.Dénoyauter les abricots et disposer les oreillons sur le fond de tarte.Mélanger la crème fraîche avec les oeufs, la poudre d'amandes et les sucres. Répartir sur les fruits et enfourner 35 minutes. Servir tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

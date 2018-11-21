@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41189">
+  <titre>Velouté d'asperges en bocal</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 bocal de 185 g (poids net égoutté) d'asperges vertes</p>
+    <p>100 ml de lait concentré non sucré</p>
+    <p>1/2 cube de bouillon de volaille</p>
+    <p>1 cuillère à café de cerfeuil haché</p>
+    <p>1/4 l d'eau</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les asperges, et les mettre dans une casserole avec le bouillon et l'eau.
+    Faire chauffer en mélangeant, jusqu'à ce que le bouillon soit dissout.
+    Mixer les asperges avec le bouillon, puis avec le lait et le cerfeuil.
+    Servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55040">
+  <titre>Cake carotte coco sans matière grasse</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de carottes</p>
+    <p>200 g de poudre de noix de coco</p>
+    <p>130 g de sucre en poudre</p>
+    <p>75 g de farine</p>
+    <p>3 oeufs</p>
+    <p>5 cl de jus de fruit (orange, multivitaminé, fruit exotique ou autre)</p>
+    <p>beurre (pour beurrer votre moule)</p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les carottes.
+    Mélanger sucre et noix de coco puis ajouter la farine puis la levure puis les carottes.
+    Battre les oeufs et les ajouter.
+    Verser la préparation dans un moule beurré.
+    Faire cuire au four à 175°C (thermostat 6) pendant 30 min.
+    Se mange tiède ou froid.
+    Gâteau sans matière grasse.
+  ]]>
+  </preparation>
+</recette>

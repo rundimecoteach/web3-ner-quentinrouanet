@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51280">
+  <titre>Côtes de porc gratinées à la harissa</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>harissa</p>
+    <p>10 g de beurre</p>
+    <p>70 g de fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7) et beurrer un plat allant au four.
+    Enduire les côtes de porc sur les deux faces de beurre puis de harissa et enfin de fromage râpé.
+    Mettre les côtes de porc dans le plat et enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

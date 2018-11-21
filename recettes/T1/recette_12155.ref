@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12155">
+  <titre>Bigalan de pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 rouleaux de pâte brisée</p>
+    <p>500g de pommes de terre</p>
+    <p>2 oignons</p>
+    <p>150g de petits lardons fumés</p>
+    <p>sel, poivre et crême fraîche épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Divisez la pâte en deux portions : 2/3 et 1/3. Etalez les 2/3 sur un moule à tarte ou à manqué.
+    Pelez les pommes de terre et découpez les en tranches très fine ainsi que les oignons.
+    Garnissez la pâte avec des couches successives de pommes de terres, oignons et petits lardons, salez et poivrez entre chaque couche.
+    Rabattez les bords de la pâte vers l'intérieur. Etalez les 1/3 de pâte restant, humectez les bords et collez les 2 parties (sert de couvercle). Piquez le dessus.
+    Enfournez 1h. Si la pâte colore trop vite, couvrez d'un papier sulfurisé ou feuille d'alu.
+    Avant de servir, découpez une ouverture sur le couvercle et versez-y la crème fraîche.
+    Rien dans le frigo et des appétits costauds !Les lardons peuvent être remplacés par du jambon. S'accompagne d'une salade verte.
+  ]]>
+  </preparation>
+</recette>

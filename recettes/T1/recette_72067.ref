@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72067">
+  <titre>Tarte thon/tomate improvisée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>1 brique de purée de tomate (20 cl)</p>
+    <p>1 boîte de thon au naturel</p>
+    <p>1 oignon</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>gruyère râpé</p>
+    <p>basilic</p>
+    <p>thym</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortir la pâte feuilletée du réfrigérateur 20 min avant préparation.
+    Etaler la pâte dans un moule à pizza.
+    Piquer le fond avec une fourchette.
+    Etaler les 2 cuillères à soupe de moutarde sur la pâte feuilletée. 
+    Mettre dessus la purée de tomate ainsi que le thon émietté et l'oignon hâché finement.
+    Ajouter les herbes et le gruyère râpé.
+    Terminer par un filet d'huile d'olive.
+    Mettre au four à 180°, thermostat 6, pendant 30 min.
+    Le temps de cuisson n'est donné qu'à titre indicatif car il dépend de votre four ainsi que du type de pâte employée. Donc surveillez votre tarte!  Un rosé type côte de provence
+  ]]>
+  </preparation>
+</recette>

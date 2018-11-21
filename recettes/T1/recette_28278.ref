@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28278">
+  <titre>Salade de fruits jaunes au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 pamplemousses jaunes</p>
+    <p>4 bananes</p>
+    <p>1 boîte de mirabelles au sirop</p>
+    <p>125 g de sucre en poudre</p>
+    <p>5 cl de rhum</p>
+    <p>1 jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les mirabelles et faire chauffer le jus avec le sucre. Hors du feu, parfumer de rhum.
+    Couper les pamplemousses en 2 et les évider sans abimer les coques.
+    Détailler la chair de pamplemousse en morceaux, les bananes en rondelles et les mirabelles en 2.
+    Mettre les fruits dans un saladier, les arroser de jus de citron puis du sirop parfumé au rhum.
+    Mélanger et répartir la salade dans les coques de pamplemousse.
+    Réserver au frais jusqu'au moment de servir.   
+  ]]>
+  </preparation>
+</recette>

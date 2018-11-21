@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22241">
+  <titre>Filet de poisson à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poisson</p>
+    <p>4 cuillères à soupe de crème</p>
+    <p>2 cuillères de moutarde</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Huiler un plat à four. 
+    Poser les filets dans de plat en les passant des deux côtés dans l'huile. 
+    Saler et poivrer. 
+    Mettre au four. 
+    Pendant ce temps dans une casserole faire chauffer la crème et la moutarde mélangées. 
+    A mi-cuisson arroser les filets avec le mélange crème moutarde.
+     Blanc
+  ]]>
+  </preparation>
+</recette>

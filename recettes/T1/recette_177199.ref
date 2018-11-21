@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="177199">
+  <titre>Filet de porc aux carottes et aux raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de porc</p>
+    <p>500 g de carottes</p>
+    <p>1 botte de petits oignons blancs</p>
+    <p>1 kg de raisin noir</p>
+    <p>2 cuillerées à soupe de cognac</p>
+    <p>15 cl de vin blanc</p>
+    <p>1 bouquet garni</p>
+    <p>2 échalotes</p>
+    <p>1 cuillerée à soupe d’huile</p>
+    <p>Sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et émincez les échalotes. Faites revenir le rôti dans une cocotte avec l’huile jusqu’à ce qu’il soit bien doré.Ajoutez les échalotes, laissez fondre 1 minute, mettez le bouquet garni, sel, poivre, muscade.
+    Mouillez avec le cognac et le vin. Couvrez la cocotte et laissez mijoter 2 heures à feu très doux en retournant la viande deux fois en cours de cuisson.Débitez les carottes en rondelles. Éliminez les racines et les tiges des oignons, ajoutez-les dans la cocotte 20 minutes avant la fin de la cuisson.Détaillez le raisin en petites grappes, mettez-le dans la cocotte 10 minutes avant la fin de la cuisson.
+  ]]>
+  </preparation>
+</recette>

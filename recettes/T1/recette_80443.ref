@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80443">
+  <titre>Bruschetta Suèdoise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pains suèdois </p>
+    <p>fromage de chèvre </p>
+    <p>1 petite courgette (ou 2 si le seul légume)</p>
+    <p>1 petite aubergine (facultatif)</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>herbes de Provence ou origan </p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°, thermostat 6-7.
+    Couper les légumes en petits dés, puis les mélanger dans un saladier avec l'huile d'olive.
+    Disposer des tranches de chèvre sur les pains suèdois puis mettre grossièrement les légumes dessus.
+    Mettre les herbes de Provence ou l'origan et poivrer.
+    Enfourner pendant 10 min; le fromage de chèvre doit être fondant et les légumes un peu colorés.
+    Peut se servir seul ou accompagné de salade.
+     Vin blanc
+  ]]>
+  </preparation>
+</recette>

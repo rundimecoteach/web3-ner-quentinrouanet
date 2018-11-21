@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62081">
+  <titre>Croissant Fourré</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 gros croissants</p>
+    <p>1 oeuf battu</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>sel et poivre</p>
+    <p>curry</p>
+    <p>8 tranches de lard fumé</p>
+    <p>quelques lamelles d'Emmental</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Fendre les 4 croissants en 2 et badigeonner l'intérieur de l'oeuf battu avec la crème. Saler, poivrer et saupoudrer de curry.
+    Glisser 2 tranches de lard fumé dans chaque croissant et quelques lamelles d'Emmental.
+    Faire dorer 8 minutes au four. Servir chaud.....
+    Acompagné d'une salade c'est délicieux !
+  ]]>
+  </preparation>
+</recette>

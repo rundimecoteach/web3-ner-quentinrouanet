@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54966">
+  <titre>Pommes de terre rôties à la cancoillotte</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de cancoillotte</p>
+    <p>1 kg de pommes de terre</p>
+    <p>5 petits oignons</p>
+    <p>250 g de lardons</p>
+    <p>10 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre, les couper en gros cubes, les rôtir de préférence dans une cocotte en fonte.
+    Pendant ce temps, éplucher les oignons et les émincer. Faire revenir les lardons et les oignons émincés. Déglacer avec le vin blanc. 
+    Rajouter le tout aux pommes de terre.
+    Pour finir, retirer du feu, mettre la cancoillotte sur le tout. Bien mélanger et servir.
+    Eviter de réchauffer. Vin blanc, Sauterne
+  ]]>
+  </preparation>
+</recette>

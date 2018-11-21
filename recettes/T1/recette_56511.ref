@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56511">
+  <titre>Délicieux gratin de courgettes aux moules (diététique)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de moules fraiches</p>
+    <p>4 belles courgettes</p>
+    <p>2 cuillères à café de beurre</p>
+    <p>1 échalote</p>
+    <p>1 cuillère à café de farine</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer le matin : cuire les courgettes en rondelles, 10 minutes dans un autocuiseur.
+    Laisser égoutter dans une passoire jusqu'au soir.
+    Faire fondre 1 cuillère à café de beurre, y faire revenir l'échalote ciselée.
+    Rajouter les moules (préalablement nettoyées) et les faire ouvrir (environ 3 minutes).
+    Décortiquer les moules, réserver ces moules au frigo, ainsi que le jus de cuisson.
+    Le soir : mettre les courgettes égouttées dans un plat à gratin avec les moules.
+    Réaliser un roux : faire fondre 1 cuillère à café de beurre, y ajouter 1 cuillère à café de farine, remuer.
+    Verser ensuite le jus de cuisson des moules dans la casserole et remuer jusqu'à épaississement.
+    Assaisonner.
+    Napper le gratin avec ce roux et rajouter un peu de gruyère râpé.
+    Passer au four (190°C, thermostat 6-7, 30 minutes environ).
+    C'est bon grâce au jus des moules ! ça fait toute la différence avec les autres gratins. Repas léger en calories, on peu faire plus consistant en rajoutant un peu de riz cuit dans le gratin.
+  ]]>
+  </preparation>
+</recette>

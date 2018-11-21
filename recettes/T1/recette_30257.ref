@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30257">
+  <titre>Farcis de blettes aux légumes et sauce tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de côtes de blettes</p>
+    <p>2 aubergines</p>
+    <p>6 tomates</p>
+    <p>2 oignons</p>
+    <p>6 cuillères d'huile d'olive</p>
+    <p>3 tranches de pain de mie rassis</p>
+    <p>2 brins de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Blanchir les feuilles de blettes à l'eau bouillante et réserver à part.
+     
+    Chauffer de l'huile dans deux poêles. Cuire les aubergines épluchées et coupées en dés dans l'une, les côtes de blettes émincées finement dans l'autre.
+    Faire un coulis de tomates avec des oignons revenus dans l'huile, l'ail haché, les tomates concassées, le thym, le laurier et le persil. Asssaisonner, laisser mijoter 20 minutes puis passer à la moulinette. 
+    Quand les aubergines et les blettes sont cuites, les mélanger et ajouter la mie de pain  émiettée. 
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Farcir les feuilles de bettes du mélange de légumes et les disposer dans un plat à four huilé.
+    Enfourner 15 minutes et servir nappé de sauce tomate.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56046">
+  <titre>Salade avocats - oeufs de lompe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>1 petite boîte d'oeufs de lompe noirs</p>
+    <p>2 à 3 tranches de saumon fumé</p>
+    <p>jus de citron</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirer la peau des avocats, les couper en morceaux et les arroser de jus de citron.
+    Ajouter le pot d'oeufs de lompe, le saumon coupé en lamelles.
+    Rectifier l'assaisonnement en jus de citron, saler, poivrer, ajouter un filet d'huile d'olive.
+    Préparer cette salade au dernier moment pour ne pas que les avocats noircissent.
+  ]]>
+  </preparation>
+</recette>

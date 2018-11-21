@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16767">
+  <titre>Soupe de semoule à l'ail</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 l d'eau</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>4 cuillères à soupe de semoule fine ou moyenne</p>
+    <p>1 tête d'ail</p>
+    <p>une poignée de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez en petits dés les gousses d'ail, en retirant les germes. 
+    Faites chauffer l'eau avec les cubes de bouillons de volaille.
+    Faites revenir l'ail à l'huile d'olives dans une grande casserole. Attention, l'ail ne doit pas brunir, mais devenir translucide.
+    Lorsque le bouillon arrive à ébullition, le verser sur l'ail en remuant. Ajouter la semoule et laisser cuire 5 minutes à feu moyen.
+    Pour servir : parsemez le fond des assiettes avec le râpé, puis recouvrez de soupe.
+    Pour plus de deux personnes, il devient fastidieux d'éplucher les têtes d'ail... je prends alors de l'ail émincé surgelé, c'est presque aussi bon.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28368">
+  <titre>Boudins blanc à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 boudins blanc</p>
+    <p>200 g de champignons de Paris</p>
+    <p>1 oignon</p>
+    <p>200 g d'olives vertes dénoyautées</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>1 demi-litre de vin blanc sec</p>
+    <p>sel poivre</p>
+    <p>thym</p>
+    <p>laurier</p>
+    <p>une pointe de piment de cayenne</p>
+    <p>1 cuillère d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon dans l'huile d'olive juste à peine colorée, puis les champignons. 
+    Pendant ce temps retirer la peau des boudins blanc pour éviter qu'ils éclatent. Ajoutez les boudins, faire revenir quelques instants, mettre le concentré de tomate, puis le vin blanc, bien délayer. Ajoutez les aromates et épices. 
+    Laissez cuire à feu doux pendant 45 mn tout en remuant de temps en temps pour éviter qu'ils attachent. 
+    On peut préparer ce plat la veille.
+     blanc sec 
+  ]]>
+  </preparation>
+</recette>

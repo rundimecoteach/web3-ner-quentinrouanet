@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24529">
+  <titre>Terrine d'asperge au beurre blanc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 bottes d'asperges (1 kg)</p>
+    <p>50 cl de crème fraîche</p>
+    <p>8 oeufs</p>
+    <p>4 tomates</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 cuillère à soupe de ciboulette ciselée</p>
+    <p>3 échalotes</p>
+    <p>15 cl de vin blanc</p>
+    <p>125 g de beurre froid</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les asperges 25 minutes dans une grande quantité d'eau bouillante salée. Egoutter sur un linge.
+    Préchauffer le four à 180°C (thermostat 6).
+    Mettre de côté la moitié des asperges. 
+    Couper l'autre moitié en dés et lui ajouter les oeufs battus, la crème fraîche et la ciboulette. Assaisonnez.
+    Verser le mélange dans un moule à cake. Faire cuire au bain-marie au four pendant 45 minutes. 
+    Pendant ce temps, couper les tomates en morceaux et les faire revenir avec l'ail haché dans l'huile. Ajouter le persil.
+    Démouler la terrine sur le plat de service, décorer des asperges réservées et des tomates. Servir avec la sauce au beurre blanc.
+    Pour la sauce : faire revenir les échalotes hachées dans le vin blanc.
+    Lorsque le vin est presque évaporé, ajouter progressivement le beurre froid coupé en dés au fouet. La sauce est prête lorsqu'elle est onctueuse.
+  ]]>
+  </preparation>
+</recette>

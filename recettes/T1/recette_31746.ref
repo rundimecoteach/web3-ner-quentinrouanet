@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31746">
+  <titre>Cari de poulet au cola</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 morceaux de poulet au choix</p>
+    <p>2 oignons rouges</p>
+    <p>4 gousses d'ail</p>
+    <p>1 pincée de gingembre</p>
+    <p>thym</p>
+    <p>safran ou curcuma</p>
+    <p>5 tomates pendelottes (ou autres) bien mûres</p>
+    <p>20 cl de boisson pétillante au cola</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien faire revenir les morceaux de poulet salé et poivré dans un peu d'huile jusqu'à ce qu'ils soient bien dorés.
+    Ajoutez d'abord les oignons jusqu'à ce qu'ils brunissent, puis l'ail,le gingembre, le thym et le safran. Laissez roussir et versez alors les tomates émincées pour détacher les sucs.
+    Lorsque les tomates ont bien fondues, arrosez avec le coca-cola. Laissez bouillir 5 minutes et réduisez ensuite à petit feu jusqu'à onctuosité de la sauce.
+    Servez avec du riz blanc, type basmati, et quelques rougails (chutney) épicés.
+    Convient avec tout type de viandes ou poissons, et même avec des oeufs durs écalés. Vin rouge de type Sidi Brahim
+  ]]>
+  </preparation>
+</recette>

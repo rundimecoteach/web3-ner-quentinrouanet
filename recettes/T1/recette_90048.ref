@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90048">
+  <titre>Terrine aux fraises, framboises et chocolat blanc</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>180 g de chocolat blanc pâtissier</p>
+    <p>2 feuilles de gélatine </p>
+    <p>10 cl de lait</p>
+    <p>250 g de fromage blanc battu</p>
+    <p>10 biscuits à la cuillère</p>
+    <p>150 g de fraises</p>
+    <p>100 g de framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat blanc cassé en morceaux avec 4 cuillères à soupe d'eau. 
+    Faire ramollir la gélatine dans un bol d'eau.
+    Faire chauffer le lait très chaud mais non bouillant et y ajouter la gélatine puis le fromage blanc.
+    Incorporer à la préparation précédente le chocolat fondu.
+    Tâpisser un moule à cake d'un papier film, y déposer les biscuits à la cuillère.
+    Verser dessus les fraises et les framboises, puis le mélange à base de chocolat blanc.
+    Placer la terrine au réfrigérateur au minimum 2h.
+     Champagne rosé.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16164">
+  <titre>Tarte au citron et sa pâte sablée au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte sablée au chocolat :</p>
+    <p>250 g de beurre</p>
+    <p>100 g de sucre </p>
+    <p>350 g de farine</p>
+    <p>40 g de chocolat</p>
+    <p>1 jaune d'oeuf</p>
+    <p>Pour la crème au citron :</p>
+    <p>200 g de sucre (dont 2-3 sachets de sucre vanillé ou quelques gouttes d'extrait de vanille)</p>
+    <p>4 oeufs</p>
+    <p>100 g de beurre ramolli</p>
+    <p>100 g de poudre d'amandes</p>
+    <p>le zeste d'un citron</p>
+    <p>le jus d'un citron (15-20 cl)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pâte sablée au chocolat : faire fondre le chocolat au bain-marie. Une fois qu'il est fondu, le mélanger au beurre sans trop le traviller. Faire une pâte avec le reste des ingrédients, puis mettre au frais.
+    Crème au citron : mélanger le sucre, les oeufs et l'extrait de vanille (ou les sachets de sucre vanillé). Battre au fouet pour bien faire mousser le mélange. Rajouter le beurre ramolli, puis les amandes en poudre, et enfin le zeste du citron.
+    Une fois que tout est bien mélangé, ajouter le jus de citron, et verser le tout sur la pâte sablée étalée.
+    Mettre au four, préchauffé 1/4 heure à l'avance, pendant 30-35 mn.
+    Servir froid.
+    PS: bien que le mélange crème au citron et pâte sablée au chocolat ne me semblait pas très 'heureux', je trouve ce mélange finalement très bon!!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59724">
+  <titre>Coquelets citron, menthe et noix de cajou</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 coquelets (fermiers)</p>
+    <p>1 gros citron ou 2 petits</p>
+    <p>1 botte de menthe fraîche</p>
+    <p>125 g de noix de cajou (au naturel ou salées)</p>
+    <p>2 gousses d'ail</p>
+    <p>6 petits oignons frais</p>
+    <p>sel et poivre</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>10 g de beurre</p>
+    <p>1 grosse cocotte</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Demandez au préalable à votre boucher de découper vos coquelets (en 2 ou en 4).
+    Faites fondre le mélange beurre huile à feu doux. Y mettre les morceaux de coquelets et les faire revenir à feu vif.
+    Pendant ce temps émincez très fin les oignons et l'ail, la moitié de la menthe et pressez le citron.
+    Une fois les coquelets bien dorés, retirez-les et réservez-les dans un plat.
+    A feu plus doux, faites fondre le mélange ail/oignons en décollant les sucs de la cocotte. 
+    Remettez les morceaux de coquelets, ajoutez les noix de cajou, la menthe hachée et le jus de citron. Salez et poivrez.
+    Faites mijoter à feu doux et à couvert pendant 1 heure (au besoin ajoutez un peu d'eau pendant la cuisson).
+    Rajoutez le reste de la menthe grossièrement ciselée en fin de cuisson.
+    Rectifiez l'assaisonnement selon votre goût.
+    Servez avec du riz et bon appétit !
+  ]]>
+  </preparation>
+</recette>

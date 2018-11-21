@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18512">
+  <titre>Soupe au Maredsous</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oignons</p>
+    <p>3 pommes de terre</p>
+    <p>3 bouillons cubes de boeuf</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez 1,5 l d'eau dans une casserole avec 3 oignons et 3 pommes de terre pelés et coupés en morceaux. Ajoutez 3 cubes de bouillon de boeuf et 1 petite boîte de concentré de tomate. 
+    Portez le mélange à ébullition. 
+    Incorporez-y 1 barquette de fromage fondu Maredsous et laissez mijoter le tout 30 mn à feu doux. 
+    Passez le potage au mixer, salez et poivrez
+  ]]>
+  </preparation>
+</recette>

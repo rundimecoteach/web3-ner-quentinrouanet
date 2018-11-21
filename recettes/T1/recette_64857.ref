@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64857">
+  <titre>Moelleux chocolat aux épices et amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de beurre</p>
+    <p>120 g de chocolat noir corsé</p>
+    <p>50 g de poudre d'amandes</p>
+    <p>80 g de sucre</p>
+    <p>15 cl de crème liquide</p>
+    <p>2 oeufs</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>cannelle</p>
+    <p>2 gousses de cardamome</p>
+    <p>vanille</p>
+    <p>pâte d'amandes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Faire fondre chocolat avec le beurre et la crème dans une casserole.
+    Ajouter les oeufs, la farine et le sucre battus ensemble.
+    Ajouter épices et amandes.
+    Beurrer un grand moule ou plusieurs petits, y verser la préparation et mettre au four pendant 10 min.Décorer avec de la pâte d'amandes. vin sucré ou pétillant
+  ]]>
+  </preparation>
+</recette>

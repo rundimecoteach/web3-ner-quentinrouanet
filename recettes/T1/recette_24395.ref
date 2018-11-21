@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24395">
+  <titre>Campanares (gâteaux de Pâques faits en Tunisie)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>400 g de sucre</p>
+    <p>2 sachets 1/2 de levure chimique</p>
+    <p>2 sachets de vanille</p>
+    <p>250 g de beurre fondu</p>
+    <p>4 oeufs</p>
+    <p>zestes d'un citron et d'une orange râpés</p>
+    <p>grains d'anis (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients. Avec cette pâte, faire de gros boudins, dans lesquels on pourra façonner des coeurs, des tresses ou même des ronds pleins. La tradition veut que l'on fixe à l'aide de deux morceaux de pâte en croix, un oeuf précuit sur le dessus et qu'on l'offre le jour de Pâques. Cuisson à 150°C (thermostat 5) pendant 15 à 20 min (à surveiller régulièrement car le dessous cuit vite).
+  ]]>
+  </preparation>
+</recette>

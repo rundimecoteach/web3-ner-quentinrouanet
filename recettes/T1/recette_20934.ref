@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20934">
+  <titre>Gratin de choux de Bruxelles façon boulangère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de choux de Bruxelles</p>
+    <p>75 g de lard fumé en tranches</p>
+    <p>50 g d'oignons</p>
+    <p>40 g de beurre</p>
+    <p>300 g de pommes de terre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).Nettoyer les choux, puis les mettre à cuire 10 min dans de l'eau bouillante.
+    Pendant ce temps, éplucher les pommes de terre, puis les mettre à cuire aussi dans de l'eau bouillante pendant 30 min environ selon la taille des pommes de terre.
+    Peler et émincer les oignons.
+    Dans une poêle beurrée, faire revenir les tranches de lard puis les retirer dès qu'elles ont bien doré afin d'y ajouter les oignons à colorer.
+    Egoutter les pommes de terre, les réduire en purée. Battre le jaune d'oeuf dans un saladier avec un peu de beurre, le sel, le poivre et la noix de muscade.
+    Dans un plat à gratin beurré, disposer la moitié des choux, puis les recouvrir des 2/3 de la préparation lard/oignons. Poser le reste des choux par-dessus, puis terminer par une couche de lard/oignons.
+    Entourer la préparation de purée de pommes de terre et enfourner à four chaud pendant 15 min environ pour faire gratiner.
+  ]]>
+  </preparation>
+</recette>

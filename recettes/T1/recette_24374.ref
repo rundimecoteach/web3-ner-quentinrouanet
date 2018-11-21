@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24374">
+  <titre>Charlotte fraise framboise</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>36 biscuits à la cuillère</p>
+    <p>33 cl d'eau</p>
+    <p>200 g de sucre semoule</p>
+    <p>3 cuillères à soupe de Cointreau</p>
+    <p>250 g de framboises</p>
+    <p>250 g de fraises</p>
+    <p>200 g de crème fraîche</p>
+    <p>40 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer un sirop léger en faisant bouillir le sucre et l'eau. Laisser tiédir et ajouter le Cointreau.
+    Tremper rapidement les biscuits dans le sirop et en tapisser le fond et les parois d'un moule à charlotte.
+    Déposer la moitié des framboises, recouvrir avec une couche de biscuits.
+    Couvrir avec la moitié des fraises, recouvrir avec une couche de biscuits.
+    Recommencer l'opération avec framboises et fraises, puis terminer par des biscuits.
+    Verser le reste de sirop, couvrir le moule avec une assiette et poser un poids dessus.
+    Réserver au réfrigérateur au moins 4 heures.
+    Peu avant de servir, fouetter la crème en chantilly avec le sucre.
+    Démouler la charlotte et décorer avec la crème fouettée.
+  ]]>
+  </preparation>
+</recette>

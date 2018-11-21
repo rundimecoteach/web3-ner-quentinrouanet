@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21162">
+  <titre>Spaghetti all 'Amatriciana</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de spaghetti</p>
+    <p>250 g de lardons fumés ou de la poitrine de porc fumée coupée en cubes</p>
+    <p>4 tomates fraîches ou une boîte 4/4 de tomates pelées au jus</p>
+    <p>1 gros oignon</p>
+    <p>4 cuilléres à soupe d’huile d’olive</p>
+    <p>1 piment oiseau ou 1 cuillère à café de piment de cayenne</p>
+    <p>1 feuille de laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher, épépiner les tomates, en faire une concassée. 
+    Dans une sauteuse faire revenir les lardons, l’oignon haché fin dans l’huile chaude, Quand les lardons sont dorés, rajouter les tomates, le piment et le laurier ; laisser mijoter le temps de la cuisson des pâtes. 
+    Faire cuire les spaghetti “al dente” dans l’eau bouillante salée, égoutter et verser dans la sauteuse. 
+    Bien mélanger et servir immédiatement. Selon le goût on peut rajouter du pécorino râpé.
+     Chianti ou Rosé de Provence
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30673">
+  <titre>Poulet coco citronnelle facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 cuisses(ou ailes) de poulet fermier</p>
+    <p>1 botte de citronnelle (ou à défaut, de la citronelle séchée)</p>
+    <p>40 cl de lait de coco</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à soupe d'huile de Tournesol</p>
+    <p>2 piments 'langues d'oiseaux' séchés (piments pili pili)</p>
+    <p>1 pincée de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les cuisses de poulet dans l'huile chaude dans un fait tout jusqu'à ce qu'elles soient dorées. Ajouter la citronnelle et laisser cuire 5 min à feu moyen. Salez et poivrez.
+    Ajouter le lait de coco et le piment, laisser mijoter à feu doux jusqu'à ce que les cuisses soit bien cuites. En fin de cuisson, ajouter la noix de muscade.
+    Servir chaud.
+    Ce poulet est particulièrement délicieux avec du riz légèrement parfumé à la coco ou l'ananas, ou avec des bananes plantain frites, pour le côté exotique ! Attention si vous n'aimez pas les plats épicés, ne mettez qu'un piment.
+  ]]>
+  </preparation>
+</recette>

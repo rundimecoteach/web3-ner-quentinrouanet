@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65048">
+  <titre>Raïta tomate-concombre-poivron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 yaourts natures</p>
+    <p>4 tomates</p>
+    <p>1 concombre</p>
+    <p>1 poivron</p>
+    <p>fruits secs, au choix (contentez vous d'un seul pour ne pas que la raïta soit trop sucrée) : raisins, pruneaux coupés en morceaux, abricots en morceaux, etc.</p>
+    <p>graines de courge</p>
+    <p>graines de tournesol</p>
+    <p>coriandre, paprika</p>
+    <p>basilic, thym, menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper tous les légumes en petits dés.
+    Les verser dans un récipient puis ajouter les fruits secs et les graines.
+    Ajouter les yaourts et mélanger.
+    Saupoudrer de vos herbes et épices préférés... C'est prêt!
+    N.B.: Vous pouvez mettre la raïta quelque temps au réfrigérateur, elle n'en sera que meilleure!
+    Tartiner sur des grandes tranches de pain frais. C'est parfait en apéritif ou pour un pique-nique!C'est une recette basique que chacun peut modifier selon ses goûts ou son humeur :-) vin blanc fruité
+  ]]>
+  </preparation>
+</recette>

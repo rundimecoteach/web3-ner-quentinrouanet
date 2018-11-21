@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169068">
+  <titre>Verrines saumon/fromage</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de saumon</p>
+    <p>6 portions de fromage (genre tartare)</p>
+    <p>le jus d'un demi-citron</p>
+    <p>ciboulette</p>
+    <p>sel/poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper finement les tranches de saumon. 
+    Arroser du jus de citron. Ajouter la ciboulette hachée et saler et poivrer très légèrement. Écraser le fromage.
+    Diposer dans les verrines en alternant plusieurs couches saumon/fromage.
+    Décorer d'une tranche de citron.Servir très frais.
+  ]]>
+  </preparation>
+</recette>

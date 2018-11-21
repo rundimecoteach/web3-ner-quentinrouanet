@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92965">
+  <titre>Roussette à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 roussette de 1kg</p>
+    <p>1 cube de court bouillon</p>
+    <p>1 bouquet garni</p>
+    <p>50 g de concentré de tomates</p>
+    <p>400 g de tomates pelées</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>40 g de beurre</p>
+    <p>1 cuillère soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>1 pincée de piment</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites un court-bouillon en mélangeant un cube de bouillon, poivre, sel, 1 bouquet garni, une pointe de piment doux. Portez à ébullition puis laissez refroidir.
+    Ensuite, remettez le feu sous le court-bouillon et une fois celui ci frémissant, déposez-y la roussette entière. Faites cuire de 10 min au maximum (ceci évidemment en fonction du poids du poisson).
+    Pendant ce temps, faites blondir deux oignons, une gousse d'ail (épluchés et émincés) dans 40 g de matière grasse et l'huile d'olive. Ensuite, ajoutez le concentré de tomates et les tomates pelées. Salez, poivrez.
+    Retirez le poisson du court-bouillon. Posez-le dans la sauce à base de tomates pendant 5 min.
+    Servez avec du riz sauvage ou des pommes vapeurs par exemple.
+    On peut rajouter des champignons dans la sauce tomate. Cabernet-Sauvignon
+  ]]>
+  </preparation>
+</recette>

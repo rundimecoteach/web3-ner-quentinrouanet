@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59006">
+  <titre>Palets de chocolat au papier bulle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de chocolat</p>
+    <p>50 g de beurre </p>
+    <p>2 cuillères à soupe d'eau</p>
+    <p>1 feuille de "papier bulle" d'emballage</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez soigneusement le "papier bulle" et faites-le sécher.
+    Faites fondre le chocolat ainsi que l'eau et le beurre au bain-marie.
+    Lorsqu'il est bien fondu, fouettez-le vivement pour obtenir un chocolat lisse.
+    Versez environ 1 cuillère à soupe de chocolat sur le papier et étalez-le dans les formes que vous voulez et recommencez pour faire environ 10 palets.
+    Faites durcir pendant 1 heure au réfrigérateur.
+    Juste avant de servir, retournez le papier sur un plat et pressez doucement dessus pour les décoller.
+  ]]>
+  </preparation>
+</recette>

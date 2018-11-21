@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58458">
+  <titre>Soupe glacée à la pastèque et à la framboise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de chair de pastèque</p>
+    <p>150 g de framboises</p>
+    <p>2 cuillères à soupe d'eau de rose</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez de côté quelques framboises pour la décoration.
+    Epluchez et coupez la pastèque en gros cubes, en ôtant les pépins.
+    Mixez les framboises avec la pastèque et l'eau de rose. Entreposez 1 heure au réfrigérateur.
+    Versez la soupe bien fraîche dans des coupes individuelles et décorez de quelques framboises !
+    Choisissez une pastèque bien lourde (juillet à septembre).Ce dessert est idéal en été.
+  ]]>
+  </preparation>
+</recette>

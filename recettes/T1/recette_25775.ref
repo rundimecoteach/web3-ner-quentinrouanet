@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25775">
+  <titre>Gosette (chausson) aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 disque de pâte feuilletée</p>
+    <p>3 pommes</p>
+    <p>sucre fin</p>
+    <p>1 jaune d'oeuf</p>
+    <p>un peu d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C. 
+    Epluchez les pommes et coupez-les en morceaux. 
+    Les mettre dans une casserole avec le sucre et faire cuire jusqu'à l'obtention d'une compote. 
+    Coupez le disque de pâte feuilletée en 4 . Piquez avec une fourchette. 
+    Enduire les bords avec un peu d'eau. 
+    Mettre la compote au milieu de la pâte et la refermer pour former un chausson. 
+    Dorez le chausson avec du jaune d'oeuf. 
+    Enfourner et cuire pendant +/- 20 mn à four chaud (ce doit être bien doré). 
+    Laissez refroidir sur une grille.
+    Cette compote peut se faire avec toutes les pommes.  Il faut seulement adapter la quantité de sucre.
+    En Belgique, on fait également des gosettes avec des cerises et des abricots.
+  ]]>
+  </preparation>
+</recette>

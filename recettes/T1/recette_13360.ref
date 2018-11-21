@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13360">
+  <titre>Gâteau aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 oeufs</p>
+    <p>100 g de beurre</p>
+    <p>250 g de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>le jus et le zeste d'un citron</p>
+    <p>300 g de farine</p>
+    <p>2 cuillères à café de poudre à lever</p>
+    <p>3 pommes</p>
+    <p>2 cuillères à soupe de confiture d'abricot</p>
+    <p>sucre glace pour saupoudrer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les jaunes d'oeufs, le sucre, le sel, le zeste et le jus de citron en une masse mousseuse.
+    Incorporer la farine, la poudre à lever, puis les blancs d'oeufs battus en neige ferme.
+    Mettre 2/3 de la pâte dans un moule démontable bien graissé et fariné, lisser la surface et y déposer la moitié des pommes coupées en tranches.
+    Couvrir avec le reste de pâte et y déposer le reste des pommes coupées en tranches.
+    Cuire au four à 220°C pendant 45 minutes environ.
+    Laisser refroidir, badigeonner les tranches de pommes avec la confiture d'abricot et saupoudrer de sucre glace.
+  ]]>
+  </preparation>
+</recette>

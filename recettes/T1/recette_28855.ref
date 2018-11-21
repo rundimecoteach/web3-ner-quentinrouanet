@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28855">
+  <titre>Brioches fourrées aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 brioches non sucrées</p>
+    <p>80 g de beurre</p>
+    <p>130 g de queues de crevettes grises décortiquées</p>
+    <p>2 échalotes</p>
+    <p>4 cl de calvados</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>10 cl de lait</p>
+    <p>80 g de crème fraîche</p>
+    <p>8 crevettes roses</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C (thermostat 5).
+    Trancher le chapeau des brioches et le réserver.
+    Les vider en leur ôtant une partie de la mie, à l’aide d’une petite cuillère et la jeter (ou la manger !).
+    Tartiner l’intérieur des brioches de beurre, puis les faire dorer à four chaud et doux pendant environ 10-15 minutes.
+    Pendant ce temps, préparer la farce :
+    Déposer dans le bol d’un mixeur 40 g de queues de crevettes grises décortiquées avec 40 g de beurre, puis hacher le tout et le réserver au frais.
+    Peler et hacher ensuite les échalotes puis les mettre à fondre dans une sauteuse avec le reste de beurre.
+    Ajouter ensuite le reste des queues de crevettes, puis laisser cuire 3 minutes sur feu vif.
+    Arroser enfin de calvados, puis flamber.
+    Saupoudrer de farine, puis remuer avec une cuillère en bois jusqu’à ce que la préparation mousse et mouiller de lait chaud.
+    Incorporer enfin la crème puis bien mélanger pour lier la préparation.
+    Laisser mijoter 10 minutes en remuant régulièrement, puis incorporer le beurre de crevettes, du sel et du poivre.
+    Farcir les brioches, puis les recouvrir de leur chapeau et les placer 10 minutes au four sur la position gril, pour les faire dorer.
+    Servir avec le bouquet de crevettes roses et déguster immédiatement.
+  ]]>
+  </preparation>
+</recette>

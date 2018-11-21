@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73798">
+  <titre>Gratin de thon au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de sauce aux tomates fraîches (190 g)</p>
+    <p>1 boîte de thon (140 g)</p>
+    <p>125 g de riz</p>
+    <p>20 g de farine</p>
+    <p>2 tranches de mie de pain</p>
+    <p>1 sachet de fromage râpé</p>
+    <p>35 g de beurre fondu</p>
+    <p>25 cl de lait</p>
+    <p>1 oeuf battu</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez la farine avec le beurre fondu, laissez chauffer sans prendre couleur, puis mouillez avec le lait.
+    Laissez cuire 5 min et ajoutez ensuite 1 oeuf battu.
+    Versez le contenu des boîtes de sauce tomate et de thon émietté, salez et poivrez.
+    Dans un plat à gratin beurré, alternez les couches de riz cuit à l'eau et de thon en sauce.
+    Parsemez le dessus du plat de mie de pain, de fromage râpé et de parcelles de beurre et faire cuire 10 min à 180°, thermostat 6.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47675">
+  <titre>Quiche aux fruits</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>2 pommes</p>
+    <p>2 poires</p>
+    <p>2 bananes</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>3 cuillère à soupe de crême fraîche</p>
+    <p>30 g d'amandes en poudre</p>
+    <p>1 cuillère à soupe de raisins secs</p>
+    <p>3 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>2 feuilles de cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Installez la pâte brisée dans un moule à tarte simple sur une feuille de cuisson puis piquez la pâte à l'aide d'une fourchette.
+    Epluchez les pommes, les poires et les bananes puis coupez-les en petits morceaux.
+    Disposez les fruits dans une poêle sur une feuille de cuisson, faites dorer.
+    Disposez les fruits sur la pâte brisée.
+    Dans un saladier, mélanger les oeufs, le sucre, les raisins,l'amande en poudre, la crème fraîche et le lait.
+    Versez la préparation sur les fruits.
+    Faites cuire 30 minutes, au four à 180°C (thermostat 6).
+    Laissez refroidir. Et voila! Dégustez!
+    A la cuisson des fruits dans la poêle, ceux-ci peuvent être flambés au rhum à l'aide d'uine cuillère à soupe de sucre et de rhum bien sûr..
+    Aucun temps de préchauffage pour le four. Vin blanc
+  ]]>
+  </preparation>
+</recette>

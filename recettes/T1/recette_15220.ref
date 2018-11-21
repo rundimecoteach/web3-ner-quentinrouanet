@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15220">
+  <titre>Croûtes aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 barquettes de fraises (de saison!)</p>
+    <p>4 tranches de pain de mie</p>
+    <p>2 dl de lait</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe d'essence de fleur d'oranger </p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe de miel de lavande</p>
+    <p>un peu de cannelle</p>
+    <p>4 feuilles de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, équeuter et émincer les fraises et les faire doucement revenir à feu doux avec le sucre et la fleur d'oranger jusqu'à ce que le mélange soit sirupeux et homogène (env 10 mn).
+    Pendant ce temps, préparer le pain perdu : couper les tranche de pain en deux pour faire des triangles. Faire fondre le beurre dans une poêle.
+    Tremper le pain dans le lait mélangé au miel, puis dans l'oeuf, puis déposer dans la poêle à feu vif jusqu'à ce qu'il devienne doré et croustillant.
+    Saupoudrer légérement de sucre et de cannelle et napper de fraises chaudes, décorer d'une feuille de menthe et déguster!...
+     Monbazillac
+  ]]>
+  </preparation>
+</recette>

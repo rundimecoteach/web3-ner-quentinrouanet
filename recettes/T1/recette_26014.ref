@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26014">
+  <titre>Velouté de potiron aux poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de potiron</p>
+    <p>3 blancs de poireaux</p>
+    <p>5 gousses d'ail</p>
+    <p>50 g de beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et éplucher les poireaux.
+    Les émincer finement.
+    Eplucher et couper le potiron en morceaux.
+    Faire fondre le beurre dans une cocotte, y mettre les poireaux et laisser suer à feu doux.
+    Rajouter le potiron et les gousses d'ail, verser 1,5 à 2 l d'eau. Saler et porter à ébullition.
+    Baisser le feu et laisser cuire 30 min.
+    Mixer la soupe et la servir avec de la crème fraîche.
+  ]]>
+  </preparation>
+</recette>

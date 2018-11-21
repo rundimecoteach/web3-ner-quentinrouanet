@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25483">
+  <titre>Pâtés chauds au lapin</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pâte feuilletée</p>
+    <p>600 g de lapin</p>
+    <p>foie du lapin</p>
+    <p>100 g de lard</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de Cognac</p>
+    <p>2 gousses d'ail hâchées</p>
+    <p>2 petits oignons</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>sel, poivre</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réserver quelques tranches de lapin et hacher le reste de la chair ainsi que le foie et le lard.
+    Faire une marinade avec le vin, le cognac, l'ail, l'oignon, du sel et du poivre. Plonger le hachis dans cette
+    préparation pendant 2 h environ.
+    Préchauffer le four à 210°C (thermostat 7).
+    Dans votre pâte feuilletée, couper 12 petits ronds de 2 cm plus grands que les moules à tartelettes à garnir.
+    Remplir les moules de farces en placant les tranches de lapin au milieu. Recouvrir de pâte en fixant les bords
+    et dorer avec le jaune de l'oeuf.
+    Enfourner pour 40 min de cuisson, démouler les pâtés et les servir chaud. 
+  ]]>
+  </preparation>
+</recette>

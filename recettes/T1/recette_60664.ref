@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60664">
+  <titre>Florentins (baisers aux fruits)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>35 g de beurre</p>
+    <p>40 g de sucre en poudre</p>
+    <p>15 g de farine</p>
+    <p>25 g d'amandes effilées</p>
+    <p>60  de fruits confits en dés mélangés</p>
+    <p>20 cl de crème fleurette</p>
+    <p>1 cuillère à café de liqueur d'orange ou autre</p>
+    <p>25 g de fraises ou framboises ou dès de pêches pelées</p>
+    <p>sucre glace à saupoudrer</p>
+    <p>coulis de fruits rouges prêt à l'emploi</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour les florentins :
+    Préchauffer le four à 180°C (thermostat 6). Sur une plaque à pâtisserie recouverte de papier sulfurisé, disposer 6 cercles métalliques sans fond prélablement beurrés.
+    (J'en utilise 2 vrais - diamètre 6 cm, hauteur 7 cm - et des ramequins alu dont je coupe le fond pour les 4 autres)
+    Faire fondre beure et sucre dans une casserole, ajouter farine, amandes, fruits confits et 2 cuillères à soupe de crème.
+    Verser ce mélange dans les moules en couche fine (pour obtenir un biscuit plat) et faire cuire 10 minutes au four. Les biscuits sont dorés, les laisser refroidir et en broyer deux.
+    Fouetter la crème ferme, mais pas trop, incorporer les miettes des 2 biscuits, la liqueur si besoin, et les fruits en morceaux.
+    Sur une assiette poser 1 biscuit (les deux cercles métalliques sont à ce stade utiles), le cercle métallique dessus et remplir du mélange crème/fruits/biscuit, démouler et poser le second biscuit dessus.
+    Verser un peu de coulis autour, saupoudrer de sucre glace et décorer de quelques morceaux de fruits.
+    Une variante des florentins classiques, idéal pour repas en amoureux, du plus grand effet !
+  ]]>
+  </preparation>
+</recette>

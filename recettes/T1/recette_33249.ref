@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33249">
+  <titre>Salade lentilles, pois chiches, thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de lentilles vertes</p>
+    <p>1 petite boîte de pois chiches</p>
+    <p>2 boîtes de thon albacore au naturel</p>
+    <p>une carotte</p>
+    <p>2 oignons</p>
+    <p>vinaigrette très moutardée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les lentilles avec la carotte coupée en rondelles et les oignons émincés pendant 25 à 35 mn. 
+    Pendant ce temps mélanger les boîtes de thon avec les pois chiches dans un saladier. 
+    Préparer la vinaigrette assez relevée. 
+    Egoutter les lentilles et mélanger au thon et aux pois chiches. 
+    Ajouter la vinaigrette. 
+    Servir froid ou tiède.
+    Encore meilleur le lendemain, s'il en reste ! Extra pour emmener au boulot le midi comme plat principal.
+  ]]>
+  </preparation>
+</recette>

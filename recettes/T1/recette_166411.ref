@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166411">
+  <titre>Muffins au Reblochon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 Reblochon de Savoie</p>
+    <p>200 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>4 œufs entiers</p>
+    <p>2 yaourts nature</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1- Préparer la pâte à muffins en mélangeant, dans l'ordre : farine + levure + sel & poivre + 4 œufs + 2 yaourts + l'huile.                                           2- Obtenir une pâte bien homogène.                                                                     3- Remplir les moules à muffins au 2/3.                                                      4- Introduire dans la pâte de chaque muffin un gros cube de Reblochon.                                                                                                                         5- Cuire 20 à 25 minutes à 180°C.
+  ]]>
+  </preparation>
+</recette>

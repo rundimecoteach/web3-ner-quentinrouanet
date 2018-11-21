@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21116">
+  <titre>Crème de champignons aux croûtons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de champignons</p>
+    <p>20 g de beurre</p>
+    <p>1/2 citron</p>
+    <p>10 cl d’eau</p>
+    <p>40 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>1 verre de vin blanc</p>
+    <p>1 bouquet garni</p>
+    <p>1 gousse d'ail</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 baguette de pain rassis</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer, laver les champignons dans plusieurs bains d'eau vinaigrée et les détailler en morceaux.
+    Les faire ensuite revenir dans une casserole avec 10 cl d'eau, le jus de citrons, le beurre et le sel, à couvert à feu vif pendant 5 min. Les égoutter et réserver.
+    Dans une autre casserole, préparer un roux blond en mélangeant le beurre et la farine.
+    Mouiller ensuite avec le jus de cuisson des champignons, le verre de vin blanc et un peu de bouillon. Incorporer le bouquet garni, l'ail haché, le sel et le poivre pour assaisonner.
+    Une fois le roux prêt, l'incorporer aux champignons et laisser cuire 45 min à 1 h à couvert à feu doux.
+    Découper la baguette en rondelles, d'1 cm environ d'épaisseur, les faire dorer à la poêle avec un peu de beurre.
+    Ajouter le jaune d'oeuf aux champignons pour lier le tout, rectifier l’assaisonnement, puis verser les champignons dans un plat creux chaud. Entourer des croûtons de pain et servir.
+  ]]>
+  </preparation>
+</recette>

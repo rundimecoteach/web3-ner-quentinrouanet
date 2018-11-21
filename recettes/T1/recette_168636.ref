@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168636">
+  <titre>Semoule de millet au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>110 g de semoule de millet</p>
+    <p>2 cuillères à soupe de sucre semoule</p>
+    <p>4 cuillères à soupes de chocolat en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Faire bouillir le lait dans une casserole.
+    Ajouter la semoule, le sucre et le chocolat.
+    Cuire pendant 15-20 minutes, à feu moyen, en surveillant et mélangeant régulièrement (comme un riz au lait)Ce dessert peu connu est d'origine vendéenne.  Il se mange nature, au rhum et fruits confits, à la vanille, au caramel, à la fleur d'oranger...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13116">
+  <titre>Brewatte (Maroc)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg d'amandes </p>
+    <p>1 kg de pâte fine(warka) </p>
+    <p>2kg de sucre </p>
+    <p>1,5 litre d'huile</p>
+    <p>une cuillère à soupe d'eau de fleur d'oranger</p>
+    <p>125 g de beurre</p>
+    <p>miel (plutôt liquide)</p>
+    <p>sésame (selon le goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    On fait bouillir les amandes dans l'eau pendant 30 mn.
+    Après avoir enlevé la couche marron, les faire passer dans l'huile chaude et laisser refroidir. Une fois froides, les passer au mixer.
+    Faire fondre le beurre et ajouter les amandes ainsi hâchées, plus le sucre selon le goût.
+    Mélanger le tout en ajoutant une cuillère à soupe d'eau de fleur d'oranger.
+    Etaler la pâte et la couper en longueur (la largeur doit être de 10 cm).
+    Etendre le mélange au bout de la ligne et replier une fois à gauche, puis une fois à droite, jusqu'au bout, que l'on scelle avec le jaune d'oeuf.
+    Chauffer l'huile dans une casserole de preference et faire frire le brewatte jusqu'à ce qu'il prenne une couleur marron.
+    Dès la sortie de l'huile, le mettre directement dans le miel et ajouter les graines de sésame.
+  ]]>
+  </preparation>
+</recette>

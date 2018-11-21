@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54199">
+  <titre>Potage aurore</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de carottes</p>
+    <p>2 pommes de terre</p>
+    <p>1 cuillerée à dessert de concentré de tomates</p>
+    <p>cerfeuil</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les carottes et les pommes de terre en dés.
+    Faites cuire 25 minutes dans 125 cl d'eau salée.
+    Passez au mixer.
+    Ajouter le concentré de tomates.
+    Faites chauffer 2 minutes.
+    Servez chaud parsemé de cerfeuil.
+  ]]>
+  </preparation>
+</recette>

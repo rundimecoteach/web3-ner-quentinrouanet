@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42849">
+  <titre>Velouté de panais et de courgettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros panais ou 2 petits</p>
+    <p>1 courgette</p>
+    <p>3 pommes de terre</p>
+    <p>1 oignon</p>
+    <p>lait ou crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Gratter le panais, et le couper en morceaux.
+    Peler les pommes de terre, la courgette, et l'oignon. Les découper en morceaux.
+    Faire rissoler dans la casserole 5 min, tous les légumes. Puis couvrir d'eau.
+    Laisser cuire à feu moyen, pendant 30 minutes.
+    Réduire au mixer, afin d'obtenir un velouté. 
+    Le panais donne une consistance assez épaisse à cette soupe, vous pouvez donc la délayer avec du lait... Cependant, le goût du panais étant assez subtil, bien veiller à ne pas trop diluer ce velouté.
+    Vous pouvez l'assaisonner, au choix, avec de la muscade, du cumin, du curry doux, ou de la coriandre...
+    C'est une très bonne manière de cuisiner le panais, en l'associant à la courgette qui adoucit et donne du goût. Selon les préférences, on peut augmenter le nombre de panais ou de courgettes, afin de valoriser le goût de l'un ou l'autre légume.
+  ]]>
+  </preparation>
+</recette>

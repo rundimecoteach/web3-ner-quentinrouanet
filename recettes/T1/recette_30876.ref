@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30876">
+  <titre>Courgettes en terrine</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de courgettes</p>
+    <p>2 oignons</p>
+    <p>130 g de mie de pain sèche</p>
+    <p>4 oeufs</p>
+    <p>1 bouquet de basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et trancher finement les courgettes et l'oignon.
+    Cuire les légumes sans les colorer sur feu doux à la poêle dans un peu d'huile d'olive pendant 20 min.Réduire la chair des légumes en purée à l'aide d'une fourchette.Réduire en une sorte de bouillie la mie de pain imbibée de lait et la passer au mixer.
+    Dans un bol, mélanger les oeufs et le basilic. Assaisonner.
+    Ajouter la mie de pain mixée, les légumes écrasés.
+    Graisser un moule à terrine, y déposer la préparation et mettre au four pour 1 h 30 à 150°C (thermostat 5).Après refroidissement, entreposer au réfrigérateur.
+    Après une nuit de repos, démouler la terrine et parsemer de feuilles de basilic.
+    Servir avec une fondue de tomates.
+  ]]>
+  </preparation>
+</recette>

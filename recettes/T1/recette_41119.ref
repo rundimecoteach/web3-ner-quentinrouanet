@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41119">
+  <titre>Tomates au Saint-Félicien</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 grosses tomates bien fermes</p>
+    <p>2 Saint-Félicien (fromage)</p>
+    <p>huile d'olive</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, sécher, et évider les tomates. Attention en les évidant, de ne pas "percer" les tomates!!!
+    Réserver la pulpe des tomates. 
+    Disposer les tomates dans un plat allant au four.
+    Mettre une 1/2 cuillère à café d'huile d'olive, au fond de chaque tomate.
+    Couper les Saint-Félicien en morceaux, et en garnir les tomates. 
+    La quantité dépend de la grosseur des tomates et de votre gourmandise... 
+    Verser un petit peu d'huile d'olive sur les tomates ainsi farcies, ainsi qu'un soupçon de sel et de poivre. Ajouter les herbes de Provence.
+    Pour donner un peu de jus à la préparation, verser la pulpe des tomates dans le plat, avec un peu d'huile d'olive.
+    Mettre à cuire à four chaud (200°C, therm.7) pendant 20 à 30 min (en fonction de la grosseur des tomates).
+    Servir avec une timbale de riz.
+    Recette appréciée aussi, avec un Saint-Marcellin bien fait!
+  ]]>
+  </preparation>
+</recette>

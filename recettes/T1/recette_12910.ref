@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12910">
+  <titre>Rien que pour vos yeux (spécial Halloween)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grappe de raisin blanc</p>
+    <p>4 cuillères à soupe de raisins secs</p>
+    <p>chantilly</p>
+    <p>1/2 orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ustensiles : petites piques en bois (spécial apéritif) Placer chaque grain de raisin sur une pique de manière à ce qu'1/8  en dépasse. Utiliser cette extrémité pour y placer un raisin sec.
+    Avec le dos d'une cuillère, couvrir les 2/3 des raisins de Chantilly de manière à faire le "blanc" des yeux.
+    Servir les piques plantées dans une demi-orange.
+  ]]>
+  </preparation>
+</recette>

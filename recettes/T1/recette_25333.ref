@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25333">
+  <titre>Welsch du Nord</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 g de beurre</p>
+    <p>25 cl de bière blonde ou ambrée</p>
+    <p>800 g de cheddar</p>
+    <p>50 g de gruyère râpé</p>
+    <p>2 tranches de jambon blanc</p>
+    <p>2 pincée de noix de muscade</p>
+    <p>4 œufs</p>
+    <p>4 tranches de pain de campagne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer le pain dans une poêle avec un peu de beurre. 
+    Mettre le cheddar en petits cubes dans une sauteuse, ajoutez la bière et la muscade et laissez fondre, puis, ajouter les oeufs battus hors du feu.
+    Dans un plat à gratin, déposez le jambon sur le pain, et versez la préparation sur l'ensemble. 
+    Mettre du gruyère râpé pour gratiner le plat. 
+    Mettre au four 3 min environ en position gril.
+    Possibilité de rajouter un oeuf dessus. A servir avec des frites et de la salade. bière blonde ou ambrée
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45691">
+  <titre>Lapin tout simple à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 cuillères à soupe de crème fra^che</p>
+    <p>2 cuillères à soupe de moutarde forte</p>
+    <p>2 verres de bouillon de viande préparé avec 2 tablettes à dissoudre</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir le lapin découpé, dans une cocotte avec du beurre fondu.
+    Pendant ce temps, mélangez la farine, la moutarde et la crème puis mouillez petit à petit avec le bouillon. 
+    Une fois le lapin doré de toutes parts, mouillez-le avec le mélange ainsi préparé. Ne surtout pas assaisonnez de sel, ni de poivre!
+    Laissez mijoter 2 petites heures.
+    Servir avec des pommes de terre vapeur ou des grosses pâtes.
+    C'est vite fait, facile et excellent! Un vin blanc pas trop sec
+  ]]>
+  </preparation>
+</recette>

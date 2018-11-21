@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23442">
+  <titre>Carpaccio de crudités</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros pot de guacamole</p>
+    <p>3 tomates</p>
+    <p>5 gros champignons de Paris</p>
+    <p>2 petits oignons blancs nouveaux</p>
+    <p>1/3 de concombre</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>purée de piments (quantité selon les goûts)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le concombre, les champignons et les oignons en petits dés. Épépiner et couper les tomates en dés. Mettre le tout dans un saladier. Ajouter le guacamole.Mélanger en ajoutant de la purée de piments (quantité suivant les goûts), le sel et le poivre. Mettre au frais. Au moment de servir, disposer la préparation en timbale sur l'assiette. Vous pouvez enrichir cette entrée en disposant des morceaux de saumon fumé en étoile. Rosé sec
+  ]]>
+  </preparation>
+</recette>

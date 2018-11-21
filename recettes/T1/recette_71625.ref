@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71625">
+  <titre>Régal savoyard</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte sablée :</p>
+    <p>250 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>125 g de beurre</p>
+    <p>1 œuf</p>
+    <p>sel</p>
+    <p>Pour la garniture :</p>
+    <p>pot de confiture de framboise (350 g environ)Pour la génoise aux noisettes :</p>
+    <p>100 g de noisettes moulues</p>
+    <p>4 œufs</p>
+    <p>80 g de fécule ou 60 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1.Etaler la pâte dans un moule à tarte et précuire 10 min à four chaud (180°, thermostat 6).
+    2. Pendant ce temps, préparer la génoise aux noisettes :
+    battre les jaunes et le sucre en une masse onctueuse,
+    ajouter les blancs montés en neige, les noisettes moulues et la fécule,
+    mélanger délicatement.
+    3.Sortir la pâte du four (elle doit être un peu sèche) et étaler la confiture de framboises. Ajouter dessus la génoise aux noisettes.
+    4.Remettre au four 20 à 25 minutes selon la chaleur.
+    Vérifier la cuisson en plantant un couteau dans la génoise.
+    Le tout doit être bien doré.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25382">
+  <titre>Crumble au potiron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de potiron</p>
+    <p>une boîte de lait concentré (+/- 400 ml) </p>
+    <p>3 oeufs</p>
+    <p>175 g de sucre</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>sel</p>
+    <p>Pour le crumble:</p>
+    <p>100 g de sucre</p>
+    <p>120 g de farine</p>
+    <p>75 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le potiron en dés, le faire compoter dans une casserole avec 100 g de sucre pendant environ 15 mn. 
+    En attendant, préparer le crumble : malaxer du bout des doigts tous les ingrédients jusqu'à obtenir une consistance sableuse. 
+    Préchauffer le four à 180°C. 
+    Egoutter le potiron cuit. 
+    Dans un plat à gratin, verser le potiron, le lait concentré, les oeufs battus en omelette, le reste de sucre (75 g), la cannelle et une pincée de sel. Mélanger bien et étaler la préparation dans le plat. 
+    Recouvrir le potiron du crumble et enfourner immédiatement la préparation pendant 40 mn.
+    - Vous pouvez ajouter quelques spéculoos émiettés dans le crumble. Dans ce cas, mettez un peu moins de cannelle.
+    La préparation au potiron étant fort liquide, le crumble va très vite se mouiller et donner un aspect "caramel" et moins croustillant. Pour éviter ça, vous pouvez cuire quelques minutes la préparation au four (pour que les oeufs prennent) et ajouter ensuite le crumble en poursuivant la cuisson pendant au moins 1/2 heure)
+  ]]>
+  </preparation>
+</recette>

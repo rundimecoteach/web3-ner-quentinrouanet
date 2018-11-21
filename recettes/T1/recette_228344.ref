@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228344">
+  <titre>Pizza Valentina ( Pistou - Roquette - Parme - Mozzarella)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>3 cuillères à soupe de pistou</p>
+    <p>2 cuillères à soupe de double concentré de tomates</p>
+    <p>2 tomates</p>
+    <p>1 boule de mozzarella</p>
+    <p>2 poignées de roquette</p>
+    <p>3 tranches de jambon de Parme</p>
+    <p>parmesan en copeaux</p>
+    <p>2 échalotes (en option)</p>
+    <p>Poivre</p>
+    <p>Herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte.
+    La recouvrir d'une fine couche de pesto et de concentré de tomates.
+    Garnir de deux belles tomates, de la mozzarella et de l'échalote ciselée (selon les goûts)
+    Poivrer et ajouter des herbes de Provence.
+    Passer au four jusqu'à obtention d'une pâte dorée.
+    Ajouter le jambon de Parme, la roquette et les copeaux de parmesan. Passer au four quelques minutes et dégustez la pizza Valentina ! un rosé frais
+  ]]>
+  </preparation>
+</recette>

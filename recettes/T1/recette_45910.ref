@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45910">
+  <titre>Croustillants de gambas au pistou</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>16 gambas</p>
+    <p>4 feuilles de brick (rondes)</p>
+    <p>30 g de pistou (pesto)</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez chaque feuille de brick en 4, et badigeonnez chaque face de pistou.
+    Otez la tête des gambas, salez et poivrez.
+    Posez une gambas sur le bord arrondi de chaque feuille de brick, et enroulez la gambas et la brick vers la pointe (comme pour un croissant).
+    Collez les bords et les extrémités au blanc d'oeuf.
+    Dans une large poêle anti-adhesive, chauffez l'huile, et faites dorer les croustillants environ 10 min, en les retournant regulièrement.
+    Egouttez sur du papier absorbant.
+    Servez chaud ou tiède.
+    Peut se faire avec des crevettes roses, par soucis d'économie!
+  ]]>
+  </preparation>
+</recette>

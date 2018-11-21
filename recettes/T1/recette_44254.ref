@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44254">
+  <titre>Fricassée de blé à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de blé boulgour (ou à défaut de grains de blé)</p>
+    <p>1 grosse boîte (100 g) de thon (au naturel ou à l'huile d'olive)</p>
+    <p>1/2 oignon émincé</p>
+    <p>2 tomates bien mûres</p>
+    <p>1 courgette</p>
+    <p>1 poivron rouge</p>
+    <p>1 demie aubergine</p>
+    <p>2 à 3 cuillères à soupe de coulis de tomates</p>
+    <p>huile d'olive (impératif !)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et éplucher tous les légumes (sauf le poivron) et les couper en petits cubes.
+    Dans une sauteuse, faire fondre l'oignon dans un peu d'huile d'olive quelques minutes, le temps qu'il dore.
+    Puis, rajouter tous les légumes, saler et poivrer, et faire sauter le tout jusqu'à ce que l'eau de végétation se soit évaporée.
+    Rajouter le blé et le thon en morceaux, le coulis de tomates et 1/2 ltr d'eau. Mélanger et couvrir.
+    Laisser cuire jusqu'à ce que le blé ait absorbé la totalité du liquide.
+    En général, le blé est tendre au bout de 20 minutes mais au besoin, rajouter du liquide et prolonger la cuisson.
+    Pour respecter la légèreté de ce plat, il vaut mieux du thon au naturel. Par contre, pour la cuisson, ne pas utiliser autre chose que de l'huile d'olive!
+  ]]>
+  </preparation>
+</recette>

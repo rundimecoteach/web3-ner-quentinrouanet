@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46013">
+  <titre>Blancs de poulet au basilic et vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros filets de poulet</p>
+    <p>30 cl de vin blanc</p>
+    <p>2 échalotes</p>
+    <p>3 gousses d'ail</p>
+    <p>1 noix de beurre</p>
+    <p>100 g de cèpes (ou autres champignons)</p>
+    <p>4 ou 5 branches de basilic frais</p>
+    <p>1 cuillère de moutarde</p>
+    <p>1 cuillère de sauce de soja (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincez les échalotes, l'ail et les champignons, et faites-les revenir avec une bonne noix de beurre.
+    Découpez les filets de poulet en petites lamelles, et faites-les dorer dans la même poêle.
+     
+    Ajoutez le vin blanc progressivement dans la poêle pour déglacer le jus. 
+    Salez, poivrez, et ajoutez la moutarde et la sauce soja.
+    Coupez les feuilles de basilic en petit (plus on les coupe, plus le parfum est fort), incorporez-les au mélange, et laissez revenir à feu doux 10 min avec couvercle.
+    Servez avec des tagliatelles fraîches ou du riz blanc.
+     Blanc d'Alsace
+  ]]>
+  </preparation>
+</recette>

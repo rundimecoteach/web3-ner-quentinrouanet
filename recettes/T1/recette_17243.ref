@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17243">
+  <titre>Saumon en papillote (sucré, salé)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 darnes de saumon</p>
+    <p>miel liquide</p>
+    <p>2 citrons vert</p>
+    <p>1 kg d'épinards en branche</p>
+    <p>2 champignons de Paris frais</p>
+    <p>tomate</p>
+    <p>ail</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 190°C. 
+    Poser les darnes sur du papier sulfurisé. Enduire les darnes de miel, d'ail et de jus de citron vert des deux côtés, saler et poivrer. Les poser sur un lit d'épinards, avec une rondelle de citron, une rondelle de tomate et deux rondelles de champignons.
+    Couvrir du reste d'épinard, fermer la papillote, mettre au four entre 8 et 12 min, suivant la grosseur des darnes.
+     Cassis rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81048">
+  <titre>Brick façon nat</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de thon au naturel</p>
+    <p>4 vache qui rit</p>
+    <p>1 oignon</p>
+    <p>5 oeufs </p>
+    <p>1 paquet de feuille de brick</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter le thon, le verser dans un saladier, y ajouter l'oignon émincé finement, les vache qui rit, du sel et du poivre, bien mélanger.
+    Déposer le mélange sur la feuille de brick en forme de cercle, faire un puits et y casser les oeufs au milieu. Saler et poivrer les oeufs, refermer la feuille en carré puis la faire frire à la poêle.
+    Servir avec une salade!
+  ]]>
+  </preparation>
+</recette>

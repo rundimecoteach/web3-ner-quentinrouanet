@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15104">
+  <titre>Poulet au cidre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet (ou 4 escalopes)</p>
+    <p>1 kg de pommes</p>
+    <p>25 cl de cidre brut</p>
+    <p>200 g de lardons fumés</p>
+    <p>cannelle</p>
+    <p>2 dl de crème fraîche</p>
+    <p>1 oignon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le poulet en morceaux. Dans une cocotte, avec un mélange beurre-huile, faire revenir le lard fumé pendant 10 mn, le réserver sur une assiette et faire revenir à la place l'oignon émincé et le poulet en morceaux.
+    Pendant ce temps, saler, poivrer et peler les pommes, les couper en gros quartiers, les ajouter dans la cocotte, y remettre également les lardons et mouiller le tout avec les 25 cl de cidre. Saupoudrer d'une pincée de cannelle avant de couvrir la cocotte et laisser cuire 1 h à feu très modéré.Disposer poulet, pommes et lardons dans un plat creux, en gardant au chaud. Saupoudrer le fond de la cocotte d'une cuillère à café de sucre en poudre, laisser caraméliser 3 mn, puis mouiller avec un demi-verre de cidre et ajouter la crème fraiche.
+    Donner quelques bouillons et verser cette sauce sur la fricassée de poulet.
+  ]]>
+  </preparation>
+</recette>

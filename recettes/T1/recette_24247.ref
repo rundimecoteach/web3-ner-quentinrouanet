@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24247">
+  <titre>Salade de pommes de terre et de haddock</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de petites pommes de terre</p>
+    <p>600 g de haddock</p>
+    <p>6 oignons blancs</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>1 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre durant 15 minutes dans une grande casserole d'eau bouillante puis égouttez-les.
+    Détaillez le haddock et les oignons blancs en fines tranches. 
+    Emulsionnez l'huile et le jus de citron, salez, poivrez.
+    Disposez les pommes de terre dans un plat creux. Recouvrez de haddock et d'oignon puis arrosez de vinaigrette. 
+    Servez tiède. 
+  ]]>
+  </preparation>
+</recette>

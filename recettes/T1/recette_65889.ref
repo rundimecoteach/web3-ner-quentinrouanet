@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65889">
+  <titre>Papet en vaudois (potée suisse)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de poireaux</p>
+    <p>6 à 8 pommes de terre</p>
+    <p>40 cl de vin blanc</p>
+    <p>1 peu d'huile d'olive</p>
+    <p>1 cube de bouillon d'herbes</p>
+    <p>10 cl de crème</p>
+    <p>vinaigre de vin</p>
+    <p>4 saucisses aux choux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver soigneusement les poireaux, les couper en morceaux de 2 à 3 cm de long. Mettre tout ça dans une grande casserole, les faire revenir dans l'huile d'olive.
+    Ajouter le vin et le petit cube de bouillon, saler et poivrer, laisser mijoter une quinzaine de minutes. Si nécessaire rajouter un peu d'eau.
+    Ajouter les pommes de terre épluchées et coupées en morceaux, laisser mijoter pendant une bonne vingtaine de minutes.
+    Faire cuire les saucisses à part dans une casserole suffisamment grande pour les recouvrir d'eau, la cuisson devrait prendre environ 30-40 minutes. Et c'est là que le débat commence: faut-il oui ou non percer les saucisses avec un cure dent ?
+    Cinq minutes avant la fin de la cuisson, ajouter la crème, touiller la moindre puis ajouter un peu de vinaigre. Maintenant, vous pouvez écraser un peu les pommes de terre (neles réduisez pas en purée) et laisser mijoter encore quelques minutes.
+    Retirer les saucisses. On peut couper les saucisses en 2 ou les laisser entière, c'est selon (en fait cela dépend si vous aimez manger froid..), les poser sur la potée et servir immédiatement.
+     Vin blanc vaudois (Yvorne, par exemple)
+  ]]>
+  </preparation>
+</recette>

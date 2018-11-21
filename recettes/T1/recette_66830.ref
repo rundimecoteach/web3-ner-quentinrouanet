@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66830">
+  <titre>Chaussons de St Jacques sauce au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>12 noix de St Jacques fraîches ou surgelées (3 ou 4 par chausson)</p>
+    <p>200 g de champignons de Paris émincés</p>
+    <p>1 oignon</p>
+    <p>25 cl de crème fraîche</p>
+    <p>100 g de fomage de chèvre</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive pour la poêle</p>
+    <p>1 ou 2 jaunes d'oeuf pour la dorure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Dans une poêle, faire chauffer un fond d'huile d'olive et faire revenir les noix de Saint-Jacques à feu vif, de chaque côté pour qu'elles soient un peu dorées. Les retirer du feu et réserver. 
+    Emincer l'oignon et le mettre dans la poêle avec les champignons, les faire cuire à feu moyen jusqu'à ce que les oignons se colorent. 
+    Pendant ce temps, dans une petite casserole, mélanger le chèvre dans la crème fraîche jusqu'à ce qu'il soit fondu, incorporer les oignons et les champignons, bien mélanger, saler et poivrer selon le goût. Laisser refroidir quelques minutes.
+    Dérouler la pâte, la couper en quatre, disposer les noix de St-Jacques (3 ou 4) par chausson), mettre la sauce par dessus (prendre bien garde à laisser une moitié libre pour pouvoir plier) puis replier la pâte pour fermer les chaussons. Appliquer le jaune d'oeuf au pinceau sur tout le dessus, on peut faire aussi des traits au couteau pour la déco.
+    Mettre sur une plaque avec le papier sulfurisé pour éviter que ça colle, baisser le four à 180°C (thermostat 6) et enfourner pendant 40 minutes environ.
+    Planter le couteau pour vérifier la cuisson (si le couteau est sec c'est cuit).
+    On peut l'accompagner d'une jardinière de légumes ou de salade verte. Un blanc sec
+  ]]>
+  </preparation>
+</recette>

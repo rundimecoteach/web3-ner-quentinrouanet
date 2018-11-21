@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24659">
+  <titre>Galettes de blé noir faciles</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine de blé noir</p>
+    <p>2 oeufs entiers</p>
+    <p>50 cl de lait Ribot</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à café d’huile</p>
+    <p>eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine dans une terrine, faire un puits et y casser les 2 oeufs entiers. 
+    Délayer les oeufs et la farine puis le sel, l’huile. 
+    Petit à petit, verser le lait. Bien battre. 
+    Rajouter de l’eau pour obtenir une pâte à consistance un peu plus épaisse que pour des crêpes. Laisser reposer 2 h. Huiler une galettière en retirant l’excédent avec un papier absorbant. 
+    Etaler une louche de pâte dans la poêle et retourner. 
+    Goûter la 1ère galette pour rectifier le sel. Garnir selon vos désirs : jambon, gruyère, oeufs, andouille, oignons... 
+  ]]>
+  </preparation>
+</recette>

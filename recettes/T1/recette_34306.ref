@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34306">
+  <titre>Sauté de boeuf au raisin noir</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 courgettes</p>
+    <p>2 tomates</p>
+    <p>1 oignon</p>
+    <p>4 gousses d'ail</p>
+    <p>1 branche de sauge</p>
+    <p>800 g de boeuf dans un morceau bien maigre</p>
+    <p>1 verre de vin rouge</p>
+    <p>100 g de raisin noir épépiné type ribol</p>
+    <p>facultatif : 15 cl de bouillon de légumes</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et pelez les courgettes, découpez-les en rondelles. 
+    Lavez et détaillez en dés les tomates. 
+    Pelez l'oignon, hachez-le. 
+    Pelez et écrasez l'ail. 
+    Lavez la sauge, hachez-la finement. 
+    Lavez et épépinez les raisins. 
+    Découpez la viande de boeuf en gros cubes. 
+    Faites-les dorer sur toutes les faces dans un grand faitout, à l'huile d'olive, pendant 10 mn. 
+    Ajoutez l'oignon haché, l'ail écrasé, les courgettes, les tomates, remuez, et faites cuire à feu moyen pendant 5 mn. 
+    Mouillez au vin rouge, salez, poivrez. 
+    Portez à ébullition, couvrez et laissez mijoter 45 mn. 
+    Ajoutez les grains de raisin à la préparation ainsi que la sauge, ajoutez un peu de bouillon de légumes, si nécessaire. 
+    Laissez mijoter encore 10 mn.
+    Servir avec du riz ou des tagliatelles fraîches.
+  ]]>
+  </preparation>
+</recette>

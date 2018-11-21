@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25918">
+  <titre>Charlotte chocolat - pralin</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>75 g de chocolat noir</p>
+    <p>50 g de beurre mou</p>
+    <p>50 g de sucre en poudre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>50 g de pralin </p>
+    <p>20 boudoirs</p>
+    <p>4 cuillers à soupe de café fort</p>
+    <p>2 cuillers à soupe d'alcool au choix (rhum, cognac, whisky...) </p>
+    <p>40 cl de crème fleurette très froide, ou une bombe de chantilly</p>
+    <p>quelques noisettes entières pour le décor</p>
+    <p>ustensile : prévoir un moule à cake</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Casser le chocolat en petits morceaux et le faire fondre au bain-marie. Laisser refroidir un peu. 
+    Travailler le beurre mou et le sucre, puis ajouter (en mélangeant après chaque ingrédient) le jaune d'oeuf, le chocolat fondu, et le pralin. Laisser en attente. 
+    Fouetter la crème fleurette en chantilly. En prélever une petite cuiller à soupe, et la mêler au mélange au chocolat pour le détendre un peu. 
+    Verser dans une assiette creuse le café et l'alcool. Y tremper les boudoirs (le côté sans sucre), puis tapisser le fond du moule à cake (mais pas les bords) DANS LE SENS DE LA LONGUEUR. Généralement j'en mets 4 d'un côté, 4 de l'autre, et 4 moitiés au milieu. 
+    Etaler une couche pas trop épaisse de chantilly, puis le mélange chocolat-pralin. Remettre une couche de chantilly, et terminer par une couche de boudoirs, toujours dans le même sens. 
+    Couvrir d'un film plastique, et placer au frais, au moins 5 heures. 
+    Pour démouler, tremper 10 secondes dans de l'eau chaude, et retourner sur le plat de service. 
+    Décorer avec le reste de chantilly et les noisettes entières.
+    On peut aussi placer ce dessert au congélateur pour obtenir une charlotte glacée...
+  ]]>
+  </preparation>
+</recette>

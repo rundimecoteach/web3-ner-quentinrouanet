@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63093">
+  <titre>Potée à la Franc-Comtoise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 choux blanc</p>
+    <p>2 saucisses de Montbéliard</p>
+    <p>1 saucisse de Morteau</p>
+    <p>500 g de palette de porc</p>
+    <p>8 grosses pommes de terre</p>
+    <p>3 navets</p>
+    <p>4 carottes</p>
+    <p>1 pot de Cancoillote au vin jaune (environ 200 g)</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher, laver et tailler en gros morceaux les pommes de terre, les navets et les carottes.
+    Après avoir retiré les feuilles du dessus, détailler le choux en lanières grossières.
+    Dans un récipient de grande contenance (de préférence en fonte), mettre les navets, les carottes, le choux, la saussisse de Morteau et la palette.
+    Couvrir d'eau et porter à ébullition.
+    Une fois que l'eau bout, baisser le feu et laisser cuire 15 à 20 minutes.
+    Ajouter les pommes de terre et les saussisses de Montbéliard.
+    Laisser cuire 20 minutes. Assaisonner à convenance.
+    Faire chauffer la cancoillotte au bain-marie. 
+    Servir la potée très chaude, la concoillotte viens recouvrir les pommes de terre directement dans les assiettes.
+    Plat rustique d'hiver très nourrissant ! Vin sec du Jura
+  ]]>
+  </preparation>
+</recette>

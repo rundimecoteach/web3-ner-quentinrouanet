@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55269">
+  <titre>Salade de riz au thon mayonnaise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>240 g de riz</p>
+    <p>140 g de thon (1 boîte de taille moyenne)</p>
+    <p>2 tomates</p>
+    <p>1 poivron vert</p>
+    <p>70 g de maïs (1/2 boîte de 140 g ou 1 boîte entière, selon votre goût)</p>
+    <p>mayonnaise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les tomates et le poivron, ajoutez-les avec le thon émietté, le maïs, le riz cuit. Mélangez le tout avec une cuillère ou deux de mayonnaise.
+    Vous pouvez aussi rajouter un peu de sel ou de poivre.
+    Attendez que le riz soit froid avant de déguster.
+  ]]>
+  </preparation>
+</recette>

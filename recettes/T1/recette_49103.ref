@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49103">
+  <titre>Clafoutis  aux abricots, amandes et romarin</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl de crème fraîche liquide allégée</p>
+    <p>25 cl de lait </p>
+    <p>2 oeufs entiers + 2 jaunes</p>
+    <p>60 g de maïzena </p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>80 g de poudre d'amandes</p>
+    <p>100 g de sucre semoule</p>
+    <p>400 g d'abricots</p>
+    <p>1 branche de romarin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6/7).
+    Faites bouillir le lait, puis, hors du feu, laissez infuser le romarin avec le lait.
+    Lavez les abricots, dénoyautez-les et disposez-les dans un plat de 25 cm de diamètre environ.
+    Dans un récipient, mélangez les sucres et la maïzena, avec une pincée de sel. Ajoutez les oeufs entiers battus et les jaunes, puis mélangez.
+    Versez ensuite la crème et le lait après avoir, au préalable, ôté la branche de romarin.
+    Mixez le tout 10 secondes.
+    Versez cette pâte sur les fruits et enfournez 35 à 40 min.
+    Servez tiède avec une belle boule de glace à l'abricot. Excellent le matin au petit dejeuner. Vous pouvez aussi utiliser des abricots surgelés: les faire décongeler dans une poêle à feu doux avec 3 cuillères à soupe de sucre.
+  ]]>
+  </preparation>
+</recette>

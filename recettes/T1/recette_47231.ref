@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47231">
+  <titre>Tajine de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>5 carottes</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>1 oignon</p>
+    <p>1 boîte de tomates concassées</p>
+    <p>quelques tomates séchées</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>ras el hanout</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher l'oignon, l'émincer et le faire dorer dans une cocotte avec un peu d'huile d'olive.
+    Eplucher les courgettes, les carottes, les couper en rondelles;
+    couper les poivrons en lanières.
+    Ajouter les légumes dans la cocotte, verser la boîte de tomates concassées, découper les tomates séchées en petits morceaux, les ajouter; saler et poivrer. 
+    Ajouter une bonne cuillère à café de Ras el Hanout, et une demi cuillère à café de cannelle. 
+    Couvrir et laisser mijoter à feu très doux pendant 45 min, les légumes doivent être fondants. 
+    Servir avec de la semoule.
+    On peut également ajouter une boîte de pois chiches. Un vin rouge corsé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22095">
+  <titre>Soupe de potiron au jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de potiron</p>
+    <p>150 g de jambon cuit</p>
+    <p>10 cl de crème</p>
+    <p>persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez, épépinez et coupez le potiron en morceaux.
+    Faites-les cuire à la vapeur ou à l'eau bouillante salée 20 min. 
+    Egouttez et mixez en purée puis rallongez avec l'eau de cuisson ou du bouillon jusqu'à la consistance désirée.
+    Ajoutez la crème, le jambon coupé en dés et saupoudrez de persil.
+    On peut également rallonger avec du lait et ne pas ajouter de crème.
+  ]]>
+  </preparation>
+</recette>

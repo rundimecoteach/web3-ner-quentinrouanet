@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11239">
+  <titre>Lasagnes à la bolognaise express</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 échalotes</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>250 g de steak haché</p>
+    <p>sel, poivre</p>
+    <p>50 cl de purée de tomate</p>
+    <p>20 cl d'eau</p>
+    <p>1 paquet de feuilles de lasagnes</p>
+    <p>100 g de gruyère râpépour la béchamel :</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>75 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la garniture : hachez les échalotes et faites les fondre dans l'huile. Ajoutez ensuite la viande, salez, poivrez.
+    Lorsque la viande cuite, ajoutez la purée de tomates, l'eau, et laisser mijoter 30 minutes, à feu moyen.
+    Pendant ce temps, faire précuire les feuilles de lasagnes, en les plongeant quelques minutes dans l'eau bouillante.
+    Faire une sauce béchamel : faites blondir la farine dans le beurre puis versez le lait progressivement en attendant que le liquide soit bu avant d'en ajouter. Remuez constamment jusqu'à ce que la béchamel épaississe.
+    Dans un plat à gratin, mettre 1 couche de pâte à lasagnes, 1 couche de garniture, 1 couche de gruyère râpé trois fois. Sur la dernière couche de pâte, étaler la sauce béchamel, et recouvrir avec du gruyère râpé.Passer au four environ 15 min, avant de déguster à 200°C (thermostat 6-7). Chianti.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63983">
+  <titre>Quiche raclette endives et saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée toute prête</p>
+    <p>endives braisées déjà cuites coupées en lamelles (restes)</p>
+    <p>150 à 200 g de saumon fumé</p>
+    <p>4 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>poivre, muscade suivant les goûts (surtout pas de sel à cause du saumon)</p>
+    <p>raclette (restes)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Battre les oeufs avec le lait dans un saladier.
+    Ajouter les endives cuites. 
+    Couper la raclette en petits bouts et intégrer la moitié à la préparation.
+    Couper le saumon en petits morceaux et le rajouter dans le saladier.
+    Bien mélanger.
+    Verser le tout sur la pâte préalablement piquée à la fouchette pour éviter qu'elle ne cloque.
+    Rajouter le reste de raclette par dessus, et s'il manque du fromage, rajouter du gruyère râpé.
+    Faire cuire 45 mn.
+    Servir chaud avec une salade.
+    Permet d'utiliser un reste d'endives et des restes de raclette.
+    Les diabétiques utilisent généralement les endives à la place des pommes de terre pour manger une raclette et le dosage est toujours approximatif... D'où les restes... rosé de provence ou vin rouge léger
+  ]]>
+  </preparation>
+</recette>

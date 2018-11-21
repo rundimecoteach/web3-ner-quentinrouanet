@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53201">
+  <titre>La bonne soupe de Fabrice</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de potiron ou de potimarron épluché</p>
+    <p>1 boîte ½ de tomates pelées (400g net)</p>
+    <p>1 cuillère à soupe d’huile d’olive</p>
+    <p>1 oignon </p>
+    <p>1 gousse d'ail</p>
+    <p>1 boîte de lait (la boîte des tomates vides)</p>
+    <p>1 boîte d’eau (idem)</p>
+    <p>1 bouillon cube (légumes ou volaille)</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le potiron en cubes. 
+    Mettre l’huile à chauffer dans un faitout. 
+    Eplucher l’oignon et l’émincer puis le faire revenir dans l’huile sans trop colorer.
+    Ajouter ensuite la boîte de tomates pelées (avec le jus).
+    Mettre les cubes de  potiron et 1 boîte d’eau si c’est du potiron, 2 boîtes si c’est du potimarron. 
+    Ajouter le bouillon cube et porter le tout à ébullition. 
+    Faire cuire à feu doux avec un couvercle pendant 30 minutes environ (les légumes doivent être fondants). 
+    Ajouter la gousse d’ail pressée.
+    Mixer finement. 
+    Ajouter 1 boîte de lait puis faire chauffer sans bouillir. 
+    Goûter et saler si nécessaire.
+    Servir chaud.
+    Pour les gourmands, on peut ajouter une cuillère de crème...
+    Mais c’est aussi bon sans !
+    Avec tous mes remerciements à Fabrice pour cette bonne recette Pas de vin avec la soupe... Non mais....
+  ]]>
+  </preparation>
+</recette>

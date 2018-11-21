@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66121">
+  <titre>Rôti de porc aux fruits d'automne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 roti de porc dans l'échine</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 poire</p>
+    <p>lardons (facultatif)</p>
+    <p>1 poignée de raisins secs</p>
+    <p>vinaigre de figue</p>
+    <p>cinq épices (à doser selon les goûts)</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>beurre ou huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer la matière grasse dans une cocotte. Y faire dorer le rôti préalablement salé et poivré.
+    Ajouter l'oignon émincé, la poire coupée en cubes, les lardons, l'ail écrasé et les raisins secs.
+    Bien mélanger.
+    Saupoudrer les cinq épices et ajouter la maizena. Remuer. Déglacer avec le vinaigre de figues.
+    Couvrir d'eau à hauteur des ingredients (rôti non compris).
+    Laisser mijoter à feu doux 1 h environ.
+    Vous pouvez accompagner ce plat avec ce que vous voulez. Personnellement, je le sers avec de la semoule.
+  ]]>
+  </preparation>
+</recette>

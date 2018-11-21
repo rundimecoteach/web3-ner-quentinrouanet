@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229539">
+  <titre>Madeleines chocolat- noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>2 œufs</p>
+    <p>1 cuillère à café de levure</p>
+    <p>50 g de noix de coco râpée</p>
+    <p>25 g de cacao en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).Au micro-ondes, faites fondre le beurre.Mélangez les œufs et le sucre.
+    Ajoutez ensuite la farine, la levure et le beurre, tout en remuant. Incorporez la noix de coco râpée.
+    Dans un autre récipient, versez environ la moitié de la pâte obtenue. Ajoutez le cacao et mélangez.
+    Remplissez enfin vos moules, moitié chocolat/moitié nature.
+    Enfournez pendant 12 min à 180°C.
+  ]]>
+  </preparation>
+</recette>

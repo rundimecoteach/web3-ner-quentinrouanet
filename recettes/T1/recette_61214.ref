@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61214">
+  <titre>Pizza Carnivore</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à Pizza</p>
+    <p>150g de concentré de tomates</p>
+    <p>1 oignon</p>
+    <p>2 steaks hachés de boeuf façon Boucher</p>
+    <p>80 g d'emmental râpé</p>
+    <p>crème fraiche liquide</p>
+    <p>herbes fraîches de votre jardin</p>
+    <p>piment en poudre</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 200°C (thermostat 6-7).
+    Etalez la pâte dans un moule.
+    Répartissez de manière uniforme le concentré sur la pâte, saupoudrez le piment et le poivre sur le concentré.
+    Emincez l'oignon en lamelles et faites-le revenir dans une poêle.
+    Une fois l'oignon cuit, faites revenir la viande tout en l'émiettant, faites juste dorer !
+    Sur la pâte, étalez votre mélange oignons-steaks. Saupoudrez d'emmental et arrosez d'un peu de crème.
+    Faites cuire jusqu'à ce que le dessous de la pâte soit légèrement doré (environ 15 minutes).
+    Accompagnez avec une petite salade de roquette, sauce au miel = un délice !!Vous pouvez varier à volonté le type de fromage, la garniture... Rosé ou Rouge rocailleux type Cahors
+  ]]>
+  </preparation>
+</recette>

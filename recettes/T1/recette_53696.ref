@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53696">
+  <titre>Blé aux légumes pour enfants</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 carotte</p>
+    <p>1 courgette</p>
+    <p>2 verres de blé (type Ebly)</p>
+    <p>1 cube de bouillon (facultatif)</p>
+    <p>2 grosses cuillères de crème fraîche</p>
+    <p>1 briquette de coulis de tomate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez carotte et courgette; détaillez-les en dés, ou râpez-les.
+    Placez les légumes dans un autocuiseur avec le blé, le cube de bouillon, et de l'eau à hauteur.
+    Laisser cuire 8 min, à partir de la mise en pression.
+    Avant de servir, ajoutez la crème et le coulis de tomate.
+    Un gros succès pour le repas du soir avec mes enfants (2 et 4 ans) : facile à manger, complet, les légumes sont à peu près planqués... Ca se congèle très bien, s'il en reste.
+  ]]>
+  </preparation>
+</recette>

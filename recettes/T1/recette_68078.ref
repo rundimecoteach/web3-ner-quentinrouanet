@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68078">
+  <titre>Omelette italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>80 g de tomates sechées</p>
+    <p>10 olives noires à la grecque</p>
+    <p>20 g de crème liquide</p>
+    <p>50 g de parmesan (si possible non rapé)</p>
+    <p>100 g de ricotta</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>5 feuilles de basilic</p>
+    <p>3 brins d'aneth</p>
+    <p>100 g de roquette sauvage</p>
+    <p>10 tomates cerises allongées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez les oeufs avec une fourchette. 
+    Rajoutez la crème tout en battant. 
+    Sans les mélanger encore, coupez les tomates et les olives en lamelles, ciselez l'aneth (pas le basilic). Ecrasez le parmesan à la fourchette.
+    Faites chauffer l'huile dans une poêle et versez le mélange oeufs/crème sans plus mélanger. 
+    Une fois que les bords du mélange commencent à durcir disposez sur la moitié de l'omelette dans l'ordre le parmesan , le basilic, les tomates séchées , les olives, l'aneth et la ricotta.
+    Faites cuire 1 minute et pliez, à l'aide d'une spatule en bois, le côté sans garniture sur le côté garni. Votre omelette doit avoir une fine croute doré grâce à la crème. 
+    Lorsque c'est le cas, enlevez-la de la poêle et disposez-la dans un plat.
+    Pour servir coupez-la au milieu et servez les moitiés accompagnées de la salade de roquette et les tomates cerises assaisonée avec du citron et de l'huile d'olive.
+     Lacryma Cristi del' Vesuvio Rosato
+  ]]>
+  </preparation>
+</recette>

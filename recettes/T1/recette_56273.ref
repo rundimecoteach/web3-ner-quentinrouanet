@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56273">
+  <titre>Filet de hampe aux échalotes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 filets de hampe (boeuf)</p>
+    <p>2 échalotes</p>
+    <p>2 verres de vin rouge (Bordeaux de préférence)</p>
+    <p>Thym</p>
+    <p>60 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>Sel, poivre noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la sauce :
+    Dans une petite poêle, hacher finement les échalotes, mettre 1/3 du beurre, ajouter le sel et le poivre.
+    Cuisson : 
+    Faire blondir les échalotes.
+    Ajouter ensuite le vin, le thym, le sel et le poivre.
+    Laisser à ébullition pour réduire le vin de moitié environ. 
+    Dans une casserole, préparer un "roux" blond en faisant fondre le reste du beurre puis ajouter la farine, et tourner jusqu'à ce que la farine devienne légèrement blonde.
+    Ajouter ensuite le mélange vin-échalotes préparé ci-dessus progressivement en tournant constamment.
+    Faire mijoter doucement pendant 15 à 20 minutes.
+    Faire griller les deux filets de hampe selon votre goût.
+    Accompagner le tout de petites pommes de terre sautées à l'ail et au persil.
+    Demandez ce rare morceau de boeuf à l'avance à votre boucher! bordeaux ou bourgognes rouges
+  ]]>
+  </preparation>
+</recette>

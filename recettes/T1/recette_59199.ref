@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59199">
+  <titre>Guinness Cake (gâteau irlandais à la bière brune)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 cl de Guinness</p>
+    <p>250 g de beurre</p>
+    <p>250 g de cassonade</p>
+    <p>250 g de raisins de Corinthe</p>
+    <p>250 g de raisins blonds</p>
+    <p>150 g de fruits confits divers</p>
+    <p>500 g de farine</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 cuillère à café de cannelle et/ou de gingembre</p>
+    <p>le zeste d'un citron (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Note : il est meilleur préparé la veille.
+    Normalement, cette recette irlandaise se fait avec de la bière brune Porter mais vous pouvez utiliser de la Guinness, plus facile à se procurer.
+    Préchauffer le four à 180°C (thermostat 6).Mélanger le beurre et le sucre avec la bière dans une grande casserole, faire chauffer doucement jusqu'à ce que le beurre soit fondu. Ajouter les fruits secs et laisser mijoter pendant 10 minutes. Laisser refroidir et ajouter la farine, la levure, les épices et le zeste de citron. Battre les oeufs et les incorporer à la cuillère en bois.Répartir la pâte dans 2 moules à cake. Cuire dans le four préchauffé, pendant environ 1 h 20. Tester la cuisson avec un couteau. Laisser tiédir le gâteau avant de la démouler.
+    Conseil : si, comme moi, vous ne disposez que d'un moule, il suffit de réserver la moitié de la pâte à température ambiante en la couvrant ; puis penser à tourner un peu la pâte à la cuillère avant de la verser dans le moule.
+  ]]>
+  </preparation>
+</recette>

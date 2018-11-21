@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17303">
+  <titre>Quatre-quart aux pommes et au caramel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 pommes</p>
+    <p>caramel liquide </p>
+    <p>2 gros oeufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>100 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>1 cuillère à café de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser le caramel dans un moule à manqué, incliner le moule dans tous les sens pour que les parois soient enduites de caramel (vous pouvez faire le caramel avec 15 morceaux de sucre).Peler les pommes, les couper en gros quartiers et les disposer sur le caramel.
+    Dans un saladier, mélanger le beurre ramolli et le sucre, incorporer les oeufs entiers, l'un après l'autre, puis la farine et la levure. Bien mélanger. Verser cette pâte sur les pommes.
+    Faire cuire 30 mn à four chaud (210°C / thermostat 7). Laisser tiédir avant de démouler.
+  ]]>
+  </preparation>
+</recette>

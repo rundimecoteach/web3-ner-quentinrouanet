@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11646">
+  <titre>Churros (Espagne)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>huile de friture</p>
+    <p>25 cl d'eau</p>
+    <p>6 cl de sucre</p>
+    <p>250 g de farine tamisée</p>
+    <p>1 pincée de cannelle</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à thé de vanille</p>
+    <p>pincée de sel</p>
+    <p>125 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une petites casserole, mettre l'eau,le beurre et le sel et amener au point d'ébullition.
+    Dans une autre casserole, mettre le farine, la cannelle.
+    Verser le mélange bien chaud eau-beurre dessus. Battre vigoureusement sur feu doux avec une cuillère en bois pendant une minute jusqu'à ce que le mélange forme une boule. Laisser tiédir une minute.
+    Dans un petit bol, battre les oeufs avec la vanille, incorporer à la pâte.
+    Faire chauffer l'huile dans un poêlon à haut bord.
+    Mettre la pâte dans une poche à douille et former des bandes de pâte que l'on dépose directement dans l'huile. Faire dorer environ 2 minutes de chaque côté.Retirer et continuer l'opération jusqu'à ce que tous les churros soient cuits : déposer les churros sur une tôle à biscuit tapissé de deux papiers absorbants. Maintenir dans un four à température minimale.
+    Dans un sac, mettre le sucre et la cannelle. Mettre les churros dans le sac et secouer pour bien les enrober, puis manger chaud.Il existe quelques variantes.
+    Ajoutez à la pâte 3 cuillères à soupe de cacao en poudre non sucré et 2 cuillères à soupe de zeste d'orange pour obtenir des "coco churros".
+  ]]>
+  </preparation>
+</recette>

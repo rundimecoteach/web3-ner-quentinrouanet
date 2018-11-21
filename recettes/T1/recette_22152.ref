@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22152">
+  <titre>Foies de volaille aux radis</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de foies de volaille</p>
+    <p>3 oignons </p>
+    <p>2 bottes de radis </p>
+    <p>3 cuillères à soupe d'huile </p>
+    <p>2 cuillères à soupe de vinaigre de vin</p>
+    <p>1 bouquet de persil </p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire revenir à feu doux les oignons émincés dans 2 cuillères à soupe d'huile pendant 5 min.
+    Ajouter le reste d'huile et y faire dorer les foies de volaille. Ajouter les radis et déglacer à feu doux au vinaigre. Assaisonner et parsemer de persil ciselé.
+  ]]>
+  </preparation>
+</recette>

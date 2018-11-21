@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56255">
+  <titre>Galette des rois bananes et pain d'épices</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 oeufs pas trop gros</p>
+    <p>150 g de poudre d'amandes</p>
+    <p>110 g de sucre</p>
+    <p>75 g de beurre</p>
+    <p>2 bananes</p>
+    <p>3 tranches de pain d'épices</p>
+    <p>quelques gouttes d'arôme d'amande amère</p>
+    <p>2 rouleaux de pâte feilletée</p>
+    <p>un peu de noix de muscade et de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre pommade avec les oeufs, la poudre d'amandes, le sucre, un peu d'extrait d'amande amère (selon le goût de chacun) et une pincée de sel.
+    Réserver cette frangipane au frais.
+    Poêler les bananes coupées en rondelles dans du beurre et un peu de muscade.
+    Les mélanger à la frangipane avec les tranches de pain d'épices coupées en dés.
+    Mettre la préparation bien fraîche sur une pâte feuilletée.
+    Recouvrir avec l'autre pâte feuilletée et bien les souder, badigeonner le tout d'eau sucrée pour faire dorer à la cuisson.
+    Enfourner dans un four très chaud 240°C (thermostat 8) pendant 5 minutes, puis terminer la cuisson à 180°C (thermostat 6) pendant 15 à 20 minutes.
+    Pour varier, on peut remplacer la banane par de l'ananas poêlé avec des graines de fenouil ou des mangues avec de la cannelle. On peut également y mettre de la noix de coco.
+  ]]>
+  </preparation>
+</recette>

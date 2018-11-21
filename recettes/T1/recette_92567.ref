@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92567">
+  <titre>Fondant à la banane aux pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250g de farine</p>
+    <p>125g de sucre</p>
+    <p>3 oeufs</p>
+    <p>100g de lait</p>
+    <p>75ml d'huile</p>
+    <p>un sachet de levure</p>
+    <p>un sachet de sucre vanillé </p>
+    <p>pépites de chocolat</p>
+    <p>Carrés de chocolat</p>
+    <p>1 Banane</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°.Mettre dans le récipient la farine, le sucre, le lait et les oeufs. Mélangez pour obtenir un mélange omogène. Puis y incorporez l'huile. Ecrasez la bananes, versez la dans le récipient accompagné des pépites de chocolat. Mettez la levure et le sucre vanillé. Remuez le tout, beurrez le moule et versez une petite partie dedans. Disposez les carrés de chocolat puis recouvrez avec le reste de la pâte. 
+    Faîtes cuire pendant 20 mn à 180°.
+  ]]>
+  </preparation>
+</recette>

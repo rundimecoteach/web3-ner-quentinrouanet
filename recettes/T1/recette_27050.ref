@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27050">
+  <titre>Crêpe jambon chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 crêpes (selon votre recette favorite) </p>
+    <p>4 tranches de jambon</p>
+    <p>2 cuillères à soupe de miel ou de sirop d'érable</p>
+    <p>fromage de chèvre crémeux</p>
+    <p>ciboulette ou autres herbes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les crêpes selon votre façon habituelle, les garder au chaud enveloppées de papier alu, dans le four à 200°F (100°C). 
+    Couper le jambon en petits morceaux et le faire revenir dans le miel (ou le sirop d'érable) environ 15 mn. 
+    Tartiner les crêpes de fromage de chèvre, ajouter le jambon et les herbes sur chaque crêpe et les rouler.
+  ]]>
+  </preparation>
+</recette>

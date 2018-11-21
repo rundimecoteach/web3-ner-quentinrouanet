@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48764">
+  <titre>Aubergines farcies végétarienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petites aubergines</p>
+    <p>200 g de couscous</p>
+    <p>250 g de tofu ou de mozzarella</p>
+    <p>1 cuillère à soupe de graines de sésame</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>basilic, sel poivre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sauce tomate épicée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire blanchir les aubergines pendant 5 min.
+    Une fois refroidies, les fendre sur les 2/3, et retirer la pulpe.
+    Mixer celle-ci avec le basilic, l'ail, sel et poivre.
+    Ajouter soit :
+    1) le tofu en dés et les grains de sésame légèrement revenus
+    ou
+    2) les dés de mozzarella
+    Puis, le  couscous que l'on aura au préalable mouillé avec 25 cl d'eau et une cuillère à soupe d'huile d'olive.
+    Remplir les aubergines, recouvir avec le couvercle formé du tiers de celle-ci.
+    Enfourner à 210°C (th 7), pendant 45 min; servir avec un coulis de tomates bien relevé.
+  ]]>
+  </preparation>
+</recette>

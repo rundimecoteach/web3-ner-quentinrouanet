@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14973">
+  <titre>Chowder de maïs et pétoncles façon québecoise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 tranches de bacon haché</p>
+    <p>1 petit poivron vert en petits dés</p>
+    <p>375 g de pommes de terre pelées et coupées en dés</p>
+    <p>30 ml de beurre</p>
+    <p>1 oignon émincé</p>
+    <p>15 ml de farine</p>
+    <p>45 cl de fumet de poisson</p>
+    <p>45 cl de crème à 10%</p>
+    <p>sel et poivre</p>
+    <p>1 pincée de muscade moulue</p>
+    <p>1 pincée de piment de cayenne moulu</p>
+    <p>15 cl de pétoncles (si gros les couper en deux)</p>
+    <p>1 boîte de 341 ml de maïs en grains égoutté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire fondre le grans du bacon à feu doux,ajouter le beuure et faire fnodre puis ajouter le poivron, pommes de terre et oignon.
+    Faire cuire à feu doux 8 mn en remuant de temps en temps.
+    Saupoudrer de farine et remuer quelques minutes jusqu'à ce que cela soit doré.Mélanger la crème et le fumet et ajouter à la casserole avec les assaisonnements et les épices. Porter à ébullition, couvrir et laisser mijoter 15 mn, jusqu'à ce que les légumes soient tendres.
+    Ajouter les pétoncles ainsi que le maïs et cuire quelques minutes, ajuster l'assaisonnement au goût et servir.
+    Pour une réception, remplacer 150ml de fumet par du vin blanc sec.
+  ]]>
+  </preparation>
+</recette>

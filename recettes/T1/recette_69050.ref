@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69050">
+  <titre>Raïta aux fruits (salade composée au yaourt indienne)</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 concombre</p>
+    <p>1/2 ananas</p>
+    <p>1 oignon blanc</p>
+    <p>1 pomme</p>
+    <p>coriandre fraîche</p>
+    <p>graines de cumin</p>
+    <p>graines de moutarde noire</p>
+    <p>3 yaourts à la grecque</p>
+    <p>2 cuillère de curcuma</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et couper le concombre en fines lamelles (type julienne).
+    Tailler la pomme en julienne. Eplucher l'ananas (le plus dur de le recette) et le couper en petits cubes. Emincer l'oignon et la coriandre. 
+    Réunir tous ces ingrédients dans un saladier ; ajouter les yaourts et bien mélanger.
+    Faire griller dans une poêle à sec les graines de cumin et de moutarde (pour faire ressortir le parfum) et les ajouter à la préparation. Réserver au frais.
+    Faire chauffer un filet d'huile d'olive avec le curcuma et laisser refroidir (pour fabriquer une huile parfumée).
+    Pour servir, présenter dans un petit bol et décorer de quelques gouttes d'huile au curcuma.
+    Si vous ne trouvez pas les graines indiquées (dans les magasins bios ou sur les marchés), on peut remplacer par un mélange de 5 baies du moulin que l'on trouve dans le commerce.
+    Possibilité d'utiliser de l'ananas en boîte mais c'est quand même beaucoup moins bon !Salade très fraîche, typiquement entrée indienne mais qui peut changer des traditionnelles salade composée d'été !!
+  ]]>
+  </preparation>
+</recette>

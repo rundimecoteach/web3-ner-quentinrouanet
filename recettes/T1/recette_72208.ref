@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72208">
+  <titre>Gratin pâtes/poulet au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pâtes type macaronis ou coquillettes ou farfalles</p>
+    <p>3 escalopes de poulet</p>
+    <p>40 cl de crème liquide</p>
+    <p>1 gros oignon</p>
+    <p>gruyère râpé</p>
+    <p>curry</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pâtes.
+    Pendant ce temps, découpez les escalopes de poulet en lanières ou en dés.
+    Hachez l'oignon.
+    Faites dorer le poulet dans une poêle et ajoutez-y du curry (quantité suivant vos goûts) puis rajoutez l'oignon hâché.
+    Quand tout est bien doré, incorporez la crème.
+    Salez et poivrez.
+    Egouttez les pâtes et faites préchauffer votre four à 220°, thermostat 7-8.
+    Mélangez les pâtes avec la préparation au poulet et mettez le tout dans un plat à gratin.
+    Saupoudrez de gruyère râpé et enfournez pendant environ 15 min.
+  ]]>
+  </preparation>
+</recette>

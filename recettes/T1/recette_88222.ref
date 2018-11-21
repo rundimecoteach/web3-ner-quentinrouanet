@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88222">
+  <titre>Tarte au fruits rouges aux amandes et son sirop</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>50 g d'amandes en poudre</p>
+    <p>50 g d'amandes effilées</p>
+    <p>600 g de fruits rouges : fraise, groseille, cassis, framboise...</p>
+    <p>2 cuillères à soupe d'amaretto</p>
+    <p>1 pointe de couteau de cannelle</p>
+    <p>1 pointe de couteau de clou de girofle en poudre</p>
+    <p>1 gousse de vanille</p>
+    <p>300 g de sucre roux</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prenez les fruits, mettez-les dans un faitout et ajoutez la vanille (graines et gousse), les amandes effilées, les épices et l'amaretto. Cuisez pendant environ 30 minutes à feu doux.
+    Après cuisson, mettez les fruits dans une passoire et laissez égoutter pendant 1h. Mettez le sirop dans la même casserole et laissez réduire environ 45 minutes.
+    Préchauffez le four à 120°C (thermostat 4).
+    Mettez la pâte sur une plaque, saupoudrez d'amandes en poudre puis disposez les fruits refroidis. 
+    Saupoudrez de sucre et mettez des noisettes de beurre sur la tarte et enfournez durant 1h15.
+    Servez la tarte chaude avec le sirop sur la tranche ou en déco et avec un peu de crème double avec... Un vrai délice
+  ]]>
+  </preparation>
+</recette>

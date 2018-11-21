@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229629">
+  <titre>Spaghettis au kefta</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de haché de veau</p>
+    <p>400 g de tomates concassées</p>
+    <p>70 g de concentré de tomate</p>
+    <p>400 g de spaghetti</p>
+    <p>2 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>1 bouquet garni </p>
+    <p>1 noix de beurre </p>
+    <p>1 filet d'huile d'olive </p>
+    <p>1 pincée d'épice</p>
+    <p>20 cl de vin rouge</p>
+    <p>1 pincée de poivre </p>
+    <p>1 pincée de sel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire chauffer de l'huile d'olive et un peu de beurre.
+    Faire suer l'ail et l'oignon, ajouter le haché et laisser cuire.
+    Ajouter les tomates concassées, le concentré, le bouquet garni, les épices et le vin. Laisser mijoter à feu doux pendant 1h-1h30.
+    Faire cuire les spaghetti et mélanger avec la sauce.
+     vins rouge  ou blanc
+  ]]>
+  </preparation>
+</recette>

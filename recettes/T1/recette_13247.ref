@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13247">
+  <titre>Beignets polonais ou pounchkis</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine fluide</p>
+    <p>6 oeufs battus</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1 pincée de sel</p>
+    <p>1/4 de litre de lait</p>
+    <p>100 g de levure fraîche (à acheter chez le boulanger) </p>
+    <p>200 g de beurre</p>
+    <p>1 litre d'huile (pour les faire cuire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer la levure fraîche dans un peu de lait tiédi prélevé sur le 1/4 de litre. Mélanger beurre, sucre, oeufs battus sel lait et levure. Ajouter petit à petit la farine : la pâte doit coller aux doigts.
+    Laisser reposer 3 heures dans un endroit chaud, couvert d'un torchon propre. Au bout de ce temps, faire des petits tas de pâte avec un verre en s'en servant comme emporte-pièce.
+    Vous pouvez fourrer chaque pâton de confiture ou d'un morceau de chocolat. Laisser lever encore ces tas de pâte pendant 1/2 heure environ, toujours à l'abri des courants d'air !!!Faire chauffer l'huile sans qu'elle soit trop brûlante car les beignets seraient saisis et trop brunis. Dans l'huile frémissante, ils gonflent encore en cuisant. Sortir chaque beignet à l'écumoire et le faire rouler dans une assiette contenant du sucre en poudre, et une pincée de sel.Dans le mélange sucre et sel dans lequel vous faites rouler les beignets, selon les goûts, on peut ajouter de la canelle en poudre. café ou chocolat chaud
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25108">
+  <titre>Tartare de saumon et de daurade</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de saumon</p>
+    <p>200 g de daurade</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 échalotes</p>
+    <p>2 cuillères à soupe de poivre vert en saumure</p>
+    <p>1 citron</p>
+    <p>sel</p>
+    <p>100 g de jeunes pousses d'épinard</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement les échalotes. Ajouter le poivre vert, l'huile, le jus de citron et du sel.
+    Recouvrir les poissons de ce mélange et laisser mariner durant 24 heures.
+    Le jour-même : couper le pavé de saumon et le filet de daurade séparément en carrés de 1/2 cm de côté.
+    Verser le jus de la marinade sur chaque poisson. Mélanger et mettre au frais 10 minutes.
+    Monter les tartares (directement sur les assiettes ou à l'aide de cercles) : un peu de saumon, quelques feuilles d'épinards, la dorade, des épinards, à nouveau du saumon et terminer par quelques feuilles d'épinard.
+    Servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

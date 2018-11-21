@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63583">
+  <titre>Gâteau aux amandes, nappage chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 cuillères à soupe de poudre d'amande</p>
+    <p>5 cuillères à soupe d'huile (pas moins!)</p>
+    <p>5 cuillères à soupe de sucre en poudre</p>
+    <p>1 grosse cuillère à soupe de farine</p>
+    <p>2 gros oeufs</p>
+    <p>100 g de chocolat noir </p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour le gâteau:
+    Verser dans un récipient tous les ingrédients puis mélanger (sauf le chocolat et la crème fraîche). Verser dans un moule.
+    Faire cuire au four à 180°C (thermostat 6) environ 10 min (lorsque l'on place un couteau il doit ressortir propre).
+    Pour le nappage :
+    Faire fondre dans une casserole le chocolat et la crème fraîche puis étaler ce nappage sur le gâteau moelleux.
+    Servir tiède ou froid.
+    Bon appétit!
+    On peut remplacer la poudre d'amande par de la poudre de noisette mais dans ce cas il ne faut pas rajouter le nappage au chocolat.
+  ]]>
+  </preparation>
+</recette>

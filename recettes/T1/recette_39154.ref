@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39154">
+  <titre>Salade de fraise au vinaigre balsamique</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de fraises</p>
+    <p>2 ou 3 cuillères à soupe de sucre en poudre</p>
+    <p>1 ou 2 cuillères à soupe de vinaigre balsamique (selon les goûts de chacun) </p>
+    <p>Quelques feuilles de menthe fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les fraises en quatre, comme vous le faites pour n'importe quelle autre salade de fruits d'été. 
+    Saupoudrer de sucre les quartiers de fraise. 
+    Ajouter le vinaigre balsamique. 
+    Parsemer de feuilles de menthe fraîche.
+    Laisser macérer 10 mn au frigo avant de servir la salade.
+    Voilà une bien belle salade, qui sent bon l'été !
+  ]]>
+  </preparation>
+</recette>

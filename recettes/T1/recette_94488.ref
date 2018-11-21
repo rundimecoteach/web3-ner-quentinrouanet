@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94488">
+  <titre>Brownie rapide et facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>100 g de farine</p>
+    <p>200g de beurre</p>
+    <p>200 g de chocolat noir à patisserie</p>
+    <p>130 g de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat et le beurre au micro-onde.
+    Pendant ce temps, mélanger le sucre et les oeufs.
+    Mélanger les 2 préparations obtenues.
+    Ajouter la farine.
+    Ajouter les noix.
+    Beurrer un plat allant au four.
+    Y verser la préparation.
+    Mettre au four Th 200° pendant 20mn environ.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19907">
+  <titre>Taboulé aux pois chiches et à l'agneau</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de semoule de blé</p>
+    <p>250 g d'agneau cuit (restes de gigot ou de couscous)</p>
+    <p>250 g de pois chiches cuits</p>
+    <p>3 tomates</p>
+    <p>50 g de raisins secs blonds</p>
+    <p>1 poignée de menthe ciselée</p>
+    <p>1 poignée de coriandre ciselée</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>1/2 cuillère à café de cumin</p>
+    <p>1/2 cuillère à café de ras-el-hanout</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez cette recette la veille, pour la laisser bien mariner.
+    Faites tremper les raisins dans de l'eau tiède.
+    Arrosez la semoule d'huile, ajoutez les épices, les herbes et mélangez.
+    Ebouillantez les tomates 30 secondes, pelez-les, épépinez-les et coupez-les en morceaux. Découpez la viande en petits morceaux.
+    Ajoutez les pois chiches, les tomates, la viande et les raisins égouttés dans la semoule. Mélangez délicatement et réservez au frais jusqu'au lendemain.
+  ]]>
+  </preparation>
+</recette>

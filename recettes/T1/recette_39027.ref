@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39027">
+  <titre>Crawfish étouffée (Écrevisses à l'étouffée)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de queues d'écrevisses épluchées (avec leur graisse)</p>
+    <p>115 g de beurre</p>
+    <p>1 oignon épluché et émincé</p>
+    <p>1 poivron rouge en petits morceaux</p>
+    <p>3 ou 4 gousses d'ail écrasées</p>
+    <p>1 botte de ciboule émincée (oignons nouveaux)</p>
+    <p>150 ml de crème de celeri (ou de champignon pour les allergiques au céleri)</p>
+    <p>1 pincée de piment de cayenne ou plus, suivant les goûts</p>
+    <p>Sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans une cocotte : le beurre, l'oignon, le poivron, l'ail et la moitié des ciboules. Cuire à feu moyen, jusqu'à ce que ce soit tendre.
+    Ajouter les queues d'écrevisses, et cuire pendant environ 10 min.
+    Verser la soupe, assaisonner avec le piment, le sel et le poivre. Bien mélanger, et cuire encore à feu doux, pendant environ 5 min.
+    C'est prêt. Décorer le plat avec le reste des ciboules. 
+    Servir avec du riz.
+    Il s'agit d'un plat typique du Sud des États-Unis, en particulier de la Louisiane. Root beer pour ceux qui aiment, sinon un bon vin blanc c'est quand même meilleur.
+  ]]>
+  </preparation>
+</recette>

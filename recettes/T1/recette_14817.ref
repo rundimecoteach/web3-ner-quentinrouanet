@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14817">
+  <titre>Aubergines aux 5 épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 aubergine assez grosse</p>
+    <p>1 petite tomate</p>
+    <p>1/2 oignon</p>
+    <p>1 litre d'huile à friture</p>
+    <p>1 pincée de cumin antillais</p>
+    <p>1 cuillère à café de curcuma</p>
+    <p>1/2 cuillère à café de piment en poudre</p>
+    <p>1/2 cuillère à café de coriandre en poudre</p>
+    <p>1 pincée de garam massala</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'huile dans la bassine à friture. 
+    Laver, essuyer l'aubergine, la couper en dés de 2x2 cm, les jeter dans l'huile chaude et les faire frire jusqu'à coloration blond doré.
+    Les disposer sur du papier absorbant. Couper la tomate en petits dés, éplucher l'oignon et l'émincer.
+    Faire chauffer 1 cuillerée à soupe d'huile dans une poêle, y faire fondre les oignons, ajouter le cumin antillais, puis les dés de tomate, mélanger.
+    Ajouter le curcuma, le piment, la coriandre et le sel, et 1 cuillerée à soupe d'eau. Ajouter les dés d'aubergines frits, bien remuer. Laisser chauffer quelques minutes.
+    Ajouter au dernier moment la pincée de garam massala.
+    Nécessite d'avoir déjà chez soi quelques épices de base.
+  ]]>
+  </preparation>
+</recette>

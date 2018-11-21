@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21396">
+  <titre>Velouté de cresson sans pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 botte de cresson</p>
+    <p>50 cl de lait</p>
+    <p>1/2 cube de bouillon</p>
+    <p>25 cl d'eau bouillante</p>
+    <p>20 cl de crème fraîche</p>
+    <p>pluches de cerfeuil (selon le goût !)</p>
+    <p>noix de muscade</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le cresson.
+    Dans une casserole, faire chauffer pendant 30 min le cresson, le lait, l'eau et le bouillon.
+    Assaisonner de muscade râpé et de poivre. Mixer le tout et ajouter la crème fraîche.
+    Saupoudrer de cerfeuil et servir.
+    Ce potage se sert aussi froid. 
+  ]]>
+  </preparation>
+</recette>

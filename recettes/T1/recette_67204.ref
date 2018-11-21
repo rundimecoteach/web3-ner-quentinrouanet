@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67204">
+  <titre>Salade verte avocat surimi</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 salade verte (batavia, scarole)</p>
+    <p>2 avocats</p>
+    <p>6 bâtonnets de surimi</p>
+    <p>huile d'olive</p>
+    <p>le jus d'1/2 citron</p>
+    <p>cerfeuil (sec ou frais)</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez une sauce avec l'huile d'olive, le jus de citron, le cerfeuil, le sel et le poivre.
+    Ajoutez la salade, l'avocat en dés, le surimi coupé en petites tranches. 
+    Mélangez et régalez-vous!
+    Elle est encore meilleure servie avec du pain au graines de pavot. Vin blanc type St Véran
+  ]]>
+  </preparation>
+</recette>

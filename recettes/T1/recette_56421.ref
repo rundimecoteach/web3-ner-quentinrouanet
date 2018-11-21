@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56421">
+  <titre>Verrine de crevettes au guacamole</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de 180 g de guacamole épicé (Attention : celui que j'ai utilisé comprenait 86 % d'avocat, ce n'est pas le cas de tous les guacamoles vendus tout prêts)</p>
+    <p>1 brique de crème fraîche entière</p>
+    <p>150 à 200 g de mini crevettes cuites décortiquées et congelées</p>
+    <p>Sel, poivre et paprika doux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Monter une chantilly avec la brique de crème fraîche.
+    Mélanger le guacamole avec les crevettes et 1/3 de la chantilly, saler et poivrer.
+    Mettre ce mélange au fond de chacune des verrines y répartir au dessus le reste de chantilly et décorer avec un peu de paprika.
+    En amuse-gueule il faut utiliser de toutes petites verrines. Pour ma part, je l'ai servi en entrée dans de grosses verrines remplies au 3/4 et je les ai accompagnées d'une salade de poivrons.
+  ]]>
+  </preparation>
+</recette>

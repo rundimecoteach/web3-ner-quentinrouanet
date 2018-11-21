@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62241">
+  <titre>Gateau au yaourt sans oeufs</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 yaourts (natures)</p>
+    <p>2 pots de farine (pot de yaourt)</p>
+    <p>3 pots de sucre</p>
+    <p>1/2 pot d'huile</p>
+    <p>1 sachet de levure</p>
+    <p>beurre et farine pour le plat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7)
+    Mettre les yaourts dans un saladier. Mélanger la farine et la levure et les ajouter aux yaourts. Mélanger le sucre à la préparation et y verser la levure. Bien mélanger avec l'huile afin d'obtenir une texture homogène.
+    Etaler du beurre sur tout le plat à l'aide d'un essuie-tout (ou des doigts). Verser un peu de farine dans le plat et recouvrir toute la surface en inclinant la plat.
+    Déposer la préparation dedans et enfourner pendant 30 min environ. Vérifier la cuisson à l'aide d'un couteau propre.
+    Idéal pour les enfants en bas âge puisqu'il n'y a pas d'oeufs !Pour chemiser le plat, on peut remplacer la farine par du sucre, l'extérieur du gateau devient légèrement croustillant.
+  ]]>
+  </preparation>
+</recette>

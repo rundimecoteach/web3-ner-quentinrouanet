@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211754">
+  <titre>Tarte aux yaourts vanille cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>2 yaourts à boire (166 ml chacun)</p>
+    <p>1 cuillerée à soupe d'essence de vanille</p>
+    <p>1 cuillerée à soupe de cannelle</p>
+    <p>2 œufs</p>
+    <p>3 ou 4 cuillerées à soupe de sucre (à votre convenance)</p>
+    <p>1 cuillerée à soupe d'amidon de mais ou de farine (ingrédients facultatifs)</p>
+    <p>1 cuillerée à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la pâte au fond du moule et en piquer la surface.
+    La cuire à vide à 180°C (thermostat 6)pendant 5 min.Mélanger tous les ingrédients jusqu'à obtention d'une pâte liquide, dans l'ordre suivant : œufs, sucre, farine, yaourts, vanille, rhum et cannelle. Verser cette préparation sur la pâte feuilletée.
+    Mettre au four à 180°C (thermostat 6) durant 15 min.On peut ajouter des fruits en morceaux à la préparation. jus de fruits frais
+  ]]>
+  </preparation>
+</recette>

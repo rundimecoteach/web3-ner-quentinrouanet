@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64241">
+  <titre>Escalopes de saumon au cidre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de graines de couscous en sachets cuisson</p>
+    <p>2 escalopes de saumon</p>
+    <p>75 g de beurre</p>
+    <p>50 g de crème fraîche épaisse</p>
+    <p>125 ml de cidre brut</p>
+    <p>1 petite échalote hachée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réduire l'échalote hachée dans le cidre, saler et poivrer.
+    Ajouter la crème fraîche, laisser bouillir 2 min et incorporer le beurre en fouettant.
+    Faire cuire le saumon au four ou à la poêle.
+    Préparer le sachet de couscous selon le mode d'emploi.
+    Servir la semoule et les escalopes de saumon, puis napper avec la sauce au beurre/cidre.
+  ]]>
+  </preparation>
+</recette>

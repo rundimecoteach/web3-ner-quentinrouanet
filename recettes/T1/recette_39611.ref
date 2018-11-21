@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39611">
+  <titre>Croque monsieur aux légumes du soleil</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour 4 croques monsieur : </p>
+    <p>8 grandes tranches de pain de mie complet</p>
+    <p>16 tranches de petite courgettes un peu épaisse </p>
+    <p>4 jolies tranches de tomate, bien rondes et bien rouges</p>
+    <p>4 tranches de blanc de poulet</p>
+    <p>fromage de chèvre frais</p>
+    <p>gruyère</p>
+    <p>moutarde à l'ancienne</p>
+    <p>1 gousse d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites, légèrement, toaster le pain de mie (les tranches doivent être un peu "sèches", mais à peine colorées).Faites cuire les tranches de courgettes, à la vapeur, elles doivent rester assez fermes.
+    Tartinez 4 tranches de pain de mie avec une très légère couche de moutarde.
+    Posez, sur chaque tranche tartinée, 4 rondelles de courgettes (dans les coins), et 1 tranche de blanc de poulet retaillée.
+    Aillez, les 4 tranches de pain de mie restantes. Tartinez de chèvre frais, de chaque côté, avec un peu plus d'épaisseur, sur 1 côté. Recouvrir les croques, avec ces chapeaux, avec la face épaisse sur le dessus. 
+    Posez, sur chaque croque, 1 tranche de tomate au centre, et recouvrez de gruyère.
+    Laissez gratiner sous le grill, en surveillant pour que les croques ne sèchent pas trop.A déguster, avec une petite salade verte, par exemple.Une version estivale, du bon vieux croque-monsieur, et un peu moins bourrative que les autres, car sans béchamel.
+  ]]>
+  </preparation>
+</recette>

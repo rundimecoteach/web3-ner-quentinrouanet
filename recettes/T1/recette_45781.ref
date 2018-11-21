@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45781">
+  <titre>Salade composée à la sauce à la fleur d'oranger</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de laitue en sachet ou autre salade</p>
+    <p>3 tomates</p>
+    <p>2 oeufs</p>
+    <p>100 g de raisins sec</p>
+    <p>125 g de cernaux de noix</p>
+    <p>1 pomme coupée en quartier</p>
+    <p>Pour la sauce:</p>
+    <p>125 g de mayonnaise</p>
+    <p>3 cuilléres à soupe de vinaigre</p>
+    <p>1 cuillère à café d'arôme de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la pomme en petit quartier. Couper les tomates en rondelles.
+    Dans un plat, mélanger la laitue, les tomates, la pomme, les raisins secs, les cernaux de noix et les oeufs.
+    Pour la sauce mélanger la mayonnaise, le vinaigre et la fleur d'oranger.
+    Ajouter la sauce sur la salade.
+    C'est prêt, régalez-vous.
+  ]]>
+  </preparation>
+</recette>

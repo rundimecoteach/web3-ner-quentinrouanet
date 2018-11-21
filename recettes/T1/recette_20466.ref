@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20466">
+  <titre>Tarte gourmande aux groseilles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte brisée :</p>
+    <p>300 g de farine</p>
+    <p>150 g de beurre</p>
+    <p>1 pincée de sel</p>
+    <p>15 cl d'eau</p>
+    <p>Pour la garniture :</p>
+    <p>750 g de groseilles</p>
+    <p>150 g de sucre en poudre</p>
+    <p>6 jaunes d'oeufs</p>
+    <p>40 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la pâte : travaillez la farine et le beurre du bout des doigts, ajoutez le sel et l'eau. Travaillez rapidement et formez une boule. Laissez reposer 1h.
+    Etalez la pâte dans un moule à tarte, piquez à la fourchette.
+    Etalez les groseilles dessus.
+    Fouettez le sucre semoule avec les jaunes d'oeufs. Incorporez le lait progressivement et versez sur les groseilles.
+    Enfournez la tarte au four à 200°C (thermostat 6-7) et laissez cuire 35 à 40 min.
+  ]]>
+  </preparation>
+</recette>

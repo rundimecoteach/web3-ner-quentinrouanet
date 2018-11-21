@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13781">
+  <titre>Frita</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 tomates (mûres)</p>
+    <p>4 poivrons verts</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poivrons en petits morceaux, une fois nettoyés et débarrassés de leurs graines.
+    Les faire revenir dans de l'huile d'olive à feu fort dans un faitout.
+    Rajouter les oignons et l'ail coupés très fins eux aussi, remuer le tout pour roussir un peu. Baisser le feu et rajouter les tomates en petits morceaux (pelées si possible car c'est meilleur, après les avoir ébouillantées).
+    Laisser mijoter le tout à feu très doux en couvrant un peu : plus on laisse mijoter, meilleur c'est(2 heures de cuisson à feu très doux c'est encore mieux!).
+    Les légumes fondent, le temps de cuisson long est vraiment le secret de la réussite.
+    Saler et poivrer à votre convenance.
+    Cette préparation à base de légumes peut se manger en accompagnement d'une viande ou d'un poisson, ou avec des oeufs au platon peut aussi la présenter en tourte appelée alors 'koka': il suffit de disposer une pâte roulée feuilletée ou brisée selon votre préférence dans un plat à tarte, d'y mettre le mélange, de recouvrir de nouveau d'une pâte roulée, et de recouvrir d'un jaune d'oeuf.mettre ensuite à 200°C dans le four chaud entre 30 et 40 minutes, le temps que la tourte doreon la mange tiède, ou à température ambiante. C'est un plat idéal pour l'été.
+  ]]>
+  </preparation>
+</recette>

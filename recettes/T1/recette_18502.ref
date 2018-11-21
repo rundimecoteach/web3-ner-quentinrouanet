@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18502">
+  <titre>Terrine de fruits frais</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>175 g de beurre mou</p>
+    <p>125 g d'amandes en poudre</p>
+    <p>2 oeufs entiers</p>
+    <p>125 g de sucre</p>
+    <p>500 g de fruits frais (kiwis, poires, oranges ou framboises) </p>
+    <p>250 g de pignons</p>
+    <p>4 cuillères à soupe d'écorces d'oranges (facultatif) </p>
+    <p>1 coulis de fruits rouges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre, les amandes, les oeufs, le sucre. 
+    Rajoutes les fruits coupés en morceaux, les pignons et les écorces d'orange. 
+    Mettre ce mélange dans un moule à cake ou à charlotte. 
+    Mettre au frais plusieurs heures pour que le beurre durcisse. 
+    Démouler en trempant le moule rapidement dans l'eau chaude. 
+    Remettre au frais et servir cette terrine accompagnée d'un coulis de fruits rouges.Original et remporte un vive succès.
+  ]]>
+  </preparation>
+</recette>

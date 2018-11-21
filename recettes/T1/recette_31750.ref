@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31750">
+  <titre>Flan de crème pâtissière</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>1 gousse de vanille</p>
+    <p>9 jaunes d'oeufs</p>
+    <p>210 g de sucre en poudre</p>
+    <p>100 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le lait à feu doux dans une casserole avec sa gousse de vanille.
+    Pendant ce temps mélanger en ruban les oeufs et le sucre (garder les blancs d'oeufs pour faire une bonne mousse au chocolat).
+    Incorporer la farine afin d'obtenir un mélange bien lisse.
+    Retirer le lait du feu et en verser un petit peu sur la pâte, mélanger.
+    Puis, verser l'intégralité du lait et bien mélanger.
+    Remettre ensuite ce mélange sur le feu et faire chauffer quelques minutes en remuant constamment afin d'obtenir la consistance d'une crème.
+    Verser la crème obtenue dans un plat allant au four et laisser dorer pendant 45 minutes à four doux (thermostat 5/6, soit 165°C).
+    Laisser bien refoidir avant de servir afin que le flan tienne tout seul.
+  ]]>
+  </preparation>
+</recette>

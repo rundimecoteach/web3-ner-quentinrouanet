@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67180">
+  <titre>Poulet au maroilles et à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 cuisses de poulet fermier</p>
+    <p>1 oignon</p>
+    <p>50 g de beurre</p>
+    <p>10 cl de bière blonde (de garde type 3 monts de préférence)</p>
+    <p>250 g de maroilles</p>
+    <p>50 cl de crème fraîche épaisse</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper finement l’oignon. Saler (légèrement) et poivrer chaque cuisse de poulet.
+    Faire fondre le beurre dans une cocotte. Y faire revenir l'oignon coupé. Réserver.
+    Ajouter les cuisses de poulet et les faire dorer. Ajouter ensuite les oignons. Mouiller avec la bière puis couvrir.
+    Laisser cuire 45 minutes à feu moyen.
+    Si le jus réduit trop, ajouter un peu d’eau.
+    Ecroûter le Maroilles (facultatif, cela dépend des goûts) puis le couper en petits morceaux.
+    Ajouter le Maroilles à la crème fraîche et mélanger le tout.
+    Quand le poulet est cuit, ajouter le mélange Maroilles + crème fraîche. Laisser le Maroilles fondre pour obtenir une sauce onctueuse.
+    Accompagnement : pommes de terre vapeur, tagliatelles, haricots verts...
+  ]]>
+  </preparation>
+</recette>

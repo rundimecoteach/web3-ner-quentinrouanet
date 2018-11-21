@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20244">
+  <titre>Véritable gâteau des rois</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>525 g de farine</p>
+    <p>20 g de levure de boulanger</p>
+    <p>75 g de sucre</p>
+    <p>180 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>2 cuillères à café de zeste d'orange râpé</p>
+    <p>1 fève</p>
+    <p>du sucre en gros grains pour la déco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille : 
+    Délayer le levain dans très peu d'eau chaude et laisser le lever dans un bol couvert d'un film plastique au dessus d'une casserol d'eau tiède. (le bol ne doit pas toucher l'eau et le levain va doubler de volume). 
+    Pétrir la farine avec le beurre ramilli, ajouter une cuillère d'huile, une pincée de sel et le sucre. 
+    Ajouter les oeufs un par un en travaillant la pâte entre chaque oeuf. 
+    Ajouter le zeste d'orange puis le levain mais ne le travaillez pas trop avec la pâte. 
+    Laisser lever le tout dans un grand saladier recouvert d'un film plastique au dessus d'une casserole d'eau tiède : attention, elle va prendre beaucoup de volume !!. 
+    Ensuite, repliez la boule sur elle même et la mettre au frigo pour la nuit. 
+    Le lendemain : 
+    Former une couronne avec la pâte, dans un plat à tarte beurré, en soudant les deux bouts, puis laisser bien lever à l'abri des courant d'air !
+    Ajouter la fève, dorer au jaune d'oeuf, décorer des grains de sucre et mettre au four préchauffé, Th 5 pendant 20 mn. 
+    Décorer de fruits confits si vous le désirez.
+     champagne
+  ]]>
+  </preparation>
+</recette>

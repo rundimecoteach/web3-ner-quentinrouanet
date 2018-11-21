@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80899">
+  <titre>Tiramisu aux brownies</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>25O g de mascarpone</p>
+    <p>90 g de sucre</p>
+    <p>80 g de chocolat noir</p>
+    <p>3 oeufs</p>
+    <p>5 brownies</p>
+    <p>2 cuillères à soupe de cacao</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat au bain-marie. Mélanger le sucre avec les jaunes d'oeufs puis fouetter au batteur électrique pendant quelques minutes.
+    Mélanger le mascarpone et le chocolat dans un autre bol. Monter les blancs d'oeuf en neige bien ferme. 
+    Mélanger le sucre-jaune d'oeuf et le mascarpone au chocolat, puis incorporer délicatement les blancs d'oeuf. 
+    Emietter la moitié des brownies dans un plat. Verser dessus la moitié de la préparation, metter le reste des brownies, puis verser le reste de la préparation.
+    Saupoudrer le reste de la préparation.
+    Placer au réfrigérateur quelques heures.
+     Champagne ou Gewurtzraminer d'Alsace
+  ]]>
+  </preparation>
+</recette>

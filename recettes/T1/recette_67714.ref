@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67714">
+  <titre>Pigeonneaux aux 3poivres</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pigeons</p>
+    <p>2 sachets de sauce aux trois poivres</p>
+    <p>125 g de noix de cajou</p>
+    <p>4 gros oignons </p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>30 cl d'eau</p>
+    <p>2 cl de cognac</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 dose de safran</p>
+    <p>cerfeuil hache</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les pigeons en 2, les faire revenir dans l'huile 5 min, puis flamber au cognac.
+    Ajouter le beurre, les oignons émincés, les noix de cajou, le safran.
+    Verser le bouillon préparé, laisser cuire doucement à couvert 40 min en remuant de temps en temps.
+    Ajouter le cerfeuil.
+    Préparer la sauce aux 3poivres et en napper les pigeons.
+    Servir avec des pommes de terre coupées en dés et champignons de paris rissolés. côtes de bourg
+  ]]>
+  </preparation>
+</recette>

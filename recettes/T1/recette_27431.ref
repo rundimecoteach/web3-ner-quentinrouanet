@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27431">
+  <titre>Crème de courgette Marylou</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>1 cuillère à soupe de moutarde forte</p>
+    <p>2 cuillères à soupe de crème</p>
+    <p>gruyère râpé (facultatif) </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, émincer les courgettes en tranches de 0,5 cm d'épaisseur. 
+    Mettre les courgettes dans une casserole, les recouvrir d'eau. Saler, porter à ébullition et laisser cuire pendant 15 mn. 
+    Mixer, ajouter la crème et la moutarde. 
+    Servir et parsemer de gruyère à votre goût !!!
+    Excellent !!! Recette simple qui m'a été conseillée par ma belle maman !!! Une soupe originale, douce et subtile... Bref on en redemande !!!
+  ]]>
+  </preparation>
+</recette>

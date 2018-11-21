@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23530">
+  <titre>Haddock, sauce onctueuse à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>650 g de haddock</p>
+    <p>1 l de lait</p>
+    <p>2 cuillères à soupe de maïzena ou de farine</p>
+    <p>80 g de crème fraîche</p>
+    <p>1 oeuf</p>
+    <p>1 citron</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>poivre, thym, laurier, persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Amenez la moitié du lait à ébullition avec le thym, le laurier, le persil et du poivre. Pochez-y le haddock durant 15 minutes, sans faire bouillir.
+    Délayez la maïzena dans un peu de lait froid. Portez le reste du lait à ébullition et versez-y la maïzena. Laissez cuire quelques minutes en remuant constamment jusqu'à ce que le mélange ait épaissi.
+    Hors du feu ajoutez le mélange oeuf-crème. Assaisonnez de poivre (pas de sel, le haddock est très salé) et de la moutarde délayée dans le jus de citron.
+    Egouttez le haddock, nappez-le de sauce et saupoudrez de persil haché.
+  ]]>
+  </preparation>
+</recette>

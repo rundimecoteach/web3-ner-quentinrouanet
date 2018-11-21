@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86187">
+  <titre>Tarte feuilletée aux légumes d'été</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>2 courgettes</p>
+    <p>1 poivron vert</p>
+    <p>1 poivron rouge</p>
+    <p>1 oignon</p>
+    <p>emmental râpé</p>
+    <p>sel, piment d'Espelette</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer l'oignon et les poivrons en lamelles et les courgettes en rondelles.
+     
+    Dans une sauteuse, faire revenir l'oignon dans un peu d'huile d'olive jusqu'à ce qu'il soit doré. Saler et pimenter. 
+    Ajouter les poivrons, puis les courgettes.
+    Laisser cuire à feu moyen avec le couvercle.
+     
+    Étaler la pâte feuilletée dans un plat à tarte. Répartir la garniture et parsemer d'emmental râpé.
+    Faire cuire 20 minutes au four préchauffé à 210°C
+     
+    Accompagner d'une salade verte.
+  ]]>
+  </preparation>
+</recette>

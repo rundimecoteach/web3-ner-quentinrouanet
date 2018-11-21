@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57519">
+  <titre>Aubergines farcies aux oignons caramélisés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse aubergine</p>
+    <p>2 oignons</p>
+    <p>4 cuillères à soupe de fromage blanc</p>
+    <p>4 tomates séchées</p>
+    <p>sel, poivre, basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez l'aubergine, coupez-la en 2 moitiés et précuisez-la.
+    Pendant ce temps, émincez les oignons et faites les compoter puis caraméliser à feu doux.
+    Mélangez la chair des aubergines, le fromage blanc, les oignons, les tomates émincées et les épices.
+    Remplissez équitablement les 2 coques et enfournez 45 min à 250°C (thermostat 8-9).
+  ]]>
+  </preparation>
+</recette>

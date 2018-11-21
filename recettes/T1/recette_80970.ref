@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80970">
+  <titre>Tarte tatin au boudin et aux pommes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 boudins noirs</p>
+    <p>4 pommes</p>
+    <p>1 noix de beurre</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1 pâte feuilletée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les boudins en rondelles, sortir la peau et les disposer dans le fond d'un moule à tarte. Eplucher et couper les pommes en lamelles.
+    Faire fondre le beurre dans une poêle, y faire dorer les pommes avec le sucre.
+    Elles doivent être tendres, sans être totalement cuites, les verser sur le boudin.
+    Etaler la pâte feuilletée en faisant rentrer les bords et faire cuire environ 30 min à 180°C.
+    Manger sans attendre, accompagnée d'une salade verte.
+    Cette tarte peut-être servie en plat principal, dans ce cas, pour 4 personnes.
+  ]]>
+  </preparation>
+</recette>

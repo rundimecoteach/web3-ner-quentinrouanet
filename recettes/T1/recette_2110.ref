@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="2110">
+  <titre>Velouté de courgettes au carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Carrés Frais Yaourt</p>
+    <p>4 courgettes (taille moyenne à petite, pour ne pas avoir à épépiner... et elles sont plus savoureuses!) </p>
+    <p>1 blanc de poireau assez dodu</p>
+    <p>2 tablettes de bouillon de poule (sans matières grasses, c'est encore mieux)</p>
+    <p>1 litre d'eau (du robinet...)</p>
+    <p>pluches de cerfeuil, ou quelques feuille de basilic, ainsi qu'un peu de paprika, ou quelques filaments de safran, pour la touche finale.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillr l'eau, avec les 2 tablettes de bouillon de poule.
+    Après avoir supprimer les extrémités des courgettes et les éventuelles radicelles du poireau, les détailler en tronçons d'environ 1 cm.
+    Commencer par mettre le poireau dans l'eau, même si elle ne bout pas encore, continuer de détailler les courgettes. Quand l'eau bout, jeter les courgettes.
+    Fermer l'autocuiseur. Compter 5 min après la mise sous pression, signalée par le tchiiipp-tchiip habituel.
+    Ouvrir.
+    Ajouter les 4 carrés frais Yaourt.
+    Mixer au mixeur plongeant (ou au blender).
+    Servir dans des petites soupières individuelles, avec quelques pluches de cerfeuil, quelques filaments de safran, ou une touche de paprika (pour le contraste rouge/vert).
+    Les personnes ne surveillant pas leur ligne peuvent ajouter quelques croûtons de pain aillés et revenus à l'huile d'olive...
+  ]]>
+  </preparation>
+</recette>

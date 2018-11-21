@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26566">
+  <titre>Crêpes à la banane flambées</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 bananes bien mûres</p>
+    <p>12 crêpes</p>
+    <p>50 g de beurre</p>
+    <p>100 g de sucre en poudre</p>
+    <p>10 cl de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirez la peau des bananes. Coupez-les en deux dans le sens de la longueur. Faites-les dorer dans le beurre bien chaud. Saupoudrez de la moitié du sucre et laissez-les caraméliser légèrement. 
+    Enroulez chaque demi-banane dans une crêpe.
+    Disposez les crêpes sur un plat qui ne craint pas la chaleur et saupoudrez du reste de sucre.
+    Faites chauffer le rhum et arrosez-en les crêpes. Flamber aussitôt.
+  ]]>
+  </preparation>
+</recette>

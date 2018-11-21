@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24773">
+  <titre>Salade de pommes de terre à la belge</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de pommes de terre</p>
+    <p>400 g de haricots verts</p>
+    <p>2 tranches épaisses de jambon de pays </p>
+    <p>2 oignons</p>
+    <p>30 g de beurre</p>
+    <p>3 cuillères à soupe de jus de viande de type Viandox ou de sauce de soja</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>sel, persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'eau bouillante salée 30 min environ et les haricots verts à l'eau salée 15 min. Egouttez les.
+    Détaillez les légumes en cubes et en tronçons, le jambon en lanières. Hachez l'oignon.
+    Faites revenir le jambon dans le beurre chaud à la poêle, à feu vif.
+    Ajoutez l'oignon, faites colorer légèrement et versez le vinaigre et le jus de viande. Laissez mijoter quelques instants.
+    Versez le tout sur les haricots et pommes de terre, saupoudrez de persil.
+    Mélangez délicatement et servez.
+  ]]>
+  </preparation>
+</recette>

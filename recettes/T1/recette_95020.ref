@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95020">
+  <titre>Galette charentaise façon Mignet</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200g farine</p>
+    <p>2 oeufs</p>
+    <p>200g sucre</p>
+    <p>100g beurre</p>
+    <p>1 pincee de sel</p>
+    <p>jus et zest d'un citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Melanger l'ensemble des ingredients jusqu'a obtenir un melange homogene.
+    Faire cuire au four a 220 degres.
+    Vous pouvez ajouter des morceaux d'angelique
+  ]]>
+  </preparation>
+</recette>

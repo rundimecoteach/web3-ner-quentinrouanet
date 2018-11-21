@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41768">
+  <titre>Pain au crabe et aux crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 cuillères à café de margarine</p>
+    <p>100 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>3 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>90 g de gruyère râpé</p>
+    <p>300 g de crabe en boîte</p>
+    <p>120 g de crevettes cocktail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C (thermostat 7-8).
+    Faire fondre la margarine.
+    Mélanger la farine avec la levure. Ajouter les oeufs, le lait et la margarine. Saler, poivrer.
+    Ajouter le fromage, le crabe et les crevettes.
+    Faire cuire au bain-marie 30 min environ.
+    Bon appétit!
+  ]]>
+  </preparation>
+</recette>

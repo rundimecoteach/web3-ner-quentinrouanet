@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23569">
+  <titre>Tian de figues à l'huile d'olive et au vin blanc</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de figues fraîches</p>
+    <p>150 g de farine</p>
+    <p>3 oeufs</p>
+    <p>6 cl d'huile d'olive</p>
+    <p>3 cuillères à soupe de vin blanc doux ou de muscat</p>
+    <p>150 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>20 g de beurre pour le plat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à Th 7 (210°C). Beurrer un plat à gratin. 
+    Couper les figues en tranches avec la peau et les disposer dans le plat sauf les 10 plus belles. 
+    Fouetter les oeufs avec le sucre + sucre vanillé jusqu'à ce qu'ils blanchissent. Incoporer l'huile d'olive et le vin blanc, puis la farine tamisée avec la levure et le sel : le mélange doit être lisse. 
+    Le verser dans le moule et le garnir avec le reste des tranches de figues. 
+    Faire cuire 35 mn au four jusqu'à ce que le tian soit bien doré. 
+    Laisser refroidir et déguster.
+  ]]>
+  </preparation>
+</recette>

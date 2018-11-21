@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68437">
+  <titre>Tarte aux amandes rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>150 g de sucre</p>
+    <p>150 g d'amandes en poudre</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte brisée "à blanc" pendant 15 min à 180°C (thermostat 6).
+    Une fois cuite, la recouvrir du mélange sucre - amandes - oeufs.
+    Laisser cuire 30 min. Déguster tiède ou froid.
+    Des poires coupées en lamelles peuvent être ajoutées sur le dessus du gâteau une fois celui-ci cuit.
+  ]]>
+  </preparation>
+</recette>

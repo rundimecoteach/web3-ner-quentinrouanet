@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73889">
+  <titre>Gâteau moelleux rhum orange</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de sucre</p>
+    <p>150 g de farine </p>
+    <p>1 sachet de levure chimique</p>
+    <p>100 g de semoule moyenne</p>
+    <p>4 oeufs</p>
+    <p>125 g de beurre</p>
+    <p>2 oranges non traitées</p>
+    <p>Pour le sirop:</p>
+    <p>25 cl de rhum ambré</p>
+    <p>1 orange</p>
+    <p>50 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez énergiquement 250 g de sucre et 4 oeufs jusqu'à ce que le mélange blanchisse.
+    Pressez le jus de 2 oranges et prélevez les zestes.
+    Faites fondre le beurre. 
+    Ajoutez à la préparation le beurre fondu, la farine et la levure, la semoule, le jus d'orange et les zestes.
+    Enfournez le tout 30 min.
+    Sirop:
+    Faites chauffer le le rhum, le sucre et le jus d'une orange à la casserole, sur feu doux, une dizaine de minutes.
+    Dès sa sortie du four, nappez le gâteau de sirop (attention de ne pas vous brûler!).  
+    Servez frais, c'est bien meilleur !
+    Excellent dessert, pas compliqué du tout.
+  ]]>
+  </preparation>
+</recette>

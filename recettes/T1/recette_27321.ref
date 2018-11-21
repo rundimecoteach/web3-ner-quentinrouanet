@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27321">
+  <titre>Bricks au thon et chèvre frais</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>1 chevre frais de 200 g</p>
+    <p>1 boîte de thon au naturel de 200 g</p>
+    <p>8 lamelles de comté</p>
+    <p>1 cuillère à café de crème fraîche</p>
+    <p>graines de fenouil</p>
+    <p>graines de cumin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger le chèvre, le thon émietté entre les doigts et la crème fraîche. 
+    Verser sur chaque feuille de brick 1/4 de la préparation, parsemer de fenouil et de cumin (quelques graines suffisent dans chaque brick) et terminer par 2 lamelles de comté. 
+    Refermer les bricks, les faire revenir à la poêle dans l'huile d'olive jusqu'à ce qu'elles soient dorées. 
+    Servir chaud sur un lit de salade.
+    En doublant les quantités, cette entrée peut devenir un plat principal familial : idéal pour faire manger du thon aux enfants !
+  ]]>
+  </preparation>
+</recette>

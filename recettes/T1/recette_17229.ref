@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17229">
+  <titre>Fondue comtoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de Comté du Jura (ou Gruyère Suisse, ou Beaufort) </p>
+    <p>50 g d'appenzeller</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>3 cl de Kirsch (ou d'eau de vie de poire)</p>
+    <p>1 gousse d'ail</p>
+    <p>pain légèrement rassis coupé en dés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien frotter le caquelon (en terre ou en fonte) avec l'ail.
+    Couper le fromage en fines lamelles et le déposer dans le caquelon, poivrer, saler légèrement car le fromage est salé, verser par dessus le vin blanc.
+    Cette préparation peut attendre quelques instants avant la cuisson.
+    Faire chauffer en remuant sans arrêt en faisant des huits avec une cuillère en bois.
+    Quand le fromage est fondu et bien onctueux, ajouter le verre de Kirsch. Tourner encore un peu, sans aller jusqu'à la grosse ébulition, puis servir la fondue, maintenue à bonne température sur un réchaud à alcool.Pour les gourmands et bons mangeurs, prévoir 200 g de fromage par personne.
+    Ne pas prendre un fromage trop jeune. Si la fondue est trop liquide, délayer le verre de liqueur avec une cuillère à café de maïzena. vin blanc du Jura (ou du Bugey, de Savoie ou d'Alsace)
+  ]]>
+  </preparation>
+</recette>

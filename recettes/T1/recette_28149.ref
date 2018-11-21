@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28149">
+  <titre>Champignons farcis végétariens au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 gros champignons</p>
+    <p>150 g de mie de pain</p>
+    <p>150 g de gruyère râpé</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de lait concentré non sucré</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 pincées de noix de muscade</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Couper le bout terreux des champignons, les laver et les équeuter. Passer les chapeaux de champignons au four pendant 10 min.
+    Mettre la mie de pain à tremper dans du lait concentré puis battre les oeufs.
+    A l'aide d'un mixeur, hacher la mie de pain, le persil, l'ail, la noix de muscade et les oeufs battus. Saler et poivrer.
+    Farcir les chapeaux sortis du four avec la préparation mixée. Les saupoudrer de gruyère râpé puis les enfourner 15 min pour faire gratiner.
+    Pour les carnivores, accompagnez d'une côte de veau.
+  ]]>
+  </preparation>
+</recette>

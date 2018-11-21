@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69167">
+  <titre>Salade Kiwi, avocat, magret fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une plaque de magret fumé</p>
+    <p>5 ou 6 kiwis</p>
+    <p>1 bel avocat (ou deux petits)</p>
+    <p>vinaigre de framboise</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détaillez les kiwis et l'avocat en dés. Coupez chaque tranque de magret fumé en deux ou trois.
+    Assaisonnez de sel (très légèrement) de poivre et de 4 à 5 cuillères à soupe de vinaigre de framboise.
+    Mélangez le tout, c'est prêt !
+  ]]>
+  </preparation>
+</recette>

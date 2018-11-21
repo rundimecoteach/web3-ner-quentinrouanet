@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87555">
+  <titre>Béchamelle de bananes jaunes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 bananes jaunes mûres</p>
+    <p>4 pommes de terre (de taille moyenne)</p>
+    <p>1 oignon</p>
+    <p>200 g de lardons fumés</p>
+    <p>200/300 g de crème légère liquide</p>
+    <p>50 g de parmesan</p>
+    <p>20 cl de lait</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>sel si besoin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes de terre, coupez-les en morceaux (des cubes moyens) et mettez-les à cuire dans de l'eau bouillante salée. 
+    Epluchez les bananes jaunes et coupez-les en rondelles. Ajoutez-les à l'eau bouillante.
+    Pendant ce temps, dans une poêle légèrement huilée, faites dorer les lardons. Ajoutez par la suite
+    l'oignon haché. Laissez dorer puis verser la crème légère. Remuez et éteignez le feu.
+    Une fois les légumes cuits, égouttez et versez-les dans la préparation, ajoutez le verre de lait. 
+    Dans un verre, mélangez un peu d'eau avec la farine (on obtient une crème onctueuse), versez la dans la casserole.
+    Remuez et ajoutez du parmesan. Rectifiez l'assaisonnement si besoin.
+    Servez chaud.
+    Ce plat peut être dégusté seul, mais est très bien accompagné d'une viande quelconque (du poulet par exemple). Bon Appétit
+  ]]>
+  </preparation>
+</recette>

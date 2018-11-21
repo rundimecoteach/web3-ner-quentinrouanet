@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52392">
+  <titre>Pudding express</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>110 g de beurre en morceaux</p>
+    <p>225 g de farine à levure incorporée (ou farine normal + 1/3 d'un sachet de levure)</p>
+    <p>200 g de sucre en poudre</p>
+    <p>50 g de cacao</p>
+    <p>30 cl de lait</p>
+    <p>de l'extrait de vanille ou de la cannelle du 4 épices</p>
+    <p>3 à 4 cuillères à soupe de miel </p>
+    <p>50 cl d'eau bouillante</p>
+    <p>raisins secs, oranges confites, amandes effilées, chocolats à la cerise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre 60 g de beurre dans un grand plat allant au micro-ondes(1 min à puissance maximum).
+    Ajoutez la farine, 2/3 du cacao et le sucre (mélangez les 3 dans un récipient, c'est plus facile) dans le beurre fondu, en plusieurs fois (au moins 3, si ce n'est pas 4); surtout la première cuillère à soupe. 
+    Mouillez progressivement avec le lait (un petit peu à chaque fois) : mélange cacao, sucre, farine, lait, mélange CSF, lait, mélange CSF, lait... 
+    Attention, ça fait des grumeaux, donc allez-y doucement, au fouet.
+    Une fois la pâte homogène, ajoutez la vanille, cannelle ou fruits secs...
+    Dans un autre récipient, mélangez le reste du cacao avec l'eau bouillante et ajoutez le miel dans l'eau pour le faire fondre. 
+    Puis ajoutez-y le reste du beurre en morceaux, et mélangez jusqu'a ce que le beurre soit fondu.
+    Versez délicatement le sirop (eau, sucre, cacao) sur la pâte à gâteau. Ca fait un truc bizzare : une pate à gateau normal avec dessus un liquide marron, c'est normal!
+    Faites cuire le pudding 15 min au four micro-ondes (puissance maximal). vérifiez la cuisson à l'aide de la pointe d'un couteau qui doit ressortir propre du gâteau.
+    Laissez reposer 5 min, et servez chaud dans des coupelles : ça fait un gâteau génoise avec une espèce de sauce... Avec une boule de glace à la vanille ou une crème fouettée.
+  ]]>
+  </preparation>
+</recette>

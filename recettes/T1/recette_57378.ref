@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57378">
+  <titre>Filet de dinde au Pineau de Charentes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg filet de dinde</p>
+    <p>1 boîte de raisins sans pépins au jus sans sucre</p>
+    <p>20 cl de crème fraîche</p>
+    <p>10 cl de Pineau de Charentes</p>
+    <p>beurre</p>
+    <p>1 cuillère à café de maïzena (épaississant pour sauce)</p>
+    <p>sel, poivre, poivre de cayenne + paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fonde l'équivalent de 2 cuillères à soupe de beurre.
+    Faire dorer le rôti de dinde à feu vif, ensuite cuire à feu doux.
+    Y ajouter 15 cl de jus de raisins.
+    Saler, poivrer et laisser mijoter.
+    Quand cuisson terminée, sortir le rôti, le laisser au chaud. 
+    Ajouter 10 cl de Pineau de Charentes au fond de cuisson et bien détacher les "sucs".
+    Cuire à feur vif.
+    Ajouter 5 cl de jus de raisin.
+    Ensuite à feu plus doux, ajouter la crème fraîche, laisser épaissir.
+    Ajouter 1 pointe de poivre de Cayenne et 1 pointe de paprika ainsi que les raisins égouttés.
+     
+    Servir avec des croquettes ou pommes duchesses.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71104">
+  <titre>Délice aux fraises facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 petits beurre </p>
+    <p>12 fraises</p>
+    <p>4 liégeois au chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecrasez les petits beurre en tout petits morceaux dans un saladier.
+    Séparez la chantilly du chocolat liégeois puis mélangez-le aux petits beurre.
+    Coupez la moitié des fraises en rondelles et disposez-les au fond de chaque ramequin puis étalez une couche de chocolat par dessus.
+    Renouvelez l'opération une fois puis terminez en posant un peu de chantilly et une demi fraise.
+    A déguster bien frais!
+  ]]>
+  </preparation>
+</recette>

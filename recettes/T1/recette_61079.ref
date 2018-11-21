@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61079">
+  <titre>Salade de pâtes aux légumes du sud, sauce pistou</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de pâtes (fusilli de préférence)</p>
+    <p>1 aubergine</p>
+    <p>1 courgette</p>
+    <p>5 tomates</p>
+    <p>1/2 poivron jaune</p>
+    <p>huile d'olive</p>
+    <p>1 gousse d'ail</p>
+    <p>1 branche de basilic</p>
+    <p>50 g de pignons de pin</p>
+    <p>40 g de parmesan</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'eau pour les pâtes.
+    Après les avoir bien nettoyés, couper en morceaux l'aubergine, la courgette, le 1/2 poivron et 3 tomates. Les faire revenir 15 minutes dans un faitout avec de l'huile d'olive, sel, poivre. Arroser d'huile d'olive si besoin en cours de cuisson.
+    Une fois les pâtes cuites, les rincer à l'eau froide.
+    Pour la sauce au pistou : mixer l'ail haché avec le basilic ciselé, les pignons, le parmesan et de l'huile d'olive (la sauce doit avoir une consistance pas trop liquide).
+    Mélanger les pâtes avec les légumes et le pistou. Laisser refroidir au frigo.
+    Au moment de servir, ajouter 1/2 tomate crue, coupée en rondelles, par assiette, assaisonnée de sel, poivre, basilic et huile d'olive.
+    Régalez-vous !!
+  ]]>
+  </preparation>
+</recette>

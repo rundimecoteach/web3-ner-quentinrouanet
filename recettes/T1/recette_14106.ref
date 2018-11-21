@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14106">
+  <titre>Bouillabaisse de poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>blancs de poulet coupé en morceaux</p>
+    <p>1 oignon</p>
+    <p>1 fenouil</p>
+    <p>1 zeste d'orange</p>
+    <p>3 anis étoilé (ou badiane, se trouve en pharmacie)</p>
+    <p>1 boîte de fond de volaille</p>
+    <p>1 dl de pastis</p>
+    <p>1 cuillère à café de concentré de tomates</p>
+    <p>1 dose de safran</p>
+    <p>sel et poivre</p>
+    <p>thym, laurier</p>
+    <p>une boite de rouille (au rayon épices)</p>
+    <p>croûtons de pain grillés</p>
+    <p>gousses d'ail épluchées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un peu d'huile, faire fondre oignon et fenouil émincés sans les laisser colorer. 
+    Déglacer au pastis et laisser réduire. Mouiller avec le fond de volaille dilué dans un litre d'eau.
+    Ajouter le concentré de tomates, l'anis étoilé, le zeste d'orange, safran, sel, thym, laurier et poivre.
+    Porter à ébullition, ajouter le poulet à cette préparation. Laisser cuire 25 minutes à feu doux.
+    Faire cuire des pommes de terre à l'eau à part. Les rajouter dans le plat au dernier moment.
+    Si vous aimez les parfums de la Provence, servir avec des croûtons grillés accompagnés d'ail et de rouille. Chaque convive frotte son pain grillé avec l'ail et rajoute de la rouille sur son pain.
+    Un mélange de d'arômes extraordinaire. Rosé de provence
+  ]]>
+  </preparation>
+</recette>

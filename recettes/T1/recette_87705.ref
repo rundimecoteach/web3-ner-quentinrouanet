@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87705">
+  <titre>Mhalabia (flan oriental)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>6 c. à s. de farine de riz</p>
+    <p>5 c. à s. de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>3 c. à s. d'eau de fleur d'oranger</p>
+    <p>Cannelle en poudre</p>
+    <p>Amandes pilées ou raisins secs (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans une casserole le lait, le sucre, la farine de riz et le sucre vanillé. Porter à ébullition sans cesser de mélanger jusqu'à épaississement du mélange.
+    Retirer du feu. Ajouter l'eau de fleur d'oranger. Mélanger.
+    Verser dans des petits ramequins et mettre au réfrigérateur pendant au moins 1 heure.
+    Saupoudrer de cannelle. Ajouter quelques grains de raisins secs ou des amandes pilées selon les goûts.  
+    Servir froid.
+    Excellent dessert pour un menu oriental type tajine, pastilla...
+  ]]>
+  </preparation>
+</recette>

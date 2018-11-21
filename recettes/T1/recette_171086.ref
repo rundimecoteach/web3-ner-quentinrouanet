@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171086">
+  <titre>Côte de boeuf grillée à la sauce moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 côte de boeuf de 1 kg en comptant 250 g par personne</p>
+    <p>4 cuillères à soupe de moutarde forte de Dijon</p>
+    <p>4 gousses d'ail</p>
+    <p>1/2 bouquet de persil frisé</p>
+    <p>thym frais ou séché (je préfère le frais)</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Monter la sauce au fouet avec la moutarde et l'huile d'olive. Ajouter l'ail et le persil haché. Ajouter également le thym.
+    Saler et poivrer la côte et l'enduire de chaque côté de cette préparation. Laisser macérer au frais une bonne heure.
+    Allumer le barbecue et lorsque la braise est bonne, mettre la côte à griller en prenant soin de la retourner régulièrement jusqu'à obtenir la cuisson désirée.
+    Une fois cuite, remettre la côte dans la sauce et la retourner pour bien l'enduire et laisser reposer 5 min avant de découper.
+    Bon appétit.Accompagné d'une bonne salade type Iceberg, c'est un délice. A cuire de préférence au barbecue ou à défaut au grill. Un bon côte du Rhone
+  ]]>
+  </preparation>
+</recette>

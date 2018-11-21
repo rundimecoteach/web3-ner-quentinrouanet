@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29498">
+  <titre>Gratin de pourpier provençal</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pourpier</p>
+    <p>1 anchois</p>
+    <p>2 tranches de pain de mie</p>
+    <p>10 cl de lait</p>
+    <p>3 cuillères à soupe de chapelure</p>
+    <p>75 g de fromage râpé</p>
+    <p>1 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper le pain dans le lait.
+    Lavez le pourpier et égouttez-le bien. Faites-le cuire dans une grande sauteuse avec un fond d'huile, l'ail et l'anchois pilés. Salez, poivrez.
+    Laissez revenir jusqu'à ce qu'il soit tendre. Ajoutez la mie de pain essorée et mélangez.
+    Etalez le mélange dans un plat à gratin huilé, parsemez de chapelure et de fromage râpé.
+    Faites gratiner 10 minutes au four très chaud ou quelques minutes seulement sous le grill.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21936">
+  <titre>Chou farci à l'auvergnate</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou vert ou blanc</p>
+    <p>300 g de hachis de porc et de veau mélangé</p>
+    <p>2 oignons</p>
+    <p>sel et poivre</p>
+    <p>quatre-épices</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>100 g de lard en grandes tranches</p>
+    <p>1 carotte</p>
+    <p>20 g de beurre</p>
+    <p>50 cl de bouillon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger intimement la viande, 1 oignon haché, le persil et un peu de quatre-épices. Saler et poivrer.
+    Préparer le chou en ôtant les feuilles abîmées, raccourcir le trognon et l'inciser pour en retirer le maximum sans détacher les feuilles.
+    Le mettre dans une grande casserole remplie d'eau froide. Faire chauffer doucement jusqu'à ébullition, puis retirer le chou, le laisser égoutter et refroidir un peu.
+    Presser légèrement pour éliminer le restant d'eau, puis rabattre délicatement et une à une les feuilles vers l'extérieur en allant jusqu'au coeur.
+    Retirer le coeur du chou, le hacher et l'incorporer à la farce.
+    Remplacer le coeur par la farce. Rabattre quelques feuilles, et répartir le reste de farce entre les feuilles, en reconstituant le chou au fur et à mesure pour lui redonner sa forme.
+    Disposer 2 ficelles de cuisine en croix, déposer dessus une barde de lard. Poser le chou, le recouvrir avec la barde, puis avec la deuxième.
+    Ficeler le chou en relevant les ficelles.
+    Dans une cocotte beurrée, faire un lit avec 1 oignon et la carotte émincés. Poser le chou dessus, mouiller avec le bouillon.
+    Porter le tout à ébullition puis laisser cuire à feu très doux, 2h à 2h30 en surveillant pour que ça n'attache pas.
+    Servir en quartier après avoir ôté les ficelles.
+  ]]>
+  </preparation>
+</recette>

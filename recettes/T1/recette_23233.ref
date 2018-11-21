@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23233">
+  <titre>Glace biscuitée à la fraise</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>36 biscuits à la cuillère aux oeufs frais</p>
+    <p>110 g de fraises</p>
+    <p>225 g de crème liquide</p>
+    <p>260 g de sucre</p>
+    <p>18 cl d’eau</p>
+    <p>5 jaunes d'oeufs</p>
+    <p>kirsch</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les fraises.
+    Dans une casserole, diluer l’eau et 180 g de sucre puis porter à ébullition.
+    Incorporer les jaunes d’oeufs battus en omelette et fouetter le tout jusqu’à ce que la préparation frémisse. Laisser refroidir.
+    Monter la crème froide en chantilly.
+    Dans un saladier, battre la crème liquide avec le sucre restant, le sirop aux jaunes d’oeufs, la purée de fraise et la chantilly.
+    Dans une assiette, tremper rapidement les biscuits dans un fond de kirsch et d'eau.
+    Verser par couche successive, dans un moule à cake, les biscuits et la crème, en terminant par la crème, et placer le tout dans le congélateur pendant 12 heures.
+    Sortir du froid au moins 15 minutes avant de consommer et démouler.
+  ]]>
+  </preparation>
+</recette>

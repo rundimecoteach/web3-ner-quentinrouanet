@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50261">
+  <titre>Semoule de riz à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de semoule de riz</p>
+    <p>1 litre de lait</p>
+    <p>75 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>cannelle</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser le lait dans une casserole et le faire bouillir, saler. 
+    Verser la semoule dedans, petit à petit, et mélanger. 
+    Laisser ensuite cuire à feu doux pendant environ 8 min, remuer de temps en temps. 
+    Ajouter ensuite le sucre, le sucre vanillé et la cannelle. 
+    Verser le mélange dans un plat, puis laisser refroidir.
+    On peut aussi servir tiède.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23772">
+  <titre>Chili Parmentier</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de boeuf hâché</p>
+    <p>1 oignon</p>
+    <p>haricots rouges (1 petite boîte de conserve)</p>
+    <p>1 poivron rouge</p>
+    <p>1/4 de cuillère à café de poudre de piment de cayenne</p>
+    <p>purée de pommes de terre</p>
+    <p>cheddar (si pas de cheddar, utiliser du gruiyère ou du cantal, mais le cheddar est idéal)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans une poêle le boeuf haché avec les oignons finement coupés, ajouter le piment (attention: si vous n'êtes pas habitué mettre une très petite dose ou remplacer par du paprika).
+    Ajouter le poivron rouge coupé en très fins morceaux. Laisser cuire jusqu'à ce que les poivrons soient fondants.
+    En fin de cuisson, ajouter les haricots rouges en boîte. 
+    Préparer une purée de pommes de terre (selon votre goût et vos préférences).
+    Dans un grand plat à gratin, étaler la sauce et recouvrir de purée. 
+    Parsemer de cheddar et mettre au four thermostat 7 pendant 30 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29000">
+  <titre>Sauté de veau en persillade</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de tendron de veau en morceaux</p>
+    <p>750 g de pommes de terre</p>
+    <p>75 cl cl de vin blanc sec</p>
+    <p>50 cl de bouillon de bœuf</p>
+    <p>1 grosse poignée de mie de pain rassis</p>
+    <p>1 tête d'ail entière</p>
+    <p>1 bouquet de thym</p>
+    <p>une noix de saindoux</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la viande sur chaque face dans une cocotte avec 2 cuillères à soupe de saindoux. 
+    Émincer la moitié de l'ail et hacher le reste. 
+    Remplacer la viande par l'ail et la mie de pain émiettée. Mouiller de vin blanc et de bouillon. Porter à frémissement, ajouter la viande et le thym, et assaisonner. Laisser mijoter pendant 1 h 30 min à feu doux. 
+    Servir la viande avec des pommes de terre cuites à l'eau (départ eau froide, cuisson 30 min après ébullition).
+  ]]>
+  </preparation>
+</recette>

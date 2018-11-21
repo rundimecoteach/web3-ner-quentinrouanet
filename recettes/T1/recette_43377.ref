@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43377">
+  <titre>Sauce pizza délicieuse</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>5 tomates</p>
+    <p>1 cuillère à soupe bombée de concentré de tomates</p>
+    <p>3 cuillères à soupe bombées d'oignons émincés</p>
+    <p>1 cuillère à soupe rase ail écrasé</p>
+    <p>1 cuillère à café d'origan</p>
+    <p>1 cuillère à café rase de sel </p>
+    <p>1/2 cuillère à café de thym</p>
+    <p>1/2 cuillère à café de basilic</p>
+    <p>1/2 cuillère à café de piment rouge ou harissa (si vous aimez le piquant)</p>
+    <p>1 verre d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre sur le feu une casserole avec de l'eau. Dès qu'elle bout, y plonger les tomates lavées, les laisser 1 min, les éplucher et les écraser.
+    Diluer le concentré de tomates et les épices dans de l'eau.
+    Dans une poêle, mettre l'huile puis les oignons et l'ail et laisser dorer quelques min sur le feu.
+    Dès que les oignons sont dorés ajouter les tomates écrasées. Bien mélanger à la cuillère en bois. Enfin ajouter le mélange épicé.
+    Laisser cuire sur feu moyen 15 à 20 min en tournant de temps à autre avec la cuillère en bois.
+    Etaler sur la pâte à pizza précuite une dizaine de minutes avant de rajouter les autres ingrédients.
+    Je conseille de précuire la pâte à pizza dans un four très chaud (plus que 250°C) pendant 10 min, par la suite couvrir avec la sauce et remettre au four encore 10 min. Puis, mettre la mozzarella (300g) et la garniture au choix et enfourner de nouveau une dizaine de min!Pizza délicieuse garantie!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39009">
+  <titre>Tarte andouillette steak haché</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée </p>
+    <p>2 andouillettes </p>
+    <p>2 steaks hachés </p>
+    <p>2 oignons </p>
+    <p>4 pommes de terre cuites </p>
+    <p>2 cuillères à soupe de moutarde </p>
+    <p>4 cuillères à soupe de crème fraîche </p>
+    <p>20 cl de bière </p>
+    <p>1 cuillère à soupe d'huile </p>
+    <p>Gruyère rapé </p>
+    <p>Sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6). 
+    Etaler la pate, dans un moule, et faire cuire à blanc, pendant 20 min.
+    Pendant ce temps, faire revenir les oignons hachés dans l'huile. Ajouter les andouillettes (sans la peau et coupées en morceaux) et les steaks hachés. Laisser revenir 5 min. 
+    Ajouter la bière et laisser mijoter 10 min. Ajouter ensuite les pommes de terres cuites, coupées en morceaux, la moutarde et la crème fraîche. 
+    Bien mélanger le tout. Saler et poivrer. 
+    Remplir la tarte, parsemer de gruyère râpé et enfourner pendant 10 min.
+  ]]>
+  </preparation>
+</recette>

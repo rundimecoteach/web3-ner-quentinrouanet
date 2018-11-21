@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25870">
+  <titre>Aspic d'oeufs au jambon et à l'estragon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>1 sachet de gelée instantanée</p>
+    <p>2 tranches de jambon </p>
+    <p>6 feuilles d’estragon</p>
+    <p>6 ramequins </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer d’abord la gelée en suivant les indications énoncées sur le sachet.
+    Pendant ce temps, porter à ébullition de l’eau salée, y plonger les oeufs et les laisser cuire 5 min à gros bouillons.
+    Les sortir puis les passer sous l’eau froide, la coquille s’enlèvera plus facilement.
+    Verser la gelée prête au fond des ramequins, puis les feuilles d’estragon ciselées et terminer par un morceau de jambon.
+    Déposer 1 oeuf dans chaque ramequin et recouvrir de gelée.
+    Placer les ramequins au réfrigérateur pendant 1 heure.
+    Au moment de servir, démouler les aspics sur les assiettes.
+  ]]>
+  </preparation>
+</recette>

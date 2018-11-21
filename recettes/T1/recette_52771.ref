@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52771">
+  <titre>Couquebaques</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>3 œufs</p>
+    <p>60 g de sucre</p>
+    <p>1/2 litre de bière blonde (utiliser une bière du Nord de bonne qualité)</p>
+    <p>80 g de beurre</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à soupe (ou 2) de genièvre de Houlle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, mettre la farine, les œufs, le sucre, le sel, le genièvre et environ 20 cl de bière.
+    Mélanger au fouet pour obtenir une pâte bien lisse.
+    Dès l'obtention d'une pâte lisse ajouter le reste de la bière pour rendre le mélange onctueux.
+    Ajouter le beurre fondu (attention de ne pas le faire roussir !) et laisser reposer une quinzaine de minutes.
+    Votre pâte est prête !!!
+    Pour ceux qui ne surveillent pas leur ligne (au point où on en est...), graisser la crépière avec une couenne de porc fraîche, sinon juste un peu de beurre...
+    Faire des couquebaques un peu épaisse pour qu'elles conservent leur moelleux.
+    Recette dédiée  ma petite soeur de Houlle... Une bonne bière !
+  ]]>
+  </preparation>
+</recette>

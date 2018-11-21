@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64364">
+  <titre>Tagliatelles de concombre au saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 concombres</p>
+    <p>200 g de saumon fumé</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>ciboulette</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>jus d'un demi citron</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A l'aide d'un économe, éplucher en longeur les concombres afin de faire des lanières.
+    Pour faire la sauce :
+    Incorporer dans la crème fraiche la moutarde, la ciboulette, le sel, le poivre et le jus de citron. Mélanger le tout.
+    Faire des petites lanières de saumon fumé.
+    Dans un saladier, mélanger les tagliatelles de concombre, le saumon et la sauce à la crème fraîche.
+    Réserver au frais pendant une heure.
+    Vous pouvez également accompagner cette recette de grosses crevettes.
+  ]]>
+  </preparation>
+</recette>

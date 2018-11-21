@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52276">
+  <titre>Gigot à la purée d'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gigot d'agneau désossé roulé en rôti</p>
+    <p>5 grosses têtes d'ail</p>
+    <p>sel, poivre</p>
+    <p>50 g de beurre demi-sel</p>
+    <p>3 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les gousses d'ail, c'est le plus long.
+    Blanchissez-les 2 minutes à l'eau bouillante puis rincez-les.
+    Mettez-les à l'autocuiseur avec un peu de sel et 1/2 verre d'eau.
+    Faites-les cuire 4 minutes sous pression.
+    Ouvrez et remuez l'ail avec une cuillère en bois.
+    Faites revenir le rôti dans l'huile dans une sauteuse pour le dorer de tous les côtés, salez et poivrez.
+    Posez-le sur l'ail dans la cocotte.
+    Faites cuire 12 à 15 minutes (selon la taille du gigot et la cuisson souhaitée) sous pression.
+    Sortez le rôti, tranchez-le pour le présenter.
+    Ajoutez le beurre froid coupé en morceaux à l'ail dans la cocotte, mélangez vigoureusement et présentez cette purée d'ail comme condiment pour accompagner le gigot.
+    Servez avec des pommes de terre rôties .
+    Contrairement à ce qu'on pourrait craindre, l'ail ainsi cuit n'est pas très "agressif",  malgré les quantités présentes dans la recette, et ne reste pas "en bouche" après la fin du repas... Vin rouge pas trop léger.
+  ]]>
+  </preparation>
+</recette>

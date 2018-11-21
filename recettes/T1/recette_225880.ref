@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225880">
+  <titre>Quiche aux courgettes et lardons facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 de pâte feuilletée</p>
+    <p>500 g de courgettes</p>
+    <p>6 œufs</p>
+    <p>20 cl de lait ou crème fraîche</p>
+    <p>100 g de fromage râpé</p>
+    <p>200 g de lardons</p>
+    <p>1 pincée de sel </p>
+    <p>1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6).Laver, sécher et râper les courgettes.
+    Fouetter les œufs avec le lait (ou crème fraîche) ajouter les courgettes et le fromage râpé. Saler et poivrer.Dérouler la pâte feuilletée puis étaler la dans un moule à tarte et piquer la avec une fourchette.Répartir les lardons crus et verser la préparation aux œufs battus par-dessus.
+    Enfourner pendant 40 min.
+  ]]>
+  </preparation>
+</recette>

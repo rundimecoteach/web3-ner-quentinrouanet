@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83970">
+  <titre>Mousse de foies de volailles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de foies de volailles</p>
+    <p>125 g de beurre</p>
+    <p>1 verre de porto</p>
+    <p>1 oignon</p>
+    <p>Un peu huile</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortez votre beurre du frigo, nettoyez les foies, coupez l'oignon dans une poêle avec de l'huile et faites revenir les foies dedans. 
+    Quand les foies sont cuits, déglacez au porto et faites réduire jusqu'à ce qu'il n'y ait plus de jus.
+    Mixer les foies et le beurre pendant qu'ils sont chauds tout en les assaisonnant à votre guise.
+    Versez dans un moule.
+    Mettez au frigo et vérifiez la consistance avant de le servir.
+    Cela peut être servi avec du pain au figues pour l'apéritif sur toasts ou comme une terrine en entrée. C'est très économique. un vin blanc un peu sucré
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37000">
+  <titre>Cassolette de noix de saint-jacques aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>noix de Saint Jacques surgelées (nombre en fonction de la taille, environ 3 à 4 petites par personne)</p>
+    <p>30 à 40 cl de crème fraîche (en fonction de la taille de vos ramequins)</p>
+    <p>2 oeufs</p>
+    <p>1 moyenne boîte de champignons de Paris</p>
+    <p>beurre </p>
+    <p>1/2 verre de vin blanc</p>
+    <p>sel, poivre</p>
+    <p>ail (une pincée ou une petite gousse hachée)</p>
+    <p>persil</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les noix de Saint-Jacques encore congelées dans une poele sans matière grasse et à feu doux, les laisser dégorger leur eau. Régulièrement les passer à la passoire pour retirer le surplus d'eau jusqu'a ce qu'elles n'en rendent plus.
+    Faire revenir les champignons dans un peu de beurre.
+    Aux noix de Saint-Jacques, rajouter le beurre, les champignons, sel, poivre, ail, persil et un peu de vin blanc, laisser chauffer doucement.
+    Dans un saladier, mélanger la crème fraîche, les jaunes d'oeufs.
+    Disposer la préparation de noix de St Jacques dans des cassolettes ou de grands ramequin, verser un peu de crème dessus (partager entre tous les ramequins), saupoudrer d'un peu de chapelure et une noisette de beurre.
+    Mettre au four pendant 10 minutes à 180°C (thermostat 6).
+    Servir très chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54838">
+  <titre>Galette des rois amande noisette praliné</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées au beurre</p>
+    <p>100 g de beurre</p>
+    <p>50 g de sucre</p>
+    <p>1 oeuf + 1 jaune</p>
+    <p>100 g de poudre d'amande</p>
+    <p>100 g de poudre de noisette</p>
+    <p>50 g de praliné en poudre</p>
+    <p>une cuillerée à soupe de lait </p>
+    <p>quelques pépites de nougatine (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le beurre à température ambiante.
+    Mélanger les poudres de noisette, amande et praliné avec le beurre, le sucre
+    (ajouter éventuellement les pépites de nougatine).
+    Battre l'œuf et l'ajouter à la préparation.
+    Déposer une des pâtes feuilletée sur un plat adéquat, étaler la préparation. Cacher la fève puis recouvrir avec le seconde pâte feuilletée, bien souder les bords.
+    mélanger le jaune d'oeuf avec le lait et badigeonner le dessus de la galette, faire quelques décors avec la pointe d'un couteau et enfourner 20 à 25 minutes au four à 200°C (thermostat 6-7).
+    A déguster tiède car le beurre doit réépaissir la crème...
+  ]]>
+  </preparation>
+</recette>

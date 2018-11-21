@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29889">
+  <titre>Tarte coco à la confiture de papaye</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de confiture de papaye</p>
+    <p>100 g de noix de coco râpée</p>
+    <p>50 g de sucre de canne</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>pâte brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs, le sucre et la crème fraîche. Bien remuer.
+    Ajouter la noix de coco râpée.
+    Recouvrir le fond de la tarte de confiture, puis ajouter la crème.
+    Cuire 30 mn au four à thermostat 6 (180°C).
+    On peut remplacer la confiture de papaye par de la confiture d'ananas.
+  ]]>
+  </preparation>
+</recette>

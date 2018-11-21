@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31373">
+  <titre>Rognons de veau 'Automne'</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de cèpes + 400 g de girolles fraichement ramassés</p>
+    <p>400 g de rosés (ou champignons de Paris) </p>
+    <p>3 beaux rognons de veau</p>
+    <p>2 décilitres de crème fraîche</p>
+    <p>30 g de moutarde</p>
+    <p>5 cl de Cognac</p>
+    <p>huile</p>
+    <p>beurre</p>
+    <p>ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer soigneusement les rognons en enlevant le gras et les nerfs au maximum (il ne faut plus voir de blanc). 
+    Gratter les champignons, les nettoyer, couper les cèpes et les rosés en lamelles épaisses (laisser les girolles entières). 
+    Mettre les champignons sur feu doux dans une poêle en éliminant l'eau au fur et à mesure pendant 15 mn. 
+    Faire sauter les rognons coupés en cubes dans l'huile et le beurre (1 cuillère de chaque) pendant 5 mn à feu fort. Flamber au Cognac. 
+    Mettre la crème liquide dans une sauteusse et incorporer la moutarde en mélangeant. Rajouter les rognons et les chmapignons. 
+    Faire revenir 5 à 10 mn sur feu moyen. 
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

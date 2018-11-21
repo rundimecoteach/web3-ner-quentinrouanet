@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222232">
+  <titre>Poulpes à la Monégasque</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 à 8 petits poulpes de roche (selon grosseur)</p>
+    <p>480 g de tomates pelées</p>
+    <p>30 cl de vin rouge</p>
+    <p>10 cl de cognac</p>
+    <p>2 oignons</p>
+    <p>1 bouquet de persil</p>
+    <p>1 sucre</p>
+    <p>1 pointe de piment de Cayenne</p>
+    <p>1 gousse d'ail </p>
+    <p>sel </p>
+    <p>poivre </p>
+    <p>huile d'olive </p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un coulis :Faire revenir les oignons et l'ail émincés dans l'huile d'olive, ajouter les tomates pelées, puis le sel, le poivre, le piment (une pointe de couteau de Cayenne) et un sucre pendant 30 min au moins à feu doux (petits bouillons). Éteindre le feu ensuite. Laisser un peu refroidir (on peut préparer les poulpes pendant ce temps), puis mixer le coulis.
+    Préparer les poulpes :Les nettoyer, les vider en retournant le chapeau, retirer le bec (au milieu des tentacules), peler le chapeau (retirer la première peau pour qu'ils ne soient pas "caoutchouteux"). Les couper en deux dans le sens de la longueur (selon la taille, s'ils sont petits on les laissera entiers et on n'aura pas besoin de les peler).Hacher le persil grossièrement au couteau.
+    La cuisson :Faire revenir à feu vif pendant 4 à 5 min les poulpes dans un peu d'huile d'olive avec une noisette de beurre et le persil haché, sel et poivre. Ajouter le cognac et faire flamber. Laisser 2 à 3 min en tournant, puis ajouter le vin rouge. Laisser bouillir à feu moyen 15 min. Ajouter le coulis, tourner, 45 min à petits bouillons. Manger chaud avec du riz de Camargue.
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

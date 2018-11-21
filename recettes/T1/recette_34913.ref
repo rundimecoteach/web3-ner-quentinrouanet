@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34913">
+  <titre>Croque-monsieur au saumon fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 grandes tranches de pain de mie</p>
+    <p>beurre</p>
+    <p>1 tranche de saumon fumé</p>
+    <p>2 rondelles de tomates</p>
+    <p>oeufs de lump</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sur une tranche de pain de mie beurrée, poser le saumon fumé, et les deux rondelles de tomate. 
+    Recouvrir de la seconde tranche de pain, beurrée. 
+    Enfourner à 220°C pendant 15 mn en retournant une fois à mi-cuisson. 
+    A la sortie du four, déposer les oeufs de lump sur le dessus du croque, et déguster.
+    A accompagner d'une bonne salade de mâche, vinaigrette à la moutarde et échalotes. Attention : ne pas saler les tomates et éviter le beurre salé. muscadet bien frais
+  ]]>
+  </preparation>
+</recette>

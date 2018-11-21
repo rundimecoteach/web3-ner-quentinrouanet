@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25184">
+  <titre>Epinards à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg d'épinards frais</p>
+    <p>10 cl de crème fraîche</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre les épinards dans le beurre jusqu'à ce qu'ils soient tombés puis les passer au moulin à légumes.
+    Les remettre dans la casserole avec la crème, saler, poivrer et mélanger.
+    Laisser réchauffer sur feu doux et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

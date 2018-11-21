@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16226">
+  <titre>Saumon à l'échalote</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pavés de saumon frais</p>
+    <p>5 belles échalotes</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>4 cuillères à soupe de vinaigre balsamique</p>
+    <p>1 pointe de moutarde</p>
+    <p>1 noisette de beurre</p>
+    <p>sel</p>
+    <p>un peu d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les échalotes avec le beurre dans une poêle. Mettre les pavés de saumon quand les échalotes sont translucides, saler légèrement.
+    Quand le saumon est cuit, le réserver dans une assiette. Déglacer les échalotes cuites avec le vinaigre balsamique coupé avec un peu d'eau. 
+    Ajouter la pointe de moutarde. Faire mijoter 2-3 mn puis ajouter la crème.
+    Remettre les pavés de saumon dans la poêle juste avant de servir afin de les rechauffer.
+    Miam, Miam... Servir avec du riz ou, pourquoi pas, du chou romanesco!
+     Tokay Pinot gris, Chablis, Pouilly Fumé...
+  ]]>
+  </preparation>
+</recette>

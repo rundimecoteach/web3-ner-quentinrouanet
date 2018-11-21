@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14511">
+  <titre>Panais à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 panais (ou salsifi ou scorcéne)</p>
+    <p>1 bouillon cube</p>
+    <p>1 jus d'un citron (blancheur)</p>
+    <p>200 g de sauce blanche</p>
+    <p>150 g de fromage râpé (facultatif)</p>
+    <p>persil (facultatif)</p>
+    <p>ciboulette (facultatif)</p>
+    <p>cerfeuil (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher avec une économe attention cela tache les mains. Couper en moceaux.
+    Faire cuire dans un mélange d'eau avec un bouillon cube (pour le goût) et le jus d'un citron(blancheur).Quand il sont tendres, égoutter et réserver.
+    Faire une sauce blanche, puis y ajouter selon goût de la crème et du fromage rapé,du persil, de la ciboulette, du cerfeuil.
+    Mettre les légumes dans un plat à gratin, couvrir de sauce, parsemer de noix de beurre puis gratiner.
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

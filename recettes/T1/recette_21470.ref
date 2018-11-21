@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21470">
+  <titre>Roulé d'épinards au saumon fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 belles tranches de saumon fumé</p>
+    <p>1 kg d'épinards</p>
+    <p>50 cl de coulis de tomates fraîches</p>
+    <p>7 oeufs</p>
+    <p>50 cl de lait</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>noix de muscade râpée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les épinards à l'eau bouillante salée environ 20 minutes. Bien égoutter et les hacher.
+    Faire cuire les oeufs durs, 10 minutes à l'eau bouillante.
+    Faire fondre le beurre dans une casserole. Ajouter la farine, remuer à la cuillère en bois et laisser blondir. Rajouter le lait en remuant.
+    Laisser épaissir à feu doux, environ 15 minutes en remuant.
+    Saler, poivrer et assaisonner de muscade râpée.
+    Ecaler et hacher les oeufs durs. Ajouter une cuillerée à soupe de béchamel et mélanger.
+    Mélanger les épinards et la béchamel, ajouter 4 jaunes d'oeufs, puis incorporer les 4 blancs battus en neige.
+    Etaler la préparation sur une plaque garnie de papier sulfurisé beurré. Faire cuire 20 min au four à 180°C (thermostat 6).
+    Sortir la plaque du four, étaler le saumon fumé et les oeufs durs hachés dessus. Rouler délicatement le tout (comme pour un gâteau roulé) et maintenir serré.
+    Servir chaud ou bien frais avec le coulis de tomates.
+  ]]>
+  </preparation>
+</recette>

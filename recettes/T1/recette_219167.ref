@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219167">
+  <titre>Tiramisu à l'ananas et au lait de coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de mascarpone</p>
+    <p>5 œufs</p>
+    <p>5 cuillères à soupe de sucre en poudre</p>
+    <p>30 biscuits à la cuillère environ</p>
+    <p>1 grande boîte d'ananas au sirop </p>
+    <p>25 cl de lait de coco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparez les jaunes des blancs d’œuf.
+    Montez les blancs en neige.
+    Battez avec un fouet les jaunes, le sucre et le mascarpone. Ajoutez-y les blancs en neige et mélangez le tout délicatement.
+    Coupez les ananas en petits dés. Mettez une couche d'ananas au fond des verres.
+    Trempez les biscuits dans le lait de coco.
+    Mettez les biscuits à la verticale dans les verres (environ 5 par verre).
+    Versez une couche de la préparation sur les ananas.
+    Recouvrir d'une couche d'ananas.
+    Versez de nouveau une couche de la préparation au mascarpone.
+    Laissez reposer au réfrigérateur au moins 3 heures.
+  ]]>
+  </preparation>
+</recette>

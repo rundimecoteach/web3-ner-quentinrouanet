@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66335">
+  <titre>Pain de veau rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de veau haché</p>
+    <p>2 oeufs entiers</p>
+    <p>3 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>1 oignon</p>
+    <p>150 g de chapelure</p>
+    <p>huile</p>
+    <p>bouquet garni</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Hacher le persil, l'ail et l'oignon.
+    Mélanger le tout avec les oeufs et la chapelure.
+    Faire une boule, la mettre dans un plat allant au four. 
+    Arroser d'huile, mettre du thym et du laurier.
+    Enfourner et cuire 50 min.
+    Délicieux avec une salade d'endives, assaisonnée d'huile de noix.
+  ]]>
+  </preparation>
+</recette>

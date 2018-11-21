@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47140">
+  <titre>Tarte à la rhubarbe et aux groseilles</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à tarte brisée</p>
+    <p>500 g de rhubarbe </p>
+    <p>120 g de groseilles</p>
+    <p>2 à 3 cuillères à soupe de confiture de fraises et framboises</p>
+    <p>25 g de beurre</p>
+    <p>Pour le flan :</p>
+    <p>3 oeufs</p>
+    <p>50 g de sucre</p>
+    <p>1/4 litre de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les groseilles et les équeuter.
+    Laver et éplucher la rhubarbe, puis la couper en dés. Faire dégorger la rhubarbe dans une passoire avec un peu de sucre.
+    Beurrer un moule à tarte et y déposer la pâte brisée. 
+    Préchauffer le four à 180°C (thermostat 6).
+    Tartiner la pâte de confiture, puis disposer la rhubarbe autour et les groseilles au milieu.
+    Dans une petite jatte, incorporer les oeufs, le lait et le sucre, puis mélanger.
+    Déposer le mélange sur la tarte et mettre au four pendant environ 40 min.
+  ]]>
+  </preparation>
+</recette>

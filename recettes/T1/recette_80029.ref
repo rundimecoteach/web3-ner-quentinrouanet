@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80029">
+  <titre>Gâteau chocolat biscottes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs </p>
+    <p>300 g de sucre </p>
+    <p>150 g de noisettes moulues</p>
+    <p>200 g de chocolat pâtissier </p>
+    <p>150 g de biscottes</p>
+    <p>1 paquet de levure chimique</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C, thermostat 6-7.Faire fondre le chocolat.
+    Mixer les biscottes finement.Séparer les blancs des jaunes.
+    Monter les blancs en neige.
+    Battre les jaunes et le sucre jusqu'à ce que le mélange blanchisse.
+    Ajouter le chocolat fondu, les biscottes mixées, les noisettes moulues ainsi que le sachet de levure.
+    Ajouter délicatement les blancs d'oeufs battus à la préparation.
+    Beurrer le moule et y verser la préparation.
+    Cuire dans le four préchauffé pendant 30-35 min.
+  ]]>
+  </preparation>
+</recette>

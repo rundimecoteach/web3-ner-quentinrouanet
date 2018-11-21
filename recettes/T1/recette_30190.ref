@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30190">
+  <titre>Crème brûlée aux épices de Marine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl de lait entier</p>
+    <p>25 cl de crème fleurette</p>
+    <p>5 jaunes d'œufs</p>
+    <p> 75 g de sucre de canne</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 fleur de badiane (anis étoilé)</p>
+    <p>1 bâton de cannelle </p>
+    <p>1 clou de girofle </p>
+    <p>1/4 de cuillère à café de cannelle en poudre</p>
+    <p>1/4 de de cuillère à café de gingembre en poudre</p>
+    <p>1 cuillère à café de curcuma </p>
+    <p>2 cuillères à soupe de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A couvert, faites chauffer très doucement le lait avec le bâton de cannelle, la badiane et le clou de girofle, puis laissez infuser tranquillement, jusqu’aux premiers bouillons, puis coupez le feu et laissez tiédir.
+    Faites préchauffer le four à 140°C.
+    Dans un saladier, fouettez les jaunes d’œufs avec les sucres afin que le mélange mousse et éclaircisse. Ajoutez doucement, tout en remuant, la crème fleurette, puis le lait tiède épicé.
+    Enfin, parfumez la crème avec la badiane, la cannelle et le curcuma, elle prendra une belle couleur dorée.
+    Versez la préparation dans 4 récipients (ramequin, cassolette) et faites-les cuire 40 mn à 140°C.
+    Laissez-les refroidir puis mettez-les au réfrigérateur au moins 6h.
+    Au moment de servir, parsemez vos cassolettes de cassonade et passez-les sous le grill brûlant du four.
+  ]]>
+  </preparation>
+</recette>

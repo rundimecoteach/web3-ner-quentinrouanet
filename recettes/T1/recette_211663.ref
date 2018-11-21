@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211663">
+  <titre>Assiette de poivrons et chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 à 8 poivrons (ma préférence va aux poivrons rouges)</p>
+    <p>1 chèvre frais</p>
+    <p>10 olives vertes</p>
+    <p>10 olives noires</p>
+    <p>3 gousses d'ail</p>
+    <p>1 baguette, ou pain de campagne</p>
+    <p>salade, type mesclun</p>
+    <p>thym, ciboulette, basilic</p>
+    <p>huile d'olive</p>
+    <p>vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre au four à 200°C les poivrons entiers pendant 20 min. Les retourner d'un quart de tour et laisser chauffer encore une dizaine de minutes. La peau doit noircir. Les enfermer dans un sac puis laisser refroidir.
+    Pendant ce temps, bien mélanger le chèvre avec une gousse d'ail écrasée, de l'huile, du thym, de la ciboulette et un peu de poivre. Mixer ensemble les olives, l'ail, de l'huile et du vinaigre, jusqu'à obtenir une texture un peu plus fluide que de la tapenade.
+    Dresser sur une assiette de salade des lamelles de poivrons épluchés, la préparation au chèvre, un peu de sauce aux olives. Servir avec du pain grillé et éventuellement du jambon cru.
+  ]]>
+  </preparation>
+</recette>

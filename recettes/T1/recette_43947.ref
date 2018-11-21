@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43947">
+  <titre>Crème de langoustine au curry</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>20 langoustines fraîches</p>
+    <p>500 g de crème liquide</p>
+    <p>100 ml de lait de coco</p>
+    <p>3 cuillères à café de curry</p>
+    <p>1 cuillère à café de concentré de tomate</p>
+    <p>1/2 botte de coriandre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les langoustines à l'eau bouillante 3 min. Retirer les têtes, la carcasse, et réserver.
+    Faire chauffer à feu doux la crème liquide. 
+    Juste avant l'ébulition, verser le lait de coco, et incorporer le curry et le concentré de tomate. 
+    Mélanger bien, et laisser chauffer à feu doux 5 min.
+    Ciseler la demi botte de coriandre, et l’incorporer dans la crème avec les langoustines. Laisser infuser 10 min sur le même feu doux. Saler et poivrer. 
+    Servir dans de petites coupelles, avec une feuille de coriandre entière en décoration.
+    Très facile, et d'une texture très moelleuse. Blanc sec
+  ]]>
+  </preparation>
+</recette>

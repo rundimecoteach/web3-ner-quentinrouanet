@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24483">
+  <titre>Gratin de framboises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de framboises fraîches ou surgelées</p>
+    <p>2 jaunes d’oeufs</p>
+    <p>3 cuillères à soupe de Mascarpone</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 210°C. 
+    Disposez les framboises dans deux petits moules préalablement beurrés allant au four. 
+    Mélangez les jaunes d’oeufs, le sucre et la Mascarpone jusqu’à l’obtention d’un mélange bien lisse et homogène. 
+    Nappez les framboises de ce mélange. 
+    Enfournez les moules 8 à 10 mn et servez tiède.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23454">
+  <titre>Gratin d'asperges et cancoillotte</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'asperges blanches fraîches ou en bocal</p>
+    <p>250 g de cancoillotte (nature ou à l'ail, selon vos goûts)</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>10 cl de crème</p>
+    <p>40 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortez le beurre et la cancoillotte à l'avance.
+    Préchauffez le four à 210°C. 
+    Epluchez les asperges et faites les cuire si elles sont fraîches. Si elles sont en bocaux, égouttez-les. 
+    Mélangez les jaunes d'oeuf avec deux cuillerées à soupe d'eau et chauffez à feu doux en fouettant jusqu'à ce qu'ils deviennent mousseux.
+    Hors du feu, incorporez le beurre ramolli, la crème et la cancoillotte. Salez et poivrez. 
+    Disposez les asperges dans un plat allant au four, puis recouvrez de la prépartion et faites gratiner 8 à 10 min.
+    La cancoillotte est un fromage franc-comtois au lait de vache écrémé et parfumé au vin blanc. Les asperges se marient mal avec le vin. De l'eau donc, ou un muscat d'Alsace.
+  ]]>
+  </preparation>
+</recette>

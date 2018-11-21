@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53545">
+  <titre>Poulet grand-mère ( olives, champignons)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 barquette d'aiguillette de poulet </p>
+    <p>100 g de lardons</p>
+    <p>1 petite boîte de champignons</p>
+    <p>1/2 de bouillon cube de volaille</p>
+    <p>75 g d'olives</p>
+    <p>1 petite bouteille de vin blanc</p>
+    <p>1 échalote</p>
+    <p>ail</p>
+    <p>thym, laurier</p>
+    <p>beurre</p>
+    <p>sel,poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une sauteuse, faire fondre un morceau de beurre.
+    Ajouter le poulet coupés en morceaux, l'échalote, l'ail, les lardons,les champignons, les olives et bien tout faire dorer!!
+    Quand tout est bien doré, ajouter la moitié de la bouteille de vin blanc, du sel, du poivre, du laurier, du thym et le cube de bouillon.
+    Laisser mijoter 15 minutes.
+    Mettre le reste de vin blanc et laisser cuire encore 5 minutes.
+    Servir avec des pâtes ou du riz.
+    Très bon et facile!!!!! du blanc...
+  ]]>
+  </preparation>
+</recette>

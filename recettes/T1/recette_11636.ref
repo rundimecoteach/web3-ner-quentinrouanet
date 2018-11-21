@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11636">
+  <titre>Soupe d'orties</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700 g d'orties</p>
+    <p>1.25 cl d'eau</p>
+    <p>10 cl de crème</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les orties et les laisser au sol 15 min pour ne pas se piquer. Retirer les tiges
+    Laver puis hacher les feuilles, les faire suer dans le beurre jusqu'à ce qu'elles soient fondues puis ajouter l'eau bouillante.
+    Mixer après cuisson.
+    Parfaite avec une noix de crème fraiche par assiette.
+  ]]>
+  </preparation>
+</recette>

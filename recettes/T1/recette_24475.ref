@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24475">
+  <titre>Miroir aux fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de fruits rouges (surgelés) </p>
+    <p>150 g de sucre</p>
+    <p>4 feuilles de gélatine</p>
+    <p>30 cl de crème fleurette</p>
+    <p>2 blancs d'oeufs</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décongeler les fruits en récupérant le jus. Ramollir la gélatine à l'eau froide. Porter à ébullition le jus des fruits décongelés avec le sucre. Hors du feu, y mélanger la gélatine égouttée et essorée. Mixer la moitié des fruits et y ajouter le jus. Fouetter la crème en chantilly et battre les blancs d'oeufs en neige ferme avec le sel. Mélanger le tout délicatement aux fruits mixés. Beurrer un moule et y verser la moitié de la mousse. Répartir le reste des fruits et recouvrir de mousse. Mettre au réfrigérateur 6 h minimum. Sevir avec un coulis de fruits rouges ou une crème anglaise.
+  ]]>
+  </preparation>
+</recette>

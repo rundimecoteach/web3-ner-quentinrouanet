@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59962">
+  <titre>Petits bouchons au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de chocolat pâtissier</p>
+    <p>40 g de poudre d'amande</p>
+    <p>125 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°, soit thermostat 5.
+    Faire fondre au micro-onde le chocolat et le beurre avec 2 cuillères à soupe d'eau pendant 30 s à 1 min (selon la puissance du four).
+    Pendant ce temps, mélanger les oeufs, le sucre et la poudre d'amande. Ajouter le mélange chocolat-beurre après l'avoir bien mélanger et remuer quelques instants au fouet.
+    Verser dans un moule à minis cannelés en silicone ou dans des moules à muffins (mais ce ne seront plus des bouchons !) et faire cuire 20 min.
+    Attendre quelques instants avant de démouler et laisser refroidir avant de déguster avec un café.
+  ]]>
+  </preparation>
+</recette>

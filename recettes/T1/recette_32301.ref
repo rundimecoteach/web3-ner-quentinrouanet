@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32301">
+  <titre>Cake au potimarron</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>15 cl de vin blanc</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>4 oeufs</p>
+    <p>200 g de purée de potimarron</p>
+    <p>100 g de gruyère</p>
+    <p>100 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>1 cuillère à café de sel</p>
+    <p>200 g de jambon (haché gros) </p>
+    <p>100 g d'olives noires et vertes</p>
+    <p>beurre (pour le moule) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, verser le vin et l'huile, puis incorporer les oeufs un à un. 
+    Ajouter la purée de potimarron, le gruyère, la farine, la levure, le sel, le jambon et les olives noires et vertes (coupées en deux). 
+    Mélanger le tout de façon à obtenir une préparation homogéne. Verser la préparation dans un moule à cake beurré et fariné. 
+    Faire cuire au four (180°C) 45 mn environ. Pour obtenir la purée de potimarron : le couper en deux et cuire non épluché à la vapeur 15 à 20 mn. Laisser refroidir, puis détacher la chair et la passer au moulin à légumes (grille fine).
+  ]]>
+  </preparation>
+</recette>

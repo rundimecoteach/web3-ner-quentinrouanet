@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81535">
+  <titre>Hachis parmentier de Louise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 pommes de terre moyennes</p>
+    <p>lait</p>
+    <p>1 oeuf</p>
+    <p>3 carottes</p>
+    <p>200 g de petits pois</p>
+    <p>400 g de haché de boeuf</p>
+    <p>une petite boîte de concentré de tomate ou 2 tomates </p>
+    <p>3 ou 4 oignons</p>
+    <p>sel, poivre, noix de muscade, thym</p>
+    <p>matière grasse</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire 15 min les pommes de terre, les mixer et y mélanger le lait et l'oeuf. Faire une purée assez onctueuse car elle risque de sécher un peu lors du passage sous le grill. Assaisonner avec le sel, poivre et noix de muscade. Réserver.
+    Nettoyer les carottes, les émincer et les cuire après avoir rissoler les oignons dans un peu de matière grasse. Assaisonner à convenance. Ajouter les petits pois en fin de cuisson.
+    Dans une poêle, cuire le haché de boeuf en y ajoutant le concentré de tomates ou les tomates coupées en petits morceaux.
+    Dans un plat à gratin, mettre la haché, puis les légumes et terminer par la purée.
+    Saupoudrez éventuellement par un peu de chapelure et faire gratiner dans un four très chaud.
+    Servir aussitôt. Bon appétit.On peut toujours remplacer les pois et carottes par un autre légume (épinard, scarole,...) et le concentré de tomates par de vraies tomates.
+    Les quantités proposées sont à adapter en fonction de l'appétit de chacun.
+  ]]>
+  </preparation>
+</recette>

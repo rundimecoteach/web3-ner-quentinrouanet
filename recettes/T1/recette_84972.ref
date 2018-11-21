@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84972">
+  <titre>Oeuf cocotte au surimi et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>1 tomate</p>
+    <p>miettes de surimi</p>
+    <p>2 à 3 brins de ciboulette</p>
+    <p>1 belle cuillère à soupe de tzatziki</p>
+    <p>1 belle poignée de gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un ramequin allant au four, disposer la tomate coupée en rondelles. Ciseler la ciboulette sur la tomate. Ajouter les miettes de surimi. 
+    Etaler une belle couche de tzatziki.
+    Casser délicatement les oeufs dans le ramequin.
+    Parsemer de gruyère
+    Mettre le tout dans un four préchauffé à 180°c (thermostat 6) pendant 8 à 10 minutes.
+    Ce plat peut même être une entrée si vous réduisez les quantités !
+  ]]>
+  </preparation>
+</recette>

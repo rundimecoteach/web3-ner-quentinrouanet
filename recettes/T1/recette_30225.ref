@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30225">
+  <titre>Tomates farcies à la ratatouille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 belles tomates à farcir</p>
+    <p>1 poivron vert</p>
+    <p>1 poivron rouge</p>
+    <p>1 courgette moyenne</p>
+    <p>1 oignon paille</p>
+    <p>4 gousses d'ail écrasées</p>
+    <p>herbes de Provence</p>
+    <p>sel et poivre du moulin</p>
+    <p>10 g de parmesan</p>
+    <p>1 cuillère à café d'huile d'olive (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les 'têtes' des tomates (geste habituel pour les farcir). Vider les tomates en prenant soin de ne pas les percer et les laisser égoutter sur une grille quelques minutes.
+    Pendant ce temps, couper grossièrement les poivrons en enlevant les graines, les courgettes et l'oignon.
+    Dans le bol de votre robot, hacher assez finement tout ces légumes et les faire suer dans une sauteuse (avec huile ou pas) à découvert pendant 15 mn.
+    Eteindre le gaz et laisser tiédir avant de rajouter le parmesan, le sel, le poivre, l'ail écrasé et les herbes de Provence.
+    Bien mélanger.
+    Recouvrir une plaque à four d'un papier sulfurisé (ou mieux, d'une feuille de cuisson).
+    Déposer les tomates et les farcir généreusement. Recouvrir chacune d'entre elle de son propre 'chapeau'.
+    Préchauffer le four à thermostat 7 (210°C) et enfourner 20 mn puis tourner le plat pour le reste du temps de cuisson.
+    En fin de cuisson, le 'chapeau' des tomates doit être soufflé et quelque peu doré.
+    A déguster froid ou tiède avec une assiette de semoule de blé aromatisée aux grains d'anis (recette sur le site). rosé de Provence bien frais
+  ]]>
+  </preparation>
+</recette>

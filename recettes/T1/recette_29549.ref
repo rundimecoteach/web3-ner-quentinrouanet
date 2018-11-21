@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29549">
+  <titre>Gateau d'amandes aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 belles pommes rouges</p>
+    <p>160 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>160 g de sucre</p>
+    <p>100 g de poudre d'amande</p>
+    <p>6 oeufs + 2 jaunes</p>
+    <p>20 cl de lait</p>
+    <p>50g d'amandes effilées</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 7/8 (230°C).
+    Peler et épépiner les pommes, puis les mettre de côté.
+    Mélanger le beurre et le sucre activement jusqu'à ce que le mélange fasse un ruban lorsqu'on lève la cuillère. Ajouter les 8 jaunes d'oeufs, la poudre d'amande, la farine, le lait et le sel.
+    Monter les 6 blancs en neige avec 1 pincée de sel, puis les ajouter à la préparation.
+    Beurrer le moule allant au four, y répartir les pommes coupées en quartiers puis la préparation. Parsemer d'amandes effilées.
+    Mettre au four 45 mn (vérifier la cuisson dès la demi-heure avec une pointe de couteau) et déguster tiède ou froid.
+     champagne ou cidre
+  ]]>
+  </preparation>
+</recette>

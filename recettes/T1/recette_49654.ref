@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49654">
+  <titre>Tomates farcies aux crevettes et ananas</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 petites tomates rondes</p>
+    <p>1 pot de 300g de fromage frais nature</p>
+    <p>15 crevettes roses cuites et décortiquées</p>
+    <p>20 tranches d'ananas</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Quelques heures avant le repas, lavez les tomates, évidez-les et retournez-les après les avoir salées.
+    10 min avant de servir, préparer la farce : mixer le fromage frais avec les crevettes  et  10 tranches d'ananas.
+    Saler, poivrer et bien mélanger
+    Disposez chaque tomate sur une tranche d'ananas.
+    Présentez 2 tomates par personne sur chaque assiette et déguster très frais.
+  ]]>
+  </preparation>
+</recette>

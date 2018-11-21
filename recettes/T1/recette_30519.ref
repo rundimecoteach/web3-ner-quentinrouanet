@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30519">
+  <titre>Côtes de veau sauce roquefort</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 côtes de veau</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>20 g de beurre</p>
+    <p>25 g de roquefort</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>25 g de crème</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer la viande dans l'huile, baisser le feu et cuire durant 10 minutes.
+    Ôter la viande de la poêle, ajouter le beurre, le roquefort, le jus de citron et la crème.
+    Mélanger jusqu'à ce que le mélange soit homogène, poivrer et servir avec les côtes de veau.
+  ]]>
+  </preparation>
+</recette>

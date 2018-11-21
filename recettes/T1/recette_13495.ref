@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13495">
+  <titre>Cari de lotte</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 queues de lottes</p>
+    <p>800 g de tomates</p>
+    <p>4 oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>30 cl de lait de coco</p>
+    <p>1 pomme</p>
+    <p>1 banane</p>
+    <p>1 cuillère à soupe de cari (pâte ou poudre) </p>
+    <p>50 g de raisins secs</p>
+    <p>coriandre fraiche</p>
+    <p>1/2 cuillère à café de curcuma</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher grossierement les tomates, puis les faire revenir avec les oignons.
+    Ajouter le lait de coco, la pomme et la banane râpées, les raisins, laisser mijoter à feu doux.
+    Faire cuire presque completement les queues de lotte au court-bouillon, ajouter le cari et la coriandre hachée à la sauce, incorporer les queues de lotte et laisser finir de cuire en surveillant.
+    Servir avec du riz basmati.
+    Ce plat peut être accompagné de différents chutney, de rondelles de banane revenues au beurre, concombre, achars et citrons confits etc... La même recette est faisable avec de la viande (poulet, boeuf, agneau).
+  ]]>
+  </preparation>
+</recette>

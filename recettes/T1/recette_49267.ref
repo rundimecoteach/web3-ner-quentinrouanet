@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49267">
+  <titre>Haloths ( pain tressé )</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>1 œuf</p>
+    <p>1/2 petit verre (en plastique par exemple) de sucre</p>
+    <p>1/2 petit verre d'huile</p>
+    <p>50 cl d'eau tiède</p>
+    <p>3 cuillères à soupe de levure de boulangerie sèche</p>
+    <p>1 cuillère à soupe rase de sel</p>
+    <p>graines de sésame</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir 1 à 2 h de levée pour la pâte.
+    Mettre la levure dans l'eau tiède (attention si l'eau est froide ou chaude, la haloth ne lèvera pas) et laisser mousser.
+    Mettre les 3/4 de la farine dans un saladier et faire un puits. Y verser le sucre, l'huile, le sel, l'oeuf et en dernier la préparation eau/levure. Bien mélanger le tout puis 
+    mixer la pâte ou bien la pétrir à la main jusqu'à ce qu'elle soit souple et homogène.
+    Rajouter de la farine pour que la pâte ne soit pas collante.
+    Former une belle boule à la main et la laisser lever sous un torchon 1 à 2 h (elle doit avoir doublé de volume).Fariner le plan de travail, poser la pâte et la séparer en 4 boules.
+    Prendre 1 boule, la séparer en 3 bandes et faire une natte.
+    Répéter l'opération pour les autres boules.
+    Enduire les nattes de jaune d’œuf et de quelques graines de sésame.
+    Les faire cuire dans un four à 200°C (thermostat 6-7) pendant 20 min.
+    Les pains vont vite gonfler, les sortir quand ils sont bien dorés.
+    Servir.On mange traditionnellement ces pains pour le Shabbat. Jus de raisin
+  ]]>
+  </preparation>
+</recette>

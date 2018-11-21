@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37032">
+  <titre>Tzatziki de surimi</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 bâtonnets de surimi</p>
+    <p>12 médaillons de surimi</p>
+    <p>1 sachet de surimi râpé</p>
+    <p>500 g de fromage blanc</p>
+    <p>menthe, aneth</p>
+    <p>2 carottes</p>
+    <p>1 branche de céleri</p>
+    <p>1 concombre</p>
+    <p>50 g de noix concassées</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher le concombre, en réserver le quart, râper le reste et le mélanger au fromage blanc et au surimi râpé. Saler et poivrer.
+    Ajouter 10 feuilles de menthe hachées.
+    Couper en bâtonnets les carottes épluchées et lavées et le céleri, de même que le quart de concombre restant.
+    Disposer les médaillons de surimi à plat le long de la paroi de 6 verres. Remplir de tzatziki, puis ajouter les bâtonnets de surimi et de légumes en décoration.
+    Parsemer de noix concassées grillées 1 mn à la poêle et d'aneth. Servir frais accompagné de pains pitta ou de pains libanais.
+    C'esst une entrée très rafraîchissante et agréable.
+    Elle peut même constituer un repas léger avec un dessert consistant.
+  ]]>
+  </preparation>
+</recette>

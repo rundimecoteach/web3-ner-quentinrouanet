@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43712">
+  <titre>Saint-Marcellin chaud au lard</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 Saint-Marcellin frais</p>
+    <p>12 tranches de lard très fines </p>
+    <p>2 pommes Granny </p>
+    <p>5 cl de calvados</p>
+    <p>6 tranches de pain de mie</p>
+    <p>salade au choix (frisée, roquette ou feuille de chêne)</p>
+    <p>des tomates cerises (pour la décoration)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les Saint Marcellin en 2.
+    Les faire mariner dans du calvados le temps de préparer les pommes.
+    Evider les pommes sans les éplucher puis les couper en tranches assez fines (prévoir 12 tranches).
+    Mettre 2 tranches de lard à plat en croix, y poser une tranche de pomme, un demi Saint-Marcellin, une autre tranche de pomme puis refermer le lard pour former un bloc.
+    Retourner le bloc et le déposer sur le pain de mie.
+    Renouveler l'opération 5 fois, pour chaque tranche de pain.
+    Faire chauffer au four à 180°C (thermostat 6) pendant 10 minutes environ (les sortir quand le fromage commence à couler).
+    Pour servir, les disposer sur un lit de salade déjà assaisonnée avec quelques tomates cerises en décoration.
+  ]]>
+  </preparation>
+</recette>

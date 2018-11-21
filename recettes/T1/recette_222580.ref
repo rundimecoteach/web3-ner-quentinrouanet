@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222580">
+  <titre>Pâtes aux noix de Saint-Jacques à l'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de noix de Saint-Jacques</p>
+    <p>tagliatelles pour 4 personnes</p>
+    <p>ail en poudre</p>
+    <p>2 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>15 cl de crème fraîche épaisse</p>
+    <p>noix de beurre</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire vos tagliatelles dans de l'eau bouillante.
+    Pendant ce temps, faites cuire vos noix de Saint-Jacques dans l'huile d'olive (3-4 min).Une fois cuites, ajoutez la crème fraîche, laissez-la fondre en remuant.
+    Ajoutez-y les gousses d'ail écrasées, laissez infuser.
+    Ajoutez un peu d'ail en poudre, et goûtez (selon vos goûts, ajoutez un peu plus d'ail).Salez, poivrez la sauce.Égouttez les pâtes et mettez-les dans un saladier avec le beurre.
+    Servez dans les assiettes, déposez quelques noix de Saint-Jacques sur le nid de tagliatelles et saucez.
+    Bon appétit !Les noix de Saint-Jacques peuvent être remplacées par des queues de crevettes décortiquées, c'est aussi bon.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168042">
+  <titre>Pâtes aux foies de volailles et poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250/300 g de pâtes (nouilles, pipe rigate...)</p>
+    <p>1 oignon</p>
+    <p>1 poivron</p>
+    <p>1 paquet de foies de volailles confits (au rayon des gésiers)</p>
+    <p>1 bocal de chair de tomate (ou coulis ou pulpe...)</p>
+    <p>1 briquette (20 cl) de crème semi-épaisse (extra légère)</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>sucre</p>
+    <p>herbes de provence ou thym</p>
+    <p>huile d'olive</p>
+    <p>facultatif : fromage rapé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'eau pour les pâtes.
+    Emincer l'oignon et le poivron.
+    Les faire revenir ensemble dans 1 sauteuse dans 1 CàS d'huile d'olive.
+    Quand ils sont revenus, rajouter une pincée de sucre pour faire caraméliser.
+    Rajouter les foies de volailles dégraissés et coupés en 4, faire revenir.
+    Rajouter la tomate, un peu de sel, du poivre et une pincée d'herbes de provence. Laisser mijoter 15 minutes.
+    Saler l'eau et faire cuire les pâtes.
+    Rajouter la crème et les pâtes, bien mélanger.
+    Servir avec du fromage râpé.
+  ]]>
+  </preparation>
+</recette>

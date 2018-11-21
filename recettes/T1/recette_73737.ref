@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73737">
+  <titre>Tarte tomates courgettes à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte brisée</p>
+    <p>2 courgettes moyennes</p>
+    <p>3 tomates moyennes</p>
+    <p>1 oignon</p>
+    <p>un bocal de fromage en cubes ail et fines herbes</p>
+    <p>huile d'olive</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumer votre four à 200°, thermostat 6-7.
+    Etaler votre pâte brisée dans un plat à tarte en gardant le papier cuisson.
+    Couper les tomates en tranches assez fines, ainsi que les courgettes (sans enlever la peau).
+    Emincer finement l'oignon.
+    Mettre les rondelles de tomates et de courgettes en les alternant,  
+    étaler l'oignon par dessus, puis les cubes de fromages, un filet d'huile d'olive et du poivre.
+    Enfourner à 200°, thermostat 6-7, pour 30 min environ.
+  ]]>
+  </preparation>
+</recette>

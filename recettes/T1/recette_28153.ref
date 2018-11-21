@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28153">
+  <titre>Agneau sauce citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g d'épaule d'agneau désossée</p>
+    <p>50 g de jambon cuit coupé fin</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>4 cuillères à soupe de vin blanc sec</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>1/2 cuillère à café de zeste de citron</p>
+    <p>1 cuillère à café de persil haché</p>
+    <p>25 g de saindoux</p>
+    <p>1 oignon coupé fin</p>
+    <p>30 cl de bouillon de poule</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>1 cuillère à café de marjolaine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'agneau en cubes de 3 cm. 
+    Dans une cocotte, faire fondre le saindoux et y faire revenir doucement le jambon, l'agneau et l'oignon. Saler et poivrer. Laisser cuire en tournant 1 mn. Verser le vin blanc. Porter à ébullition jusqu'à ce que ça réduise de moitié. Ajouter le bouillon et porter à ébullition en tournant. Couvrir et laisser mijoter 45 mn environ (jusqu'à ce que l'agneau soit tendre). 
+    Battre les jaunes, le jus et le zeste de citron, les herbes et 3 cuillères à soupe de jus de cuisson. Verser le tout dans la cocotte et tourner jusqu'à épaississement.
+    Servir avec des pâtes ou des pommes de terre.
+  ]]>
+  </preparation>
+</recette>

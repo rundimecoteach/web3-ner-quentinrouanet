@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167989">
+  <titre>Maki aubergine-chèvre-jambon cru</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 aubergines</p>
+    <p>6 à 8 tranches de jambon cru</p>
+    <p>100 gr de chèvre frais</p>
+    <p>Huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en deux dans le sens de la longueur.
+    Faire préchauffer le four thermostat 7 pendant 10 minutes.
+    Etaler de l'huile d'olive, du sel et du poivre sur une plaque et y déposer les demis aubergines côté chair. Enfourner environ 45 minutes.
+    Laisser les aubergines refroidir, et disposer ensuite dessus le chèvre frais.
+    Enrouler les tranches de jambon cru autour, et envelopper chaque aubergine dans de la cellophane pour les faire rouler et ainsi obtenir des sortes de "nems".Placer au réfrigérateur 2h, et découper chaque aubergine en 3, puis retirer la cellophane.
+    Servir  les makis sur de la mâche avec une vinaigrette balsamique.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67431">
+  <titre>Gratin de pommes de terre Chrisbör</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>3 oignons</p>
+    <p>4 oeufs</p>
+    <p>3 cuillères à soupe de crème épaisse</p>
+    <p>100 g d'emmental râpé (ou gruyère, comté...)</p>
+    <p>200 g de dés de jambon ou de lardons</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les pommes de terre et les oignons avec la grille à carotte.
+    Battre les œufs en omelette avec la crème, y ajouter les dés de jambon (ou lardons) et le fromage râpé. Mélanger ensemble cette préparation et les pommes de terre. Saler, poivrer.
+    Mettre le tout dans un grand plat à gratin, déposer dessus quelques noix de beurre, et couvrir avec un papier aluminium.
+    Enfourner à four chaud (180°C - Thermostat 6) et laisser cuire 50 min avant de découvrir pour laisser dorer encore 10 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49556">
+  <titre>Cake au chocolat et papayes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>75 g de cassonade</p>
+    <p>125 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>100 g de papayes séchées</p>
+    <p>100 g de pépites de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 175°C (thermostat 5-6).
+    Dans un saladier faire mousser les jaunes d'oeuf avec le sucre.
+    Incorporer la farine avec la levure ainsi que le beurre préalablement fondu.
+    Monter les blancs en neige avec une pincée de sel pour qu'ils soient fermes.
+    Puis les incorporer délicatemment à la préparation.
+    Ajouter les papayes et les pépites de chocolat à la préparation.
+    Mettre le tout dans un moule à cake, beurré, s'il n'est pas antiadhésif, et faire cuire 40 min environ.
+    Vous pouvez rouler les papayes dans la farine afin qu'elles ne tombent pas au fond.
+  ]]>
+  </preparation>
+</recette>

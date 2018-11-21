@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59334">
+  <titre>Méli mélo de crabe à l'avocat</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 avocat</p>
+    <p>1 jus de citron</p>
+    <p>1 à 2 tomates</p>
+    <p>200 g de crabe</p>
+    <p>200 g de fromage blanc nature</p>
+    <p>2 grosses cuillères de mayonnaise</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'avocat en petits dés, arroser de jus de citron.
+    Passer la tomate 20 secondes dans de l'eau bouillante afin de pouvoir retirer la peau facilement.
+    Couper la tomate en petits dés.
+    Dans un saladier, mélanger la tomate, l'avocat et les miettes de crabes (vendu au rayon poissonnerie avec les bâtonnets de crabes).
+     
+    Dans un bol, mélanger le fromage blanc et la mayonnaise. Assaisonner.
+    Insérer le mélange dans le saladier. Bien mélanger le tout.
+    Assaisonner de nouveau selon votre goût.
+    Servir bien frais dans des verrines individuelles ou des petits bols, accompagné d'une feuille de salade.
+    On peut également y ajouter des petites crevettes. Riesling bien frais
+  ]]>
+  </preparation>
+</recette>

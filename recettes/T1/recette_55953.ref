@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55953">
+  <titre>Chiche Kebab à L'armenienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gros gigot D'agneau Desossé</p>
+    <p>1 botte de persil</p>
+    <p>1 kg d'oignons blancs</p>
+    <p>1 jus de citron</p>
+    <p>1 verre d'huile d'olive</p>
+    <p>1 cuillère à soupe de poivre</p>
+    <p>1 cuillère à soupe de sel</p>
+    <p>1 cuillère à soupe de cumin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, dégraissez le gigot et coupez-le en dés de 3 cm de côté.
+    Mettez les dés à mariner avec le persil ciselé, les oignons coupés en fines rondelles, le jus de citron, l'huile d'olive, le poivre, le sel et le cumin.
+    Laisser reposer au réfrigérateur.
+    Le lendemain, mettre 5 ou 6 morceaux de viande par brochette (chiche).
+    Allumez le barbecue avec du charbon  de bois ; lorsque la braise n'est plus très vive, faire cuire les brochettes.
+    Accompagnez ces brochettes avec les oignons et le persil macérés et un riz pilaf (voir remarques ci-dessous).
+    Riz pilaf : faire revenir dans une casserole une poignée de vermicelles dans du beurre et de l'huile d'olive. Lorsque le vermicelle est doré, ajoutez 1 verre de riz pour 2 personnes. Rajoutez 2 verres d'eau par verre de riz. Salez. Faites cuire à feu moyen. Lorsque l'eau est absorbée, éteindre le gaz, couvrir avec un torchon et le couvercle de la casserole. Laissez reposer 20 mn. C'est prêt. Rouge
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63143">
+  <titre>Gratin de courgettes et jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>1 oignon</p>
+    <p>3 oeufs</p>
+    <p>60 g de parmesan</p>
+    <p>10 cl de crème fraîche liquide</p>
+    <p>10 cl de lait</p>
+    <p>sel et poivre</p>
+    <p>4 tranches de jambon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C (thermostat 7-8).
+    Couper les courgettes en rondelles de 2 cm d'épaisseur.
+    Les faire dégorger avec du gros sel dans une passoire pendant 1 heure.
+    Rincer, essuyer et couper la moitié des courgettes en petits dés.
+    Faire revenir dans une poêle à feu vif de l'huile d'olive, l'oignon et les courgettes coupées en dés. Laisser dorer.
+    Mélanger les oeufs, le lait, la crème fraîche liquide, du sel et du poivre.
+    Mixer l'autre moitié de courgettes restantes au mixeur et l'incorporer dans la préparation.
+    Couper des dés de jambon et mélanger dans la préparation. Incorporer la préparation dans la poêle. 
+    Mettre un peu d'huile d'olive dans un plat à gratin et saupoudrer de parmesan. Verser dessus l'ensemble de la préparation de la poêle et mettre du parmesan dessus.
+    Faire cuire pendant 20 à 25 minutes.
+    Bon appétit.
+    Plat simple et convivial.
+  ]]>
+  </preparation>
+</recette>

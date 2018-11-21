@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54955">
+  <titre>La poêlée de Meaux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Pommes de terre moyenne</p>
+    <p>1 oignon (un gros)</p>
+    <p>1 barquette de lardons </p>
+    <p>du beurre (pour la cuisson)</p>
+    <p>150 g de Brie de Meaux </p>
+    <p>du sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et découpez les pommes de terre en petits carrés.
+    Pelez l'oignon et emincez-le.
+    Dans une poele, faites chauffer le beurre, et laissez fondre l'oignon, ajoutez-y les carrés de pommes de terre, salez.
+    Dans une autre poêle, faites rissoler les lardons, une fois cuits ajoutez-les aux pommes de terre.
+    Puis déposez des fines tranches de Brie, quand celui-ci commence à fondre, c'est prêt !
+  ]]>
+  </preparation>
+</recette>

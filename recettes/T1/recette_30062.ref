@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30062">
+  <titre>Soufflé au zeste d'orange</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>25 cl de lait</p>
+    <p>3 oeufs</p>
+    <p>75 g de sucre</p>
+    <p>30 g de semoule de blé</p>
+    <p>1 gousse de vanille</p>
+    <p>2 cuillères à soupe de fins zestes d'oranges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Faites chauffer le lait avec la gousse de vanille jusqu'à ébullition.
+    Retirez la gousse puis versez la semoule et le zeste d'orange.
+    Laissez à feu doux quelques minutes en remuant.
+    Hors du feu, incoporez les jaunes d'oeufs et 75 g de sucre et laissez tiédir.
+    Fouettez les blancs en neige avec une pincée de sel et incorporez-les délicatement.
+    Versez dans un moule à soufflé beurré et sucré.
+    Placez dans un bain-marie et enfournez pour 45 minutes de cuisson sans ouvrir la porte du four.
+  ]]>
+  </preparation>
+</recette>

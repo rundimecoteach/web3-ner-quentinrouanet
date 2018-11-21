@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68867">
+  <titre>Albondigas light</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de viande hachée</p>
+    <p>8 gousses d’ail</p>
+    <p>persil</p>
+    <p>noix de muscade</p>
+    <p>semoule fine ou chapelure</p>
+    <p>1 oeuf</p>
+    <p>sel et poivre</p>
+    <p>safran</p>
+    <p>3 feuilles de laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, mettre 4 gousses d’ail pressées et ajouter 3 grands verres d’eau, le laurier, ainsi qu’une cuillère à café rase de safran (ou curcuma), un peu de sel et de poivre, une cuillère à café rase de noix de muscade. Allumer le feu (feu moyen) et faire chauffer 15 min. 
+    Pendant ce temps, mélanger à la viande tous les ingrédients précités exceptés le laurier et l’eau. Ajouter un oeuf et une bonne poignée de chapelure. Mélanger.
+    Confectionner des boulettes moyennes et les mettre dans la cocotte. 
+    Laisser cuire maximum 10 min en les retournant au bout de 5 min. 
+    Retirer les boulettes et ajouter, dans le jus de cuisson qui reste, le jus de 2 citrons non traités. Laisser un peu réduire. Il faut qu’il reste de la sauce. 
+    Servir avec du riz Basmati.
+  ]]>
+  </preparation>
+</recette>

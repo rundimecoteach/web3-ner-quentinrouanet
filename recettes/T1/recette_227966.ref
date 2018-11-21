@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227966">
+  <titre>Club sandwich saveur du sud</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de jambon</p>
+    <p>1/2 tomate</p>
+    <p>pesto au basilic</p>
+    <p>2 cuillères à café de confit d'oignons</p>
+    <p>beurre</p>
+    <p>2 tranches de pain de mie</p>
+    <p>4 tranches de chèvre (bûche)</p>
+    <p>Parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étalez le pesto sur la tranche de pain de mie du dessous puis faire pareil avec le confit d'oignons. N'hésitez pas sur la quantité. Mettez au dessus une ou deux tranches de jambon blanc ou jambon de bayonne. Ajoutez par dessus quelques tranches de tomates.Découpez le chèvre et installez les tranches sur le tout. Saupoudrez légèrement de parmesan.
+    Refermez avec la seconde tranche de pain de mie beurrée et recouverte de parmesan.
+    Faire cuire 5 minutes au gril à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224308">
+  <titre>Verrine de brocoli</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 brocoli </p>
+    <p>1 portion de fromage ail et fines herbes</p>
+    <p>1 œuf de saumon pour décorer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire à la vapeur le brocoli.
+    Puis, dans le robot, le mixer avec le fromage, sel et poivre.
+    Mettre dans les verrines et réserver au frais.Décorer avec les œufs de saumon.Peut servir en petite verrines pour l'apéritif
+  ]]>
+  </preparation>
+</recette>

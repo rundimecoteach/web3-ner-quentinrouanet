@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10865">
+  <titre>Bricks au carré frais et à la feta</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 portions de carré frais de 75g chacune</p>
+    <p>100 g de feta</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>1 pincée de piment d'espelette en poudre</p>
+    <p>1 pincée de poivre</p>
+    <p>1 oeuf</p>
+    <p>1 paquet de feuille de brick</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Raper la feta dans un saladier (elle sera plus maniable comme ca). Ajouter les carrés frais, les épices, le persil et bien mélanger à la fourchette.
+    Casser l'oeuf sur la préparation et mélanger à nouveau pour bien intégrer l'oeuf.
+    Couper les feuilles de bricks rondes en deux.
+    Plier la demi feuille de brick en deux pour obtenir une bande. Déposer une boulette du mélange en bas de la bande et replier pour former un triangle.
+    Préparer tous les triangles ainsi.
+    Faire frire quelques minutes de chaque côté jusqu'à ce que les triangles soient dorés. On peut également les cuire au four en badigeonnant d'un peu d'oeuf.
+    Servir avec une salade.
+  ]]>
+  </preparation>
+</recette>

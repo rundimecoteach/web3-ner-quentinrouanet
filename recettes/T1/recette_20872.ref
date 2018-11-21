@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20872">
+  <titre>STRUDEL AUX POIRES</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de poires</p>
+    <p>200 g de pâte feuilletée</p>
+    <p>70 g de sucre</p>
+    <p>60 g de biscuits italiens (Savoiardi) </p>
+    <p>30 g de raisins secs</p>
+    <p>20 g de sucre en poudre</p>
+    <p>zeste de citron</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez en quatre les poires ; étendez un rectangle de pâte feuilletée de 30 cm pour 25 cm et couvrez le tout avec les savoiardi émiettés. 
+    Ajoutez les poires en tranches fines, les raisins et un peu de sucre. 
+    Épicez avec la zeste de citron et la cannelle. 
+    Enroulez la pâte feuilletée, refermez les ingrédients et fermez les deux extrémités. 
+    Faîtes deux coupes sur la partie supérieure de la pâte, mettez le Strudel dans un plat à rôti et mettez le plat dans un four chaud à 220°C pendant 30 mn. 
+    A cuisson terminée, enlevez le Strudel et laissez tiédir. 
+    Saupoudrez-le avec le sucre en poudre. 
+    Coupez-le en tranches et servez-le tiède ou froid.
+    Vous pouvez servir les tranches de strudel accompagnées d'une créme vanille. 
+  ]]>
+  </preparation>
+</recette>

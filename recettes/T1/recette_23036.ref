@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23036">
+  <titre>Lapin à la moutarde (recette allégée)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin découpé en morceaux</p>
+    <p>1 pot de moutarde forte</p>
+    <p>estragon</p>
+    <p>3 cuillers à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four Th 7 (210°C). 
+    Enduire généreusement les morceaux de lapin de moutarde à laquelle on aura ajouté l'estragon. Déposer le lapin dans un plat à four avec couvercle. 
+    Ajouter l'eau couvrir et mettre environ 1 h au four.
+  ]]>
+  </preparation>
+</recette>

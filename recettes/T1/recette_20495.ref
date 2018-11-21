@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20495">
+  <titre>Poires caramélisées</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 poires</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillères à soupe de miel liquide</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>50 g d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les poires et coupez-les en 4 . 
+    Faites fondre le beurre, ajoutez le miel et le sucre. Bien mélanger. Mettez les quartiers de poire à cuire pendant 5 min en les retournant avec précaution. Disposez sur le plat de service. Mettez les amandes effilées à dorer dans ce caramel pendant 2 min et versez sur les poires.Servez avec un sorbet poire ou une glace au chocolat.
+  ]]>
+  </preparation>
+</recette>

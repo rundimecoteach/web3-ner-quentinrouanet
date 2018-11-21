@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82498">
+  <titre>Tarte à la crème et cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>3 oeufs</p>
+    <p>125 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>30 cl de crème fraiche liquide</p>
+    <p>1 cuillère à soupe de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Mélanger les oeufs, les sucres et la cannelle. 
+    Ajouter la crème fraiche.
+    Etaler la pâte brisée, piquer le fond, y verser la préparation.
+    Mettre 30 minutes au four.
+    Cette tarte peut également se faire avec une pâte levée sucrée.
+    Très bonne avec un thé earl grey. un guewurtztraminer
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19691">
+  <titre>Soupe de Pommes de terre aux vermicelles</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 de pommes de terre</p>
+    <p>2 oignons émincés</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vermicelles fins</p>
+    <p>1 bouquet de persil</p>
+    <p>1 bouillon cube</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser l'huile dans une cocotte, puis ajouter les oignons et les pommes de terre crues coupées en cubes. Saler, poivrer et faire revenir dans l'huile 15 min, à feu doux. Verser 1/4 de litre d'eau chaude mélangée au bouillon cube; laisser mijoter 20 min. Passer cette préparation au mixeur et remettre dans la cocotte. 
+    Ajouter 2 litres d'eau et laisser cuire 20 à 30 min. Ajouter le vermicelle et éteindre 5 min après. Parsemer de persil finement haché, et servir.
+  ]]>
+  </preparation>
+</recette>

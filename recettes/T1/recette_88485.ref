@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88485">
+  <titre>Hachis parmentier à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de ratatouille (fraîchement préparée ou en boîte)</p>
+    <p>5 tomates séchées </p>
+    <p>250 g de viande hachée</p>
+    <p>125 g de purée mousseline </p>
+    <p>50 g de parmesan râpé</p>
+    <p>1 pincée d'herbes de provence</p>
+    <p>30 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 7).
+    Pendant ce temps, découper les tomates séchées en lamelles. 
+    Faire revenir la viande hachée à la poêle, ajouter la ratatouille, les tomates séchées.
+    Assaisonner et agrémenter d'herbes de provence.
+    Laisser mijoter environ 7 minutes. Si la préparation reste trop liquide, y ajouter un peu de farine pour épaissir le tout (sinon le hachis sera liquide).
+    Pendant que ça mijote, préparer la purée en veillant à ne pas la laisser trop liquide.
+    Dans un plat à gratin, étaler le mélange viande-légumes en une couche homogène et déposer dessus la purée. 
+    Saupoudrer de parmesan râpé.
+    Enfourner pour environ 20 minutes à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

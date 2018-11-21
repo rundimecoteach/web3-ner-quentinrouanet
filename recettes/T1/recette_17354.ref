@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17354">
+  <titre>Quiche aubergine et feta</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 grosse aubergine</p>
+    <p>200 g de feta</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>basilic, frais de préférence</p>
+    <p>quelques rondelles de citron confit (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piquez la peau de l'aubergine, faites-la cuire à four doux (150°C) pendant 30 à 40 mn. Ecrasez la chair de l'aubergine.
+    Battez les oeufs, incorporez la crème fraîche, et la moitié de la feta émiettée. Ajoutez l'aubergine à ce mélange.
+    Placez la pâte dans un moule à tarte, puis versez-y la préparation. Parsemez du reste de feta émiettée, de basilic, décorez avec quelques rondelles de citron confit et arrosez d'un filet d'huile d'olive.
+    Laissez cuire 35 minutes à four chaud (180°C).
+    Si vous faites la pâte vous-mêmes, ajoutez-y quelques feuilles de basilic et des copeaux de parmesan.
+  ]]>
+  </preparation>
+</recette>

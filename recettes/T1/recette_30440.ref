@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30440">
+  <titre>Pâté léger aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de champignons de Paris, nettoyés et émincés</p>
+    <p>100 g de fromage frais léger type Philadelphia aux herbes (à défaut, utiliser du St Moret ou du sarré frais et ajouter des herbes fraîches hachées)</p>
+    <p>1 gousse d'ail hachée finement</p>
+    <p>1 échalote hachée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'ail à la poêle, dans un peu de matière grasse (attention à ne pas le laisser brûler, ce qui donnerait un goût amer).
+    Ajouter les champignons et laisser suer jusqu'à évaporation de leur eau.
+    Oter du feu, laisser refroidir et passer au mixer mais en laissant de la consistance (pas en purée!).
+    Ajouter le fromage frais, sel, poivre et l'echalote hachée. Bien mélanger et laisser au frais au moins 1/2 heure.
+    Déguster sur des tartines de pain de campagne grillé, ou en 'dip' avec des bâtonnets de crudités.
+  ]]>
+  </preparation>
+</recette>

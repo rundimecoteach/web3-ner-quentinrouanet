@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170965">
+  <titre>Veau Marengo facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tendrons de veau</p>
+    <p>600 gr de tomates fraîches</p>
+    <p>30 cl de vin blanc</p>
+    <p>30 gr de farine</p>
+    <p>1 oignon</p>
+    <p>10 gr de beurre</p>
+    <p>sel &amp; poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper les tomates en rondelles. Éplucher l'oignon.
+    Dans une cocotte, faire fondre le beurre. Lorsqu'il commence a frire, mettre l'oignon coupé en morceaux. Ajouter les tendrons de veau et les faire revenir de chaque côtés pendant 2 à 3 minutes. Saler et poivrer.
+    Mettre quelques rondelles de tomates sur la viande, puis saupoudrer avec la farine. Verser le vin blanc sur celle-ci.
+    Pour finir, mettre le reste de rondelles de tomates et laisser cuire à feu doux pendant 1h30.Ce plat peut être servi avec des pâtes.
+  ]]>
+  </preparation>
+</recette>

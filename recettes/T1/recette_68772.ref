@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68772">
+  <titre>Gratin poisson fruits de mer</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poisson (cabillaud, lieu...)</p>
+    <p>300 g de fruits de mer congelés</p>
+    <p>2 courgettes</p>
+    <p>20 cl de crème</p>
+    <p>50 g de gruyère râpé</p>
+    <p>1 gousse d'ail</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>herbes de provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes en rondelles et les faire revenir dans l'huile jusqu'à ce qu'elle deviennent transucides.
+    Pendant ce temps faire cuire les filets de poisson et les fruits de mer pendant 5 min environ, ajouter la gousse d'ail émincée.
+    Dans un plat à gratin, mettre les courgettes et le mélange poisson fruits de mer, sel, poivre, herbes de provence.
+    Recouvrir de crème et mettre le gruyère râpé. Enfourner une vingtaine de minutes.
+    Simple, et qui plaît aux grands comme aux petits!
+  ]]>
+  </preparation>
+</recette>

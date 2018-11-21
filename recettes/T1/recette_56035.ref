@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56035">
+  <titre>Rôti de porc très facile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de porc de 1 kg</p>
+    <p>40 g de margarine (ou beurre ou huile)</p>
+    <p>sel, poivre</p>
+    <p>laurier, thym...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumer le four sur sole à 180°C (thermostat 6).
+    Faire chauffer 25 g de margarine dans une poêle.
+    Mettre le rôti à dorer de toute part, sur feu vif.
+    Déposer le rôti dans un plat sans y mettre la margarine fondue.
+    Saler, poivrer, parsemer de noisettes de margarine.
+    On peut ajouter des feuilles de laurier et de thym sur le rôti.
+    Faire cuire pendant 15 minutes.
+    Ajouter un verre d'eau bouillante et laisser cuire une heure de plus.
+    Arroser plusieurs fois au cours de la cuisson.
+  ]]>
+  </preparation>
+</recette>

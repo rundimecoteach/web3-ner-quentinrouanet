@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26047">
+  <titre>Tarte tatin froide aux artichauts et parmesan</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 ou 10 fonds d'artichauts en boîte</p>
+    <p>3 tranches de jambon</p>
+    <p>2 oeufs</p>
+    <p>100 g de crème fraîche</p>
+    <p>100 g d'emmental râpé</p>
+    <p>100 g de parmesan râpé</p>
+    <p>50 g de beurre</p>
+    <p>1 pâte feuilletée</p>
+    <p>sel, poivre et noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Egouttez les fonds d'artichauts.
+    Hachez le jambon, mélangez aux oeufs battus et à la crème fraîche. Ajoutez les 3/4 des fromages. 
+    Beurrez un moule à manqué. Disposez la moitié des fonds d'artichauts, recouvrez de garniture jambon, oeufs, crème et fromage. Répétez l'opération : une couche d'artichauts et une couche de crème. Déposez quelques noisettes de beurre sur le dessus et enfournez pour 15 minutes.
+    Saupoudrez alors du reste de fromage.
+    Recouvrez de pâte feuilletée en enfonçant la pâte sur les bords et remettez au four 20 minutes.
+    Démoulez et servez froid.
+  ]]>
+  </preparation>
+</recette>

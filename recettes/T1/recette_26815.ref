@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26815">
+  <titre>Gâteau aux carottes (recette norvégienne)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 biscottes réduites en poudre</p>
+    <p>5 oeufs</p>
+    <p>250 g de sucre</p>
+    <p>250 g de noisettes coupées finement mais pas réduites en poudre</p>
+    <p>250 g de carottes râpées</p>
+    <p>le jus d’un citron</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Mélanger les jaunes d’oeufs et le sucre jusqu’à obtention d’un mélange mousseux. Y ajouter les noisettes, la levure, les carottes, les biscottes, la pincée de sel, et le jus de citron. 
+    2) A part, monter les blancs en neige et les incorporer au premier mélange. 
+    3) Enfourner dans un moule à manquer beurré environ 40 mn à 180°C ( vérifier régulièrement la cuisson à l’aide d’un couteau).
+    On peut faire un glaçage au chocolat noir.
+    Le gâteau est meilleur s’il est préparé la veille. Il se conserve très bien dans une boîte en plastique au réfrigérateur plusieurs jours… si tout le monde résiste…
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38593">
+  <titre>Gâteau de maïs petit déjeuner</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine de maïs</p>
+    <p>4 oeufs </p>
+    <p>une pincée de sel </p>
+    <p>100 g de beurre </p>
+    <p>2 yaourts nature </p>
+    <p>un sachet de levure chimique </p>
+    <p>un demi-verre de miel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le beurre fondu avec le miel, les yaourts et les 4 oeufs battus.
+    Bien émulsionner puis, ajoutez la farine de maïs, la levure et le sel. 
+    Faîtes cuire environ 30 min à 150°C (thermostat 5) dans un plat rectangulaire.
+    Découpez des carrés une fois cuit.
+    D'une belle couleur jaune, au goût original, peu sucré, idéal pour le petit déjeuner, avec beurre et confiture. chocolat, café 
+  ]]>
+  </preparation>
+</recette>

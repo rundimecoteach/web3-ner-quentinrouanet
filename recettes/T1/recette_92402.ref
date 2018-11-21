@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92402">
+  <titre>Mes petits pots de crème au chocolat !</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Une brique de crème liquide- 20 cl de lait- 250g de chocolat à dessert- 3 jaunes d'oeuf- 3 cuillères à soupe de sucre roux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer la crème et le lait.  Quand le mélange bout, retirer du feu, y mettre le chocolat et le laisser fondre, remuer de temps en temps.
+    Battre les jaunes d'oeuf avec le sucre, quand le mélange blanchis, y ajouter le mélange précédent.
+    Remuer délicatement, puis verser dans des verrines. Poser les verrines dans un plat allant au four, puis ajouter de l'eau pour une cuisson au bain marie.
+    Cuire 20 à 30 minutes à 180°.
+    Laisser reposer 3h au frigo, et sortir 15 minutes avant de déguster.
+  ]]>
+  </preparation>
+</recette>

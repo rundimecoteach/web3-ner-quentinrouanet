@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47821">
+  <titre>Bricks estivales</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>1 boule de mozzarella</p>
+    <p>2 tomates</p>
+    <p>2 tranches de jambon cru</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler les feuilles de brick, et déposer au milieu la moitié d'une tomate coupée en rondelles, la moitié d'une tranche de jambon cru, de la mozzarella; et saupoudrer de basilic. 
+    On peut éventuellement arroser d'un filet d'huile d'olive. 
+    Au four, pendant environ 1/4 d'heure (préchauffé à environ 200°C/th6-7), et c'est parti pour un dîner léger avec une petite salade en accompagnement!
+    Pour une entrée, ne servir qu'une brick. Un petit rosé de pays (Saint Chinian)
+  ]]>
+  </preparation>
+</recette>

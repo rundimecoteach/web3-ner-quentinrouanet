@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30501">
+  <titre>Pâté de lièvre au jambon cru et cognac</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lièvre</p>
+    <p>1 verre de vin blanc</p>
+    <p>1 petit verre de cognac</p>
+    <p>1 oignon</p>
+    <p>300 g de chair à saucisse</p>
+    <p>300 g de jambon cru</p>
+    <p>2 bardes de lard</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger le vin blanc, le cognac, l'oignon haché, le sel, le poivre et le bouquet garni.
+    Découper le lièvre en morceaux et le faire mariner pendant une journée dans la préparation précédente. 
+    Extraire les morceaux de lièvre et réserver les gros morceaux. Mixer le reste et le mélanger à la chair à saucisse. Assaisonner. 
+    Déposer au fond d'une terrine une barde de lard et y superposer, en différentes couches, les gros morceaux de lièvre, la farce et le jambon coupé en lanières. Couvrir le tout de la deuxième barde de lard et mettre le tout au bain-marie.
+    Faire cuire 2 h 30 au four à 210°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

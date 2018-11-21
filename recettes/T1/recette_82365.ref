@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82365">
+  <titre>Délicieuse soupe goût couscous</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poireaux</p>
+    <p>2 courgettes</p>
+    <p>5 carottes</p>
+    <p>5 pommes de terre</p>
+    <p>1 navet</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à soupe de coriandre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les légumes, coupez-les en rondelles (cela cuira plus vite) et mettez-les dans une grande casserole ou dans une cocotte minute.
+    Recouvrez d'eau (attention à ne pas en mettre trop car les courgettes dégorgent et rendent la soupe plus liquide) et salez et poivrez. 
+    Laissez cuire 40 à 45 minutes puis mixer le tout, ajoutez la coriandre (salez de nouveau, car souvent elle ne l'est pas assez).
+    Cette recette tout simplement parfaite à été crée par ma soeur et je dois dire que j'en rafole!!Nanou merci à toi!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166276">
+  <titre>Riz aux épices et au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200g de riz basmati</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>3 cuillères à soupe de curry</p>
+    <p>1 cuillère à soupe de cumin</p>
+    <p>1 cuillère à soupe de persillade (persil, ail et fines herbes)</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>quelques raisins secs</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz à la casserole jusqu'à ce qu'il soit fondant. Salez l'eau pendant la cuisson.
+    Pendant ce temps, préparer la sauce onctueuse dans un bol. Mettre l'huile d'olive, puis les épices, la persillade et le miel.
+    Ajouter les raisins secs qui agrémenteront le tout.
+    Lorsque le riz est prêt, mélanger la sauce et le riz dans un saladier et servir ... Un délice !
+  ]]>
+  </preparation>
+</recette>

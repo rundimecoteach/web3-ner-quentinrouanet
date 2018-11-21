@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82622">
+  <titre>Délicieux cookies américains au beurre salé</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>220 g de farine</p>
+    <p>1/2 sachet de levure chimique </p>
+    <p>50 g de cassonade</p>
+    <p>50 g de sucre blanc</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>125 g de beurre salé</p>
+    <p>1 cuillère à café de miel</p>
+    <p>1 oeuf</p>
+    <p>60 g de pépites de chocolats</p>
+    <p>quelques éclats de caramel à votre goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer votre four à 200°C (thermostat 6-7). 
+    Dans un récipient, faire fondre le beurre au micro-ondes (attendre que ça refroidisse) et le mélanger au miel et à l'oeuf.
+    Dans un autre récipient, mélanger la farine, la levure et les sucres (vanille, cassonade et blanc).
+    Rassembler tout ensemble et mélanger (la pâte est grumeleuse c'est normal) puis ajouter les pépites de chocolat et les éclats de caramel.
+    Sur votre plaque à four, mettre du papier à cuisson puis former des petites boulettes de pâtes et bien les espacer (faire la cuisson en 2 fournées).
+    Mettre au four à 200°C (thermostat 6-7) pendant 5 à 8 minutes environ bien les surveiller, les laisser refroidir et bon appétit !!!
+    Vous pouvez varier la recette en ajoutant des noix, noisettes, noix de pécan, noix de coco voir selon votre gôut! 
+  ]]>
+  </preparation>
+</recette>

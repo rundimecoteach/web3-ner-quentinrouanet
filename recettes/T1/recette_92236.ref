@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92236">
+  <titre>Mousse au chocolat un jeu d'enfant</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 plaquette de chocolat noir </p>
+    <p>1 oeuf par barre de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    pour que la recette soit tres simple il faut 1 barre et un oeuf par personnefaire fondre le chocolat au bain marie, pendant ce tps separer les jaunes et les blancs de oeufsmonter les blancs avec un peu de selle chocolat fondu y mettre les jaunes, bien melangerincorporer les blancs delicatementvoilà c'est faitmettre au frais si on veut une mousse qui tienne sinon c'est trés bon comme çà
+  ]]>
+  </preparation>
+</recette>

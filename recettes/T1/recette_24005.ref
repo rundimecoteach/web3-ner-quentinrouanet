@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24005">
+  <titre>Fouace  aveyronnaise</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>4 oeufs</p>
+    <p>250 g de beurre fondu</p>
+    <p>30 g de levure de boulanger</p>
+    <p>30 cl de lait tiède</p>
+    <p>20 g de sel fin</p>
+    <p>2 cuillères à soupe d'eau de fleur d'oranger</p>
+    <p>60 g de fruits confits coupés menus</p>
+    <p>120 g de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer la levure dans le lait.
+    Placer la farine dans un saladier, y faire une fontaine avec la farine et y casser les oeufs un à un. Bien mélanger.
+    Verser la levure délayée dans le lait, puis intégrer le beurre fondu, le sel, le sucre. Bien mélanger.
+    Ajouter l'eau de fleur d'oranger et les morceaux de fruits confits.
+    Bien travailler bien la pâte et laisser lever 2 heures à température ambiante.
+    Former une boule sur un plan de travail fariné et façonner la fouace en couronne en soudant bien les deux bouts. Laisser lever de nouveau 1 heure.
+    Faire cuire 15 à 20 min à four assez chaud (200°C minimum), jusqu'à l'obtention d'une pâte bien dorée, pas plus surtout!
+    Saupoudrer de sucre et laissez refroidir.
+     thé, chocolat ou café
+  ]]>
+  </preparation>
+</recette>

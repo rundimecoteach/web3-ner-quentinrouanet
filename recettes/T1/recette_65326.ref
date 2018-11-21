@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65326">
+  <titre>Tajine de boeuf aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de viande de boeuf (jarret de préférence) </p>
+    <p>250 g d'olives vertes au naturel (dénoyautées)</p>
+    <p>1 oignon moyen</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet garni à base de persil et coriandre</p>
+    <p>1 cuillère à café rase de gingembre en poudre</p>
+    <p>1 cuillère à café rase de poivre</p>
+    <p>1/4 cuillère à café de curcuma (ou colorant alimentaire)</p>
+    <p>10 cuillères à soupe d'huile d'olive</p>
+    <p>sel selon le goût</p>
+    <p>50 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte ou un plat à tajine, mettre la viande, l'huile d'olive, l'oignon émincé, l'ail écrasé et mettre sur feu moyen. 
+    Laisser mijoter 2 minutes, ensuite ajouter toutes les épices et le bouquet garni.
+    Bien remuer et laisser cuire à decouvert pendant 5 minutes (le temps que la viande s'imprègne de toutes les épices).
+    Ajouter ensuite l'eau, remuer et fermer la cocotte ou le tajine pour laisser cuire la viande pendant 15 à 20 minutes à feu moyen.
+    Une fois que la viande est bien cuite, ajouter les olives, rectifier l'assaisonnement et laisser mijoter encore 15 minutes pour avoir une sauce bien onctueuse.
+    Bon appétit !
+    Faites attention au sel si vous utiliser des olives en conserve qui sont déja bien salées. Accompagnez de semoule, pommes de terre et carottes ou pain oriental.
+  ]]>
+  </preparation>
+</recette>

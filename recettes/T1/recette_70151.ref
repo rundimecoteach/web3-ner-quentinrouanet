@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70151">
+  <titre>Raie au quinoa et lentilles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de raie</p>
+    <p>200 g de coques</p>
+    <p>30 g de lentilles</p>
+    <p>40 g de quinoa</p>
+    <p>1/2 cube de bouillon de légumes</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à café de curry </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dégorger les coques pendant deux heures dans de l'eau avec une poignée de gros sel. Puis les rincer plusieurs fois à l'eau claire.
+    Mettre la crème fraîche et le curry dans une marmite. Porter à feux moyen et y cuire les coques à couvert jusqu'à ce qu'elles soient toutes ouvertes. Les enlever de leur coquille et les mettre de côté.Conserver la crème fraîche.
+    Cuire la raie à la poêle dans un peu d'huile et enlever la chair de l'arête principale.
+    Mettre le bouillon dans de l'eau portée à ébullition. Cuire le quinoa et les lentilles dans cette eau pendant 20 min. Égoutter.Réchauffer tous les ingrédients (raie, coques, crème fraîche, lentilles, quinoa) dans une poêle.
+    Saler et poivrer à convenance. C'est prêt!La quantité de curry est à adapter en fonction qu'il soit doux ou plutôt fort. Ici, j'utilise un curry doux.
+  ]]>
+  </preparation>
+</recette>

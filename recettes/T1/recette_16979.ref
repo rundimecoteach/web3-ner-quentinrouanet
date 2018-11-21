@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16979">
+  <titre>Lapin forestière</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin coupé en morceaux</p>
+    <p>150 g de poitrine fumée</p>
+    <p>500 g de champignons de Paris</p>
+    <p>3 oignons</p>
+    <p>3 carottes</p>
+    <p>1 échalote</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>1/4 de litre de vin blanc sec</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+    <p>persil</p>
+    <p>Pour la garniture:</p>
+    <p>1 kg de pommes de terre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez les champignons. 
+    Pelez les carottes, coupez-les en rondelles, épluchez l'échalote et l'ail. 
+    Coupez la poitrine fumée en lardons et faites rissoler dans une cocotte huilée. 
+    Une fois bien dorés retirez-les et mettez à la place l'échalote, l'ail, tous les légumes ainsi que le bouquet garni pendant 5 min à feu vif en remuant.
+    Baissez la flamme, remettez la viande, les lardons, salez, poivrez, remuez et arrosez avec le vin blanc.
+    Couvrez la cocotte, laissez mijoter 40 min.
+    Cuisez les pommes de terre à l'eau sans les éplucher.
+    Une fois cuites épluchez-les et servez-les soit à part soit dans la cocotte. 
+  ]]>
+  </preparation>
+</recette>

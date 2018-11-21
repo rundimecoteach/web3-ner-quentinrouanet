@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34320">
+  <titre>Flan aux oeufs au zeste d'orange</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>1 litre de lait</p>
+    <p>200 g de sucre</p>
+    <p>caramel liquide (assez pour tapisser le fond de plat) </p>
+    <p>zeste de 2/3 d'une orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer au fond de la cocotte-minute, un trépied (un ramequin en Pyrex à l’envers peut faire l'affaire). 
+    Tapisser le fond d’un moule à soufflé de caramel liquide. 
+    Placer le moule dans la cocotte. 
+    Prélever le zeste d’orange et le couper très finement à l’aide d’un couteau. 
+    Dans une casserole, faire chauffer le lait et le zeste d’orange jusqu’à frémissement. 
+    Dans un saladier, battre au fouet les oeufs et le sucre. 
+    Tout en continuant de battre, y verser le lait chaud. 
+    Verser cette préparation dans le moule à soufflé. 
+    Couvrir le moule d'une assiette. 
+    Fermer la cocotte. 
+    Faire cuire au minimum 20 mn à partir du chuchotement de la soupape. 
+    Consommer, une fois refroidi.
+    Il vaut mieux le préparer la veille car il met du temps à refroidir.
+  ]]>
+  </preparation>
+</recette>

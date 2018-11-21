@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73746">
+  <titre>Terrine surimi et thon très simple</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>16 bâtons de surimi coupés en rondelles peu épaisses</p>
+    <p>2 boîtes moyennes de thon</p>
+    <p>1 gros oignon coupé en dés (ou pour parfumer, des échalotes)</p>
+    <p>40 cl de crème fraîche liquide</p>
+    <p>3 oeufs</p>
+    <p>persil, ciboulette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout dans saladier.
+    Mettre dans un moule à cake.
+    Enfourner 45 min à 180°, thermostat 6.Vérifier la cuisson avec la lame du couteau.
+    Après la cuisson, faire refroidir et tenir au réfrigérateur afin de servir froid.
+    On peut servir avec un coulis de tomate, ou ciboulette, oseille ou sauce cocktail.
+  ]]>
+  </preparation>
+</recette>

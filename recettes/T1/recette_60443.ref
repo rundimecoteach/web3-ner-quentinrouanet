@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60443">
+  <titre>Salade d'asperges aux  pois gourmands</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g pois gourmands</p>
+    <p>1 botte d'asperges vertes</p>
+    <p>2 cuillères à soupe de graines de sésame</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>graines de sésame</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Effilez et lavez les pois gourmands, faites les cuire 5 minutes dans de l'eau bouillante salée, puis plongez-les dans de l'eau glacée pour stopper la cuisson et égouttez-les.
+    Eliminez le bout des asperges, puis faites-les cuire dans de l'eau bouillante salée 5 minutes jusqu'à ce qu'elles soient tendres. 
+    Rafraichissez-les sous l'eau froide et égouttez-les.
+    Coupez les pois gourmands en deux mais laissez les asperges entières. Disposez-les dans un grand plat.
+    Arrosez de vinaigrette préparée avec le vinaigre balsamique, l'huile d'olive, le sel, le poivre et parsemez de graines de sésame grillées à sec dans une poêle bien chaude.
+    Très tendres, les asperges vertes n'ont pas besoin d'être pelées et ne nécessitent qu'un simple lavage. Plongez les légumes dans de l'eau glacée juste après la cuisson pour conserver leur belle couleur verte.
+  ]]>
+  </preparation>
+</recette>

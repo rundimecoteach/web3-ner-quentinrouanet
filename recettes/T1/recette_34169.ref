@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34169">
+  <titre>Gratin de mangue à la crème</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 grosses mangues</p>
+    <p>3 jaunes d'oeuf</p>
+    <p>15 cl de jus d'orange</p>
+    <p>10 cl de champagne demi-sec</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>75 g de sucre</p>
+    <p>20 g de Maïzena</p>
+    <p>40 g de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez les mangues en lamelles épaisses. 
+    Répartissez-les dans 6 petits plats à gratin. 
+    Dans un saladier, battez le sucre et les jaunes jusqu'à ce que le mélange blanchisse et mousse. Ajoutez la Maïzena, remuez et délayer avec le jus d'orange et le champagne. 
+    Versez dans une casserole, faites épaissir sans cesser de remuer jusqu'à ébullition. Retirez du feu, incorporez la crème fraîche. Laissez refroidir. 
+    Versez ce mélange sur les mangues, saupoudrez de cassonade et faites caraméliser 5 à 8 mn dans le four en position grill, tout en surveillant. Servez tiède.
+    Le Champagne n'est pas indispensable. 
+  ]]>
+  </preparation>
+</recette>

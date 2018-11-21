@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20510">
+  <titre>Gratin de cardons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gros cardon</p>
+    <p>100 g de beurre</p>
+    <p>10 cl de lait</p>
+    <p>10 cl de crème</p>
+    <p>gruyère râpé</p>
+    <p>parmesan râpé</p>
+    <p>10 cl d'eau</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les cardons et détailler les côtes tendres en morceaux de 6 à 8 cm. Racler le trognon, le découper, l'effiler puis frotter les côtes avec la moitié d'un citron.
+    Dans une cocotte, délayer la farine avec l'eau froide, le jus d'un demi-citron, le sel et 2 cuillères à soupe de beurre.
+    Bien mélanger la préparation. Y incorporer les cardons et les faire cuire à feu doux sans cesser de remuer pendant 2h.
+    Préchauffer votre four à 180°C (thermostat 6).
+    Après cuisson, les égoutter et les disposer dans un plat à gratin beurré. Les saupoudrer de parmesan râpé, verser le lait de la cuisson par-dessus et parsemer de noisettes de beurre.
+    Saupoudrer du gruyère râpé puis faire gratiner au four sur le grill pendant 15 min environ.
+    Laisser cuire ensuite à four chaud jusqu'à évaporation complète du lait, puis faire gratiner en position grill pendant 10 à 15 min.
+  ]]>
+  </preparation>
+</recette>

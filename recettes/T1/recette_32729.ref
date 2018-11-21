@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32729">
+  <titre>Gnocchi à la crème de poivron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poivron rouge</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>3 cuillères à soupe de parmesan râpé</p>
+    <p>gnocchis de pomme de terre pour deux</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le poivron en petites lamelles, puis le faire revenir dans un peu d'huile. 
+    Quand il commence à dorer, le retirer du feu et le passer au mixeur. Remettre sur le feu, y ajouter la crème fraîche puis le parmesan. Saler, poivrer. 
+    Laisser épaissir quelques instants à feu doux. Pendant ce temps là on aura fait cuire les gnocchis. Les napper de sauce, et saupoudrer d'un peu de parmesan râpé.Recette dégustée pour la première fois en Toscane, que j'ai essayé de retrouver assez fidèlement. Vin blanc
+  ]]>
+  </preparation>
+</recette>

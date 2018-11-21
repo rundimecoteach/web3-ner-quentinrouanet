@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27521">
+  <titre>Tarte au citron surprise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>100 g de chocolat noir</p>
+    <p>10 cl de crème fraîche liquide</p>
+    <p>du lemon curd</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Abaisser la pâte sablée dans un plat et la faire cuire à blanc pendant 15 mn. 
+    Pendant ce temps, faire fondre au bain-marie le chocolat cassé en moceaux. Ajouter la crème et bien mélanger. 
+    Verser l'appareil sur la pâte et laisser refroidir. 
+    Lorsque le chocolat à durci, étaler le lemon curd à la spatule de façon à bien recouvrir le chocolat. 
+    Réserver au frais.
+    On peut faire la tarte à l'avance et étaler le lemon curd juste avant de servir.
+  ]]>
+  </preparation>
+</recette>

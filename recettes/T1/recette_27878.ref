@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27878">
+  <titre>Pudding aux fruits confits</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de pain rassis</p>
+    <p>30 cl de lait </p>
+    <p>75 g de sucre</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>75 g de raisins secs</p>
+    <p>150 g de fruits confits</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>3 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir le lait et versez-le sur le pain. Laissez reposer 30 minutes puis mélangez à l'aide d'une cuillère en bois.
+    Préchauffez le four à 150°C (thermostat 5).
+    Incorporez les sucres, la cannelle, les raisins, les fruits confits hachés et le rhum.
+    Versez la pâte dans un moule beurré et saupoudré de sucre.
+    Enfournez au bain-marie pour 1 h30 de cuisson.
+  ]]>
+  </preparation>
+</recette>

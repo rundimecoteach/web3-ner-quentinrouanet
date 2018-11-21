@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90293">
+  <titre>Poireaux au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de poireaux </p>
+    <p>1 gros oignon blanc</p>
+    <p>400 g de lard fumé à cuire </p>
+    <p>8 pommes de terre moyennes</p>
+    <p>1 cube de bouillon de légume</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>2 clous de girofle</p>
+    <p>1 feuille de laurier</p>
+    <p>1 branchette de thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Parer et laver les poireaux et l'oignon, les détailler en rondelles d'1 centimètre et les laver à nouveau.
+    Dans une poêle,faire suer les poireaux et l'oignon pendant 5 bonnes minutes avec un peu d'huile d'olive.
+    Ajouter du vin, de l'eau,les clous de girofle, les aromates, le cube de bouillon.
+    Saler, poivrer et bien mélanger.
+    Disposer le lard à cuire par-dessus.
+    Recouvrir et laisser cuire à feu doux.
+    Pendant ce temps, laver et peler les pommes de terre,les mettre a cuire sur les légumes et le lard 30 minutes avant la fin de la cuisson.
+    Au bout d'une heure, tester la cuisson des pommes de terre et du lard a la pointe d'un couteau.
+    Dès qu'ils sont cuits, c'est prêt.
+  ]]>
+  </preparation>
+</recette>

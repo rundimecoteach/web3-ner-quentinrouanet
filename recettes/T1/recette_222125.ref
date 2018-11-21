@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222125">
+  <titre>Accompagnement fruité pour foie gras</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pommes</p>
+    <p>2 poires</p>
+    <p>liqueur de fraise</p>
+    <p>1 citron</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>50 g de sucre</p>
+    <p>1 pincée de cannelle </p>
+    <p>1 petite pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les fruits dans une casserole à feu vif.
+    Ajouter la liqueur à hauteur et faire flamber.
+    Ajouter le jus d'un citron, le sucre vanillé, le sucre, une pincée de cannelle et une petite pincée de poivre.
+    Faire réduire pendant environ une demi-heure. Vin blanc doux
+  ]]>
+  </preparation>
+</recette>

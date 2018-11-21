@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11447">
+  <titre>Quatrain aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pommes moyennes </p>
+    <p>3 oeufs</p>
+    <p>1 citron (zeste)</p>
+    <p>150 g de sucre en poudre </p>
+    <p>150 g de beurre </p>
+    <p>150 g de farine </p>
+    <p>1 pincée de sel </p>
+    <p>16 morceaux de sucre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez un caramel moyen et versez-le dans un fond d'un moule à manqué. Laisser refroidir. 
+    Dans une terrine, travaillez le sucre, le sel et les oeufs entiers. Ajoutez la farine, cuillerée par cuillerée, puis le beurre ramolli mais non fondu.
+    Incorporez en dernier lieu le zeste de citron râpé. Bien travailler la pâte afin qu'elle soit légère.
+    Pelez les pommes, enlevez le coeur à l'aide d'un vide pommes et coupez-en une ou deux pour obtenir sept belles rondelles d'un 1/2 cm d'épaisseur.
+    Disposez ces rondelles sur le fond du moule. Coupez le reste des pommes en petits morceaux. Mélangez-les au reste de la pâte
+    et remplissez le moule.
+    Faites cuire à four moyen. Démoulez chaud. Servez tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

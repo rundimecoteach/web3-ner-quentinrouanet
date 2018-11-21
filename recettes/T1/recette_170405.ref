@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170405">
+  <titre>Flan de blettes et de jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de blettes (vert et blenc)</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème liquide</p>
+    <p>sel, poivre, herbes de provence</p>
+    <p>6 tranches de filets de poulet fumé</p>
+    <p>150 g de gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Péchauffez le four à 225°C (thermostat 8).Nettoyez et faites blanchir 10 minutes les blettes puis égouttez-les.
+    Mettez les oeufs, la crème, les tranches de poulet, les blettes et les épices dans le blender puis mixez le tout.
+    Versez dans 1 plat puis mettez au four pendant 40 minutes.
+    Laissez tiédir et dégustez !Peut se déguster froid avec un mayonnaise légère et relevé ou un coulis de tomates aux herbes de Provence ou chaud dans des cocottes individuelles....
+  ]]>
+  </preparation>
+</recette>

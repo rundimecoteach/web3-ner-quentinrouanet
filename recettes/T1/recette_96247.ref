@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96247">
+  <titre>Cailles farcies  aux marrons et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 marrons cuits</p>
+    <p>200 g de champignons de paris surgelés</p>
+    <p>2 tranches de pain de mie</p>
+    <p>1 steack haché</p>
+    <p>sel, poivre</p>
+    <p>raisins secs</p>
+    <p>1 oeuf</p>
+    <p>6 cailles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Après avoir fait décongeler les champignons, mixez les avec les châtaignes, le pain de mie, l'oeuf et le steack haché pas trop fin.
+    Salez et poivrez à votre convenance
+    Ajoutez des raisins secs selon votre convenance dans la préparation.
+    Farcir vos cailles avec la farce.
+    Mettez les cailles au four avec une noisette de beurre dessus et arrosez les souvent
+    Cuisson 1h à 170°C en arrosant souvent les cailles et en les retournant une fois à mi cuisson
+  ]]>
+  </preparation>
+</recette>

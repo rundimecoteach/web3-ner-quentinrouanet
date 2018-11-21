@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19970">
+  <titre>Gratin de fenouil facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 fenouils </p>
+    <p>80 g de beurre</p>
+    <p>1 cuillère à soupe rase de farine</p>
+    <p>75 cl de lait</p>
+    <p>1 cube de bouillon de boeuf</p>
+    <p>75 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 225°C (thermostat 7-8).
+    Coupez le fenouil en quartiers et retirez les grosses fibres. 
+    Faites-les revenir dans 50 g de  beurre puis arrosez de 10 cl d'eau chaude additionnée du cube de bouillon. 
+    Versez le lait, assaisonnez de sel et de poivre. Laissez cuire 15 à 20 minutes, le fenouil doit être tendre.
+    Placez-les dans un plat à gratin beurré.
+    Préparez la béchamel en mélangeant la farine au beurre fondu.
+    Lorsque le mélange est blond, mouillez avec 25 cl de jus de cuisson des fenouil. Laissez épaissir sur feu doux jusqu'à la consistance désirée. 
+    Assaisonnez et nappez-en les fenouils.
+    Saupoudrez de gruyère râpé et gratinez au four pendant 5-10 minutes. 
+  ]]>
+  </preparation>
+</recette>

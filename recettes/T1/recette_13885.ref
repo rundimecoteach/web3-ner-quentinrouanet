@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13885">
+  <titre>Pâté de jambon aux carottes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 jambonneau</p>
+    <p>1 pied de porc</p>
+    <p>800 g de carottes</p>
+    <p>court-bouillon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le jambonneau dans un court bouillon avec le pied de porc (le mettre à l'eau froide).
+    Ajouter les carottes environ une demi-heure avant que le jambonneau soit cuit.
+    Lorsque le jambonneau est cuit, égoutter et désosser le jambonneau (attention, c'est chaud!).
+    Hacher le jambonneau et les carottes, mélanger le tout, rajouter du court-bouillon, mouler et passer au four environ une demi-heure.
+    Servir froid.
+  ]]>
+  </preparation>
+</recette>

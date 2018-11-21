@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71349">
+  <titre>Craquant de bananes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 bananes</p>
+    <p>10 boudoirs (ou autre biscuit craquant)</p>
+    <p>50 cl de crème liquide</p>
+    <p>sucre glace</p>
+    <p>vanille liquide</p>
+    <p>chocolat noir (200 g)</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emietter les boudoirs en petits morceaux. 
+    Faire fondre le chocolat et le beurre. 
+    Ecraser les bananes grossièrement. 
+    Préparer la chantilly en mélangeant la crème avec le sucre glace et la vanille.
+    Disposer le tout dans une verre :
+    une couche de biscuit, une couche de chocolat, une couche de purée de banane, une autre couche de chocolat, une couche de biscuit, des rondelles de banane, la chantilly. 
+    Pour décorer, mettre des copeaux de chocolat.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10591">
+  <titre>Quiche Comtoise</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>10 cl de lait caillé</p>
+    <p>20 cl de crème</p>
+    <p>1 oeuf</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez une pâte avec du beurre et des œufs et laissez la lever deux ou
+    trois heures.
+    Feuilletez puis étendez cette pâte assez mince sur une tôle beurrée.
+    Faites une bouillie avec du lait caillé, de la crème, du jaune d'œuf;
+    salez la et étendez la sur la pâte à raison d'un centimètre d'épaisseur.
+    Sur le tout, rangez en dernier lieu de petit morceaux de beurre gros
+    comme des noisettes, mettez au four et servez chaud.Recette Franc-Comtoise d'avant 1927.
+  ]]>
+  </preparation>
+</recette>

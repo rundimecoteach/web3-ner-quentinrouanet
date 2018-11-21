@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87520">
+  <titre>Sauté de volaille aux petits pois carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de filet de poulet ou de dinde- 2 échalotes- 1 gousse d'ail- 800 g de petits-pois carottes (en boîte)- 1 cuillère à café de fond de veau en poudre- 2 à 3 cuillères à soupe de crème épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les échalotes et l'ail avec du beurre dans une sauteuse puis y faire cuire les filets de volaille coupés en dés.
+    Quand ils sont dorés, ajouter le fond de veau, mélanger.
+    Égoutter de moitié la boîte de petits-pois carottes et les ajouter à la viande.
+    Augmenter la puissance du feu pour faire réduire le jus. (Grâce au fond de veau, il doit rester une sauce épaisse).
+    Finir par ajouter la crème.On peut faire pareil en remplaçant les petits-pois carottes par une julienne de carottes/poireaux.
+  ]]>
+  </preparation>
+</recette>

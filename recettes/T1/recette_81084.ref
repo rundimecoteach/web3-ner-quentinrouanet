@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81084">
+  <titre>Biscuit façon cuiller</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>60 g de farine</p>
+    <p>60 g de fécule de pomme de terre</p>
+    <p>125 g de sucre glace</p>
+    <p>3 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine et la fécule.
+    Battre les blancs en neige. Ajouter le sucre doucement aux blancs.
+    Ajouter la farine et la fécule doucement.
+    Ajouter les jaunes brouillés.
+    Faire cuire sur une plaque, en boudoirs à l’aide d’une poche ou à plat pour servir de base.
+    Cuire 15 minutes au four préchauffé à 200°C (thermostat 6-7).
+    Laisser reposer sur la grille.
+    Excellent avec une mousse d’after eight.
+  ]]>
+  </preparation>
+</recette>

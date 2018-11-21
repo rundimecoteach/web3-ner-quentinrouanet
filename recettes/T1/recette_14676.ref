@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14676">
+  <titre>Cannelés de Bordeaux</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>25 g de beurre</p>
+    <p>2 gros jaunes d’œuf + 1/2 œuf</p>
+    <p>250 g de sucre</p>
+    <p>125 g de farine</p>
+    <p>1/2 gousse de vanille</p>
+    <p>1,5 cl de rhum</p>
+    <p>1 cuillère à soupe de zeste de citron</p>
+    <p>quelques gouttes d'essence d'amande amère</p>
+    <p>de la cire d'abeille (alimentaire)</p>
+    <p>des moules à cannelés en cuivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait, le beurre, la vanille avec le citron et l'amande. Laisser tiédir à couvert.
+    Battre les œufs avec le sucre. Incorporer la farine sans trop la travailler l'ensemble.
+    Verser doucement le lait et remuer pour obtenir une pâte lisse. Ajouter le rhum et filtrer à travers une passoire.
+    Laisser reposer 24 h couvert en laissant la vanille.
+    Enduire les moules de cire en les passant d'abord au four à 130°C (thermostat 3-4).
+    Préchauffer le four à 210°C (th 6-7), remplir les moules jusqu'à 1 cm du bord et faire cuire 25 à 30 mn. Les cannelés doivent être d'une couleur caramel.
+    Les laisser refroidir dans les moules pour éviter qu'ils ne s'affaissent à cause du choc thermique.
+    La cire d'abeille est conseillée pour les moules qui sont des moules spéciaux, en cuivre. Le beurre couvrira moins bien les cannelures, n'aidera pas autant au démoulage que la cire et ne donnera pas ce côté croustillant et doré que les cannelés doivent avoir.
+    On trouve ces moules à Bordeaux ou auprès de magasins professionnels.
+    La cuisson est la plus grande difficulté: plusieurs essais seront nécessaires pour déterminer les paramètres de votre four, alors notez bien à chaque fois ce que vous faites ! Sauternes
+  ]]>
+  </preparation>
+</recette>

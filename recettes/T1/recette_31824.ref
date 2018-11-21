@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31824">
+  <titre>Mousse de chocolat blanc à la meringue</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>250 g de chocolat blanc</p>
+    <p>1 cuiller à soupe de sucre</p>
+    <p>1 cuiller à café de gélatine</p>
+    <p>80 ml de lait</p>
+    <p>300 ml de crème fraîche épaisse</p>
+    <p>100 g de meringue, émiettée grossièrement</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) mettre les jaunes d'oeufs, le chocolat blanc, le sucre, la gélatine et le lait dans une casserole. A feu très doux, mélanger jusqu'à obtention d'un mélange homogène. 
+    2) battre les blancs d'oeufs en neige jusqu'à ce que des pics se forment à la surface. 
+    3) fouetter la crème fraîche au robot électrique. 
+    4) incorporer la crème et les meringues dans le mélange au chocolat, puis incorporer délicatement les blancs en neige. 
+    5) répartir le mélange dans quatre verres et laisser reposer au réfrigérateur pendant 4 heures avant de servir.
+    Valeur énergétique: 767 kcal par portion.
+  ]]>
+  </preparation>
+</recette>

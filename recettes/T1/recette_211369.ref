@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211369">
+  <titre>Risotto de veau et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 à 200 g d'escalopes de veau</p>
+    <p>100 à 200 g de farce (de veau ou pour tomates farcie)</p>
+    <p>1 boite moyenne de champignons </p>
+    <p>2 grands verres de riz</p>
+    <p>1 échalote</p>
+    <p>25 cl de vin blanc</p>
+    <p>un jet de citron</p>
+    <p>une grosse cuillère à soupe de crème fraîche</p>
+    <p>sel, poivre (selon votre goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire revenir le riz dans un peu d'huile d'olive.
+    Quand le riz est translucide (quelques minutes), ajoutez un volume d'eau équivalent au volume de riz (un grand verre). Couvrir et laisser évaporer à feu doux.
+    Couper la viande de veau en dés (pas trop petits parce que la viande risque de sécher).
+    Dans une poêle, faire revenir les échalotes dans un peu de graisse puis ajouter les dés de veau. Quand la viande est cuite, la réserver et déglacer la poêle sur le feu avec le jus de citron et le vin blanc, puis ajouter les champignons ainsi que l’eau qui se trouve dans la boite et enfin la crème pour obtenir la sauce.Dès que l'eau du riz est évaporée (ça prend environ 10-15mn), tout mélanger dans la casserole : riz, veau et sauce mélanger doucement le tout puis laisser mijoter doucement jusqu’à complète absorption du jus et servir.
+  ]]>
+  </preparation>
+</recette>

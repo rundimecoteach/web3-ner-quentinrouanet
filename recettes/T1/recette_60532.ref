@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60532">
+  <titre>Tarte aux tomates mozzarella et compotée d'olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 à 200 g d'olives vertes</p>
+    <p>1 ou 2 gousses d'ail</p>
+    <p>6 tomates roma</p>
+    <p>2 boules de mozzarella</p>
+    <p>1 pâte brisée (ou feuilletée si vous préférez)</p>
+    <p>huile d'olive</p>
+    <p>fleur de sel</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un mixeur les olives vertes coupées en morceaux, l'ail et un peu d'huile d'olive.
+    Mixer pour obtenir une pâte plus ou moins grossière.
+    En tartiner le fond d'une pâte à tarte (j'ai une préférence pour la pâte brisée, elle est moins grasse que la pâte feuilletée).
+    Couper les tomates en rondelles et les diposer sur la compotée.
+    Recouvrir le tout avec des rondelles de mozzarella.
+    Jeter quelques pincées d'herbes de Provence et de fleur de sel.
+    Passer au four pour 30 minutes de cuisson.
+    Avant de servir, mettre un léger coup de grill pour faire griller la mozzarella.
+    A déguster chaud ou froid.
+    Un autre variante consiste à remplacer les olives vertes et l'ail par des olives noires et des piments. Le reste de la préparation est identique. Vin léger ou pétillant (lambusco)
+  ]]>
+  </preparation>
+</recette>

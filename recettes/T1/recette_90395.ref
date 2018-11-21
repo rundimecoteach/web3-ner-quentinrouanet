@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90395">
+  <titre>Risotto aux asperges des bois et écrevisses</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 botte d'asperges des bois </p>
+    <p>200 à 250 g de riz arborio</p>
+    <p>200 g de queues d’écrevisses déjà cuites</p>
+    <p>1 bel oignon</p>
+    <p>60 cl de bouillon de poule</p>
+    <p>15 cl de lait</p>
+    <p>safran</p>
+    <p>huile d’olive, sel et poivre</p>
+    <p>parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Commencer par rincer les aspergettes à l’eau claire, couper les bouts un peu secs puis les couper en tronçons d’environ 2 cm. Faire cuire à la vapeur 7-8 minutes (elles doivent rester croquantes). Réserver.
+    Dans une casserole, faire fondre l’oignon finement haché dans un fond d’huile d’olive. Verser le riz et le faire blanchir.
+    Introduire progressivement le bouillon pour mouiller le riz. Mélanger très régulièrement tant que ça absorbe, sur feu doux. Au bout de 8 minutes de cuisson, ajouter le lait. Continuer à bien remuer.
+    Introduire les aspergettes en morceaux, une pincée de safran, assaisonner. 
+    Puis, continuer à mouiller avec l’autre moitié du bouillon, très progressivement. Moi je n’aime pas trop quand le risotto est al dente, donc je laisse cuire une vingtaine de minutes en tout. 
+    Au dernier moment, ajouter les écrevisses. Et saupoudrer de parmesan juste avant de servir !
+  ]]>
+  </preparation>
+</recette>

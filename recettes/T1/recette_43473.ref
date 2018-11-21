@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43473">
+  <titre>Velouté de carottes aux coquilles St Jacques</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de carottes </p>
+    <p>50 cl de crème liquide </p>
+    <p>30 cl d'eau</p>
+    <p>2 tablettes de bouillon cube aux épices</p>
+    <p>1/2 cuillère à café de cumin</p>
+    <p>8 noix de coquilles St Jacques</p>
+    <p>25 g de beurre demi-sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le vélouté :
+    Mettre dans une grande casserole : les carottes pelées et coupées en morceaux, les tablettes de bouillon, la crème, l'eau et le cumin. 
+    Porter à ébullition, réduire le feu, couvrir, et laisser cuire 30 min. Mixer.
+    Mettre le beurre demi-sel dans une poêle, et saisir les St Jacques 40 secondes de chaque coté.
+    Les couper en lamelles (chaque noix en 3 ou 4, selon la taille).
+    Disposer le velouté dans des assiette calottes, et déposer dessus les lamelles de St Jacques.
+    Bon appétit!
+    Le velouté peut être préparé la veille.NE PAS AJOUTER DE SEL, déjà contenu dans les tablettes.
+    Si vous utiliser des noix de St Jacques surgelées, les faire décongeler à température ambiante dans du lait.
+  ]]>
+  </preparation>
+</recette>

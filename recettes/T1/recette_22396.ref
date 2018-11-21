@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22396">
+  <titre>Terrine de foies de volaille au cognac</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de foies de volaille</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>25 cl de crème fraîche</p>
+    <p>1 bouquet garni</p>
+    <p>persil</p>
+    <p>5 cl de Cognac (voir + ou - selon vos goûts) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les foies de volailles, les oignons, l'ail et le persil. 
+    Hacher le tout avec la crème, le bouquet et le Cognac. 
+    Verser dans une terrine et laisser au réfrégirateur au moins 4 h.
+  ]]>
+  </preparation>
+</recette>

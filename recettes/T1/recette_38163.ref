@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38163">
+  <titre>Tourte facile au jambon et aux champignons de Paris</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de champignons de Paris</p>
+    <p>6 tranches de jambon cru</p>
+    <p>1 oignon</p>
+    <p>2 ronds de pâte feuilletée</p>
+    <p>beurre</p>
+    <p>jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les champignons et l'oignon. Faire revenir le tout dans un peu de matière grasse jsuqu'à ce que les champignons aient rendu leur eau.
+    Disposer la pâte feuilletée sur un plat rond. Disposer les tranches de jambon cru sur la pâte.
+    Verser le mélanger champignons + oignon sur la pâte feuilletée.
+    Recouvrir avec le deuxième rond de pâte et dorer avec un jaune d'oeuf
+    Laisser cuire 20 minutes à four chaud (thermostat 7/210°C).
+  ]]>
+  </preparation>
+</recette>

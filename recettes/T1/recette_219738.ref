@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219738">
+  <titre>Cassolette de Saint-Jacques</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 gambas ou grosses crevettes crues</p>
+    <p>12 noix de Saint-Jacques fraîches ou surgelées</p>
+    <p>1 boîte de bisque de homard (300 g)</p>
+    <p>1 rouleau de pâte feuilletée </p>
+    <p>25 cl de vin blanc sec</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>1 cuillère à soupe de crème </p>
+    <p>1 bouquet garni</p>
+    <p>1 jaune d’œuf</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>piment de Cayenne en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition le vin blanc, le concentré de tomates et bouquet garni puis laisser 20 min à feu doux.
+    Ajouter la bisque de homard et la crème et laisser frémir 3 min. Assaisonner.
+    Dans chaque cassolette (ou ramequin), mettre 3 noix de Saint-Jacques ainsi que 3 crevettes ou gambas décortiquées.
+    Saler, poivrer Recouvrir avec la préparation à la bisque tiédie.
+    Préchauffer le four à 200°C (thermostat 7).Découper 4 disques de pâte feuilletée un peu plus grands que les cassolettes.
+    Couvrir chaque cassolette avec ces disques, rabattre le bord et coller avec un peu d'eau.
+    Badigeonner la pâte d'un jaune de jaune d’œuf afin qu'elle dore.
+    Enfourner 15 à 20 min et servir bien chaud. un bon vin blanc
+  ]]>
+  </preparation>
+</recette>

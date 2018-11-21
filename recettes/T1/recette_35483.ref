@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35483">
+  <titre>Cake à la tomate et au carré frais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de farine de maïs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 petit carré frais "gervais"</p>
+    <p>2 oeufs</p>
+    <p>3 tomates entières</p>
+    <p>1 petit bouquet de persil et de menthe finement hachés</p>
+    <p>20 cl d'eau froide</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine de maïs, la levure, le sel, le poivre, les oeufs un  par un et le carré frais "gervais". Rajouter progressivement l'eau froide, de façon à obtenir une pâte lisse et onctueuse. 
+    Vider les tomates de leur jus et de leurs grains, et les couper en petits morceaux. 
+    Dans un saladier, mélanger délicatement la pâte, les herbes, et les tomates. 
+    Verser la préparation dans un moule à cake en silicone (huilé ou recouvert d'1 feuille de cuisson) et enfourner à 200°C (Th 6/7) durant environ 45 min.
+    A la fin de la cuisson, entrouvrir la porte du four jusqu'à complet refroidissement mais ne sorter pas le cake avant pour qu'il garde son joli côté gonflé.
+    Ce cake se mange tiède, en plat principal, accompagné d'une assiette de légumes variés ou d'une ratatouille "maison".
+  ]]>
+  </preparation>
+</recette>

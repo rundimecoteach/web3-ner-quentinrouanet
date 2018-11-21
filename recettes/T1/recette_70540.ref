@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70540">
+  <titre>Cari de gambas facile et light</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/4 oignon</p>
+    <p>300 g de gambas</p>
+    <p>40 cl de jus d'orange</p>
+    <p>40 cl lait de coco</p>
+    <p>Curry</p>
+    <p>Citronnelle</p>
+    <p>Ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir l'oignon dans une poêle dans un filet d'huile d'olive. 
+    Ajoutez les gambas et faites cuire quelques minutes. 
+    Dans un bol, mélangez le jus d'orange, le lait de coco, ajoutez un peu de coriandre, quelques pincées de curry et de la citronnelle. 
+    Versez ce mélange dans la poêle et cuire à feu vif jusqu'à ce que la sauce ait réduite de moitié et soit un peu plus épaisse. 
+    Avant de servir, parsemez avec un peu de ciboulette.
+    Servir ce plat accompagné de riz basmati.
+  ]]>
+  </preparation>
+</recette>

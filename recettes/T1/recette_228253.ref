@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228253">
+  <titre>Moelleux à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>3 œufs</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>125 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>125 g de noix de coco râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le beurre ramolli avec le sucre en poudre.
+    Ajoutez les œufs, le sucre vanillé, la farine et la levure chimique.Mélangez bien, puis ajoutez la noix de coco râpé. Versez la préparation dans un moule à muffins(ou autre) et faites-les cuire 20 min. Après avoir enfourné les moelleux, saupoudrez-les de noix de coco râpé.
+  ]]>
+  </preparation>
+</recette>

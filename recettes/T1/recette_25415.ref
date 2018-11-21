@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25415">
+  <titre>Courgettes farcies à la forestière</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 courgettes rondes</p>
+    <p>150 g de champignons de couche</p>
+    <p>3 oignons</p>
+    <p>45 g de beurre</p>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>375 g de reste de boeuf cuit</p>
+    <p>90 g de jambon cuit</p>
+    <p>3 tomates</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Nettoyer les courgettes sous l’eau froide, couper un chapeau et les creuser.
+    Les mettre à cuire 10 minutes à l'eau bouillante salée pus les égoutter.
+    Hacher les champignons et les oignons avec le jambon cuit et le boeuf.
+    Ajouter les tomates pelées et détaillées en dés.
+    Réunir tous ces ingrédients dans un saladier puis bien mélanger de façon à obtenir une farce homogène.
+    Faire ensuite revenir cette farce dans une sauteuse dans un mélange de beurre et d’huile puis assaisonner.
+    Laisser cuire à feu très doux pendant 5 minutes en remuant.
+    Farcir les courgettes et les déposer dans une cocotte légèrement huilée.
+    Enfourner pour 30 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

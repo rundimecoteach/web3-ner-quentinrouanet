@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39496">
+  <titre>Cake au beaufort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>10 g de beurre</p>
+    <p>150 g de jambon fumé</p>
+    <p>150 g de beaufort (fromage savoyard)</p>
+    <p>250 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>1 pincée de muscade</p>
+    <p>4 oeufs</p>
+    <p>10 cl d'huile</p>
+    <p>10 cl de vin blanc</p>
+    <p>Sel et Poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer un moule à cake. Couper le jambon et le fromage en dés. 
+    Mélanger la farine, levure, sel, poivre, muscade. Ajouter les oeufs, un à un, tout en fouettant. Incorporer l'huile et le vin. 
+    Terminer par le fromage et le jambon, en mélangeant le tout délicatement. 
+    Cuire au four préchauffé à 180°C (thermostat 6), pendant 45 minutes.
+    Recette vraiment très bonne, et peu coûteuse. Vin blanc de savoie
+  ]]>
+  </preparation>
+</recette>

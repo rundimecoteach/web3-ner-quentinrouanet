@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52064">
+  <titre>Gratin de crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de miettes de crabe (ou 2 tourteaux)</p>
+    <p>2 échalotes</p>
+    <p>béchamel</p>
+    <p>sel, poivre, un peu de muscade</p>
+    <p>une petite boîte de concentré de tomates</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'échalote, en la faisant légèrement colorer. Ajouter les miettes de crabe, bien égouttées.
+    Préparer une béchamel assez épaisse, puis ajouter le concentré de tomates à la fin de la cuisson; et l'incorporer au crabe. Saler, poivrer le tout, et ajouter un peu de muscade. 
+    Mettre dans des petits ramequins allant au four, saupoudrer de gruyère râpé. 
+    Enfourner à four chaud pendant 20 min, cela doit colorer.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44749">
+  <titre>Filet mignon de porc aux poires et au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700 g de filet mignon de porc</p>
+    <p>3 poires</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>1 cuillère à café de thym</p>
+    <p>poivre, sel</p>
+    <p>10 cl de vin blanc</p>
+    <p>10 cl d'eau</p>
+    <p>2 cuillères à soupe de moutarde à l'ancienne</p>
+    <p>1 jus de citron</p>
+    <p>10 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le filet mignon en tranches de 3/4 cm. Enduisez-les d'huile d'olive, de poivre et de thym. Et laissez mariner 30 min au frigo.
+    Epluchez les poires, coupez-les en quatiers, épépinez-les, et arrosez de jus de citron.
+    Beurrez une poêle. Saisissez les tranches de viande de chaque côté. Ajoutez les poires, et faites-les dorer. Réservez.
+    Versez le miel sur la viande, et laissez caraméliser. 
+    Ajoutez le vin blanc, et faites réduire de moitié. Versez l'eau, et laissez encore réduire. Ajoutez la moutarde. 
+    Posez les poires sur la préparation, sans remuer.  
+    Laissez mijoter à feu doux 10 min. C'est prêt, bon appétit!
+    Servir avec un gratin dauphinois.
+  ]]>
+  </preparation>
+</recette>

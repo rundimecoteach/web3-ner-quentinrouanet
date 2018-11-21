@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25143">
+  <titre>Oeufs brouillés à la ratatouille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>4 tomates</p>
+    <p>2 poivrons jaunes</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'aïl</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+    <p>thym, laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillantez les tomates 30 secondes et pelez-les. Coupez-les en morceaux.
+    Hachez les oignons et l'ail, émincez les poivrons en lanières. 
+    Faites chauffer l'huile dans une poêle. Faites-y fondre les oignons et l'ail. Ajoutez les tomates et les poivrons et saupoudrez de thym et laurier émiettés.
+    Laissez cuire à feu doux environ 35-40 minutes. Salez et poivrez.
+    Battez les oeufs en omelette, versez-les sur les légumes et mélangez à la cuillère en bois jusqu'à ce que les oeufs soient légèrement cuits (pas trop sinon le plat serait sec).
+    Servez bien chaud ou froid avec du pain grillé.
+  ]]>
+  </preparation>
+</recette>

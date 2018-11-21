@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92827">
+  <titre>Mousse au chocolat noir corsé</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>4 cuillères à soupe de café très fort</p>
+    <p>100 g de beurre doux</p>
+    <p>4 cuillères à soupe de sucre glace</p>
+    <p>4 oeufs très frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation:Casser le chocolat en petits morceaux et le mettre dans une casserole avec le café et faire fondre sur feu très doux.
+    Quand le chocolat est devenu mou(s'en assurer en piquant chaque morceau avec la pointe d'un couteau)et sans retirer la casserole du feu,ajouter le beurre coupé en petits morceaux,le sucre glace et les jaunes d'oeufs et remuer constamment jusqu'à fusion complète le mélange ne doit surtout pas bouillir
+    Battre les blancs en neige ferme avec une petite pincé de sel et les incorporer hors du feu à la préparation chaude 
+    Verser dans des coupes,ou des verres a pied et conserver au frigo  
+    bon appétit
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72040">
+  <titre>Côtes de porc grillées laquées</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc </p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>3 cuillères à soupe de sauce soja</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>1 cuillère à soupe d'huile de sésame</p>
+    <p>1 cuillère à café de poudre 5 épices (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir 2 h de marinade.
+    Préparez la marinade: mélangez tous les ingrédients. Imprégnez bien les côtes de porc placées dans un grand plat. Filmez et placez au réfrigérateur pendant 2 h environ.
+    Cuisson au barbecue, faites griller en retournant les côtes de temps en temps et en badigeonnant du reste de la marinade.Servir avec du riz thaï et des brochettes de légumes grillés (ex: tomates, oignons, courgettes, poivrons... marinés dans de l'huile d'olive au thym).
+  ]]>
+  </preparation>
+</recette>

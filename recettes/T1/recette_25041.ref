@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25041">
+  <titre>Gâteau aux noix et au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de cerneaux de noix</p>
+    <p>250 g de chocolat noir</p>
+    <p>250 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>170 g de sucre en poudre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat. Ajouter le beurre, puis les jaunes d'oeufs, le sucre, la farine, les cerneaux de noix que vous aurez moulu afin que ce soit de la poudre, les blancs battus en neige. Cuire 30 à 35 min à 190°C (thermostat 6-7).Servir avec de la crème anglaise, c'est moins écoeurant et moins lourd...Délicieux comme dessert ou goûter (pour recevoir des amis, de la famille...)
+  ]]>
+  </preparation>
+</recette>

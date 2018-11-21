@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70420">
+  <titre>Tarte poire chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée </p>
+    <p>1 boîte de poire au sirop </p>
+    <p>80 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>200 g de chocolat a dessert</p>
+    <p>15 cl de crème liquide en briquette</p>
+    <p>3 oeufs</p>
+    <p>20 g de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Faire fondre le chocolat avec le beurre dans une casserole.
+    Mettre la pâte dans un moule à tarte, verser le chocolat sur le fond de tarte puis disposer les demi-poires dessus.
+    Battre les oeufs, le sucre et la crème.
+    Verser le tout sur les poires et le chocolat.
+    Enfourner pour 1 heure de cuisson.
+    Pour le chocolat, je préfère mettre 100 g de chocolat au lait et 100 g de chocolat noir car je trouve que la tarte est plus légère.A 15 min de la fin de la cuisson, saupoudrer de cassonade.
+  ]]>
+  </preparation>
+</recette>

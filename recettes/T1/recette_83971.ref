@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83971">
+  <titre>Cuisses de canard à la tomate et au poivron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>2 cuisses de canard</p>
+    <p>1 poivrons (rouge de préférence)</p>
+    <p>3 tomates</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans un faitout les 2 cuisses de canard à feu vif  pendant 3 minutes de chaque côté(côté peau en 1er).
+    Éplucher et émincer l'oignon, le mettre dans le faitout et laisser cuire 1 min à feu moyen.
+    Couper le poivron en dés en prenant soin de retirer tous les pépins.
+    L'ajouter à la préparation. Laisser cuire 5 min à feu doux.
+    Couper les 3 tomates en quartiers et les ajouter à la préparation.
+    Couvrir et laisser cuire 30 min (à feu doux). Saler et poivrer à votre goût.
+    Servir avec des pommes de terre sautées (ou autres, nouilles par exemple).
+  ]]>
+  </preparation>
+</recette>

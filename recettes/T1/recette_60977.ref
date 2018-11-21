@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60977">
+  <titre>Aubergines estivales</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petites aubergines (1 par personne)</p>
+    <p>2 belles tomates</p>
+    <p>16 filets d'anchois soit 100g environ</p>
+    <p>200 g de mozzarella</p>
+    <p>1 cuillère à soupe de chapelure</p>
+    <p>Sel et poivre</p>
+    <p>de l'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les légumes.
+    Coupez le pédoncule des aubergines et coupez les en deux dans le sens de la longueur.
+    Emballez les moitiés dans du papier aluminium et enfournez-les sur le gril du four pendant 20 min à 180°C.
+    Pendant ce temps, épépinez les tomates et coupez la chair en petits dés.
+    Coupez la mozzarella en lamelles.
+    Sortez les aubergines du four et disposez-les dans un plat graissé, faces coupées sur le dessus arrosées d'un filet d'huile d'olive.
+    Déposez 2 filets d'anchois sur chaque demi aubergine, puis disposez la mozzarella par dessus, puis les dés de tomates.
+    Salez, poivrez (pas trop puisque les anchois sont déjà salés) et finissez par la chapelure et un dernier filet d'huile d'olive.
+    Mettre au four à 180°C pendant 30 min, servez chaud.
+    Variante : vous pouvez remplasser la mozzarella par du gruyère râpé ou bien mettre les deux, c'est encore meilleur !
+    Bien sûr, cette recette permet beaucoup de variantes selon vos goûts et vos ingrédients disponibles.
+  ]]>
+  </preparation>
+</recette>

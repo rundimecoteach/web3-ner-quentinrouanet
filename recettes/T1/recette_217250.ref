@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217250">
+  <titre>Tarte Pommes Maroilles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée ou feuilletée</p>
+    <p>1 quart de Maroilles</p>
+    <p>4 petites pommes fruit</p>
+    <p>350 g de fromage blanc</p>
+    <p>2 œufs</p>
+    <p>6 échalotes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les pommes en petits quartiers et disposez-les en rond sur la pâte dans un moule préalablement beurré. Émincez les échalotes et les faire mijoter 5 minutes à la poêle avec 1 cuillère d'eau.
+    Préchauffez le four à 180°C (thermostat 6).Mélangez le fromage blanc avec les œufs et le Maroilles coupé en petits morceaux (je ne retire pas la croûte mais vous pouvez la retirer ou la gratter selon la force du fromage et le goût souhaité). Ajoutez au mélange les échalotes. Versez le tout sur les pommes en répartissant bien, et faîtes cuire 40/45 min au four.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60751">
+  <titre>Pizza provençale</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>1 aubergine (taille moyenne ou grande)</p>
+    <p>15 tomates cerise</p>
+    <p>25 cl de coulis de tomates (le plus naturel possible, aromatisé au basilic éventuellement)</p>
+    <p>125 g de mozzarella </p>
+    <p>160 g de blancs de poulet coupés en petits carrés (on peut aussi mettre des lardons, des dés de jambon déjà prêts, ou du chorizo...) : bref, un peu de viande à votre guise !</p>
+    <p>pistou !</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rappel de la composition du pistou : une bonne vingtaine de feuilles de basilic frais (c'est mieux) et 3 gousses d'ail moyennes à grosses... piler l'ail et le basilic dans un mortier en y ajoutant de l'huile d'olive au fur et à mesure et ça doit devenir une purée au bout de quelques minutes. Si vous n'avez pas de mortier, écraser l'ail et le basilic dans un récipient avec une fourchette !
+    Couper l'aubergine en tranches et les faire revenir dans l'huile à couvert et à feu doux durant 15 minutes.
+    Préchauffer le four à 180°C (thermostat 6).
+    Bien étaler la pâte, napper la pâte du coulis, placer les tranches d'aubergine sur le coulis puis le poulet coupé en dés, les tranches de mozzarella et les tomates coupées en 2.
+    Mettre au four pendant 40 minutes. 5 minutes avant la fin de la cuisson, étaler du pistou sur toute la pizza.
+    Pizza pouvant faire une entrée à 4 ou un plat principal à 2... Bref, ça dépend des envies et des personnes ainsi que des leurs appétits ! Important : le pistou est à ajouter dans les dernières minutes de la cuisson de la pizza pour une meilleure conservation des arômes. Rosé de provence ou de Bordeaux
+  ]]>
+  </preparation>
+</recette>

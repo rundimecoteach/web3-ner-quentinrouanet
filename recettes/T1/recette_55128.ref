@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55128">
+  <titre>Quinoa aux petits légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de quinoa</p>
+    <p>150 g de champignons frais</p>
+    <p>1 courgette moyenne</p>
+    <p>2 carottes moyennes</p>
+    <p>sel et poivre</p>
+    <p>épices (curry, soupçon de purée de piment, coriandre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un cuit-vapeur faire cuire l'un après l'autre :
+    le quinoa pendant 15 min
+    les champignons pendant 8 min
+    les courgettes pendant 10 min
+    les carottes pendant 25 min
+    Dans la poële mettre un peu d'huile d'olive, ajouter tous les aliments, saler, poivrer et rajouter les épices.
+    Laisser cuire 3 à 4 min tout en mélangeant.
+    Servir. et déguster
+    J'accompagne aussi la quinoa d'autres légumes selon la saison et mon humeur. (poivrons, brocolis, petits pois.....) Un  vin rouge léger
+  ]]>
+  </preparation>
+</recette>

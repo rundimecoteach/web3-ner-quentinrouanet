@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46277">
+  <titre>Sashimi de thon et sauce japonaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>800 g de longe de thon rouge très frais</p>
+    <p>Pour la sauce :</p>
+    <p>2 oignon frais vert avec tige</p>
+    <p>3 brins de persil</p>
+    <p>3 brins de coriandre</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>10 cl de sauce soja</p>
+    <p>5 cl de sauce teriyaki</p>
+    <p>4 cuillères à café de vinaigre</p>
+    <p>1 cuillère à café de raifort haché au naturel</p>
+    <p>1 cuillère à café de moutarde forte</p>
+    <p>quelques gouttes de tabasco</p>
+    <p>1 pincée de sucre</p>
+    <p>Pour l'accompagnement :</p>
+    <p>jeunes pousses de salade, mâche, roquette...au choix ou mélange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le thon un moment au congélateur afin qu'il durcisse pour faciliter la découpe.
+    Le couper en très fines tranches.
+    Réserver au frais.
+    Sauce :
+    Mélanger le raifort, la moutarde, le sucre.
+    Ajouter l'huile.
+    Bien mélanger.
+    Incorporer la sauce soja, la sauce teriaky, le vinaigre, le tabasco.
+    Ajouter l'oignon émincé finement, les brins de persil et de coriandre hachés, l'oignon vert et sa tige ciselée.
+    En fait pour la sauce, je mets tout dans le mixer et voilà...
+    La sauce peut être préparée la veille et conservée au frais dans une bouteille par exemple.
+    Disposer la (ou les) salade et les lamelles de thon dans les assiettes et napper de sauce.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170589">
+  <titre>Tarte du pizzaiolo</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à tarte déjà faite ou faite à la maison</p>
+    <p>500 g de compote de pomme nature</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>100 g de chocolat noir fondu</p>
+    <p>glace vanille</p>
+    <p>chantilly</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180C, thermostat 6.Faire cuite 15 min la pâte à tarte au four, sur une plaque plutôt que dans un moule afin qu'il n'y ai pas les bords, sans la faire cependant trop grillée.
+    (Vous pouvez lui donnez la forme que vous voulez ou faire plusieurs parts plus petites.)Lorsqu'elle est encore chaude, étaler de la compote de pomme sur le fond.Y parsemer de la cannelle.
+    Mettre une boule de glace à la vanille au centre et un peu de chantilly.
+    Pour finir mettre le chocolat noir fondu.Déguster chaud et immédiatement de préférence.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95231">
+  <titre>Filet de poulet au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filet de poulet</p>
+    <p>un jus de citron</p>
+    <p>paprika(dose selon le gout)</p>
+    <p>-une cuil a soupe d'huile d'olive(pour la cuisson)</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    couper les filets de poulet en lamelle les mettre dans un saladier avec le jus de citron et reserver au réfrigérateurles sortir aprés 20 minutes et soupoudrer de paprika selon le goutfaire cuire les lamelles à la poele avec un peu d'huile d oliveC'est fini!!! régalez vous( moi je le sert avec un peu de riz et de la salade)
+  ]]>
+  </preparation>
+</recette>

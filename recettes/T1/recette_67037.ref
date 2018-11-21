@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67037">
+  <titre>Potée aux carottes liégeoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 ou 6 grosses pommes de terre</p>
+    <p>1 kg de carottes</p>
+    <p>1 gros oignon</p>
+    <p>500 g de lardons fumés</p>
+    <p>20 cl de crème fraîche (faculatif)</p>
+    <p>sel et poivre</p>
+    <p>1 cube de bouillon de légumes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes de terres et les carottes, puis coupez-les en morceaux pas trop gros. Emincez grossièrement l'oignon.
+    Dans une cocotte-minute, déposez dans le fond le cube de bouillon, puis versez-y un grand verre d'eau. Déposez alors les carottes,les oignons, les pommes de terres et terminez par les lardons au-dessus. Faites chauffer.
+    Lorsque la cocotte est sous pression, comptez 15 minutes pour la cuisson.
+    Faites sortir la vapeur, puis versez dans un grand plat (vous pouvez également égoutter les légumes et mouiller avec la crème fraîche, c'est très doux et très bon aussi).
+    Ecrasez le tout au presse-purée. Rectifiez l'asaisonnement si nécessaire.
+    Servez avec de la saucisse ou des côtelettes, par exemple.
+  ]]>
+  </preparation>
+</recette>

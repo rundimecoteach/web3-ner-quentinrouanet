@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22124">
+  <titre>Poêlée de pommes de terre au vin rouge</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de pommes de terre épluchées</p>
+    <p>20 petits oignons</p>
+    <p>2 grands verres de vin rouge (bordeaux léger)</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>200 g de lardons</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte avec du beurre, jeter les lardons et les oignons. Après 3 min, jeter à leur tour les pommes de terre et les faire dorer à veu vif.
+    Ajouter la farine et remuer, puis verser un peu de vin rouge, saler et poivrer. Faire cuire 30 min en couvrant à moitié. 
+    Enfin verser le reste de vin, en y allant doucement pour éviter la formation de grumeaux. Ne pas hésiter à ajouter des herbes comme du laurier.
+  ]]>
+  </preparation>
+</recette>

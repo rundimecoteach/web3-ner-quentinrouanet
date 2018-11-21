@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67301">
+  <titre>Soupe de boulettes à la coriandre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de viande de boeuf hachée</p>
+    <p>1 oignon moyen</p>
+    <p>1 oeuf</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>15 g de gingembre haché</p>
+    <p>20 g de persil (tiges et feuilles)</p>
+    <p>40 à 60 g de coriandre (tiges et feuilles, quantité variable selon les goûts)</p>
+    <p>1/2 cuillère a café de tabasco ou de purée de piment</p>
+    <p>sel, poivre, thym</p>
+    <p>2 cuillères a café de fécule de pomme de terre</p>
+    <p>accompagnement : sauce de soja claire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la farce : pétrir la viande hachée, en rajoutant le gingembre, l'ail, 20 g de persil haché, 20 g de coriandre hachée (surtout les tiges) et l'oignon émincé, pour faire un tout bien homogène.
+    Battre à part un oeuf avec le sel, poivre, les feuilles de thym (la tige est gardée pour la soupe) et le piment. Rajouter ce mélange à la farce.
+    Diluer la fécule de pomme de terre dans 5 cuillères à soupe d'eau froide, mélanger, puis réserver.
+    Juste avant la cuisson, bien mélanger la fécule de pomme de terre avec la farce, qui est ainsi prête a être cuite.
+    Préparer la soupe : faire bouillir de l'eau et la tige du thym dans une marmite suffisamment grande pour contenir toutes les futures boulettes.
+    Façonner des petites boulettes à la main (2 cm de diamètre) ou à la cuillère, puis les plonger au fur et à mesure dans l'eau chaude.
+    Laisser cuire 5 minutes dans l'eau frémissante.
+    Vous pouvez manger les boulettes dans leur soupe accompagnées de coriandre haché et de sauce soja (claire).
+  ]]>
+  </preparation>
+</recette>

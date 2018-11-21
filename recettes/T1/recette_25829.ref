@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25829">
+  <titre>COMPOTE DE PÊCHES A LA GELÉE DE FRAMBOISE</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 pêches</p>
+    <p>20 cl d'eau</p>
+    <p>200 g de gelée de framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, mélanger l'eau et la gelée. Porter à ébullition à feu doux.
+    Peler et couper les pêches en deux pour les dénoyauter. Les plonger dans le sirop parfumé pendant 15 min sans porter à ébullition.
+    Laisser refroidir et servir.
+  ]]>
+  </preparation>
+</recette>

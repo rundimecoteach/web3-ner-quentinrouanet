@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65717">
+  <titre>Soupe d'hiver aux 5 légumes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poireau</p>
+    <p>1 oignon</p>
+    <p>10 feuilles de chou frisé</p>
+    <p>1 navet</p>
+    <p>4 carottes</p>
+    <p>un bouillon de cube de volaille dégraissé</p>
+    <p>sel, poivre</p>
+    <p>un peu de beurre</p>
+    <p>1,5 l d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le poireau en rondelles et les feuilles de chou en lanières, nettoyez soigneusement.
+    Epluchez les carottes, le navet et l'oignon et tout coupez en petits morceaux.
+    Dans une cocotte-minute, faîtes revenir l'oignon dans le beurre, puis ajoutez le poireau, le chou, les carottes et le navet.
+    Ajoutez 1,5 l d'eau, le cube de bouillon, du sel et du poivre et fermer la cocotte.
+    Dès que la vapeur s'échappe, baissez le feu et laissez cuire environ 8 min.
+    Après refroidissement, mixez pour obtenir un velouté parfait.
+    Agrémentez selon vos envies de crème, croûtons, gruyère...
+  ]]>
+  </preparation>
+</recette>

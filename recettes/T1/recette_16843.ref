@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16843">
+  <titre>Rillettes de poissons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>350 g de filets de saumon</p>
+    <p>350 g de filets de merlan</p>
+    <p>1 cuillère à soupe de gros sel</p>
+    <p>1 cuillère à café de grains de poivre</p>
+    <p>1 branche de thym</p>
+    <p>35 cl de crème fraîche</p>
+    <p>1 cuillère à soupe de moutarde forte</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>2 petits oignons nouveaux</p>
+    <p>2 cuillères à soupe d'aneth haché</p>
+    <p>le jus d'un citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les filets de poissons dans une casserole d'eau froide. 
+    Ajouter le gros sel, les grains de poivre, le laurier et le thym. 
+    Portrer à ébullition puis laisser frémir 5 minutes sur feu doux.
+    Dans une casserole, mélanger la crème fraîche, la moutarde et le vin blanc et faites réduire 10 mn sur feu doux.
+    Peler et hacher les oignons. Egoutter le poisson. Emietter à la fourchette. Le mettre dans un saladier avec les oignons, l'aneth et la préparation à la crème. Mélanger, saler, poivrer. Laisser refroidir.
+    Incorporer le jus de cirton puis transvaser les rillettes dans des pots en terre. Laisser reposer 15 minutes au réfrigérateur avant de servir.
+  ]]>
+  </preparation>
+</recette>

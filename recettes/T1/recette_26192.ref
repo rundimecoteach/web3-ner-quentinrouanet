@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26192">
+  <titre>Tarte fondante raisins amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>500 g de raisins noirs et blancs mélangés</p>
+    <p>100 g de sucre en poudre</p>
+    <p>100 g d'amandes en poudre</p>
+    <p>20 cl de lait</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe de maïzena</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte dans un moule à tarte, piquez-la à la fourchette et recouvrez de papier d'aluminium et de haricots secs.
+    Faites cuire ainsi 30 min au four à 180°C (thermostat 6).
+    Délayez la maïzena dans le lait froid.
+    Fouettez l'oeuf avec le sucre et les amandes puis ajoutez lait.
+    Versez le tout dans une casserole et faites épaissir à feu doux sans cesser de remuer.
+    Retirez du feu dès l'ébullition.
+    Laissez refroidir.
+    Versez la crème refoidie sur le fond de tarte cuit et refroidi également.
+    Disposez les raisins lavés et essuyés en les enfonçant légèrement.
+    Réservez au frais jusqu'au service.
+  ]]>
+  </preparation>
+</recette>

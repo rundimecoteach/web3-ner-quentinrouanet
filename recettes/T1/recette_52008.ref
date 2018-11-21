@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52008">
+  <titre>Miroir d'endives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 endives</p>
+    <p>4 tranches de jambon cuit</p>
+    <p>1 pot de crème fraîche</p>
+    <p>4 oeufs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les endives en fines lamelles.
+    Les cuire dans l'eau bouillante ou au cuit-vapeur environ 30 minutes.
+    Bien les égoutter.
+    Les mettre dans un plat à gratin.
+    Couper les tranches de jambon en carré.
+    Les ajouter aux endives.
+    Saler et poivrer la crème fraîche.
+    L'incorporer aux endives et au jambon.
+    Casser les 4 oeufs sur la préparation (ne pas mélanger comme des oeufs au plat).
+    Mettre au four à 225°C (thermostat 7-8), environ 10 minutes, jusqu'à ce que les oeufs soient cuits.
+  ]]>
+  </preparation>
+</recette>

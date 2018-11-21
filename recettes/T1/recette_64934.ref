@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64934">
+  <titre>Salade terre et mer</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 salade verte au choix</p>
+    <p>1 avocat</p>
+    <p>4 tranches de saumon fumé</p>
+    <p>16 crevettes</p>
+    <p>parmesan (facultatif)</p>
+    <p>sel, poivre</p>
+    <p>vinaigre de cidre ou de framboise</p>
+    <p>moutarde</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et sécher la salade avec soin.
+    La répartir dans 4 assiettes.
+    Décortiquer les crevettes et les faire sauter 3 min dans de la matière grasse chaude. Saler et poivrer. Réserver.
+    Couper les tranches de saumon en lanières.
+    Couper l'avocat en fines lamelles.
+    Répartir les crevettes (4 par assiettes), les lanières de saumon et les lamelles d'avocat sur la salade.
+    Si vous le souhaitez, parsemer chaque assiettes de quelques copeaux de parmesan.
+    Préparer une vinaigrette bien relevée avec du vinaigre, du sel, du poivre, un peu de moutarde et une huile parfumée (olive, ou noix).
+    Verser 2 cuillères à café de vinaigrette sur chaque assiette et servir.
+    Il est possible de remplacer le parmesan par des noix, ou tout simplement de le supprimer.
+    On peut, pour donner plus de consistance, ajouter de fines rondelles de pommes de terre cuites à l'eau, ou des croûtons de pain. Cette entrée peut alors devenir un plat principal léger. Un vin blanc sec,  bien frais.
+  ]]>
+  </preparation>
+</recette>

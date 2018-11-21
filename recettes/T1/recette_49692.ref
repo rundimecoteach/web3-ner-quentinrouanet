@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49692">
+  <titre>Tartare de sardines à la tomate d'Espelette</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boites de sardines à l'huile</p>
+    <p>1 oignon</p>
+    <p>1 ou 2 piments d'Espelette</p>
+    <p>8 pétales de tomate séchée</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>du ketchup </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les sardines à l'huile et les écraser avec une fourchette.
+    Peler et hacher finement l'oignon, puis le mélanger avec le piment et les pétales de tomate.
+    Ajouter le concentré de tomate et un peu de ketchup et placer au réfrigérateur pendant 1h.
+    Remuer le tartare juste avant de le servir et déguster.
+    Peut s'accompagner de pommes de terre bouillies, ou à l'appéritif sur des toasts de pain de mie. Graves blanc
+  ]]>
+  </preparation>
+</recette>

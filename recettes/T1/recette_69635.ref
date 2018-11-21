@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69635">
+  <titre>Filets de bar au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de bar</p>
+    <p>2 oignons</p>
+    <p>1 courgette</p>
+    <p>1 boîte de pulpe de tomates</p>
+    <p>20 cl de lait de coco</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons émincés dans un peu d'huile d'olive.
+    Ajouter la boîte de pulpe de tomates, puis la courgette coupée en dés. Laisser mijoter à feu doux 10 min.
+    Ajouter le lait de coco, sel, poivre et curry et laisser encore mijoter à couvert 10 min. Faire pocher les filets de bar dans la sauce 10 à 15 min.
+  ]]>
+  </preparation>
+</recette>

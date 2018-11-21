@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195400">
+  <titre>Omelette aux haricots verts</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de haricots verts frais</p>
+    <p>200 g de haricots plats </p>
+    <p>1 boîte de concentré de tomates</p>
+    <p>un peu d'ail en poudre</p>
+    <p>10 œufs</p>
+    <p>1 grosse poignée de gruyère râpé</p>
+    <p>1 soupçon de crème fraîche</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>un peu de poudre de noix de muscade (en option)</p>
+    <p>1 filet d'huile d'olive</p>
+    <p>1 noisette de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez, mélangez et mettez à cuire à la vapeur les haricots.
+    Lorsque les haricots sont cuits, les mettre dans une poêle avec le concentré de tomates et l'ail en poudre.
+    Faites revenir pendant 10 min en tournant régulièrement. Pendant ce temps, cassez les œufs dans un saladier, fouettez, ajoutez le gruyère, les épices, la crème et enfin la poêlée de haricots. Pour finir, mettre un peu d'huile d'olive et une noisette de beurre dans une poêle et faire cuire comme une omelette ou une "brouillade" (œufs brouillés).Petite recette simple et efficace, à servir avec une salade frisée à l'ail ou de la roquette assaisonnée de balsamique et huile d'olive. Un rosé du var
+  ]]>
+  </preparation>
+</recette>

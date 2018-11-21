@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37466">
+  <titre>Pâtes au saumon fumé à la vince</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de spaghetti ou tagliatelles</p>
+    <p>200 g de saumon fumé en barquette</p>
+    <p>1 gros pot de crème fraîche épaisse (50 cl)</p>
+    <p>1 belle échalote</p>
+    <p>le jus d'un demi citron</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de ciboulette ciselée</p>
+    <p>une noix de beurre</p>
+    <p>1 cuillère à café de sauce tomate (pour la couleur)</p>
+    <p>un peu de poivre (selon le goût...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une casserole et y faire revenir l'échalote hachée jusqu'à ce qu'elle blondisse.
+    Déglacer avec le vin blanc et attendre la reprise de l'ébullition.
+    Ajouter le jus de citron, la crème fraîche, la sauce tomate et la ciboulette.
+    Enfin, ajouter à la préparation le saumon coupé grossièrement en carrés. 
+    Laisser chauffer la sauce sur feu très doux pendant la cuisson des pâtes.
+    Servez la sauce et les pâtes séparément.
+    Bon appétit !!!
+    Cette recette a depuis longtemps un certain succés auprès de mes amis, j'espère qu'elle vous plaira... un bon vin blanc sec
+  ]]>
+  </preparation>
+</recette>

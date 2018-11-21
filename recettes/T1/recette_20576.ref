@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20576">
+  <titre>Tomates à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 tomates rondes</p>
+    <p>1 tasse de persil haché</p>
+    <p>4 gousses d'ail</p>
+    <p>50 g de chapelure</p>
+    <p>2 cuillères à soupe d'herbes de Provence</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les tomates en deux, salez-les et retournez-les sur une assiette pour les laisser dégorger environ 15 minutes.
+    Mixez le persil, l'ail, les herbes de Provence et la chapelure finement.
+    Prenez un grande poêle ou 2 moyennes. Faites-y chauffer un peu d'huile, déposez les tomates face bombée au-dessus, et saisissez-les 2 min à feu vif. Retournez-les, salez, poivrez et faites-les glissez sur un plat à four.
+    Recouvrez-les du mélange persil, ail et chapelure. Arrosez d'un filet d'huile. Enfournez dans le four à 220°C (thermostat 7-8) pendant 20 minutes.
+  ]]>
+  </preparation>
+</recette>

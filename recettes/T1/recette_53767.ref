@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53767">
+  <titre>Pâtes à la courgette et au Kiri</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 aubergine</p>
+    <p>1 courgette</p>
+    <p>oignon</p>
+    <p>2 portions de Kiri</p>
+    <p>pâtes</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'aubergine et la courgette en petits cubes, émincer l'oignon.
+    Faire chauffer de l'huile d'olive dans une poêle pour y faire revenir les dés de légumes et l'oignon; saler.
+    Laisser cuire jusqu'à ce que les légumes soient tendres.
+    Pendant ce temps, faire cuire les pâtes dans une casserole d'eau bouillante salée.
+    Dans un saladier, verser les pâtes et les légumes, remuer.
+    Couper les portions de Kiri en petits carrés, ajouter dans les pâtes aux légumes et remuer jusqu'à ce que le kiri ne soit plus en morceaux;
+    saler et déguster.
+  ]]>
+  </preparation>
+</recette>

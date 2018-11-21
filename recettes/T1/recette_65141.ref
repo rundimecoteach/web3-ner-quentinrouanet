@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65141">
+  <titre>Salade de fenouil aux anchois</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 ou 6 fenouils, les choisir bien ronds</p>
+    <p>des filets d'anchois à l'huile d'olive</p>
+    <p>2 ou 3 gousses d'ail</p>
+    <p>du persil</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ôter la première peau du fenouil, le couper dans le sens vertical et l'étaler à plat dans un plat.
+    Mélanger dans un mixeur les filets d'anchois, l'ail et le persil et mixer ce mélange, qu'il soit bien homogène.
+    Le mettre dans un bol et y rajouter de l'huile d'olive et un peu d'eau, puis du poivre, bien mélanger.
+    Etaler cette préparation par dessus le fenouil, mettre au frais.
+    Excellent plat pour l'entrée, été comme hiver, et le fenouil est excellent pour tous les problèmes de colons, intestin...
+  ]]>
+  </preparation>
+</recette>

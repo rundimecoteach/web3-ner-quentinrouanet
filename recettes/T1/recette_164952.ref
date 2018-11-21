@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164952">
+  <titre>Gâteau de pain chocolat banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pain rassis</p>
+    <p>5 oeufs</p>
+    <p>1 litre de lait</p>
+    <p>3 bananes</p>
+    <p>1/2 tablettes de chocolat noir</p>
+    <p>4 c à soupe de miel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - faire chauffer le lait avec le miel
+    couper le pain rassis en morceaux, le mettre dans un grand saladier
+    verser le lait chaud sur la pain, l'écraser
+    ajouter les 5 oeufs battus
+    ajouter les bananes coupées en lamelles
+    bien mélanger
+    mettre le tout dans un plat préalablement beurré et fariné
+    couper le chocolat en cerré et les répartir en les piquant dans la préaparation
+    30mn à 180°
+  ]]>
+  </preparation>
+</recette>

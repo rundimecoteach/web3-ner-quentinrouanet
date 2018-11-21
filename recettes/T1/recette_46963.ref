@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46963">
+  <titre>Gâteau glacé au chocolat  d'Abidjan</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>350 g de chocolat noir</p>
+    <p>75 g de noisettes entières</p>
+    <p>75 g d'amandes effilées</p>
+    <p>75 g de cerises confites</p>
+    <p>4 cuillères à soupe de cognac</p>
+    <p>30 cl de crème fraîche épaisse</p>
+    <p>10 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat au bain-marie et le mélanger à la crème.
+    Réserver 2 h au réfrigérateur.
+    Battre le mélange au fouet pour le rendre onctueux.
+    Incorporer les noisettes et les amandes grillées et hachées grossièrement, les cerises et le cognac.
+    Beurrer un moule de 18 cm à fond amovible.
+    Remplir avec la préparation.
+    Lisser avec une spatule en métal.
+    Réfrigérer 24 h.
+    Démouler sur un plat rond et décorer d'une couronne de noisettes et d'amandes.
+    Je vous livre ici la recette du Gâteau glacé au chocolat qui nous avait été servi à l'aéroport d'Abidjan (Côte d'Ivoire).
+  ]]>
+  </preparation>
+</recette>

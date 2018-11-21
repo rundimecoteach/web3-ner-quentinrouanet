@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33193">
+  <titre>Cabillaud gratiné à la crème et à la raclette</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet de cabillaud</p>
+    <p>1 kg de pommes de terre</p>
+    <p>1 oignon</p>
+    <p>50 g de beurre (sauce) + 20 g (plat) </p>
+    <p>50 g de farine</p>
+    <p>10 cl de crème liquide</p>
+    <p>50 cl de lait (=1/2 litre) </p>
+    <p>200 g de raclette (fromage) </p>
+    <p>sel, poivre</p>
+    <p>muscade râpée (assaisonnement) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher, laver et couper en morceaux les pommes de terre. Les cuire dans de l'eau bouillante salée.
+    Lorsqu'elles sont "al dente", égouttez-les et mettez-les de côté. 
+    Emincer puis faire revenir l'oignon dans le beurre sans coloration. Saupoudrez de farine et remuez sur feu vif 2 min. Retirez du feu et versez le lait. Mélangez au fouet.
+    Remettez sur le feu jusqu'à obtenir une sauce lisse et épaissie (onctueuse). Ajoutez la crème et la moitié de la raclette coupée en petits morceaux. Assaisonnez. 
+    Allumez le four à 225°C (thermostat 7/8). 
+    Beurrez un plat à gratin. Coupez le cabillaud en morceaux et répartissez-les dans le plat (cru). Ajoutez les pommes de terre. Versez dessus la sauce préparée, puis répartissez dessus le reste de la raclette en tranches (pour que ça gratine uniformément). 
+    Enfounez pendant 15 min. Puis laissez reposer 5 min hors du four avant de servir. 
+    Bon appétit et faites attention, c'est très chaud !
+    Si la surface n'est pas assez gratinée, allumez le grill en toute fin de cuisson. vin blanc comme un entre-deux-mers (à 10°C)
+  ]]>
+  </preparation>
+</recette>

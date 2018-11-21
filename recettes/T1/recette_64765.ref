@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64765">
+  <titre>Betterave rouge au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 betteraves rouges cuites</p>
+    <p>1 boîte de 190 g de thon au naturel</p>
+    <p>Pour la vinaigrette :</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les betteraves rouges en petits dés. Les assaisonner à votre goût.Répartir, dans 4 ramequins chemisés d'un film alimentaire, une fine couche de thon émietté puis ajouter les betteraves.
+    Bien tasser avec une cuillère. Réserver au frais.Démouler au moment de servir, dans 4 assiettes individuelles décorées de ciboulette et de vinaigre de xérès.
+  ]]>
+  </preparation>
+</recette>

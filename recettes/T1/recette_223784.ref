@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223784">
+  <titre>Flammekueche en map ou à la main</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :- 200 g de farine</p>
+    <p>2 bonnes pincées de sel</p>
+    <p>12 cl d'eau tiède</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 paquet de briochin ou de levure de boulanger</p>
+    <p>Pour la garniture d'une flammekueche classique :- 2 gros oignons émincés</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>350 g de lardons (...ou plus !)</p>
+    <p>poivre moulu</p>
+    <p>crème épaisse et/ou fromage blanc</p>
+    <p>fromage râpé (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour préparer une flammekueche, il y a deux manières différentes. La première s'adresse aux courageux.Mélanger les ingrédients pour la pâte dans l'ordre, les travailler pendant une dizaine de minutes, jusqu'à ce que la pâte soit souple. 
+    La faire ensuite lever dans un endroit tempéré, recouverte d'un linge propre, pendant une heure.
+    Autre méthode : celle des moins coura... pardon : de ceux qui ont une machine à pain. 
+    Mettre les ingrédients dans la map. Laisser la machine faire le travail. Une fois qu'elle a fini de pétrir, l'éteindre et laisser la pâte lever à l'intérieur pendant une heure.
+    Pendant que la pâte lève, faire revenir les oignons émincés avec l'huile d'olive pendant une dizaine de minutes, jusqu'à ce qu'ils deviennent fondants.
+    Une fois que la pâte a levé, séparer le pâton en deux. Étaler les deux boules de pâtes obtenues très finement sur du papier cuisson (plus la pâte est fine, plus la flammekueche est bonne !).Pour l'étape suivante, il y a de nouveau deux options : ceux qui préfèrent une flammekueche "allégée" et les autres. Pour les premiers : garnir la pâte de fromage blanc, ou d'un mélange crème/fromage blanc (soyons fous !).
+    Crème tout court pour ceux qui préfèrent une flammekueche plus... "authentique".Saupoudrer de poivre moulu, répartir ensuite les oignons puis les lardons.
+    Pour les authentiques (et les autres s'ils veulent se faire un petit extra), ajouter du fromage râpé sur le dessus...
+    Cuire environ 15 minutes à 200°C (thermostat 6-7), jusqu'à ce que les bords des flammekueches commencent à roussir légèrement.Les lardons peuvent très bien être remplacés par du jambon cru, du thon, du chorizo...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60521">
+  <titre>Cake oignons lardons et moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>50 g de farine blanche</p>
+    <p>100 g de farine complète</p>
+    <p>1/3 de sachet de levure chimique</p>
+    <p>4 cl d'huile d'olive + 1 cuillère à soupe</p>
+    <p>15 cl de lait tiédi</p>
+    <p>100 g de gruyère râpé</p>
+    <p>100 g de lardons fumés</p>
+    <p>2 cuillères à soupe de moutarde à l'ancienne</p>
+    <p>2 gros oignons jaunes</p>
+    <p>8 cl de bière blonde</p>
+    <p>1 cuiller à café d'herbes de Provence</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincéee de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (Thermostat 6).
+    Peler les oignons et les couper en rondelles. Les faire revenir à la poêle avec la cuillère à soupe d'huile pendant 15 min environ à feu doux. Ajouter la pincée de sel et de poivre.
+    Pendant ce temps blanchier les lardons dans de l'eau bouillante pendant 5 minutes.
+    Dans un saladier, fouetter les oeufs avec les farines et la levure. Après l'obtention d'une pâte lisse, ajouter progressivement l'huile d'olive, puis le lait tiédi et bien lisser la pâte.
+    Ajouter la moutarde à l'ancienne puis la bière.
+    Enfin, ajouter le gruyère rapé, les lardons égouttés, les oignons fondus et les herbes de Provence et bien mélanger.
+    Mettre la pâte dans un moule à cake non graissé et faire cuire 50 min au four.
+    Convient parfaitement en entrée mais aussi à l'apéro coupé en dés. En plat principal, s'accompagne d'une salade verte. 
+  ]]>
+  </preparation>
+</recette>

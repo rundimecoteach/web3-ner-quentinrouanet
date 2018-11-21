@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15678">
+  <titre>Salade chaude aux gésiers</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de gésiers de volaille</p>
+    <p>4 pommes de terre </p>
+    <p>1 oignon</p>
+    <p>1 échalote</p>
+    <p>1 salade verte</p>
+    <p>croûtons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez vos pommes de terre et faites-les bouillir. Pendant ce temps, émincez finement l'oignon et l'échalote, que vous faites ensuite revenir à la poêle avec une cuillère d'huile d'olive.
+    Une fois les pommes de terre cuites, coupez-les soit en lamelles, soit en dés. Faits-les elles aussi dorer dans la poêle pour qu'elles soient croustillantes.
+    Préparez votre salade verte : lavez et rincez-la, puis séparez en les feuilles que vous déposerez en lit sur vos 2 assiettes. Arrosez-les alors de vinaigre balsamique.
+    Ajoutez vos petites pommes de terre dessus, puis les gésiers (que vous aurez réchauffés au bain-marie ou dans la poêle).
+    Il ne reste plus que la petite touche finale: les p'tits croûtons pour que ça croque sous la dent...
+    Cette salade généreuse et riche en goûts compose un plat principal et s'accompagne d'un bon vin rouge... devant un feu de cheminée,ou devant la télé..arf! Bon appétit! :) vin rouge
+  ]]>
+  </preparation>
+</recette>

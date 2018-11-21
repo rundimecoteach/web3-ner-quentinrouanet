@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225439">
+  <titre>Gratin de fenouil madame</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bulbes de fenouils</p>
+    <p>8 saucisses de Strasbourg</p>
+    <p>1 cuillère à soupe rase de farine</p>
+    <p>30 g de beurre ou de margarine</p>
+    <p>30 cl de lait</p>
+    <p>100 g de sauce tomate (1 petite boite)</p>
+    <p>20 g de fromage râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire au préalable les bulbes de fenouil coupés en deux à l'eau bouillante pendant 15 /20 minutes, bien les égoutter.
+    Préparer une sauce aurore (autrement dit : une béchamel à la tomate). Dans une casserole, faire fondre le beurre ou la margarine à feu moyen et ajouter la farine au fouet quand tout est fondu.
+    Verser le lait petit à petit en fouettant toujours vigoureusement. (La préparation ne doit pas changer de couleur) Ajouter à la fin la sauce tomate et réserver sur feu doux.
+    Disposer les moitiés de fenouil dans un plat à gratin, puis verser la sauce aurore dessus.
+    Couronner le tout avec les saucisses recouvertes de fromage râpé.
+    Enfourner à 180°C (thermostat 6) pendant 20 minutes.
+  ]]>
+  </preparation>
+</recette>

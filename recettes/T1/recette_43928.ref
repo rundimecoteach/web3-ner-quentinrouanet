@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43928">
+  <titre>Chou rouge aux pommes de Mamie</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit choux rouge</p>
+    <p>1 pomme Granny</p>
+    <p>1 pomme Boscop</p>
+    <p>1 gros oignon</p>
+    <p>1 grosse tranche de lard fumé</p>
+    <p>1 saucisse fumée</p>
+    <p>2 saucisses de Morteau</p>
+    <p>2 clous de girofle</p>
+    <p>margarine de cuisson</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir, dans une grande casserole, les oignons coupés en lamelles, les pommes coupées en gros dés, les clous de girofle (plantés dans un bout de pomme), jusqu'à ce que le mélange prenne une couleur dorée.
+    Ajouter le lard, les 3 saucisses coupées en 4, et faire roussir le tout.
+    Mettre ensuite le choux rouge coupé en morceaux, petit à petit, en mélangeant bien, le sel et le poivre.
+    Laisser cuire à feu doux pendant 3 h.
+    Ajouter 1/2 verre d'eau en cours de cuisson, si le choux attache au fond de la casserole.
+    Le choux doit "caraméliser" doucement. Il faut remuer en cours de cuisson délicatement, pour ne pas en faire de la bouillie!Réchauffé, il est encore meilleur!
+  ]]>
+  </preparation>
+</recette>

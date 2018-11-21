@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62328">
+  <titre>Tarte pommes poires et compote</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée pur beurre</p>
+    <p>2 pommes</p>
+    <p>2 poires</p>
+    <p>compote au choix (ex: pommes avec morceaux)</p>
+    <p>15 cl de crème liquide</p>
+    <p>50 g de sucre roux (cassonnade)</p>
+    <p>3 oeufs</p>
+    <p>noix de beurre</p>
+    <p>cannelle en poudre </p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dérouler la pâte brisée et piquer le fond avec une fourchette.
+    Préchauffer le four à 210°C (thermostat 7).
+    Pendant ce temps, garnir le fond de tarte avec de la compote.
+    Eplucher les pommes et les poires, les couper en morceaux et les disposer sur la compote.
+    Mettre au four pendant 10 minutes.
+    Dans un récipient, verser le sucre, les jaunes d'oeufs et la crème liquide. Remuer et y ajouter une pincée de sel et une pincée de cannelle.
+    Verser cet appareil sur la tarte, y ajouter quelques noisettes de beurre et réenfourner 30 minutes environ.
+    Bon appétit !
+     Champagne ou moelleux
+  ]]>
+  </preparation>
+</recette>

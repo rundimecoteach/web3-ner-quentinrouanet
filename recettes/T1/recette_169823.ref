@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169823">
+  <titre>Gâteau au yaourt chocolat banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de yaourt nature (100 g)</p>
+    <p>2 pots de sucre</p>
+    <p>3 pots de farine</p>
+    <p>1/2 pot d'huile</p>
+    <p>2 œufs</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1OO g de chocolat noir</p>
+    <p>1 cuillère à café de miel</p>
+    <p>1 banane</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 150°C (thermostat 5). 
+    Faites fondre le chocolat au bain marie.
+    Mélangez le yaourt nature avec le sucre et le sucre vanillé.
+    Ajoutez les 2 œufs, la farine et l'huile, mélangez et mettez le chocolat fondu dans la préparation et ajoutez la levure chimique au dernier moment.
+    Coupez la banane en rondelles, mettez-en la moitié au fond d'un moule à cake de préférence anti-adhésif et versez la moitié de la préparation, ajoutez le reste de la banane et le reste de la préparation.
+    Vous pouvez dessiner la forme que vous voulez sur le gâteau avec du miel avant cuisson, succès garanti.
+  ]]>
+  </preparation>
+</recette>

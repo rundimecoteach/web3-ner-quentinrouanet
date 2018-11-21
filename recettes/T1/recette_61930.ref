@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61930">
+  <titre>Oeufs brouillés à la tomate simplissimes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2-3 tomates fraîches ou morceaux en boîte de 250 g (cuit plus vite)</p>
+    <p>1 cuillère à soupe d'huile </p>
+    <p>3 ou 4 oeufs suivant l'appétit</p>
+    <p>1 gousse d'ail</p>
+    <p>1 feuille de laurier sauce (facultatif mais tellement meilleur!)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire "fondre" les tomates coupées en dés dans une poêle à feux doux avec l'huile. Saler, poivrer.
+    Y ajouter la feuille de laurier entière et une gousse d'ail écrasée.
+    Remuer, et lorsque les tomates semblent cuites, ajouter, toujours à feux doux, les oeufs entiers. Puis remuer doucement le tout en "perçant" les jaunes, jusqu'à obtenir une consistance un peu molle et plus ou moins homogène selon les goûts.
+    Servir chaud avec du pain frais.
+    Bon appétit!
+    Hyper rapide et change de l'oeuf au plat. Parfait pour les soirs flemmards!
+  ]]>
+  </preparation>
+</recette>

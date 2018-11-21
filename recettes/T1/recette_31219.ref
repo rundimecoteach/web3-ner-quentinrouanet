@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31219">
+  <titre>Salade Victoria</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Un ananas Victoria (de la Réunion) ou à défaut les deux tiers d'un ananas de côte d'Ivoire (moins sucré et plus filandreux) </p>
+    <p>2 ou 3 avocats mûrs (mais pas trop) </p>
+    <p>le jus d'un demi-citron</p>
+    <p>20 tomates cerises, ou 2 belles tomates</p>
+    <p>huile</p>
+    <p>vinaigre (de cidre)</p>
+    <p>sel poivre pour l'assaisonnement</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et couper en petits morceaux l'ananas (ne pas enlever le coeur de l'ananas Victoria c'est le plus sucré !). 
+    Eplucher et couper en morceaux de la même taille les avocats, et arroser les morceaux du jus de citron. 
+    Couper les tomates cerise en 2 (ou les tomates en morceaux identiques à l'ananas et l'avocat). 
+    Faire une simple vinaigrette douce. 
+    Mélanger délicatement le tout et présenter en dôme sur un lit de salade verte. A servir très frais. 
+    C'est ultra-frais et délicieux !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172048">
+  <titre>Carpaccio de courgettes à la sauce soja</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courgette </p>
+    <p>4 cuillères à soupe de sauce soja</p>
+    <p>1 cuillère à soupe d'huile </p>
+    <p>1 grosse gousse d'ail</p>
+    <p>sel</p>
+    <p>1 noisette de beurre (dure)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez la courgette, puis coupez-la en tranches fines.
+    Faites chauffer l'huile dans la poêle.
+    Promenez la noisette de beurre sur la surface de la poêle. Tapissez le fond de la poêle avec des tranches de courgette. Retournez-les avant qu'elles ne commencent à griller (une à deux minutes).Retirez-les une à une et disposez-les en les faisant se chevaucher à partir du bord extérieur jusqu'au centre d'un petit plat de service creux ou d'une assiette.
+    Recommencez l'opération tant qu'il vous reste des tranches de courgette.
+    Dans une petite poêle ou une petite casserole, faites revenir 5 min l'huile d'olive, la sauce soja et l'ail écrasé.Versez la sauce sur les pétales de courgette avant de servir.
+    Bon appétit !(A servir en accompagnement d'un poulet au curry par exemple)
+  ]]>
+  </preparation>
+</recette>

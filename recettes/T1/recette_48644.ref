@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48644">
+  <titre>La saucisse au four</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un beau morceau de saucisse de Toulouse</p>
+    <p>4 pommes de terre nouvelles</p>
+    <p>un gros oignon </p>
+    <p>2 gousses d'ail</p>
+    <p>2 petits verres de vin blanc </p>
+    <p>une petite branche de romarin</p>
+    <p>une feuille de laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat qui va au four, disposer la saucisse piquée.
+    Tout autour, répartir les pommes de terre nouvelles lavées (pelées ou non)et coupées en gros dés.
+    Ajouter l'ail pelé et dégermé, l'oignon en tranche, la branche de romarin et le laurier.
+    Saler les pommes de terre (pas trop car la saucisse l'est déjà), et poivrer le tout.
+    Arroser de vin blanc et enfourner à 200°C (thermostat 6/7).
+    Le plat doit être bien doré sur le dessus, les pommes de terre fondantes et le jus réduit.
+    Servir des la sortie du four avec une salade verte !
+    Si votre saucisse est congelée, pas de problème, procéder de la même manière (sans décongèlation) en ajoutant 10 min de cuisson !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66315">
+  <titre>Citrons au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 gros citrons</p>
+    <p>300 g de thon au naturel (en boîte)</p>
+    <p>4 cuillères à soupe de mayonnaise faite maison</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Vider les citrons complètement.
+    Mixer la pulpe pour en faire une mousse légère.
+    Egoutter et émietter le thon.
+    Dans une assiette, mélanger le thon, la pulpe et la mayonnaise.
+    Saler et poivrer à votre convenance et remplir les citrons.
+    A servir très très frais (astuce : 10 min au congélateur avant de servir).
+     riesling
+  ]]>
+  </preparation>
+</recette>

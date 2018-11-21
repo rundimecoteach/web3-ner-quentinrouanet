@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10673">
+  <titre>Menouille</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>30 g de beurre</p>
+    <p>50 g de lard gras</p>
+    <p>3 oignons</p>
+    <p>200 g de haricots secs</p>
+    <p>6 pommes de terre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre en casserole un morceau de beurre à fondre avec 50 g de lard gras râpé.Ajouter des haricots secs préalablement mis à tremper et 3 oignons.
+    Couvrir d'eau et faire cuire durant au moins 30 minutes.
+    Après trente minutes, ajouter 5 ou 6 pommes de terre pelées.
+    Continuer la cuisson jusqu'à ce que la sauce soit réduite.Écraser alors, à la fourchette, dans la casserole, les légumes.
+    Ajouter du beurre, du sel et du poivre et servir.
+  ]]>
+  </preparation>
+</recette>

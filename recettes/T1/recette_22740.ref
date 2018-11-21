@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22740">
+  <titre>Tarte aux raisins, figues et grenade</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>50 g d'amandes en poudre</p>
+    <p>120 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>Pour la garniture :</p>
+    <p>50 g de Mascarpone</p>
+    <p>zeste de 1 orange</p>
+    <p>160 g de sucre</p>
+    <p>6 figues</p>
+    <p>300 g de raisin</p>
+    <p>1 cuillère à soupe de pépins de grenade</p>
+    <p>6 cuillères à soupe de jus d'orange</p>
+    <p>2 cuillères à soupe de Xérès</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixez les ingrédients de la pâte. 
+    Versez le mélange dans une tourtière beurrée et faites cuire au four 30 min à 180°C. Battez le Mascarpone avec 25 g de sucre et le zeste d'orange. 
+    Coupez les figues en 4 et égrenez le raisin. 
+    Dans une grande poêle, mettez le reste du sucre, le jus d'orange et le Xérès. 
+    Portez à ébullition jusqu'à ce que le sucre fonde. 
+    Ajoutez les figues et faites cuire 3 min. 
+    Réservez-les. Faites de même avec le raisin et les pépins de grenade. Démoulez la pâte. 
+    Recouvrez de Mascarpone. 
+    Décorez avec les fruits. Faites épaissir le sirop sur feu vif. Versez sur la tarte et servez.
+  ]]>
+  </preparation>
+</recette>

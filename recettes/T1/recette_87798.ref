@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87798">
+  <titre>Poêlée de chou aux lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de lardons fumés</p>
+    <p>1/2 chou blanc</p>
+    <p>1 oignon rouge (ou blanc)</p>
+    <p>Filet d'huile </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon en fines lamelles, les faire revenir dans l'huile à feu moyen. 
+    Pendant ce temps, découper le chou en lamelles ou en cubes.
+    Faire revenir les lardons avec les oignons quelques secondes.
+    Incorporer le chou.
+    Faire revenir le tout à feu doux puis incorporer 50 cl d'eau pour éviter que les ingrédients ne collent entre eux. Couvrir le faitout et laisser cuire environ 1h. Goûter pour vérifier que la cuisson est bonne.
+  ]]>
+  </preparation>
+</recette>

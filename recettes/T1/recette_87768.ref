@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87768">
+  <titre>Crumble de poulet à la mangue</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de filets de poulet    </p>
+    <p>1 petit oignon    </p>
+    <p>1/2 mangue    </p>
+    <p>1 c. à s d'huile d'olive    </p>
+    <p>1/2 c. à c de curcuma    </p>
+    <p>1 c. à c de garam massala    </p>
+    <p>1 pincée de piment en poudre    </p>
+    <p>10 cl de lait de coco </p>
+    <p>   </p>
+    <p>Pour le crumble :    </p>
+    <p>30 g de farine    </p>
+    <p>15 g de chapelure    </p>
+    <p>30 g de beurre salé    </p>
+    <p>1 poignée de mélange de graines (tournesol, sésame, lin...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer l'oignon, trancher le poulet en dés, éplucher et couper la mangue en morceaux.
+    Faire chauffer un peu d'huile d'olive dans une poêle et y faire revenir l'oignon à feu doux 3 minutes. Ajouter les épices, mélanger. Laisser les parfums s'imprégner 1 minute puis ajouter le poulet et laisser colorer encore quelques minutes.
+    Verser les morceaux de mangue et le lait de coco, laisser une dernière minute puis éteindre le feu. Enlever le piment et remplir les cassolettes.
+    Préchauffer le four à 210° puis préparer la pâte à crumble en amalgamant entre les doigts la farine, la chapelure et le beurre salé. Ajouter les graines. Effriter la pâte de façon à former des miettes et saupoudrer la garniture au poulet.
+    Mettre au four et laisser gratiner 20 minutes à 200°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

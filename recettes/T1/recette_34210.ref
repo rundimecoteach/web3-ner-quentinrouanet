@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34210">
+  <titre>Faisan aux figues</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 faisan bardé</p>
+    <p>1 petite boîte de truffes</p>
+    <p>2 petits suisses</p>
+    <p>80 g de beurre</p>
+    <p>8 figues fraîches</p>
+    <p>1 petit verre de rhum</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les truffes. Mêlez-les aux petits suisses. Mettez cette préparation à l'intérieur du faisan. Salez et poivrez-le. 
+    Faites chauffez le beurre. Mettez-y à dorer le faisan sur toutes ses faces, une dizaine de minutes, puis couvrez la cocotte et laissez cuire sur feu doux, 45 mn. 
+    A la fin de la cuisson, versez le rhum sur le faisan et flambez. 
+    Servez-le entouré de quartiers de figues fraîches pelées, la sauce de cuisson à part.
+    A la place des truffes, prenez des trompettes de la mort fraÎches, cet ingrédient est moins coûteux et tout aussi délicieux.
+    Employez du vieux rhum de couleur bien ambrée et de bonne qualité. surtout pas plus d'un tout petit verre ou 2 cuillerées à soupe environ.
+  ]]>
+  </preparation>
+</recette>

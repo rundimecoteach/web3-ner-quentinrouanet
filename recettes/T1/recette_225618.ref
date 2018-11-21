@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225618">
+  <titre>Gratin de pommes de terre au comté</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 gousses d'ail</p>
+    <p>500 g de pommes de terre (des rates de préférence)</p>
+    <p>70 g de comté</p>
+    <p>1 tranche de jambon blanc</p>
+    <p>15 cl de crème liquide entière</p>
+    <p>1 cuillère à soupe de parmesan</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre (4/5 baies de préférence)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper une gousse d’ail en deux puis aillez le plat dans le fond et sur les côtés. Émincez les autres gousses d’ail.
+    Coupez les pommes de terre en rondelles de 2 à 3 mm d’épaisseur.
+    Coupez/déchiquetez la tranche de jambon en petits morceaux.Déposez un lit de rondelles de pommes de terre au fond du plat.
+    Recouvrez des morceaux de jambon (tous), de la moitié de l’ail, puis de la moitié du comté et de la moitié de la crème.
+    Saupoudrez de parmesan, salez, poivrez.
+    Faites de même pour la seconde couche (sans jambon et sans sel si vous ne souhaitez pas un plat trop salé).Ajoutez une dernière couche de rondelles de pommes de terre.
+    Parsemez le plat de noisettes de beurre.
+    Enfournez à 200°C pendant 50 min puis montez à 250°C pendant 5 à 10 min (dans un four traditionnel, sans chaleur tournante).
+  ]]>
+  </preparation>
+</recette>

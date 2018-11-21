@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16409">
+  <titre>Tourte printanière</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>2 gros oeufs</p>
+    <p>25 cl de crème fraîche</p>
+    <p>gruyère râpé</p>
+    <p>2 carottes moyennes</p>
+    <p>2 courgettes moyennes</p>
+    <p>1 gros oignon</p>
+    <p>1 poivron rouge</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à café de moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez les légumes : coupez l'oignon et le poivron en lamelles, épluchez et détaillez en gros dés les carottes et les courgettes.
+    Dans une sauteuse, versez un peu d'huile d'olive et faites revenir tous les légumes sur feu moyen (pour ne pas qu'ils roussissent), salez, poivrez.
+    Quand les légumes commencent à être tendres (attention ils doivent rester croquants), retirez la sauteuse du feu.
+    Dans un bol, versez la crème fraîche et battez la pour la rendre liquide. Ajoutez les oeufs et battez pour lier le tout.
+    Dans un moule à gâteau (diamètre moins grand et bords plus haut qu'un plat à tarte), posez la pâte brisée et percez quelques trous avec une fourchette.
+    Badigeonnez le fond de la moutarde, plus versez les légumes et enfin la préparation aux oeufs. 
+    Parsemez de gruyère râpé et rabattez les bords de la pâte vers l'intérieur (ainsi les bords seront fondants).
+    Laissez cuire à 180°C pendant 25 mn.
+    Délicieux avec une salade verte. Vous pouvez changer les légumes et les remplacer par des poireaux, pois gourmands...
+  ]]>
+  </preparation>
+</recette>

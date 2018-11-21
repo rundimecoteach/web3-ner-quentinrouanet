@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51691">
+  <titre>Gratin de pâtes aux saucisses de Strasbourg</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de petites pâtes type tortellinis</p>
+    <p>8 saucisses de Strasbourg</p>
+    <p>50 cl de crème fraîche épaisse</p>
+    <p>1 grosse bûche de fromage de chèvre de 200 g</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Faîtes bouillir de l'eau salée.
+    Y cuire les pâtes pendant 10 minutes (le temps de cuisson variant selon le type de pâtes choisi).
+    Dans une autre casserole, plonger les saucisses de Strasbourg dans de l'eau frémissante.
+    Egouttez les pâtes ainsi que les saucisses.
+    Coupez les saucisses en petites rondelles.
+    Mélangez les pâtes, les rondelles de saucisses et la crème fraîche.
+    Salez et poivrez.
+    Etalez le mélange dans un plat à gratin préalablement huilé.
+    Découpez de fines rondelles de fromage de chèvre que vous disposez sur le mélange pâtes-saucisses-crème fraîche.
+    Enfournez pendant 10 minutes, jusqu'à ce que le fromage soit bien fondu.
+    Ce plat complet est très vite préparé et donc idéal pour un repas express du midi!
+  ]]>
+  </preparation>
+</recette>

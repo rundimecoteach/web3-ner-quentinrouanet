@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21125">
+  <titre>Galettes de pommes de terre à la sauce tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de pommes de terre</p>
+    <p>1 kg de tomates</p>
+    <p>3 oeufs</p>
+    <p>50 g de fromage râpé</p>
+    <p>60 g de Maïzena</p>
+    <p>60 g de beurre</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>2 gousses d'ail</p>
+    <p>persil</p>
+    <p>thym, laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à la vapeur (20 min), à l'eau (30 min) ou au four (1h à 200°C - thermostat 6-7) dans du papier aluminium.
+    Le temps varie selon la taille des pommes de terre.
+    Pendant ce temps, peler et découper les tomates en quatre.
+    Faire chauffer l'huile dans une sauteuse.
+    Ajouter les tomates, le thym, l'ail, le laurier, le sel et le poivre et laisser mijoter 15-20 minutes.
+    Mouliner la sauce, la remettre dans la casserole et verser le reste de Maïzena délayée dans un peu d'eau froide.
+    Faire chauffer et retirer du feu au premier bouillon.
+    Réserver.
+    Peler les pommes de terre et les écraser en purée.
+    Rajouter 40 g de Maïzena, le beurre en petits morceaux, les oeufs battus et le fromage et bien mélanger à la fourchette.
+    Façonner des galettes, les passer dans la farine si elles sont trop collantes et les faire frire ou cuire au four sur une plaque huilée, 20 min à 200°C (thermostat 6-7).
+    Réchauffer la sauce tomate, napper les galettes de pommes de terre de celle-ci avant de servir saupoudré de persil ou de basilic haché.
+  ]]>
+  </preparation>
+</recette>

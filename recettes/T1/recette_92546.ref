@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92546">
+  <titre>Frittata aux épinards et aux blettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500g d'épinards- 4 feuilles de blettes- 1 gousse d'ail- 4 œufs- 50g de parmesan- 10 cl de lait- 1 pincée de piment d'Espelette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    * Préchauffez le four à 200° (th 6/7)
+        * Lavez les épinards et les blettes et faites les fondre dans une cuillère à soupe d'huile d'olive avec l'ail hâché.
+        * Battre les œufs en omelette et ajouter le lait, le piment d'Espelette, le parmesan, du sel et du poire.
+        * Ajouter les épinards et les blettes et mettez dans un moule à manqué préalablement beurré.
+        * Enfournez pour 35 minutes. Démoulez et servez tiède.
+  ]]>
+  </preparation>
+</recette>

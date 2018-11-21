@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82186">
+  <titre>Chili con carne au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g d'escalopes de poulet</p>
+    <p>25 cl de bouillon de poule</p>
+    <p>1 cuillère à soupe de cumin</p>
+    <p>1 cuillère à soupe d'origan</p>
+    <p>1 pincée de piment de cayenne</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>100 g de piments verts</p>
+    <p>800 g de haricots rouges</p>
+    <p>25 cl de crème épaisse</p>
+    <p>15 cl de crème liquide</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon, couper les piments en fines lamelles et écraser l'ail. 
+    Couper les escalopes en dés. Faire revenir ail et oignons dans un peu de beurre ou d'huile. 
+    Ajouter la viande et dorer le tout pendant quelques minutes. Quand la viande est dorée, ajouter tous les ingrédients excepté les crèmes. 
+    Saler et poivrer. 
+    Laisser mijoter à feu doux pendant 30 minutes. Enfin retirer du feu et ajouter les deux crèmes au plat en remuant.
+    Servir avec ou sans riz selon les goûts de chacun.
+  ]]>
+  </preparation>
+</recette>

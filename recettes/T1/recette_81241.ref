@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81241">
+  <titre>Fondant chocolat en poudre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>40 g de chocolat en poudre</p>
+    <p>40 g de beurre</p>
+    <p>30 g de sucre en poudre</p>
+    <p>1 oeuf</p>
+    <p>20 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre 1 min au micro-ondes.
+    Ajouter tous les ingrédients (jaune d'oeuf + chocolat + sucre + farine) et mélanger.
+    Finir par le blanc battu en neige, grâce auquel on doit obtenir une pâte plus liquide.
+    Beurrer 2 moules à cannelé ou ramequins et enfourner.
+    Cuire 5 min à four maximum pour former une petite croûte puis 8 minutes à 160°C pour garder l'intérieur moelleux/liquide.
+    A manger chaud, c'est meilleur!
+    Vous n'avez pas de tablette de chocolat sous la main? Et pourtant on a toujours envie d'un fondant, si vous avez de la poudre (pour le petit déjeuner par exemple) le tour est joué en quelques minutes:)
+  ]]>
+  </preparation>
+</recette>

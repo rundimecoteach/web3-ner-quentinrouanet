@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24539">
+  <titre>Gaufres au jambon et au gouda</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g beurre mou</p>
+    <p>4 oeufs</p>
+    <p>175 g farine</p>
+    <p>1/8 l lait</p>
+    <p>sel</p>
+    <p>125 g jambon maigre</p>
+    <p>125 gouda (pas trop jeune) </p>
+    <p>1 cuillère à soupe persil hachéPour le fromage blanc :</p>
+    <p>125 g fromage blanc</p>
+    <p>150 ml crème</p>
+    <p>sel</p>
+    <p>2 cuillères à soupe d'herbes hachées</p>
+    <p>quelques gouttes de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez le beurre en crème, et ajoutez progressivement les oeufs un à un, puis la farine, le lait et le sel, enfin, le jambon, le gouda et le persil hachés très finement. 
+    Beurrez le moule à gaufres à l'aide de beurre fondu, mettez 2 cuillères à soupe de pâte au milieu du moule, et cuire. Réservez au chaud (four 75 - 100°C). 
+    Mélangez tous les ingrédients du fromage blanc, rectifiez l'assaisonnement. 
+    Servir les gaufres chaudes, en les trempant dans la sauce au fromage blanc.
+  ]]>
+  </preparation>
+</recette>

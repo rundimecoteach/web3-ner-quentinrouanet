@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224001">
+  <titre>Nems de dinde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>15 feuilles de riz</p>
+    <p>3 escalopes de dinde</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 bouquet de menthe fraiche</p>
+    <p>sauce de nuoc mam</p>
+    <p>sauce soja</p>
+    <p>crème liquide</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation des nems :Hacher la dinde, mettre dans un saladier. Râper la carotte, hacher l'oignon et la menthe (1/2 du bouquet de menthe fraiche) séparément puis repasser au robot 30 sec le tout pour bien mélanger et finir de hacher la carotte. Ajouter la sauce de nuoc mam et la sauce soja, bien remuer.
+    Laisser reposer 1 h.
+    Rouler les nems et les faire frire.
+    Pour la sauce :Verser la crème fraiche liquide, hacher le reste du bouquet de menthe, saler, poivrer selon le goût et réserver au frais.Ça marche également avec du poulet. Très économique accompagné avec de la salade. Un petit rosé fais
+  ]]>
+  </preparation>
+</recette>

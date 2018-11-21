@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168261">
+  <titre>Saumon mariné en cocotte feuilletée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 petits pavés de saumon</p>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>Le jus de 2 citrons</p>
+    <p>10 cl d'huile d'olive + 3 cuillères à soupe</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>Lait</p>
+    <p>Aneth</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Marinade:Dans un récipient, mélanger la moutarde, le jus de citron, les 10 cl d'huile d'olive et de l'aneth.
+    Couper les dés de saumons en aiguillettes d'environ 1 cm d'épaisseur.
+    Mettre le saumon dans la marinade pour environ 10 minutes.
+    Pendant ce temps, mettre le four à préchauffer.
+    Béchamel à l'huile d'olive:Dans une casserole, faire chauffer 3 cuillères à soupe d'huile d'olive et 2 cuillères à soupe de farine.
+    Mélanger, puis ajouter du lait en laissant sur le feu et en remuant au fouet jusqu'à ce que la béchamel prenne.
+    Ajouter du lait jusqu'à obtention de la consistance désirée (assez épaisse).
+    Dressage des cocottes:Répartir les aiguillettes de saumon dans les cocottes individuelles en prenant soin de bien les égoutter.
+    Ajouter quelques cuillères de béchamel.
+    Refermer les cocottes avec des disques de pâte feuilletée (avec un rebord d'environ 1 cm).
+    Enfourner pour environ 15 minutes (jusqu'à ce que la pâte soit dorée). Sancerre blanc
+  ]]>
+  </preparation>
+</recette>

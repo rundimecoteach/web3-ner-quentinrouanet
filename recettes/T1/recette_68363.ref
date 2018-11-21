@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68363">
+  <titre>Brochettes fraîcheur au barbecue</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>16 tomates cerises</p>
+    <p>8 gros champignons frais</p>
+    <p>8 noix de st jacques avec ou sans corail</p>
+    <p>16 crevettes cuites roses</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>papier aluminium</p>
+    <p>8 grandes piques à brochettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre une pique à brochette et enfiler : 
+    Une tomate cerise, puis une crevette, la moitié d'un champignon, une st jacques, l'autre moitié du champignon, une crevette et enfin pour finir une tomate cerise.
+    Renouveler l'opération pour toutes vos brochettes.
+    Couper 8 morceaux de papier aluminium d'environ 20 cm de long.
+    Poser les brochettes dessus.
+    Assaisonner avec le sel, le poivre et un filet d'huile d'olive.
+    Fermer le papier aluminium autour de la brochette en faisant une papillote.
+    Mettre sur la grille de barbecue bien chaude pendant 30 minutes.
+    Cette façon de faire peut etre associée à beaucoup de variantes, mêlant la convivialité d'un barbecue à un met plus raffiné si on décide de mettre des gambas à la place des crevettes.
+    Les invités peuvent également participer à la confection de leur brochette, qui sera vraiment à leur goût!
+  ]]>
+  </preparation>
+</recette>

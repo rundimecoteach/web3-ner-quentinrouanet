@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30843">
+  <titre>Thon à la ratatouille confite</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 tranches de thon de 300 g chacune</p>
+    <p>1 courgette</p>
+    <p>1 aubergine</p>
+    <p>1 poivron</p>
+    <p>4 tomates pelées</p>
+    <p>1 gros oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>huile d'olive</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et coupez les légumes : la courgette et l'aubergine en rondelles, les tomates en quartiers, le poivron en lanières. Hachez l'oignon et l'ail.
+    Faites chauffer de l'huile dans une cocotte, faites-y revenir le mélange oignon-ail hachés. Ajoutez les légumes et mouillez avec le vin blanc.
+    Salez, poivrez et ajoutez le thym et le laurier. Laissez mijoter à feu doux pendant 45 minutes.
+    Salez et poivrez les tranches de thon. Passez-les dans la farine et faites-les cuire à la poêle dans de l'huile bien chaude. Retournez-les au bout de 2-3 minutes, laissez encore quelques minutes et retirez du feu.
+    Versez la ratatouille dans un plat, posez les tranches de thon dessus et servez.
+    Accompagnez de riz ou de pommes de terre au four.
+  ]]>
+  </preparation>
+</recette>

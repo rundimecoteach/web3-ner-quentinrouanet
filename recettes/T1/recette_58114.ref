@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58114">
+  <titre>Gâteau au yaourt aux fruits secs exotiques</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt nature</p>
+    <p>3 pot de farine (utiliser le pot de yaourt)</p>
+    <p>1 sachet de levure</p>
+    <p>1 pot d'huile</p>
+    <p>1/2 pot de sucre</p>
+    <p>2 oeufs</p>
+    <p>250 g de mélange de fruits secs exotiques</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le yaourt nature dans un saladier.
+    Incorporer les oeufs, mélanger puis ajouter la farine, l'huile et le sucre.
+    Puis mélanger et ajouter la levure et en dernier le mélange exotique.
+    Bien mélanger le tout pour qu'il y ait des fruits partout.
+    Mettre le tout dans un moule à gâteau beurré et un peu fariné.
+    Mettre au four pendant environ 30 minutes.
+    Pour votre bien manger, un peu chaud, c'est meilleur.
+  ]]>
+  </preparation>
+</recette>

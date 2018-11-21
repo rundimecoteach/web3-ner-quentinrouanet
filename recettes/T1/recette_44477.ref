@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44477">
+  <titre>Coeurs de canard à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 coeurs de canard</p>
+    <p>1 brique de crème liquide entière</p>
+    <p>1 gousse d'ail</p>
+    <p>persil</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fendre les coeurs de canard en deux. Puis les faire revenir dans une poêle.
+    Ajouter l'ail découpé en petits morceaux (attention de ne pas le faire brûlé).
+    Une fois les coeurs dorés, rajouté le persil haché et la crème.
+    Laisser réduire.
+    Servir immédiatemment, accompagné d'un riz parfumé ou de frites.
+  ]]>
+  </preparation>
+</recette>

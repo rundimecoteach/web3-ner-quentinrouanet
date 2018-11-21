@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83682">
+  <titre>Pizza  aux saucisses de Strasbourg</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>1 kg de tomates pelées au jus</p>
+    <p>4 saucisses de Strasbourg</p>
+    <p>1 oignon</p>
+    <p>Herbes de Provence, fines herbes ( estragon ... )</p>
+    <p>Poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole faites cuire à feu doux les tomates, l'oignon, les herbes de Provence, les fines herbes et le poivre. 
+    Une fois votre pâte à pizza prête, coupez vos saucisses en petits morceaux et dispersez-les sur la pâte avant de verser la préparation de tomates.
+    Enfournez à 180 °C (thermostat 6) et servez chaud .
+    Très pratique car les saucisses permettent de remplacer le jambon ...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71091">
+  <titre>Brochette de porc sauce piquante</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>porc</p>
+    <p>ketchup épicé</p>
+    <p>limonade</p>
+    <p>ail</p>
+    <p>purée de piment</p>
+    <p>poivrons</p>
+    <p>tomates</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un récipient, mélanger un verre de limonade de 25 cl, un pot de purée de piment de 95 g, un demi-pot de ketchup épicé de 125 ml et 2 morceaux d'ail haché.
+    Mettez la viande de porc échiné ou porc(prévoir entre 120 et 150 g par personne) taillée en morceaux à mariner 2 jours.
+    Ensuite montez vos brochettes en alternant viande, tomates et poivrons. Vous pouvez aussi mettre des champignons frais ou tout autre condiment dans vos brochettes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68060">
+  <titre>Mouloukhia tunisienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de viande de boeuf</p>
+    <p>poudre de mouloukhia (épiceries orientales)</p>
+    <p>2 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+    <p>piment rouge en poudre</p>
+    <p>coriandre</p>
+    <p>laurier</p>
+    <p>1/2 cuillère à manger de concentré de tomate</p>
+    <p>citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre 5 cuillères à repas de poudre de mouloukhia dans une cocotte et verser de l'huile d'olive petit à petit en mélangeant jusqu'à ce qu'elle soit complètement dissoute. Ajouter de l'eau l'eau bouillante jusqu'à la mi-hauteur de la cocotte et tourner sans arrêter jusqu'à ce que le mélange devienne liquide (environ 10 minute de mélange continu).
+    Ajouter une gousse d'ail et 4 feuilles de laurier, fermer la cocotte. 
+    Laisser à feu moyen pendant environ 3 h.
+    Après ces 3 h de cuisson, ouvrez doucement la cocotte et assurez-vous qu'elle soit assez remplie d'eau. Y mettre les morceaux de viandes bien épicées avec l'ail, le sel, le piment en poudre et la coriandre ainsi que le concentré de tomates. Refermer la cocotte et laisser cuire environ 2h.
+    La mouloukhia est cuite lorsqu'une couche d'huile remonte à la surface. Verser dans des assiettes et mettre 3 gouttes de citron pour parfumer.
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64127">
+  <titre>Coquelets à l'estragon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 coquelets</p>
+    <p>sel, poivre</p>
+    <p>30 g de margarine</p>
+    <p>5 cl de cognac</p>
+    <p>25 cl de crème</p>
+    <p>2 cuillères à soupe d'estragon surgelé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C (thermostat 7-8).
+    Disposer les poussins dans un plat allant au four, saler et poivrer, ajouter la matière grasse.
+    Quand le four est à température, enfourner pour environ 25 minutes de cuisson.
+    Une fois la volaille cuite, la réserver au chaud, déglacer avec le cognac (flamber selon le choix) et ajouter la crème et l'estragon, laisser réduire et c'est prêt.
+    A servir avec une purée, un délice.
+     Gigondas
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69807">
+  <titre>Soupe au pain et à l’ail pour les fins de mois difficiles</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de pain rassis</p>
+    <p>6 gousses d'ail</p>
+    <p>1 l de bouillon</p>
+    <p>2 cuillères à soupe d’huile d’olive</p>
+    <p>1 cuillère à café de cumin moulu</p>
+    <p>1 cuillère à café de colorant alimentaire (optionnel)</p>
+    <p>1 oeuf</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez l’huile dans une casserole. Quand elle est chaude ajoutez l’ail et faites-le dorer (il faut faire attention à la cuisson, l’ail ne doit pas brûler).
+    Incorporez le pain coupé en morceaux et faites-le dorer un peu.
+    Ajoutez le bouillon, le cumin, le sel et le colorant alimentaire (si vous souhaitez donner à votre soupe une couleur jaune).
+    Laissez cuire 5 ou 10 minutes. Le temps de cuisson varie en fonction du pain : plus le pain est dur et plus il faudra cuire la soupe pour bien le ramollir.
+    Battre l’œuf et l’incorporer à la soupe hors du feu. Bien mélanger puis mixer le tout afin d’obtenir une soupe bien moulue. Il sera peut-être nécessaire de rajouter un peu d’eau si votre soupe est trop épaisse, jusqu’à l’obtention de la consistance voulue.
+    Recette très économe qui permet de ne pas gaspiller les restes de pain dur.
+  ]]>
+  </preparation>
+</recette>

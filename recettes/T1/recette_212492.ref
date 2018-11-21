@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212492">
+  <titre>Poulet au lait de coco et à la mangue</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>200 g de lardons</p>
+    <p>150 g de riz</p>
+    <p>1 mangue fraîche ou surgelée</p>
+    <p>20 cl de lait ou crème de coco</p>
+    <p>1 l d'eau</p>
+    <p>1 bouillon cube aux épices</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le blanc de poulet et la mangue en cubes.
+    Faire chauffer une sauteuse, y faire revenir à feu vif le poulet et les lardons. 
+    Y jeter ensuite le riz et bien remuer jusqu'à ce qu'il devienne transparent.
+    Ajouter 1 litre d'eau bouillante et le bouillon cube.
+    Une fois l'eau absorbée, ajouter le lait de coco et la mangue. 
+    Laisser mijoter encore 5 min en remuant pour que le riz n'attache pas et servez chaud.
+    Vous pouvez aussi y ajouter des raisins secs ou / et des noix de cajou non salées.
+  ]]>
+  </preparation>
+</recette>

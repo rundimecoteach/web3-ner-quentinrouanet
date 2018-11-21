@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71233">
+  <titre>Tarte au maroilles améliorée à ma façon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1/2 maroilles</p>
+    <p>125 g de lardons nature</p>
+    <p>200 g d'oignons émincés</p>
+    <p>3 cuillères à soupe de crème fraîche épaisse</p>
+    <p>100 g de beurre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>3 oeufs</p>
+    <p>20 cl de de vin blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 230°C (thermostat 7-8).
+    Faire blondir les oignons dans le beurre et l'huile d'olive. Saler légèrement pour éviter que les oignons ne brûlent.
+    Pendant ce temps, prendre un saladier, mélanger les lardons avec la crème, les oeufs.
+    Quand les oignons sont en purée et légèrement colorés, déglacer avec le vin blanc. Faire réduire le liquide sur le feu, saler, poivrer.
+    Lorsque le liquide s'est évaporé, ajouter les oignons au mélange oeuf-crème.
+    Détailler le maroilles en tranches fines et les poser sur le fond de tarte. Recouvrir du mélange et enfourner pour 30 minutes de cuisson.
+    Bon appétit.
+     vin rouge pas trop epais où un petit rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91173">
+  <titre>Cake citron, rhum, graines de lin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe de graines de lin</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>1 cuillère à café de bicarbonate (ou levure si vous aimez le goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 200°C (thermostat 7).
+    Faites fondre le beurre et pressez le citron. Mélangez tous les ingrédients.
+    Enfournez 30 à 40 minutes à 200°C (thermostat 7). Bon appétit !
+     thé/café ou jus de fruit
+  ]]>
+  </preparation>
+</recette>

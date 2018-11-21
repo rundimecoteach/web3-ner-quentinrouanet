@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28058">
+  <titre>Sabayon de poires et mûres</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 poires</p>
+    <p>300 g de mûres</p>
+    <p>6 jaunes d'oeufs</p>
+    <p>380 g de sucre</p>
+    <p>20 cl de crème liquide</p>
+    <p>5 cl d'eau-de-vie de poire</p>
+    <p>1/2 citron</p>
+    <p>1 gousse de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les poires en quatre, les épépiner et les citronner.
+    Faire bouillir 1 l d'eau avec 250 g de sucre et la gousse de vanille jusqu'à consistance d'un sirop léger.
+    Y pocher les poires 20 min à feu moyen.
+    Les égoutter et les découper en fines lamelles.
+    Répartir dans 4 ramequins plats et disposer les mûres avec. 
+    Fouetter la crème liquide en chantilly, réserver au frais. 
+    Mettre les jaunes d'oeufs, le sucre restant et l'eau-de-vie dans une casserole. Mélanger et faire cuire à feu très doux en fouettant sans arrête.
+    La préparation doit mousser et doubler de volume.
+    Laisser refroidir un peu puis incorporer la crème chantilly délicatement.
+    Verser le sabayon sur les fruits et faire gratiner 3-4 min sous le grill.
+  ]]>
+  </preparation>
+</recette>

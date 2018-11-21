@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39840">
+  <titre>Gratin de tomates à la viande</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 grosses tomates</p>
+    <p>6 champignons de Paris</p>
+    <p>300 g de viande hachée</p>
+    <p>200 g de fromage rapé (gruyère ou autre)</p>
+    <p>20 cl de crème légère</p>
+    <p>1 gousse d'ail</p>
+    <p>1 oignon</p>
+    <p>sel, poivre</p>
+    <p>herbes de provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la viande hachée dans une poêle avec l'ail, l'oignon, les herbes de provence et une tomate coupée en dés. 
+    Saler et poivrer.
+    Pendant ce temps, laver les tomates et les couper en rondelles. 
+    Faire de même avec les champignons, les laver et les couper en lamelles.
+    Quand la viande est prête, l'étaler dans un plan à gratin, puis recouvrir de rondelles de tomates. Assaisonner. Recouvrir d'une couche de lamelles de champignon, puis de tomate, etc... en assaisonnant chaque couche.
+    Recouvrir de gruyère rapé, verser la crème légère sur le gruyère et enfourner 40 minutes à 150°C (thermostat 5).
+  ]]>
+  </preparation>
+</recette>

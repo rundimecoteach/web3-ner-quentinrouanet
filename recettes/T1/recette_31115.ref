@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31115">
+  <titre>Pommes de terre au Cantal</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>300 g de Cantal doux</p>
+    <p>750 g de pommes de terre</p>
+    <p>sel et poivre</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez ou faites couper par votre fournisseur, le fromage de Cantal frais, en fine lamelles.
+    Les répartir entre les couches de fines tranches de pommes de terre épluchées, en finissant par des pommes de terre.
+    Ajouter sel et poivre sur les couches de pommes de terre.
+    Cuire 30 mn dans un faitout en fonte et servir très chaud.
+    On peut étaler un peu de crème fraîche sur le dessus en fin de cuisson. vin rosé de Gaillac
+  ]]>
+  </preparation>
+</recette>

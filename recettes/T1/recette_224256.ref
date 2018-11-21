@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224256">
+  <titre>Lasagnes pesto</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de gruyère</p>
+    <p>160 g de saumon naturel</p>
+    <p>50 g de beurre demi-sel</p>
+    <p>50 g de farine</p>
+    <p>90 cl de lait</p>
+    <p>15 feuilles de pâte à lasagnes sans précuisson (20 fois 10 cm)</p>
+    <p>250 g de pesto</p>
+    <p>300 g d'épinards frais</p>
+    <p>noix de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ébouillantez les épinards quelques minutes, égouttez-les et passez-les sous l'eau froide.
+    Faites fondre le beurre dans une casserole. Ajoutez le farine en une seule fois, remuez vivement puis ajoutez petit à petit le lait et la noix de muscade râpée. Laissez cuire 10 min, sans cesser de remuer. Une fois la béchamel prête, couvrez la casserole et laissez tiédir.
+    Préchauffez le four à 180°C (thermostat 6). Mélangez le pesto avec la sauce béchamel, puis déposez une fine couche de préparation sur le fond d'un plat à gratin.
+    Alternez ensuite entre les couches de 3 feuilles de pâte à lasagnes, les couches de béchamel au pesto, et celles de gruyère. Insérez ensuite la couche d'épinards vers le milieu, et la couche de saumon vers le sommet. Terminez par une couche de béchamel saupoudrée de gruyère.
+    Laissez cuire 20 à 25 min. Au terme de la cuisson, laissez reposez les lasagnes 10 min dans le four éteint et entrouvert.
+  ]]>
+  </preparation>
+</recette>

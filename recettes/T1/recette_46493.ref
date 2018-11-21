@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46493">
+  <titre>Compote de mangues - pommes vanillée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 mangue bien mûre</p>
+    <p>4 pommes (Elstar, par exemple)</p>
+    <p>1/2 gousse de vanille</p>
+    <p>20 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes, ainsi que la mangue.
+    Couper les fruits en petits morceaux, afin de faciliter la cuisson.
+    Mettre les fruits et l'eau dans une casserole.
+    Fendre la gousse de vanille et récupérer les graines avec un couteau, les ajouter à la préparation, et faire cuire le tout pendant 25 min.
+    Mixer en fin de cuisson.
+  ]]>
+  </preparation>
+</recette>

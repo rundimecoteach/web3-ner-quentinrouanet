@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67635">
+  <titre>Gratin surprise légumes, viande et riz</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros oignon </p>
+    <p>4 ou 5 tomates moyennes </p>
+    <p>3 ou 4 courgettes </p>
+    <p>100 g de riz </p>
+    <p>400 g de viande boeuf haché</p>
+    <p>200 g de saucisses (genre chipolatas, godiveau ou merguez)</p>
+    <p>parmesan ou pecorino</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>persil, ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'oignon en morceaux, les faire fondre doucement dans l'huile d'olive à la poêle.
+    Ajouter la saucisse émiettée, la viande hachée, du persil, de l'ail, sel et poivre. Laisser mijoter de manière à ce qu'il y ait beaucoup de jus.
+    Couper les tomates et courgettes en rondelles. Séparer, saler.
+    Mettre la viande cuite en un plat en inox, ajouter le riz (cru) en une couche pas trop épaisses mais suffisamment pour recouvrir la viande puis mettre les tomates en alternant avec les courgettes. Ajouter 2 cuillères à soupe d'huile d'olive + 2 verres d'eau.
+    Râper des copeaux de parmesan sur le tout, couvrir de papier aluminium. Faire cuire au four à 180°C (thermostat 6) pendant 30 min. 
+    Enlever le papier d'aluminium et remettre 15 min.
+  ]]>
+  </preparation>
+</recette>

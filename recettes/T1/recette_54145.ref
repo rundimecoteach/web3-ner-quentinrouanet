@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54145">
+  <titre>Filet mignon de Marie</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un filet mignon</p>
+    <p>huile</p>
+    <p>3 cuillères à soupe de vinaigre de vin</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>2 bonnes cuillères à café de confiture de groseille ou d'oignons</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le filet en morceaux de 2 cm d'épaisseur.
+    Verser un peu d'huile dans une poêle et saisir les morceaux de filet à feu vif.
+    Mettre à feu moyen et verser le vinaigre dans la poêle.
+    Laisser la viande cuire environ 20 min, en retournant de temps en temps les morceaux.
+    Si tout le vinaigre a réduit avant la fin de la cuisson, en rajouter une cuillère à soupe.
+    Réserver les morceaux de viande.
+    Baisser à feu doux et mélanger dans la poêle la crème et la confiture.
+    Saler, poivrer puis remettre les morceaux de viande dans la sauce pour qu'ils soient bien nappés.
+    Servir avec des tagliatelles ou un légume vert.
+    Les ingrédients sont surprenants, mais le résultat est très fin!
+  ]]>
+  </preparation>
+</recette>

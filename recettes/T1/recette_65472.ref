@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65472">
+  <titre>The Cake tomates-feta</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 belles tomates pelées et épépinées que l'on coupe en petits morceaux</p>
+    <p>1 tranche de feta (200 g)</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre</p>
+    <p>150 g de farine</p>
+    <p>150 g de gruyère râpé</p>
+    <p>4 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>1 sachet de levure</p>
+    <p>50 g de beurre ou d'huile d’olive (c'est meilleur!)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la feta en petits dés.
+    Les mélanger aux morceaux de tomates, ajouter des herbes de Provence à votre convenance.
+    Battre les oeufs et leur ajouter le lait, la farine tamisée, le gruyère, l’huile, le gruyère, la levure, puis le mélange tomates-feta-herbes. Saler, poivrer.
+    Mettre dans un moule à cake beurré et fariné, et enfourner à four chaud (170°C - thermostat 5-6) environ 1 h.
+    Laisser refroidir 5 minutes et démouler...
+    Si les tomates ont rendu beaucoup d’eau, je ne mets pas de lait pour éviter d'avoir une pâte trop liquide.
+    Et si j'ai peu de temps (ou surtout la flemme,!) je ne pèle pas mes tomates, c'est très bon quand même!
+  ]]>
+  </preparation>
+</recette>

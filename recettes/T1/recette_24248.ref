@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24248">
+  <titre>Stracciatella ( soupe italienne )</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 carcasse de poulet ou du bouillon</p>
+    <p>200 g de vermicelles</p>
+    <p>3 oeufs</p>
+    <p>parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Généralement, lorsque le midi on à mangé un poulet rôti, le soir on garde les restes de viande, et on prépare un bouillon avec la carcasse en la faisant bouillir dans 2 litres d'eau salée pendant 1 petite heure. 
+    A défaut, utiliser un bouillon classique, y faire cuire les vermicelles, et au dernier moment, verser les oeufs (en brassant énergiquement avec un fouet) et le parmesan.... c'est parfait pour l'hiver !!!
+    Soupe, certes paysanne mais délicieuse et économique.
+  ]]>
+  </preparation>
+</recette>

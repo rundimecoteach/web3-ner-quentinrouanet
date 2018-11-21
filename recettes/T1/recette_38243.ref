@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38243">
+  <titre>Bricks aux 3 fromages</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 feuilles de bricks</p>
+    <p>roquefort (environ 200g)</p>
+    <p>deux fromages de chèvre (environ 120g)</p>
+    <p>une boule de mozzarella </p>
+    <p>noix</p>
+    <p>ciboulette</p>
+    <p>beurre</p>
+    <p>Salade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les 3 fromages (proportions à adapter selon les goûts) avec la ciboulette et les noix concassés.
+    Remplir les feuilles de bricks de cette préparation et former des samoussas ou des aumônières.
+    Dorer avec du beurre fondu et passer 15 à 20 minutes au four préchauffé à 170°C (thermostat 5-6).
+    A déguster avec une salade.
+  ]]>
+  </preparation>
+</recette>

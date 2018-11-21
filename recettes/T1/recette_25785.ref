@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25785">
+  <titre>Gratin pomme de terre courgette à la coriandre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 courgettes</p>
+    <p>6 pommes de terre</p>
+    <p>3 gousses d’ail</p>
+    <p>3 cuillères à soupe d’huile d’olive</p>
+    <p>4 tomates</p>
+    <p>1 bouquet de persil frais</p>
+    <p>1 bouquet de coriandre fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Laver les courgettes et les détailler en rondelles.
+    Peler, laver et découper ensuite les pommes de terre en rondelles puis les précuire 5 minutes dans l’eau bouillante salée.
+    Les égoutter, les essuyer dans du papier absorbant puis les réserver au chaud.
+    Plonger les tomates dans le bain d’eau bouillante des pommes de terre pendant 2 minutes pour pouvoir les peler plus facilement.
+    Les peler, les épépiner et les détailler en cubes.
+    Hacher le persil avec l’ail et la coriandre.
+    Dans un plat à four huilé, alterner les couches de pommes de terre et de courgette.
+    Parsemer de dés de tomate et du hachis d'herbes à l'ail.
+    Arroser d'huile généreusement, saler, poivrer et enfourner pour 1 heure de cuisson.
+  ]]>
+  </preparation>
+</recette>

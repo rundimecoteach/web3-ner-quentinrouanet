@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19123">
+  <titre>Soupe au choux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou vert bien pommé</p>
+    <p>1 oignon (ou 1 poireau) </p>
+    <p>2 clou de girofle</p>
+    <p>100 g de lardons demi sel</p>
+    <p>1 cuillère à soupe de gros sel</p>
+    <p>1 cuillère à café de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte minute faire revenir les lardons et l'oignon coupé en rondelles (ou le poireau) ; quand ils sont bien fondus ajouter 2 l à 2,5 litres d'eau, le sel, le poivre, 2 clous de girofle ; 2 feuilles de laurier (facutatif) et le chou coupé en lamelles. 
+    Mettre sous pression et cuire 2 heures. 
+    Servir très chaud avec du poivre si vous aimez très épicé
+    En hiver cette soupe est très revigorante. La proposer aux enfants, ils adorent aussi.
+  ]]>
+  </preparation>
+</recette>

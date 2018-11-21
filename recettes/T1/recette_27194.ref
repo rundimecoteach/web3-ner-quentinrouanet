@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27194">
+  <titre>Meringues</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 blancs d'oeufs</p>
+    <p>120 g de sucre en poudre</p>
+    <p>1 cuillère à café de Maïzena</p>
+    <p>1 cuillères à café de vinaigre de vin blanc </p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 150°C (thermostat 5).
+    Mettez les blancs et le sel dans un saladier.
+    Fouettez de plus en plus vite.
+    Quand la mousse est très blanche et épaisse, ajoutez progressivement et délicatement le sucre, sans cesser de fouetter jusqu'à obtenir une mousse très ferme et brillante. 
+    Incorporez le vinaigre et la maïzena tamisée.
+    Formez aussitôt des tas sur une plaque anti-adhésive.
+    Enfournez pour 1 heure de cuisson. Les meringues doivent être blond très clair, sèches dessus et dessous. 
+    Laissez refroidir puis décollez-les du papier cuisson.
+  ]]>
+  </preparation>
+</recette>

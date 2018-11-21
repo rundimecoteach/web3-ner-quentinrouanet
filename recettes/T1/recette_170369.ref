@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170369">
+  <titre>Gâteau Fringant</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>80 g de sucre</p>
+    <p>100 g de raisins secs</p>
+    <p>130 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>125 ml de lait</p>
+    <p>100 g de sucre roux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, mélangez la farine avec la levure.
+    Ajoutez le sucre vanillé, le sucre et remuez.
+    Mettez 1 oeuf et le lait et remuez jusqu'à obtenir une pâte bien lisse.
+    Incorporez le beurre ramolli coupé en morceaux et mélangez.
+    Introduisez les raisins secs.
+    Sulfurisez un moule et ajoutez la préparation.
+    Enfournez à 200°C (thermostat 8) pendant 20 minutes.
+    Sortez du four, badigeonnez avec l'oeuf restant et saupoudrez de sucre roux.
+  ]]>
+  </preparation>
+</recette>

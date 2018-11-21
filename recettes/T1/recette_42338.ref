@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42338">
+  <titre>Poulet surprise à la dijonnaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de poulet</p>
+    <p>2 carottes</p>
+    <p>2 blancs de poireaux</p>
+    <p>1 botte d'estragon</p>
+    <p>4 cuillères à café de moutarde à l'ancienne</p>
+    <p>20 cl de bouillon de volaille</p>
+    <p>10 cl de crème fraîche</p>
+    <p>3 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>aluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez et poivrez les escalopes de poulet. Badigeonnez-les avec la moutarde à l'ancienne. Et réservez-les.
+    Préchauffez votre four (210°C/thermostat 7).
+    Pendant ce temps, lavez les blancs de poireaux et l'estragon. 
+    Epluchez les gousses d'ail et les carottes. 
+    Coupez les blancs de poireaux en rondelles, et les carottes en petits bâtonnets. Emincez l'ail. 
+    Préparez votre bouillon de volaille.
+     
+    Préparez 4 feuilles d'aluminium (en double épaisseur). Huilez-les juste 1 peu, et posez chaque escalope sur chacune des feuilles. 
+    Recouvrez avec les carottes, les blancs de poireaux, l'estragon et l'ail.
+    Relevez les bords des papillotes. Mélangez la crème au bouillon de volaille, et ajoutez ce mélange dans chaque papillote.
+    Fermez hermétiquement les papillotes.
+    Enfournez, et laissez cuire 30 min.
+    Servez, dès la sortie du four.
+    Servir les papillotes, directement sur les assiettes, en laissant les invités découvrir ce qu'il y a à l'intérieur... Quincy
+  ]]>
+  </preparation>
+</recette>

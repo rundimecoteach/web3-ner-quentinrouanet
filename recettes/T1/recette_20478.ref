@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20478">
+  <titre>PARMENTIER DE SAUMON DE NORVEGE</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pommes de terre cuites à l’eau</p>
+    <p>200 ml de crème fraîche</p>
+    <p>400 g de saumon frais en petits dés</p>
+    <p>2 échalotes émincées</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecrasez les pommes de terre cuites à l’eau avec la crème fraîche, le sel et le poivre. 
+    Déposez une couche de saumon en dés, les échalotes, salez et poivrez. Recouvrez avec la purée de pommes de terre et faites cuire au four 35 mn à 210°C
+    Grâce à la  purée les enfants apprécient ce plat de poisson pour les adultes. Avec une petite salade au vinaigre balsamique, c'est un vrai délice. un petit blanc bien frais
+  ]]>
+  </preparation>
+</recette>

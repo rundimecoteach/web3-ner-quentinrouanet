@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58120">
+  <titre>Brioche légère pour machine à pain d'Hélène</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl de lait tiède</p>
+    <p>55 g de beurre fondu (salé de préférence)</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>1 oeuf légerement battu</p>
+    <p>1 cuillère à café de sel (attention!!! ne pas en mettre si vous avez mis du beurre salé)</p>
+    <p>420 g de farine type 45 ou 55 (donc pour pâtisserie)</p>
+    <p>1 cuillère à soupe de levure de boulanger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ajouter tous les ingrédients dans la machine à pain dans l'ordre.
+    La levure ne doit surtout pas toucher le liquide sous la farine avant le début du pétrissage.
+    Je règle ma machine sur pain sucré (si vous avez une fonction brioche c'est encore mieux), 750 g et je mets "croûte moyennement dorée".
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22172">
+  <titre>Cake léger aux trois farines</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>85 g de sucre</p>
+    <p>60 g de farine de froment</p>
+    <p>50 g de farine complète</p>
+    <p>50 g de farine de sarrasin (ou de la farine blanche si on n'aime pas le sarrasin) </p>
+    <p>25 g de beurre mou</p>
+    <p>7 cl de lait chaud</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure</p>
+    <p>1 pot de compote (100 g) </p>
+    <p>épices (ceux que vous aimez, j'ai mis gingembre, cannelle et 1 cuillère à soupe de sirop d'érable) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs, ajouter la farine la levure et le sucre, petit à petit, afin d'obtenir une pâte bien homogène. 
+    Ajouter le lait et la compote toujours petit à petit. La pâte peut tourner un peu mais cela ne change ni le goût ni l'aspect du cake. Ajouter les épices, et verser la préparation dans un moule à cake mou (type flexipan) pour être sûr que cela n'accrochera pas au fond du moule. 
+    Laisser reposer une bonne heure, le temps que la pâte prenne bien tous les arômes des différents ingrédients. 
+    Pour finir, reste à faire cuire la cake... Préchauffer le four à 180°C environ. et enfourner pour 45 mn. Les temps et températures de cuisson sont ceux basiques d'un cake. 
+    Bonne dégustation!
+    La farine de sarrasin parfume vraiment le cake, pour profiter plus du goût de la compote et des épices, je vous conseille de la remplacer par de la farine blanche. Personnellement j'adore le goût du sarrasin.
+    Ce cake est tres bon le matin ou en fin de repas tres gouteux car il est peu sucre. Cidre, bière, ou même un bon bol de lait chaud.
+  ]]>
+  </preparation>
+</recette>

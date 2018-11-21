@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12341">
+  <titre>Thon au caramel</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>thon ou saumon (darnes, 1 par personne) </p>
+    <p>nuoc mam ( sauce de poisson ) 2 cuillerées a soupe </p>
+    <p>caramel : 1 cuillerée à soupe </p>
+    <p>1 gousse d'ail , 2 échalotes</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser l'ail , hâcher 1 échalote. Mélanger tous les ingrédients aux poissons.
+    Laisser macérer 1 à 2 heures.
+    Si vous n'avez pas le temps, vous pouvez les cuire tout de suite, mais c'est moins bon !
+    Dans 1 casserole, à feu moyen, chauffer 1 cuillerée à soupe d'huile, ajouter 1 échalote coupée en fines tranches jusqu'à ce qu'elle soit dorée.
+    Puis ajouter les morceaux de thon ou de saumon pour les saisir. Y verser ensuite le reste du liquide de macération.
+    Cuire à feu très doux, à couvert, pendant 20à 30 minutes. Retourner doucement les morceaux de poissons tous les 10 minutes pourqu'ils prennent bien la couleur du caramel.
+    Verser dans 1 assiette, poivrer.
+    Servir chaud, avec un peu de piment (facultatif).
+    On peut faire la même chose avec le porc (porc au caramel).
+    L'odeur du nuoc mam  est très fort et la cuisson va rendre votre cuisine un peu odorante.
+    Pour éviter cela, vous pouvez ne pas utiliser du nuoc mam mais seulement du sel.
+    Mais la vraie recette est avec du nuoc mam ! du thé 
+  ]]>
+  </preparation>
+</recette>

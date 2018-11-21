@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229785">
+  <titre>Quiche aux tomates cerise et au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>15 tomates cerise</p>
+    <p>5 palets de chèvre</p>
+    <p>1 pâte feuilletée </p>
+    <p>3 œufs</p>
+    <p>10 cl de crème fraîche</p>
+    <p>50 g de gruyère râpé</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Étaler la pâte dans un moule à tarte.
+    Préparer l’appareil à quiche : mélanger les œufs, la crème et le gruyère, saler et poivrer et verser sur la pâte. Placer les petits palets de chèvre.
+    Découper les tomates cerise et les placer autour du chèvre, côté peau vers le bas pour ne pas qu’elles perdent leur eau, ce qui empêcherai la quiche de cuire.
+    Cuire pendant 30 à 40 min. Manger immédiatement.
+    Cette quiche est aussi très bonne froide…
+  ]]>
+  </preparation>
+</recette>

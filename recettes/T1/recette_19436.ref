@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19436">
+  <titre>Salade vosgienne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 laitue</p>
+    <p>8 pommes de terre</p>
+    <p>200 g lardons</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères de vinaigre</p>
+    <p>sel et poivre</p>
+    <p>2 oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à l'eau. 
+    Laver et couper la laitue. 
+    Couper des oignons en rondelles. 
+    Après la cuisson des pommes de terre, coupez-les en gros dès. 
+    Faire revenir les lardons dans du beurre. 
+    Ajouter tous les ingrédients et assaisonnez avec du vinaigre.Cette salade se mange très chaude, on peut aussi ajouter des ingrédients à la guise de tout le monde
+  ]]>
+  </preparation>
+</recette>

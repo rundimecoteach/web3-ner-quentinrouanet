@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62594">
+  <titre>Gâteau pour les anti-gâteaux, aux mûres !</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g amandes en poudre</p>
+    <p>150 g sucre roux</p>
+    <p>70 g beurre fondu</p>
+    <p>5 blancs d'oeufs</p>
+    <p>2 pincées de sel</p>
+    <p>1 cuillère à soupe d'eau de rose</p>
+    <p>3 pincées de cardamome en poudre</p>
+    <p>300 g mûres pour la version aux mûres</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans un grand saladier verser : la poudre d'amandes, le sucre
+    le beure fondu, bien mélanger puis ajouter l'eau de rose (ou le rhum ou le jus de citron) et la cardamome (ou ce qu'on veut).
+    Battre les blancs d'oeufs en neige très ferme avec la pincée de sel.
+    Ajouter la neige au mélange poudre d'amandes etc, dé-li-ca-te-ment.
+    Ajouter enfin les mûres (mais ce gâteau est délicieux aussi sans fruits !).
+    Verser l'appareil dans le moule à tarte puis enfourner pour environ 25 à 35 minutes.
+    Le gâteau est cuit quand la lame d'un couteau en ressort à peu près sèche.
+    Attention, il ne doit pas être trop doré ! 
+    Démouler et déguster refroidi, de préférence coupé en petites parts carrées...
+    Ce gâteau est ainsi nommé parce que c'est le préféré de tous mes amis qui n'aiment pas les gâteaux (oui, moi aussi j'en reviens pas, mais ça existe...) ! Il plaît d'ailleurs à toutes et tous sans exception...
+    On peut remplacer l'eau de rose par de l'eau de fleur d'oranger, un jus de citron, du rhum...
+    Et la cardamome par de la cannelle, ou rien... Un bon thé vert
+  ]]>
+  </preparation>
+</recette>

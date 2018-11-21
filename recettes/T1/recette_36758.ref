@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36758">
+  <titre>Assiette de fromages panés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 camembert</p>
+    <p>1 petit munster</p>
+    <p>1 bûche de chèvre</p>
+    <p>des graines de sésames , 10 noix, de la panure</p>
+    <p>3 oeufs </p>
+    <p>12 tranches de bacon </p>
+    <p>1 salade de mâche</p>
+    <p>12 abricots secs</p>
+    <p>6 pruneaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquez et mixer les noix.
+    Couper le munster en 6, passer chacun des quartier de fromage dans une assiette avec 2 oeufs battus, puis dans les noix mixés.
+    Réserver sur la plaque de la lèchefrite, recouverte d'un papier sulfurisé.
+    Recommencer la même procédure avec la bûche de chèvre et les graines de sésame préalablement grillées (ou achetées déjà grillées).
+    Recommencer avec le camembert et la panure simple MAIS paner 2 fois, c'est à dire recommencer l'opération aprés un premier passage dans la panure. 
+    Enfourner le tout 10 minutes sous le grill.
+    Préparer une vinaigrette assez forte et mélanger à la mâche.
+    Faire griller le bacon à la poêle.
+    Dresser les assiettes avec la mâche au milieu, le bacon, les fruits secs et les fromages chauds (attention, ça refroidit rapidement). 
+    Attention à bien surveiller le four, car les fromages peuvent fondre rapidement.
+  ]]>
+  </preparation>
+</recette>

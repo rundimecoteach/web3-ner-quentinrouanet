@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85345">
+  <titre>Croque madame royal</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 tranches de pain de mie- 2 tranches de jambon cru- 2 cuillères à soupe de parmesan- 50 g de fromage de chèvre- 1 œuf- quelques feuilles de salade (selon les goûts)- 10 g de beurre- 30 g de foie gras (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tartinez une noix de beurre sur une tranche de pain de mie.
+    Saupoudrez-la généreusement de parmesan.
+    Ajoutez une tranche de jambon cru.
+    Saupoudrez une nouvelle fois de parmesan.
+    Recouvrez avec une autre tranche de pain de mie.
+    Sur une autre tranche de pain de mie, mettez une tranche de jambon cru avec le fromage de chèvre.
+    Disposez-la harmonieusement sur le croque monsieur précédent et faites cuire pendant environ 5 min à four chaud.
+    Pendant ce temps, faites cuire l'œuf au plat.
+    Servez le croque madame dans une assiette, recouvert par l'œuf au plat, avec de la salade agrémentée de cubes de foie gras.On peut utiliser tous les types de fromages souhaités, mais il faut alors choisir le vin correspondant. Vin rouge.
+  ]]>
+  </preparation>
+</recette>

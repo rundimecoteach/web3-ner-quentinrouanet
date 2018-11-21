@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218399">
+  <titre>Bouillie de flocon d'avoine (porridge) coco, banane, pomme</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 verre à moutarde de flocon d'avoine</p>
+    <p>5 verre à moutarde de lait</p>
+    <p>3 ou 4 pommes</p>
+    <p>2 bananes</p>
+    <p>1 verre à moutarde de noix de coco en poudre</p>
+    <p>1/2 verre de sucre roux (ou blanc à défaut)</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 pincé de cannelle en poudre (facultatif)</p>
+    <p>1 bouchon de rhum (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les fruits en morceaux.
+    Mettre tous les ingrédients dans une grande casserole.
+    Mettre la casserole à chauffer en remuant de temps en temps.
+    Monter en température jusqu'à grosse ébullition (n'oublier pas de remuer pour que ça n'accroche pas au fond).
+    Une fois que c'est à ébullition, il faut maintenir l’ébullition pendant une minute sans cesser de remuer.
+    Une fois fait c'est près, il n'y a plus qu'à attendre que ça refroidisse un peu.
+    Je trouve que c'est meilleur tiède mais vous pouvez aussi manger très chaud (attention à ne pas vous brûler) ou bien froid.
+    Si vous préférez les fruits croquants, les ajouter juste après la cuisson au lieu de les mettre avant. Prendre à verre à moutarde comme mesure.C'est très bon à manger pour le petit-déjeuner, en dessert, ou le soir quand on ne veux pas s'ennuyer à cuisiner.
+  ]]>
+  </preparation>
+</recette>

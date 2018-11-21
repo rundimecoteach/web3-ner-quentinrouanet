@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25093">
+  <titre>Saint-Jacques aux morilles et au porto</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 noix de Saint-Jacques</p>
+    <p>150 g de morilles fraîches</p>
+    <p>50 g de beurre</p>
+    <p>1 échalote</p>
+    <p>150 g de crème fraîche</p>
+    <p>5 cl de porto</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>1 kg de pommes de terre rattes</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>fleur de sel</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Brossez les pommes de terre pour enlever la terre. Faites-les revenir dans une sauteuse avec l'huile, 30 minutes à feu moyen. Secouez la casserole de temps en temps pour les faire dorer sur toutes les faces.
+    Rincez les morilles à l'eau fraîche. Hachez l'échalote.
+    Faites fondre 30 g de beurre dans une sauteuse. Faites-y suer l'échalote, puis ajoutez les morilles coupées en deux si elle sont très grosses.
+    Laissez revenir en remuant un peu, puis versez le porto et la crème. Mélangez, salez et poivrez. Ajoutez le persil.
+    Laissez chauffez à feu doux quelques minutes.
+    Poêlez les Saint-Jacques 30 secondes sur chaque face dans le reste de beurre chaud. Déposez-les dans les assiettes.
+    Servez les morilles et les pommes de terre dorées avec. Nappez éventuellement les Saint-Jacques de la sauce des morilles.
+  ]]>
+  </preparation>
+</recette>

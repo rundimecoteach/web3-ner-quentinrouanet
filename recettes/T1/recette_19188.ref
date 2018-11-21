@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19188">
+  <titre>Thon à la provençale rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 belle tranche de thon frais</p>
+    <p>coulis de tomate</p>
+    <p>sauge</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer une cuillère à soupe d'huile d'olive dans une poêle. Mettez la tranche de thon dans la poêle et la recouvrir de coulis de tomate. Ajoutez la sauge hachée sur le coulis. Laissez mijoter le tout pendant à peu près 10 min.N'hésitez pas à arroser légèrement pour éviter que le thon soit trop sec. côte du rhône 
+  ]]>
+  </preparation>
+</recette>

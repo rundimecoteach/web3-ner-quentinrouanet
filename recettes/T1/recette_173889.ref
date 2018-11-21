@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173889">
+  <titre>Glace crémeuse au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 l de crème liquide 0%</p>
+    <p>225 g de chocolat noir non sucré</p>
+    <p>100 g de sucre roux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer la crème a feu doux, y incorporer le chocolat coupé en morceaux et le sucre. Mélanger le tout jusqu'à obtenir un mélange homogène.
+    Laisser refroidir et mettre dans la turbine pendant 20 à 30 min.
+    (Utilisation d'une turbine à glace conseillée.)La glace est prête lorsqu'elle est épaisse et onctueuse. A servir par exemple avec des poires à la menthe.La glace peut être ensuite congelée pour la conserver.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23361">
+  <titre>Soupe à la moelle de boeuf</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 l de bouillon de boeuf</p>
+    <p>300 g de moelle de boeuf</p>
+    <p>200 g de mie de pain rassis</p>
+    <p>3 oeufs</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer 1 à 2 cubes de bouillon dans de l'eau bouillante ou au micro-ondes. Faire fondre la moelle dans une casserole sur feu très doux.
+    Dans un grand saladier, émietter le pain à la fourchette et l'imbiber d'un peu de bouillon froid. Battre les oeufs dans un bol à part et les ajouter au saladier. Assaisonnez de sel et de poivre. Incorporer la moelle fondue - garder le bouillon de côté ! - en un mince filet et laisser refroidir.
+    Lorsque le mélange est froid, façonner de petites boulettes et faire pocher 6 minutes dans le bouillon frémissant.
+    Servir très chaud dans des bols individuels préchauffés afin que la moelle ne fige pas au contact de la surface froide.
+  ]]>
+  </preparation>
+</recette>

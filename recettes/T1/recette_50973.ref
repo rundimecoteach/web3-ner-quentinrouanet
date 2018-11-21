@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50973">
+  <titre>Magret à la confiture de cerises griottes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 beau magret de canard</p>
+    <p>2 cuillères à soupe de vinaigre balsamique</p>
+    <p>3 cuillères à soupe de confiture de cerises griottes</p>
+    <p>poivre noir du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer une poêle antiadhésive.
+    Quadriller au couteau le magret côté graisse.
+    Le faire revenir côté peau (penser à jeter du gras régulièrement), puis côté chair pendant environ 15 minutes, poivrer.
+    Réserver le magret dans du papier d'aluminium.
+    Déglacer la poêle avec le vinaigre balsamique puis incorporer la confiture de cerises griottes.
+    Dresser le magret dans un plat et le napper de sauce.
+    Servir avec des pommes dauphines et des haricots plats, etc... Selon les goûts!
+    A défaut de vinaigre balsamique, essayer avec du vinaigre de Xérès.
+  ]]>
+  </preparation>
+</recette>

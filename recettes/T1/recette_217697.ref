@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217697">
+  <titre>Crumble de poires au coca-cola</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de poires (fraîches ou en sirop)</p>
+    <p>3 cuillères à soupe de jus de citron </p>
+    <p>100 g de beurre mou </p>
+    <p>50 g d'amandes en poudre</p>
+    <p>30 g d'amandes effilées</p>
+    <p>100 g de farine </p>
+    <p>80 g de sucre roux</p>
+    <p>20 cl de coca-cola (utilisé pour caraméliser les poires)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 220°C (thermostat 7).Dans un plat, mélangez les poires pelées, épépinées et coupées en gros dés avec le jus de citron et le coca-cola.
+    Enfournez 40 min.
+    Les poires doivent être moelleuses et confites.
+    Dans un saladier, du bout des doigts, mélangez la farine, le sucre, les amandes en poudre et effilées jusqu'à obtenir un sable granuleux.Répartissez les poires légèrement égouttées dans un saladier ou dans 4 ramequins selon votre convenance.
+    Faites réduire le jus de cuisson au coca-cola 5 min au four puis versez ce jus caramélisé sur les poires.
+    Baissez le four à 200°C, recouvrez entièrement les poires de pâte à crumble et enfournez 20 min.
+    Servez tiède ou froid et éventuellement accompagné de glace à la vanille ou au praliné.Le goût du coca-cola ne se ressent pas dans la recette, il ne sert qu'à caraméliser les poires.
+    Vous pouvez également utiliser un mélange de poires et de pommes. Cidre
+  ]]>
+  </preparation>
+</recette>

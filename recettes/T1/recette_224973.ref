@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224973">
+  <titre>Risotto de poulet au curry aux petits pois et maïs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de riz pour risotto</p>
+    <p>3 tomates</p>
+    <p>140 g de maïs (petite boite)</p>
+    <p>200 g de petits pois (petite boite)</p>
+    <p>4 blancs de poulet </p>
+    <p>1 cuillère à café de curry</p>
+    <p>5 cuillères à soupe de crème fraîche à 15% de matières grasses</p>
+    <p>2 oignons</p>
+    <p>sel et poivre</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les blancs de poulet en petits cubes.
+    Dans un même temps, faites revenir les oignons avec une noisette de beurre dans une poêle, puis ajoutez-y le poulet. Faites-le dorer légèrement et y ajouter la crème fraîche, le sel, le poivre et la quantité souhaitée de curry selon les goûts. Puis mettez hors du feu.
+    Faites cuire les tomates dans de l'eau bouillante avec une pincée de sel pour faciliter le pelage de celles-ci. Quand la peau se décolle légèrement, retirez du feu puis coupez-les en petits dés. Faites cuire le riz.
+    Une fois le riz cuit, baissez la plaque à feu doux, et ajoutez-y tous les ingrédients un à un tout en remuant.Servez chaud et surtout bon appétit !
+  ]]>
+  </preparation>
+</recette>

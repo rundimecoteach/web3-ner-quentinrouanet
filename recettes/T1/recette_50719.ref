@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50719">
+  <titre>Poulet flambé à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet fermier</p>
+    <p>12 cl de crème</p>
+    <p>10 gde beurre</p>
+    <p>2 à 3 cuillères à soupe de Calvados (Cognac ou Whisky)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les blancs de poulet en petites bouchées.
+    Faites fondre le beurre dans une petite casserole antiadhésive à bords haut.
+    Jetez les morceaux de poulet dans le beurre et cuisez à feu doux pendant 10 minutes en remuant de temps en temps afin que les morceaux soient uniformément colorés.
+    Hors du feu ajoutez l'alcool puis portez sur feu vif et flambez à la flamme de la cuisinière (sinon faites chauffer l'alcool dans une petite casserole, enflammez et versez sur le poulet).
+    Remuez jusqu'à extinction de la flamme.
+    Rajoutez la crème et faites chauffer quelques minutes pour qu'elle épaississe un peu.
+    Salez et poivrer et servez, avec du riz blanc ou des pâtes.
+    Pour les gourmands, la proportion de crème peut être doublée.
+    Ma préférence va au Calvados (petit parfum de pomme en arrière plan).
+  ]]>
+  </preparation>
+</recette>

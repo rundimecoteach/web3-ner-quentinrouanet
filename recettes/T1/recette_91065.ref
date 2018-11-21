@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91065">
+  <titre>Quiche aux poireaux miel-curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poireaux</p>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>2 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>50 g de gruyère</p>
+    <p>2 cuillères à café de miel</p>
+    <p>10 g de curry</p>
+    <p>15 g de margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre la margarine dans une poêle puis ajoutez les poireaux coupés en rondelles. Laissez cuire le temps que les poireaux deviennent fondants.
+    Pendant ce temps, faites préchauffer la pâte feuilletée à 180°C (thermostat 6) pendant 20 minutes.
+    Une fois les poireaux fondants, ajoutez le miel et mélangez. 
+    Puis, ajoutez le curry.
+    Dans un bol, mélangez les oeufs et la crème fraîche, salez et poivrez.
+    Coupez le gruyère en petits dés.
+    Une fois la pâte feuilletée précuite, ajoutez les poireaux, le gruyère puis versez la crème fraîche par dessus.
+    Faites cuire à 200°C (thermostat 7) pendant 25 minutes.
+  ]]>
+  </preparation>
+</recette>

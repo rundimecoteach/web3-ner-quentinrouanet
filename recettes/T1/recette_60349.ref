@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60349">
+  <titre>Roulés de saumon fumé aux asperges vertes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 grandes tranches de saumon fumé</p>
+    <p>2 petits bocaux d'asperges vertes</p>
+    <p>1 bol de mayonnaise maison</p>
+    <p>1 citron vert</p>
+    <p>1 citron jaune</p>
+    <p>8 tomates cerise</p>
+    <p>1 poignée d'herbes fraîches variées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les asperges avec précaution (c'est fragile !) et en faire 8 petits fagots.
+    Couper chaque tranche de saumon en 2.
+    Rouler chaque fagot dans une 1/2 tranche de saumon et maintenir avec un pic de bois.
+    Blanchir la mayo avec le jus d'un 1/2 citron jaune et y ajouter les herbes ciselées.
+    Couper l'autre moitié du citron jaune en 1/2 tranches et le citron vert en fines tranches.
+    Sur le dessus des fagots, alterner une 1/2 tranche de citron jaune, une tranche de citron vert, et le coiffer d'une tomate cerise.
+    Réfrigérer au moins 2 heures et servir avec la mayo blanche aux herbes.
+    Pour une version plus allégée, remplacer la mayo par un bol de tzatziki. Un vin blanc sec mais fruité (Colombelle...)
+  ]]>
+  </preparation>
+</recette>

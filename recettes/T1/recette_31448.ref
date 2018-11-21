@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31448">
+  <titre>Gratin d'épinards aux deux poissons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'épinards surgelés</p>
+    <p>1 boîte de brandade de morue (200 g environ) </p>
+    <p>500 g de flétan surgelé</p>
+    <p>100 g de comté ou gruyère</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les épinards surgelés jusqu'à ce qu'ils aient perdu toute leur eau (aussi longtemps que possible). 
+    Disposez les filets de flétan encore surgelés dans un plat à micro-ondes. Saupoudrez de sel, poivre et herbes de Provence. Faites cuire 10 mn au micro-ondes (ou 30 mn au four traditionnel). 
+    Mélangez les épinards avec la brandade, rectifiez l'assaisonnement puis versez cette préparation dans un plat à gratin. 
+    Emiettez par-dessus le flétan, puis recouvrez d'une couche de fromage râpé. 
+    Au moment de servir, faites griller une dizaine de minutes au four traditionnel.
+  ]]>
+  </preparation>
+</recette>

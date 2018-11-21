@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46320">
+  <titre>Rôti de porc farci au roquefort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de porc</p>
+    <p>1 beau morceau de roquefort</p>
+    <p>6 tranche de fromage fondu type toastinettes ou de gruyère</p>
+    <p>lait</p>
+    <p>eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le rôti dans un faitout 30 à 40 min, dans un mélange eau et lait (ainsi le rôti restera bien tendre) à feu moyen. Ne pas oublier de saler et poivrer.
+    Une fois cuit, le prédécouper en tranches (sans aller jusqu'au bout).
+    Ensuite placer une tranche de roquefort et une tranche de fromage entre chaque tranche de rôti.
+    Mettre le rôti au four 10 min à 180°C-200°C (thermostat 6-7) en surveillant.
+    Lorque que le fromage est fondu sortir et servir.
+    Ce plat peut s'accompagner de pomme de terre cuites en même temps que le rôti et posées à côtées dans le plat avant le passage au four, ainsi le goût du roquefort se retrouvera sur les pomme de terre.
+    Un délice
+  ]]>
+  </preparation>
+</recette>

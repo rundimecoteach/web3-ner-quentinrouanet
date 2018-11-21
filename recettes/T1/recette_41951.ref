@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41951">
+  <titre>Gâteau au yaourt poires amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pot de yaourt (125 g)</p>
+    <p>1/2 pot d'huile végétale</p>
+    <p>3 poires bien mûres, épluchées et détaillées en dés</p>
+    <p>125 g de poudre d'amandes</p>
+    <p>250 g de cassonade (ou 2 pots)</p>
+    <p>375 g de farine (ou 3 pots)</p>
+    <p>1 sachet de levure</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand saladier verser le yaourt.
+    Ajouter ensuite tous les autres ingrédients (il est plus simple de se servir du pot de yaourt pour doser).
+    Mélanger au fur et à mesure que l'on ajoute les ingrédients.
+    Verser la pâte dans un moule à cake et faire cuire à 180°C (thermostat 6) pendant 50 min.
+  ]]>
+  </preparation>
+</recette>

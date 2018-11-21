@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29684">
+  <titre>Côtes de porc poêlées aux raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>500 g de raisins blanc</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dégrappez le raisin, mettez-en environ 100 g de côté.
+    Ecrasez le reste au chinois et récupérez le jus.
+    Faites cuire les côtes de porc à la poêle avec du beurre.
+    Salez, poivrez.
+    Retirez la viande, déglacez avec le jus de raisins et le vin blanc.
+    Laissez réduire quelques minutes, remettez les côtes et les grains de raisins entiers.
+    Laissez chauffez quelques minutes et servez.
+    Accompagnez de lentilles vertes ou de riz pilaf.
+  ]]>
+  </preparation>
+</recette>

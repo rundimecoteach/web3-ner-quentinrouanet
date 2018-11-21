@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36350">
+  <titre>Semoule au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>60 g de semoule (fine)</p>
+    <p>1 cuillère à soupe de sucre en poudre</p>
+    <p>50 cl de lait</p>
+    <p>50 g de chocolat noir (pâtissier)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat au bain-marie. Réserver.
+    Mettre le lait et le sucre à chauffer à feu fort dans une casserole. 
+    Remuer très régulièrement jusqu'à première ébullition. 
+    Baisser le feu : verser alors dans le lait le chocolat fondu. Bien mélanger.
+    Ajouter de suite la semoule et continuer la cuisson pendant 3 à 4 minutes à feu moyen, en remuant toujours.
+    La semoule de chocolat est prête à consommer dès que vous l'aurez laissée refroidir à votre guise!
+    En espérant que cette recette contente la demande lancée dans l'appel aux gourmands...
+  ]]>
+  </preparation>
+</recette>

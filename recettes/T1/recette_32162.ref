@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32162">
+  <titre>Poulet au miel et aux noisettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 cuisses de poulet</p>
+    <p>1/2 tasse (180 g) de miel</p>
+    <p>1 tasse (150 g) de noisettes hachées</p>
+    <p>2 oeufs</p>
+    <p>1 tasse (150 g) de chapelure (ou du pain de la veille haché)</p>
+    <p>beurre</p>
+    <p>sel et poivre (selon goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les noisette, la chapelure, le sel et le poivre. Dans une autre assiette, bien mélanger les oeufs et le miel.
+    Tremper le poulet dans le mélange oeufs-miel puis dans les noisettes. 
+    Répartir sur une plaque qui va au four. Ajouter sur chaque cuisse une noix de beurre.
+    Cuire 40 mn au four préchauffé à 190°C.
+    Vous pouvez remplacer les noisettes par des noix, des noix de cajou ou des cacahuètes.
+  ]]>
+  </preparation>
+</recette>

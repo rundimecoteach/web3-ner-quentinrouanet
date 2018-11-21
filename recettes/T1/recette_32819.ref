@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32819">
+  <titre>Tarte à la citrouille et au munster</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1/4 citrouille (ou courge ou potiron) </p>
+    <p>1 munster</p>
+    <p>200 g de lardons</p>
+    <p>3 oeufs</p>
+    <p>30 cl de crème fraîche</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de citrouille (coupés en petits cubes) dans l'huile d'olive environ une vingtaine de minutes. 
+    Saler, poivrer. Ajouter les lardons et faire revenir 5 mn de plus. Verser ce mélange sur la pâte brisée et découper dessus des lamelles de munster. Battre les oeufs et la crème et verser sur le reste de la préparation. Faire cuire à four chaud 25/30 mn.Excellent avec une petite salade verte.
+  ]]>
+  </preparation>
+</recette>

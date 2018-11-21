@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25174">
+  <titre>Poulet aux herbes et aux noix</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>1 poignée de cerneaux de noix</p>
+    <p>3 cuillères à soupe de fines herbes hachées (persil, cerfeuil, ciboulette)</p>
+    <p>1 tranche de pain de mie</p>
+    <p>1 jaune d'oeuf</p>
+    <p>20 cl de bouillon de volaille </p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>beurre, huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer 2 cuillères de beurre et 2 cuillères d'huile dans une cocotte.
+    Faites-y dorer les morceaux de poulet.
+    Salez et poivrez, puis mouillez avec le bouillon de volaille.
+    Laissez mijoter 35 min à découvert.
+    Hachez les noix avec le pain et les herbes.
+    Mélangez ce hachis au jaune d'oeuf, ajoutez le vinaigre et un peu de jus de cuisson du poulet. Liez bien la préparation qui doit être homogène.
+    Ajoutez-la dan la cocotte et réchauffez 1-2 min puis servez.
+  ]]>
+  </preparation>
+</recette>

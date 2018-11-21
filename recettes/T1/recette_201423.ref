@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201423">
+  <titre>Mousse légère d'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 bel ananas </p>
+    <p>2 blancs d’œufs</p>
+    <p>cannelle </p>
+    <p>1 cuillerée à soupe d'édulcorant (selon le goût)</p>
+    <p>le jus d'un citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Épluchez, coupez, mixer l'ananas pour en faire un mélange homogène.Mélanger la cannelle que vous souhaitez avec l'ananas mixé (quantité selon votre goût).Montez les blancs d’œufs en neige, puis incorporez petit à petit l'édulcorant. Incorporez cette mousse avec l'ananas mixé,Mettre en verrine ou verre, puis au frigo 1h minimum,
+    Faites griller dans une poêle quelques morceaux d'ananas avec du jus de citron, eau et édulcorant.
+    Parsemez la mousse de ces cubes d'ananas et servez.
+  ]]>
+  </preparation>
+</recette>

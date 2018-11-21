@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68950">
+  <titre>Escalopes de boeuf à la sarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g d'escalopes très fines de boeuf (ou de veau)</p>
+    <p>8 grandes feuilles de basilic frais</p>
+    <p>2 gousses d'ail</p>
+    <p>1 citron</p>
+    <p>huile d'olive</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la marinade :
+    Mélanger le jus d'un citron avec 12 cuillères à soupe d'huile d'olive, l'ail pressé et le basilic finement ciselé.
+    Faire mariner au frais +/- 2 heures les escalopes dans ce mélange.
+    Paner les morceaux de viande en les passant dans la chapelure, puis les faire revenir une grande poêle avec l'huile d'olive de la marinade.
+    Saler, poivrer selon le goût.
+    Idéal avec des pâtes en accompagnement.
+  ]]>
+  </preparation>
+</recette>

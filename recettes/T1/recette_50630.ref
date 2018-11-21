@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50630">
+  <titre>Gambas à la catalane</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>2 poivrons</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>300 g riz long grain</p>
+    <p>1 l de bouillon de volaille</p>
+    <p>sel, poivre</p>
+    <p>safran ou curcuma pour la couleur</p>
+    <p>Pour les gambas :</p>
+    <p>18 gambas surgelées crues</p>
+    <p>2 échalotes</p>
+    <p>1 gousse d'ail</p>
+    <p>50 g de jambon</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>100 g de champignons</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>3 tomates</p>
+    <p>sel, poivre, basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher l'oignon, couper les poivrons en dés et les faire revenir dans l'huile chaude.
+    Ajouter le riz et laisser revenir quelques minutes en remuant.
+    Mouiller avec le bouillon dans lequel vous aurez dilué le safran, du sel et du poivre.
+    Couvrir et laisser cuire à petit feu jusqu'à ce que le riz absorbe le bouillon.
+    Décortiquer les gambas.
+    Hacher les échalotes et l'ail puis les faire revenir dans l'huile chaude.
+    Ajouter le jambon coupé en morceaux.
+    Ajouter les gambas et laisser revenir quelques minutes tout en remuant puis incorporer les champignons émincés.
+    Mouiller de viin blanc et ajouter les tomates pelées et concassées ainsi que les herbes aromatiques.
+    Assaisonner et laisser mijoter environ 10 minutes.
+    Quand le riz est cuit, le tasser dans un moule en couronne, démouler et garnir le centre de gambas avec leur sauce.
+  ]]>
+  </preparation>
+</recette>

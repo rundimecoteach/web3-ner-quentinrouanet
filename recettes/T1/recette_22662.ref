@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22662">
+  <titre>Rôti de veau farci à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1,2 kg de noix de veau</p>
+    <p>2 courgettes</p>
+    <p>3 carottes</p>
+    <p>4 pommes de terre</p>
+    <p>100 g de parmesan râpé</p>
+    <p>5 tranches de lard fumé</p>
+    <p>2 boules de mozzarella</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>1 oignon</p>
+    <p>2 feuilles de laurier</p>
+    <p>1 branche de romarin</p>
+    <p>60 cl de bouillon de légumes ou de volaille</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les boules de mozzarella en 5 et entourer chacun tranche d’1/2 tranche de lard fumé.
+    Assaisonner le rôti et le trancher en 10 morceaux.
+    Placer la mozzarella en tranches et du parmesan chaque tranche, et ficeler le tout.
+    Tailler les légumes en julienne et les faire revenir à la poêle pendant 5 min avec 3 cuillères à soupe d'huile d'olive. 
+    Déposer la viande et les légumes dans une terrine beurrée.
+    Assaisonner et ajouter la branche de romarin et les feuilles de laurier.
+    Mouiller de bouillon de légumes et du reste d'huile d'olive.
+    Placer une feuille d’aluminium sur le tout et enfourner à 200° (thermostat 6-7) pendant 1 h.
+    Enlever la feuille d’aluminium et terminer la cuisson pendant 10 min.
+  ]]>
+  </preparation>
+</recette>

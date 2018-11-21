@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68574">
+  <titre>Salade de pâtes à la mozzarella façon Pizaine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet pâtes multicolores</p>
+    <p>1 boule de mozzarella de 125 g</p>
+    <p>4 tomates</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>10 feuilles de basilic hachées</p>
+    <p>1 petite gousse d'ail hachée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre à cuire les tortis dans de l'eau bouillante salée, égoutter et rincer à l'eau courante.
+    Emulsionner le vinaigre, le sel, le poivre et l'huile d'olive à l'aide d'un petit fouet. Ajouter le basilic et l'ail haché. Laisser reposer.
+    Couper les tomates en lamelles, ainsi que la mozzarella. Mélanger ces lanières avec les pâtes et la sauce, parsemer de câpres. Servir à température ambiante.
+  ]]>
+  </preparation>
+</recette>

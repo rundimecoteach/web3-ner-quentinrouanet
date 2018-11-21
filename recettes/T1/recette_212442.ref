@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212442">
+  <titre>Poêlée d’ananas et de mangues au combava</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 ananas (Victoria ou Sweety)</p>
+    <p>1 mangue (Kent ou José)</p>
+    <p>½ cuillère à café de cassonade</p>
+    <p>1 cuillère à soupe de jus de citron vert (ou de combava)</p>
+    <p>5 feuilles de combava</p>
+    <p>1 noix de beurre</p>
+    <p>1 piment vert</p>
+    <p>20 g noix de coco râpée (facultatif)</p>
+    <p>quelques branches de romarin (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez la mangue et coupez-la en lamelles. Épluchez l’ananas et découpez-le en dés. Égrenez le piment et hachez-le finement.
+    Faites fondre le beurre dans une poêle. Faites un caramel avec la cassonade, un peu d’eau et les feuilles de combava.
+    Ajoutez les dés d’ananas et les tranches de mangue. Saupoudrez avec le piment.Déglacez avec le jus de citron vert puis faites réduire ce jus.
+    Posez les tranches de mangue dans les assiettes et versez le jus dessus.
+    Saupoudrez de noix de coco râpée et décorez d'un petit bouquet de romarin. Un rhum vieux
+  ]]>
+  </preparation>
+</recette>

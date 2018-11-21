@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41700">
+  <titre>Gâteau moelleux à la crème de marron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boite de 500g de crème de marrons</p>
+    <p>1 grosse cuillère de farine</p>
+    <p>1 cuillère à soupe de rhum ou de cognac</p>
+    <p>50 g de beurre fondu</p>
+    <p>3 jaunes d oeufs </p>
+    <p>3 blancs d oeufs montés en neige</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients les uns après les autres (finir par les blancs montés en neige).
+    Mettre dans un moule à manqué au four pendant 30 minutes à 180°C (thermostat 6).
+    Quand il est froid, vous pouvez le recouvrir de chocolat fondu. vin pétillant
+  ]]>
+  </preparation>
+</recette>

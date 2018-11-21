@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17750">
+  <titre>Patates carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de pommes de terre</p>
+    <p>200 g de lardons</p>
+    <p>2 oignons coupés en petits dés</p>
+    <p>1 petite boîte de crème fraîche liquide</p>
+    <p>huile d'olives, condiments</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons avec l'huile dans un fait-tout. 
+    Pendant ce temps, éplucher et couper les pommes de terres (en rondelles ou en dés). Les rajouter dans le faitout. Rajouter les condiments (sel, poivre, paprika...). Laisser cuire 15 mn.
+    Rajouter les lardons. Quand les lardons sont cuits (5 mn environ), rajouter la crème liquide et laisser épaissir à feu doux pendant 2 mn. C'est prêt!
+    Vous pouvez rajouter avec bonheur quelques restes du fond de votre frigo: chorizo, fromage...
+    Avec de la graisse de canard oou d'oie c'est encore meilleur.
+    Idée recette piquée à Mehdi!
+  ]]>
+  </preparation>
+</recette>

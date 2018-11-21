@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61383">
+  <titre>Soupe de melon et pastèque glacée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 melon</p>
+    <p>1 tranche de pasteque (1/8 d'une pastèque environ)</p>
+    <p>2 cuillere à soupe de miel</p>
+    <p>1 cuillère à café de 4 épices</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A l'aide d'une cuillère parisienne, découper des billes de melon puis de pastèque, réserver.
+    Avec les résidus de melon et de pastèque restant, préparer la soupe : rajouter les 2 cuillères à soupe de miel et la cuillière à café de "4 épices".
+    Mixer le tout et le mettre au réfrigérateur plusieurs heures avant de déguster, afin que le mélange soit très frais.
+    Dans chaque coupe, disposer des billes de melon et pastèque, en couvrant au final par la soupe glacée.
+    Une feuille de menthe en décoration en fait un dessert rafraîchissant pour l'été, coloré, attrayant...
+    Bonne dégustation !
+  ]]>
+  </preparation>
+</recette>

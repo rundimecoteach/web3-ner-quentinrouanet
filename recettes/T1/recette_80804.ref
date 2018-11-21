@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80804">
+  <titre>Fenouil mariné et truite fumée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 gros bulbes de fenouil</p>
+    <p>une petite truite fumée (ou des tranches)</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, émincer le fenouil finement en ayant pris soin d'enlever les tiges et la partie dure à l'intérieur.
+    Mettre les lamelles de fenouil dans un récipient suffisamment plat pour que le fenouil soit bien imprégné de marinade. Verser l'huile d'olive et le jus de citron et bien mélanger.
+    Laisser mariner une nuit au réfrigérateur.
+    Servir le fenouil dans chaque assiette parsemé de fines tranches de truite fumée.
+    C'est frais et c'est bon!
+     un vin blanc fruité bien frais.
+  ]]>
+  </preparation>
+</recette>

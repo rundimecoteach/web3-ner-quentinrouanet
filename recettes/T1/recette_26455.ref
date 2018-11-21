@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26455">
+  <titre>Tarte fine de st jacques</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>12 noix de St Jacques</p>
+    <p>12 oignons</p>
+    <p>4 tranches de lard fumé</p>
+    <p>20 g de beurre</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le lard en lamelles, chaque noix en 4 dans la largeur. Faire dorer les oignons émincés dans une poêle pour les faire fondre puis ajouter le lard. Réserver. 
+    Découper les feuilles de brick en cercle avec un couteau (à l'aide d'un bol de taille moyenne) de sorte d'obtenir 4 fonds de tarte composés de 2 feuilles de brick. Les enduire de beurre fondu et faire dorer 3 mn au four à 180°C. 
+    Une fois les feuilles dorées, disposer sur chaque fond la fondue d'oignons et de lard tiède puis recouvrir entièrement par les lamelles de St Jacques disposées en rosaces. Arroser d'huile d'olive, saler, poivrer et faire cuire 3 mn au four à 180°C ( Les noix doivent rester translucides). 
+    Server aussitôt avec de la mâche assaisonnée d'un filet de vinaigre balsamique.
+  ]]>
+  </preparation>
+</recette>

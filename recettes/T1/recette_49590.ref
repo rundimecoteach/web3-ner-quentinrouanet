@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49590">
+  <titre>Gâteau pomme/banane au pastis</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>80 g de sucre</p>
+    <p>1 œuf</p>
+    <p>4 bananes</p>
+    <p>5 belles pommes </p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 bouchon de pastis 51</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Mélanger le sucre et l'œuf au batteur électrique jusqu'a obtention d'une pâte lisse, puis ajouter délicatement la farine tamisée et le pastis.
+    Dans un moule à cake, beurré et fariné, verser le ¼ de la pâte, puis ajouter les bananes rondelles de banane et les pommes découpées en gros morceaux par-dessus.
+    Saupoudrer de sucre vanillé et recouvrir du reste de pâte qui devrait à peine couvrir les fruits.
+    Faire basculer le moule de gauche à droite afin que la préparation descende jusqu'au fond du moule et enfourner à four chaud pendant 25 min.
+    Si vous voulez, vous pouvez rajouter des raisins secs ou des pépites de chocolat; ou faire revenir les pommes au beurre.
+  ]]>
+  </preparation>
+</recette>

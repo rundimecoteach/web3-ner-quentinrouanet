@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24070">
+  <titre>Râbles de lapin à la berrichonne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 beaux râbles de lapins</p>
+    <p>300 g de lard (poitrine)</p>
+    <p>6 foies de lapin</p>
+    <p>6 échalotes</p>
+    <p>50 cl de bouillon (maison ou non)</p>
+    <p>2 grosses cuillères à soupe de moutarde</p>
+    <p>250 g de crème fraîche</p>
+    <p>100 g de beurre</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>cognac</p>
+    <p>2 feuilles de laurier</p>
+    <p>1 brindille de thym</p>
+    <p>1 branche de sauge</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites dorer les râbles découpés en morceaux, dans une cocotte avec le beurre et l'huile.
+    Emincez les échalotes, ajoutez-les et saupoudrez d'une grosse cuillerée de farine. Laissez blondir.
+    Ajoutez le bouillon chaud, remuez, salez, poivrez, ajoutez le laurier, le thym et la sauge.
+    Fermez la cocotte, laissez cuire environ 1h15 à feu doux.
+    Dans une poêle, faites blondir les foies coupés en morceaux et le lard détaillé en allumettes. Rajoutez-les dans la cocotte, laissez cuire encore 20 min.
+    Au moment de servir, versez 2 petits verres de cognac et flambez. Mélangez la moutarde et la crème, ajoutez-les à la sauce.
+    Servez avec des champignons poêlés et des pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

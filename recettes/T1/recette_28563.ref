@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28563">
+  <titre>Poêlée de carottes persillées</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de carottes</p>
+    <p>25 g de beurre</p>
+    <p>persil haché</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et plonger les carottes 3 min dans l’eau bouillante. Les égoutter puis les faire revenir à la poêle dans le beurre en remuant.
+    Parsemer de persil haché, saler, poivrer et bien mélanger le tout.
+    Laisser le tout cuire pendant 20 min environ.
+    Quelques minutes avant la fin de cuisson, rajouter le jaune d'oeuf et remuer pour lier le tout.
+    Servir et déguster bien chaud.
+  ]]>
+  </preparation>
+</recette>

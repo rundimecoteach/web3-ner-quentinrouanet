@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94141">
+  <titre>Salade complète vitaminée</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pamplemousse rose</p>
+    <p>2 pavés de saumon frais ou 300g de thon au naturel ou 300g de crevettes roses décortiquées (selon le goût)</p>
+    <p>2 avocats murs mais fermes</p>
+    <p>5 coeurs de palmier</p>
+    <p>1 petite boite de maïs (100g environ)</p>
+    <p>100 g de boulghour moyen (ou de blé)</p>
+    <p>2 petites tomates</p>
+    <p>100g de mâche</p>
+    <p>100g de fromage blanc</p>
+    <p>1 cuillère à soupe de menthe hachée</p>
+    <p>1 cuillère à soupe de ciboulette hachée </p>
+    <p>1 cuillère à soupe de persil haché </p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>le jus d'1/2 citron vert</p>
+    <p>sel, poivre et baies roses</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Faire cuire le boulghour (ou le blé) selon les indications du paquet,le rincer à l'eau froide et bien le laisser égoutter. 
+    Si vous utilisez du saumon frais, faire cuire les pavés à la vapeur, 10 à 15 min selon leurs tailles.
+    Trier, laver, essorer et réserver la salade.
+    Couper les tomates pelées et épépinées en dés.
+    Découper les coeurs de palmiers en rondelles.
+    Peler le pamplemousse à vif et prélever les quartiers au dessus d'un bol en récupérant le jus.
+    Peler et couper les avocats en dés
+    Dans un saladier, mélanger les dés d'avocats, les tomates, les segments de pamplemousse, le boulghour (ou le blé), le maïs (rincé et égoutté) et le saumon effiloché(ou les crevettes ou le thon bien égoutté).
+    Dans un bol, mélanger 2 cuillères à soupe du jus du pamplemousse, le jus de citron vert, le fromage blanc, la moutarde, l'huile d'olive, les herbes, du sel et du poivre.
+    Verser la sauce dans le saladier, mélanger et laisser macérer au frais au moins 30 minutes.
+    Juste avant de servir, ajouter la mache et déguster bien frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84860">
+  <titre>Soupe de courgette à la feta et à la menthe</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 courgettes</p>
+    <p>2 pommes de terres</p>
+    <p>1 botte de menthe fraîche</p>
+    <p>250 g de feta nature</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes et les pommes de terre en morceaux. Les mettre dans une casserole et les recouvrir d'eau bouillante salée et laisser cuire à frémissement durant 20 minutes environ puis mixer le tout.
+    Saler et poivrer selon votre goût.
+    Quand vient le moment de servir, ajouter plusieurs feuilles de menthe et la moitiée de la feta préalablement émiettée.
+    Mettre dans un bol plusieurs feuilles de menthe et dans un autre bol le reste de la feta émiettée. Poser sur la table : les invités pourront alors remettre certains ingrédiens selon leur goût personnel.
+    Soupe vraiment délicieuse avec la menthe et la feta.
+  ]]>
+  </preparation>
+</recette>

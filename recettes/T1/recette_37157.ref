@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37157">
+  <titre>Escalopes de poulet au cantal</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 blancs de poulet ou de dinde</p>
+    <p>3 carottes </p>
+    <p>2 poireaux </p>
+    <p>1 oignon</p>
+    <p>300 g de champignons </p>
+    <p>500 g de cantal rapé</p>
+    <p>gruyère rapé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le poulet découpé en morceaux avec les oignons et les carottes ainsi que les poireaux dans un peu de beurre ou d'huile.
+    Ajouter les champignons, saler et poivrer et faire cuire à feu doux durant 30 min puis incorporer les fromages.
+    Servir chaud avec des pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

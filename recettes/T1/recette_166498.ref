@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166498">
+  <titre>Lasagnes au saumon light</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poireaux</p>
+    <p>une brique de purée de tomates</p>
+    <p>6 tranches de saumon fumé</p>
+    <p>2 pavés de saumon congelés</p>
+    <p>lasagnes sèches (8 plaques suffisent)</p>
+    <p>30cl de lait</p>
+    <p>1 bonne cuillère à soupe de maïzena</p>
+    <p>fromage râpé</p>
+    <p>herbes pour âromatiser</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les poireaux à l'eau 10min(persil et thym dans l'eau) puis laissez égoutter.
+    Pendant ce temps, préparer la béchamel en délayant simplement la maïzena dans le lait puis mettre à feu doux dans une petite casserole jusqu'à ce que la texture soit épaisse (ajoutez sel et poivre).
+    Cuire les pavés saumon à l'eau puis faire mijoter purée de tomates+pavés+saumon fumé 10min (herbes de Provence+poivre).
+    Tout est cuit : préchauffer le four 210°C
+    Faire des étages : pâtes/sauce au saumon/poireaux/pâtes/sauce/poireaux/pâtes/béchamel/fromage râpé
+    Faire bien gratiner.On peut ajouter des champignons dans la sauce. Plus de béchamel selon les goûts.
+  ]]>
+  </preparation>
+</recette>

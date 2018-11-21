@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48869">
+  <titre>Tarte au crabe et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 boule de mozzarella</p>
+    <p>1 boîte de crabe en miettes (200 g)</p>
+    <p>75 g d'olives vertes dénoyautées</p>
+    <p>20 cl de lait</p>
+    <p>3 œufs</p>
+    <p>sel, poivre</p>
+    <p>origan</p>
+    <p>un filet de vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire précuire la pâte pendant 10 min (sans oublier de la piquer) à 210°C (thermostat 7).
+    Pendant ce temps, couper les olives vertes et la mozzarella en petits morceaux.
+    Dans un bol, mélanger les œufs, le lait, le vinaigre, le sel, le poivre et l'origan.
+    Puis versez-y la mozzarella et les olives.
+    Quand la pâte est précuite, la sortir du four et la recouvrir de miettes de crabe.
+    Versez la préparation aux œufs et enfournez 20 minutes à 210°C.
+    Pour finir, passez la tarte quelques minutes au grill jusqu'à ce qu'elle soit bien dorée.
+  ]]>
+  </preparation>
+</recette>

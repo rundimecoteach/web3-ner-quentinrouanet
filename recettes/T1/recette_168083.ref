@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168083">
+  <titre>Nassi goreng</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oignons</p>
+    <p>3 poireaux</p>
+    <p>400 gr de riz</p>
+    <p>500 gr de filet mignon</p>
+    <p>des épices</p>
+    <p>des herbes</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le riz.
+    En attendant la cuisson, couper la viande en morceaux et saler et poivrer.
+    Mettre du beurre dans une sauteuse profonde, y mettre la viande et attendre que ca bronze.
+    Ajouter les oignons puis les poireaux. Bien mélanger.
+    Ecarter le mélange. Mettre les oeufs entiers dans le sauteuse. Avec une cuillère en bois, mélanger +es oeufs afin d'obtenir des morceaux bien cuits. Mélanger avec le reste.
+    Premièrement, mettre les herbes, puis les oeufs.
+    Mettre de l'eau dans la sauteuse jusqu'à couvrement du mélange. Laisser disparaitre à feu doux, en remuant de temps en temps.
+    Ajouter le riz et bien mélanger.
+    Servir avec des crevettes séchées et des oeufs au plat.
+    BON APPÉTIT !!!!!!!!!
+  ]]>
+  </preparation>
+</recette>

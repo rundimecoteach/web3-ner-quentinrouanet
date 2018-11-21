@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12691">
+  <titre>Gratin de fruits simple</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>fruits divers (mangue, kiwi, framboise, pêche...)</p>
+    <p>1 dl jus de fruits multivitamine</p>
+    <p>2 c à soupe de chacun des suivants : beurre fondu, noisettes ou amandes moulues, sucre en poudre (brun de préférence)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Répartir les fruits dans de petits moules individuels. Verser un peu de jus de fruits dessus.
+    Mélanger beurre, sucre et noisettes pour obtenir une pâte granuleuse.
+    Répartir la pâte sur les fruits.
+    Gratiner a four chaud (200-220°) durant environ 15-20 min.
+  ]]>
+  </preparation>
+</recette>

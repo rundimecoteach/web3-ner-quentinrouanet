@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49700">
+  <titre>Pâtes aux aubergines, tomates et mozzarella</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 à 200 g de penne</p>
+    <p>2 aubergines de taille moyenne</p>
+    <p>2 à 3 tomates</p>
+    <p>15 cl de concentré de tomates</p>
+    <p>250 g de mozzarella</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>4 échalotes (selon les goûts)</p>
+    <p>1 cuillère à soupe de sel</p>
+    <p>5 cl d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>des feuilles de basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les aubergines (en cube, de préférence), faites-les dégorger dans un bol avec le sel pendant 30 min.
+    Faites revenir dans l'huile d'olive l'oignon émincé, puis l'ail et les échalotes hachés, puis les aubergines.
+    Ajoutez les tomates coupées en cubes, le concentré de tomates.
+    A la fin de la cuisson, ajoutez finalement le vinaigre, le sucre, le basilic coupé finement et la mozzarella.
+    Laissez revenir jusqu'à ce que la mozzarella fonde légèrement. Ajustez l'assaisonement.
+    Pendant ce temps, faites cuire les pâtes al dente.
+    Mélangez les pâtes avec les légumes, décorez avec quelques feuilles de basilic.
+  ]]>
+  </preparation>
+</recette>

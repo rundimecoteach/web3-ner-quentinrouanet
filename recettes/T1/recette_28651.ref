@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28651">
+  <titre>Pain de poisson au fromage blanc et à la crème aux herbes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le pain :</p>
+    <p>400 g de filets de poisson à chair blanche (colin, merlan...)</p>
+    <p>1 blanc d'oeuf</p>
+    <p>150 g de fromage blanc</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>quelques noisettes de beurre</p>
+    <p>Pour la sauce :</p>
+    <p>100 g de crème fraîche</p>
+    <p>1 cuillère à soupe de fines herbes hachées</p>
+    <p>sel, poivre du moulin </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Nettoyer les filets de poisson et les déposer dans le bol d'un mixeur avec le blanc d'oeuf, le sel et le poivre.
+    Mixer pour bien réduire la chair de poisson en purée, puis incorporer le fromage blanc et saupoudrer de paprika. Mixer de nouveau jusqu'à l'obtention d'une pâte parfaitement homogène.
+    Verser la préparation dans un moule à soufflé beurré, puis le déposer dans un bain-marie.
+    Enfourner à four chaud et laisser cuire pendant 25 min.
+    Pendant ce temps, préparer la sauce :
+    Dans une petite casserole, verser la crème fraîche avec les fines herbes. Saler, poivrer, puis remuer à l'aide d'une cuillère en bois pour lier la sauce. Laisser mijoter 10 à 15 min à feu très doux sans cesser de remuer et réserver au chaud.
+    Servir le pain de poisson avec la sauce en saucière.
+  ]]>
+  </preparation>
+</recette>

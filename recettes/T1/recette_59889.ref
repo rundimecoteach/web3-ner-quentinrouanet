@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59889">
+  <titre>Flan de brousse à la banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de brousse (ou ricotta, petits suisse ou faisselle)</p>
+    <p>2 oeufs</p>
+    <p>2 bananes</p>
+    <p>100 g de sucre</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>caramel liquide</p>
+    <p>une pincée de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (themostat 6).
+    Verser le caramel dans un moule, réserver au congélateur.
+    Peler les bananes, les couper en rondelles.
+    Mixer tous les ingrédients jusqu'à obtention d'une crème lisse.
+    Verser dans le moule, cuire au bain marie (en placant le moule dans un moule plus grand rempli d'eau) au four environ 35 min.
+    Laisser refroidir puis réserver au réfrigérateur au moins 2 h.
+    Démouler puis servir.
+    En utilisant des petits suisses ou de la faisselle 0% et de l'aspartame, on obtient une version light tout aussi bonne!
+  ]]>
+  </preparation>
+</recette>

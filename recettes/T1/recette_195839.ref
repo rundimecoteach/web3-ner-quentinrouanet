@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195839">
+  <titre>Pilons de poulet aux épices</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 pilons de poulets</p>
+    <p>20 cl d'huile d'olives</p>
+    <p>1 pot d'épices spécial poulet</p>
+    <p>2 gousses d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un bol, l'huile d'olive avec le pot d'épices à poulet. Ajoutez les 2 gousses d'ail finement hachée.
+    Dans un grand plat, mettez les pilons de poulet, versez le mélange. Les pilons doivent être bien enrobés du mélange huile et épices.
+    Il y a plus qu'à faire cuire sur votre barbecue ou dans le four position gril.
+    Se déguste avec les doigts, c'est plus savoureux !
+  ]]>
+  </preparation>
+</recette>

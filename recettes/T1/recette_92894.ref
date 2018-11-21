@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92894">
+  <titre>Gratin de courgettes au chèvre et lait d'amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 belles courgettes</p>
+    <p>20 cl d’eau</p>
+    <p>6  cuillères à café de poudre d’amandes</p>
+    <p>2 gousses d'ail</p>
+    <p>3 œufs</p>
+    <p>2 fromages de chèvre type picodon</p>
+    <p>gruyère râpé</p>
+    <p>sel, poivre, muscade</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les courgettes, les couper en rondelles pas trop épaisses, faire revenir dans l'huile d'olive pour les attendrir. 
+    A côté, verser 20 cl d’eau dans une casserole et y la poudre d’amandes (pas amandes pilées), bien mélanger pour faire un lait...laisser refroidir. 
+    Dans un bol, battre les œufs puis y ajouter le lait d’amandes refroidi. Ajouter le sel, le poivre, muscade et les gousses d'ail hachées...
+    Verser les  courgettes dans un plat à gratin. Verser dessus la préparation  œufs/lait. Disposer sur le plat des rondelles de chèvres et du gruyère râpé selon votre goût. 
+    Enfourner sans préchauffer à 200°C (thermostat 6-7) pour 30 min, faire un peu gratiner le dessus vers la fin...
+  ]]>
+  </preparation>
+</recette>

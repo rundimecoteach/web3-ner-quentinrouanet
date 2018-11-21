@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61395">
+  <titre>Entrecôtes minute au roquefort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 entrecôtes de boeuf</p>
+    <p>100 g de roquefort</p>
+    <p>50 g de beurre</p>
+    <p>quelques noix, noisettes, pistaches</p>
+    <p>1 échalote</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le beurre dans 1 casserole avec l'échalote hachée. Laissez blondir puis ajoutez les fruits secs hachés et le roquefort émietté.
+    Fouettez sur le feu pour avoir 1 sauce crémeuse, laissez à feu très doux.
+    Faites griller les entrecôtes rapidement sur les 2 côtés, salez et poivrez en fin de cuisson.
+    Présentez les entrecôtes sur des assiettes chaudes nappées de sauce au roquefort.
+  ]]>
+  </preparation>
+</recette>

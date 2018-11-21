@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82599">
+  <titre>Gâteau au chocolat blanc et pistaches</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>90 g de beurre</p>
+    <p>70 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 oeufs</p>
+    <p>5 cl de crème fraîche épaisse</p>
+    <p>1 pincée de sel</p>
+    <p>50 g de pistaches non salées</p>
+    <p>130 g de chocolat blanc</p>
+    <p>60 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 160°C (thermostat 5-6).
+     
+    Mélangez au fouet le beurre, le sucre et le sucre vanillé.
+    Ajoutez les oeufs, a crème fraîche et le sel.
+    Mélangez pour obtenir une pâte homogène.
+    Coupez les pistaches en morceaux.
+    Faites fondre le chocolat blanc au micro ondes, attention à ne pas le faire brûler (30seconde par 30 secondes).
+    Ajoutez le chocolat, les pistaches et la farine à la pâte.
+    Mélangez.
+    Faites chauffez 20 minutes à 160°C (thermostat 5-6).
+    Laissez refroidir 3 minutes avant de démouler.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168849">
+  <titre>Croquants aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 œufs</p>
+    <p>200 g de sucre</p>
+    <p>200 g d'amandes décortiquées</p>
+    <p>400 g de farine</p>
+    <p>1 C. à soupe de fleur d'oranger</p>
+    <p>4 ou 5 gouttes d'amande amère (mais pas indispensable)</p>
+    <p>un peu de lait ou un jaune d'œuf pour dorer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les œufs avec le sucre puis rajouter les amandes.
+    Ajouter la fleur d'oranger et l'extrait d'amande amère si vous en avez.
+    Ajouter la farine et bien mélanger.
+    Avec la pâte (un peu collante), faire 2 bâtons un peu aplatis.
+    Entailler les bâtons tous les cm. Ces entailles permettront de couper les tranches plus facilement
+    Faire cuire à four moyen (200°) pendant 45mn.
+    A la sortie du four, couper en tranches.On appelle aussi ces croquants, des "casse-dents". Si vous les aimez ainsi, après avoir fait les tranches, remettez 5 min au four.
+  ]]>
+  </preparation>
+</recette>

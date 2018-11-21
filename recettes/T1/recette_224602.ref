@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224602">
+  <titre>Tarte facile ricotta tomate boursin</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à tarte feuilletée pur beurre</p>
+    <p>1 boite de 400 g de pulpe de tomate (ou de tomates fraîches pelées découpées en dés)</p>
+    <p>125 g de ricotta (1/2 pot)</p>
+    <p>120 g de bousin cuisine échalote et ciboulette (1/2 pot)</p>
+    <p>75 g de lardons fumés</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).Étaler la pâte dans un moule.
+    Dans un saladier mélanger les tomates, la ricotta, le boursin et les lardons.
+    Saler un peu, poivrer.Répartir le mélange sur la pâte et enfourner 1/2 heure environ.
+    Servir avec une petite salade.On peut utiliser autre chose que les lardons, comme du bacon, et bien sur une autre sorte de boursin.
+  ]]>
+  </preparation>
+</recette>

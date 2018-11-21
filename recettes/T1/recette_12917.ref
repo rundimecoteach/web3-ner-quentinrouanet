@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12917">
+  <titre>Dolmas</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>feuilles de vigne</p>
+    <p>jambon de poulet ou de dinde</p>
+    <p>1 oignon</p>
+    <p>boulgour fin et riz</p>
+    <p>concentré de tomate</p>
+    <p>sel poivre</p>
+    <p>cumin </p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons mixés dans l'huile.
+    Ajouter le riz et le boulgour, puis faire dorer.
+    Ajouter 2 volumes d'eau, 2 cuillères à soupe de concentré de tomates, saler, poivrer, puis ajouter le cumin et tout condiment de votre choix.
+    Attendre que l'eau soit évaporée, puis ajouter le jambon finement hâché (ou mixé).Mettre une cuillère à café de la farce ainsi obtenue dans chaque feuille (bien laver les feuilles si elles sont dans le saumur).Rouler les feuilles. Les cuire dans une casserole couverte avec de l'eau et du beurre et du concentré de tomates à feu moyen, environ 45mn.
+    Laisser refroidir, servir avec une sauce au yaourt.
+  ]]>
+  </preparation>
+</recette>

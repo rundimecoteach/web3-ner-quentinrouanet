@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47849">
+  <titre>Corned beef du Nord</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de corned beef sans gelée</p>
+    <p>beurre</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diluer un peu de farine dans un verre d'eau.
+    Faire fondre le beurre, et y émietter le corner beef à la fourchette en enlevant les petites peaux grasses.
+    Quand tout est bien revenu, ajouter le mélange eau-farine. Si c'est trop épais, rajouter un peu d'eau et saler si besoin.
+    C'est très bon, arrosé de quelqes gouttes de vinaigre de vin.
+    A servir avec des pommes de terre vapeur.
+    Le corned beef sans gelée se trouve principalement dans le nord.
+  ]]>
+  </preparation>
+</recette>

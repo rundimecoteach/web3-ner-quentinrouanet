@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56937">
+  <titre>Riz créole</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de riz</p>
+    <p>2 oeufs</p>
+    <p>200 g de lard frais (ou de jambon en allumettes)</p>
+    <p>1 poivron rouge</p>
+    <p>2 bananes</p>
+    <p>1 petite boîte d'ananas au sirop</p>
+    <p>1 oignon</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz à l'eau bouillante salée.
+    Faire revenir dans une sauteuse avec la moitié du beurre : le poivron coupé en lanières, l'ananas, l'oignon et le lard coupés en morceaux.
+    Dans une poêle à part, préparer avec les oeufs une omelette très mince et la découper en lamelles.
+    Les ajouter dans la sauteuse ainsi que le riz. 
+    Dans le beurre restant, faire dorer les bananes coupées en deux dans le sens de la longueur.
+    Servir le riz sur un plat en décorant avec les bananes.
+  ]]>
+  </preparation>
+</recette>

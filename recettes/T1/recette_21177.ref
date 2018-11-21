@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21177">
+  <titre>Endives au maroilles et jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>endives 1 kg</p>
+    <p>gruyère râpé 200 g</p>
+    <p>jambon 8 tranches (fumé donne plus de goût)</p>
+    <p>Maroilles 200 g</p>
+    <p>Pour la béchamel :</p>
+    <p>1 l de lait</p>
+    <p>100 g de matière grasse</p>
+    <p>100 g de farine</p>
+    <p>sel, poivre, muscade</p>
+    <p>piment de Cayenne ou piment d'Espelette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les endives, les faire suer dans une poêle avec un peu de beurre pendant 15 à 20 min. Faire une béchamel avec un peu de Maroilles, garder le reste, quand les endives sont cuites ajouter un peu de béchamel et laisser refroidir. 
+    Garnir la tranche de jambon avec les endives, 1 morceau de Maroilles, rouler, mettre dans un plat avec le reste de sauce et finir par le râpé.
+    Faire gratiner.
+    bon appétit de la part d'une ch'ti
+    Peut se faire avec un autre fromage de caractère. biere
+  ]]>
+  </preparation>
+</recette>

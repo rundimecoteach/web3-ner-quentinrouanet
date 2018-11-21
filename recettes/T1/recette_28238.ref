@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28238">
+  <titre>Quatre-quarts monté aux pêches</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>125 g de beurre mou</p>
+    <p>125 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>6 g de levure en poudre</p>
+    <p>6 pêches</p>
+    <p>150 g de sucre en morceaux</p>
+    <p>150 g de crème liquide entière</p>
+    <p>150 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez le beurre avec le sucre en poudre jusqu'à blanchiment.
+    Battez les oeufs en omelettre et ajoutez-les en fouettant, puis incorporez la farine tamisée avec la levure. 
+    Versez dans un moule rond à bord haut (moule à manquer) beurré et faites cuire 25 min au four à 180°C (thermostat 6). 
+    Pendant la cuisson, pelez et coupez les pêches en quartiers.
+    Faites chauffer 20 cl d'eau avec le sucre en morceaux environ 5 min, jusqu'à consistance d'un sirop.
+    Pochez-y les pêches 5 min, égouttez et laissez refroidir. 
+    Fouettez la crème en chantilly avec le sucre glace, réservez au frais.
+    Démoulez le gâteau, laissez bien refroidir.
+    Coupez-le en 2 dans l'épaisseur. 
+    Garnissez de pêches pochées coupées en morceaux et crème Chantilly, reformez le gâteau.
+    Décorez avec le reste de crème et quelques lamelles de pêches.
+  ]]>
+  </preparation>
+</recette>

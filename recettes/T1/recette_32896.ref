@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32896">
+  <titre>Gratin de châtaignes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de châtaignes</p>
+    <p>une poignée de gros sel</p>
+    <p>1 l de lait sucré</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>Pour la mousse au chocolat :</p>
+    <p>200 g de chocolat pâtissier</p>
+    <p>6 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faire cuire les châtaignes à la "cocotte-minute" pendant 10 mn avec une poignée de gros sel. 
+    2) Pelez à chaud les 2 peaux des châtaignes. 
+    3) Mixez les châtaignes (en vermicelles). 
+    4) Faire bouillir 1 litre de lait sucré (ajouter le sachet de sucre vanillé). 
+    5) Dans une grande casserole, ajouter progressivement le lait chaud aux châtaignes et mélanger jusqu'à obtention d'une purée mousseline (lisser la préparation à l'aide d'un mixeur plongeur). 
+    6) Couler cette purée dans un plat à gratin, et la placer au frigo. 
+    7) Une fois la purée refroidie, couler par dessus (en seconde couche) une mousse au chocolat. On peut rajouter de la chantilly par dessus lors du service...Il est plus astucieux de faire ce gratin en plusieurs jours : faire la purée de châtaignes la veille (pour qu'elle ait le temps de bien refroidir au frigo) puis la mousse au chocolat le lendemain.
+  ]]>
+  </preparation>
+</recette>

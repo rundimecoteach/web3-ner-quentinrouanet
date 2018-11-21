@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60813">
+  <titre>Briochettes express</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>1 paquet de levure chimique</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>15 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les ingrédients dans l'ordre donné.
+    Former une boule, étaler sur 1 cm d'épaisseur Découper 10 cercles avec un verre à moutarde.
+    Mettre sur une plaque et placer au four préalablement chauffé à 180°C (thermostat 6).
+    Laisser cuire 10 min, c'est prêt !!
+    Très très simple, pas trop sucré, délicieux le matin ou au goûter avec de la confiture, du miel... ou juste un petit morceau de beurre fondu ! On peut y ajouter toute sorte de choses : gingembre moulu, cannelle, extrait de vanille...
+  ]]>
+  </preparation>
+</recette>

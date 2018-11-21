@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46885">
+  <titre>Jalapeños poppers (beignets de piments au fromage)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la farce:</p>
+    <p>12 piments verts frais de 15 cm de long</p>
+    <p>1 boîte de vache qui rit</p>
+    <p>1 boite de fromage frais type st-Moret, carré frais</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+    <p>un bain de friture</p>
+    <p>Pour la pâte à beignet :</p>
+    <p>120 g de farine</p>
+    <p>1 oeuf</p>
+    <p>quelques cuillérées à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Deux heures avant, avec la farine, l'œuf et le lait, faire une pâte à beignet.
+    Elle accrochera mieux sur les piments si elle est un peu épaisse. Laisser reposer.
+    Faire une incision en longueur dans les piments verts, en gardant la queue et sans les casser, enlever les pépins, les côtelures blanches, et le trognon intérieur de la queue.
+    Dans un bol, bien mélanger les fromages frais, saler poivrer. 
+    On doit obtenir une pâte souple et onctueuse (sortir les fromages du réfrigérateur 2 heures avant).
+    Avec une petite cuillère, bien remplir les piments avec les fromages mélangés.
+    Le piment doit être "farci" et le fromage ne doit pas enduire la peau extérieure du piment.
+    Faire chauffer l'huile pour obtenir une friture chaude.
+    Tremper les piments dans la pâte à beignet puis les passer à la chapelure pour qu'ils soient bien recouverts.
+    Les mettre dans la friture et les faire cuire jusqu'à ce qu'ils soient dorés en les retournant de temps en temps.
+    Quand ils sont cuits, les poser sur un papier absorbant et servir très chaud.
+    On peut accompagner avec un peu de salade verte ciselée.
+    Recette de l'ouest des Etats-Unis. Prévoir 2 par personnes en entrée, 3 à 5 par personne en plat unique, selon la grosseur.
+    On ne maîtrise pas la force des piments qu'on achète : ils peuvent être assez doux ou très fort. C'est meilleur s'ils ne sont pas trop fort parce qu'alors on sent bien tout l'arôme du légume derrière le piquant.
+    Ils perdent un peu de force après quelques jours au réfrigérateur mais alors ils risquent de devenir mous et malaisés à travailler.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19310">
+  <titre>Emincé de foie au vin rouge - Sürlewerle ( Alsace)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>900 g de foie de veau ou de porc</p>
+    <p>1 oignon</p>
+    <p>2 échalotes</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1/2 litre de vin rouge</p>
+    <p>5 cl de vinaigre</p>
+    <p>3 cl d'huile</p>
+    <p>50 g de beurre</p>
+    <p>persil</p>
+    <p>ciboulette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la sauce: 
+    Faites revenir l'oignon et les échalotes hachés dans une poêle avec le beurre. Saupoudrez avec la farine et laissez brunir en remuant. Versez le vin rouge et le vinaigre. Salez et poivrez. Laissez réduire cette sauce pendant 10 mn. 
+    Le foie :
+    Coupez les tranches de foie en lanières (environ 6 cm de long) et faites-les revenir dans une poêle avec un peu d'huile très chaude.  
+    Servez avec des pommes de terre sautées, des spaetzle ou des pâtes fraîches.
+    Il s'agit d'un plat alsacien, d'origine haut-rhinoiseen alsacien: Sürlawerla ou Sürlewerle les 2 orthographes sont possibles un vin rouge corsé
+  ]]>
+  </preparation>
+</recette>

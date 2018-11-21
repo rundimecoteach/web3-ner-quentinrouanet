@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25901">
+  <titre>GATEAU de POIREAUX</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 poireaux (ou 6 petits) </p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>3 oeufs</p>
+    <p>25 cl de crème</p>
+    <p>du lait</p>
+    <p>safran</p>
+    <p>gingembre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Trier les poireaux, les laver. 
+    Coupez-les en très fines rondelles. 
+    Les faire fondre dans une noisette de beurre, à couvert. 
+    En cours de cuisson rajouter deux cuillères à café de gingembre et deux de safran (+ ou moins selon les goûts). 
+    Pendant ce temps, dans un grand bol, mettre la farine. 
+    Incorporer les oeufs les uns après les autres, puis la crème. 
+    Si besoin, liquéfier la préparation avec du lait. (Cela doit plus ou moins ressembler à une pâte à crèpes). 
+    Dans un moule à manquer beurré ou huilé, verser les poireaux et la pâte en veillant à ce que l'ensemble soit bien homogène. 
+    Enfourner 30 mn dans un four chaud à 180-200°C.
+    Ce plat est excellent servi avec une salade verte bien relevée.
+  ]]>
+  </preparation>
+</recette>

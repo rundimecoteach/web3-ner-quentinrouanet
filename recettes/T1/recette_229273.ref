@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229273">
+  <titre>Rôti de porc aux pickels</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de porc d'environ 1 kg</p>
+    <p>20 cl de crème fraîche allégée.</p>
+    <p>2 échalotes hachée</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>30 cl de vin blanc</p>
+    <p>1/2 pot de pickles ou picallili</p>
+    <p>sel, poivre</p>
+    <p>1 cube de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le rôti en casserole, saler, poivrer et ajouter 15 cl d'eau. Couvrir et cuire durant 1 heure.
+    Le retirer de la casserole et le tenir au chaud.
+    Dans le jus de cuisson ajouter les échalotes, l'ail, le cube de bouillon, le vin blanc, les pickels et laisser cuire 10 minutes.
+    En fin de cuisson ajouter la crème fraîche.
+    Couper le rôti en tranches et l'ajouter dans la sauce.
+    Réchauffer doucement.
+    Servir avec des croquettes de pommes de terre. Un vin blanc
+  ]]>
+  </preparation>
+</recette>

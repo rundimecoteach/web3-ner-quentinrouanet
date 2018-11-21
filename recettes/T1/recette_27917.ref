@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27917">
+  <titre>Gâteau facile pour le goûter</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>150 g de sucre</p>
+    <p>150 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>amandes hachées</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>zeste de citron, chocolat, noix de coco...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre fondu, le sucre, les amandes et les oeufs. Puis ajouter la farine et la levure. Et enfin le parfum. 
+    On peut faire simple en y ajoutant simplement le zeste d'un citron, ou alors ajouter 100 g de chocolat ou 60 g de noix de coco. 
+    Mettre la pâte dans un plat à tarte beurré et mettre au four à 180°C , pendant environ 25 mn. 
+    Une fois cuit, découper le gâteau en petits carrés ou losanges et conserver dans une boîte en fer
+    Facile et rapide à faire, il y en a pour tous les goûts. Vin blanc sucré
+  ]]>
+  </preparation>
+</recette>

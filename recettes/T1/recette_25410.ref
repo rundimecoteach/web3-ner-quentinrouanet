@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25410">
+  <titre>Sauté de veau et fondue de poireaux aux raisins secs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 kg de veau en morceaux</p>
+    <p>1 kg de poireaux</p>
+    <p>40 g de beurre</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 cl de lait</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>le jus d'1/2 citron</p>
+    <p>50 g de raisins secs</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Assaisonner la viande. Émincer les blancs de poireaux.
+    Mettre le beurre et l'huile à fondre dans la cocotte, et y faire revenir la viande sur chaque face.
+    Remplacer la viande par les blancs de poireaux et les faire revenir 10 min.
+    Replacer la viande dans la cocotte, la mouiller de vin, de jus de citron et de lait, ajouter les raisins et le bouquet garni, et laisser mijoter pendant 40 min.
+  ]]>
+  </preparation>
+</recette>

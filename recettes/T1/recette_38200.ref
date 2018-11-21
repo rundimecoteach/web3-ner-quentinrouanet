@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38200">
+  <titre>Crevettes marseillaises</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de crevettes entières cuites</p>
+    <p>1 boîte de tomates concassées</p>
+    <p>1 oignon</p>
+    <p>25 cl de vin blanc</p>
+    <p>1 bouchon de pastis de marseille</p>
+    <p>du basilic (frais ou surgelé)</p>
+    <p>huile d'olive</p>
+    <p>ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer finement l'oignon et l'ail.
+    Dans une cocotte, faire revenir l'oignon dans l'huile d'olive, ajouter la boîte de tomates, le vin blanc et le pastis. Faire mijoter à feu doux 10 minutes.
+    Pendant ce temps, retirer et jeter les têtes des crevettes.
+    Au bout des 10 minutes, mettre les crevettes dans la cocotte et ajouter l'ail et le basilic.
+    Laisser mijoter encore 5 à 10 minutes à feu doux.
+    Servir avec un riz basmati.
+     Un Cassis, bien sûr (rouge, rosé ou blanc, comme vous voulez)
+  ]]>
+  </preparation>
+</recette>

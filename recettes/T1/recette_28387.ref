@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28387">
+  <titre>Lasagne aux épinards et au jambon fumé.</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,8 kg d'épinards en branches à la crème, surgelés</p>
+    <p>500 ml de lait 1/2 écrémé</p>
+    <p>250 ml de crème fraîche allégée</p>
+    <p>450 g de jambon fumé</p>
+    <p>150 g de gruyère râpé</p>
+    <p>1 boîte de lasagnes pré-cuites, de 500 g</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dégeler les épinards, à la casserole, ou au micro-ondes. 
+    Ajouter le lait, et la crème. 
+    Saler et poivrer. 
+    Dans un grand plat allant au four, alterner épinards, jambon, lasagnes, jusqu'à épuisement des ingrédients. 
+    Terminer avec des épinards. 
+    Parsemer de gruyère. 
+    Mettre au four 20 à 30 mn à 200°C.
+    Les lasagnes doivent être bien "mouillées" à chaque étage pour bien cuire.
+  ]]>
+  </preparation>
+</recette>

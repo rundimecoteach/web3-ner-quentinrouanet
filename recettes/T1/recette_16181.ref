@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16181">
+  <titre>Cake au thon léger</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse boîte de thon (soit 400g) (plutôt du thon à l'huile, mais se fait très bien avec du thon au naturel)</p>
+    <p>3 œufs</p>
+    <p>1 tasse (240 ml) de lait écrémé</p>
+    <p>80 g de chapelure ou 8 biscottes écrasées</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émietter le thon dans un saladier. Ajouter les 3 œufs, la chapelure et mélanger.
+    Ajouter le lait et mélanger. Saler et poivrer selon votre goût. On peut aussi ajouter des herbes si on le désire.
+    Placer le tout dans un moule à cake non beurré et 
+    cuire au four à 175°C pendant 45 min.
+    A servir en entrée avec de la salade verte et une sauce fromage blanc et coulis de tomate par exemple (ou mayo ketchup). On peut aussi le servir en apéritif.
+  ]]>
+  </preparation>
+</recette>

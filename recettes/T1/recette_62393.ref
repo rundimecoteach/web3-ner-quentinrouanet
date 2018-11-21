@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62393">
+  <titre>Tourte normande d'Isabelle</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>200 g de compote de pommes</p>
+    <p>1 andouille de Vire</p>
+    <p>1 camembert bien fait</p>
+    <p>1 jaune d'oeuf pour dorer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat à tarte, étaler la première pâte feuilletée. 
+    Y étaler de la compote de pomme. Déposer de fines rondelles d'andouille après en avoir ôté la peau.
+    Couper le camembert en petits dés et les déposer sur le tout.
+    Fermer avec la deuxième pâte feuilletée en soudant bien les bords, et en prenant soin de découper un rond de pâte au centre.
+    Dorer à l'oeuf.
+    Faire cuire à four à 180°C (thermostat 6) pendant 20 à 25 minutes environ.
+  ]]>
+  </preparation>
+</recette>

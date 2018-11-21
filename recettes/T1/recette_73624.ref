@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73624">
+  <titre>Sorbet au vin blanc et romarin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 cl de vin blanc type Bourgogne aligoté</p>
+    <p>5 branches de romarin</p>
+    <p>200 g de sucre</p>
+    <p>60 cl d'eau</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir l'eau et le sucre. Ajouter le romarin et laisser cuire 5 min. Garder au frais pendant une nuit.
+    Filtrer la préparation, y ajouter le vin blanc et le jus d'un citron.
+    Faire prendre en sorbetière.
+    On peut faire le même sorbet avec du thym, ou en mélangeant thym et romarin. Bourgogne alligoté
+  ]]>
+  </preparation>
+</recette>

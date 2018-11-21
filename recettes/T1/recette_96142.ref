@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96142">
+  <titre>Parmentier navets-jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600g de navets (violets et jaunes)</p>
+    <p>600g de pomme de terre</p>
+    <p>6 tranches de jambon, ou un talon de jambon d'environ 400g</p>
+    <p>30 g de beurre</p>
+    <p>un peu de crème fraîche</p>
+    <p>10 cl de lait</p>
+    <p>100 g d'emmental râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et couper les légumes, et les faire cuire à la cocotte (12 min dès le chuchotement)ou comme vous avez l'habitude de le faire. 
+    Une fois les légumes cuits, préparer une purée avec les légumes, la crème, le beurre, le lait.
+    Prendre un plat allant au four, et mettre la moitié de la purée dans le fond. Hacher grossierement le jambon avec un couteau, ou faites des cubes, et disposer au dessus de la couche de purée. Mettre la deuxième moitié de la purée, et pour finir le fromage.
+    Laisser sous le grill du four environ 10-15 min.
+  ]]>
+  </preparation>
+</recette>

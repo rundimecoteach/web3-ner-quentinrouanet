@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20937">
+  <titre>Fricassée de choux de Bruxelles aux foies de volailles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de choux de Bruxelles</p>
+    <p>60 g de lard fumé</p>
+    <p>160 g de foies de volaille</p>
+    <p>30 g de beurre</p>
+    <p>1 gousse d'ail</p>
+    <p>huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez et ôtez les premières feuilles des choux de bruxelles. Faites-les cuire à la vapeur 10 min.
+    Détaillez le lard en lardons. Faites bouillir un grand volume d'eau, mettez-y les lardons 2 min pour les blanchir.
+    Dans une poêle, faites revenir les foies de volaille avec le beurre, les échalotes et la gousse d'ail hachées. Salez et poivrez. Réservez au chaud.
+    Faites revenir les lardons dans une sauteuse avec un peu d'huile. Ajoutez les choux de Bruxelles puis les foies de volaille. Remuez délicatement, laissez chauffer puis servez.
+  ]]>
+  </preparation>
+</recette>

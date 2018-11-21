@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34445">
+  <titre>Saucisses végétariennes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de haricots blancs</p>
+    <p>1/2 poivron rouge épépiné et coupé en petits dés</p>
+    <p>100 g de champignons émincés</p>
+    <p>1 petit oignon finement haché</p>
+    <p>100 g d'emmental râpé</p>
+    <p>100 g de chapelure</p>
+    <p>1 cuillère à café de fines herbes</p>
+    <p>1 oeuf</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faites chauffer l'huile d’olive dans une poêle. Y faire revenir l’oignon finement haché, le poivron coupé en petits dés et les champignons émincés pendant 5 mn à feu doux. 
+    2) Dans une jatte, écrasez les haricots avec un presse-purée. Incorporez-y le mélange oignon, poivron, champignons ainsi que la chapelure, le fromage râpé, les fines herbes et l’oeuf battu. 
+    Mélangez bien le tout. 
+    3) Une fois que vous avez obtenu une préparation bien homogène, tassez la préparation et séparez-là en 8 parts égales. Prenez une de ces parts et modelez-la en forme de saucisse. Faites de même avec le reste de la préparation. 
+    Ensuite, roulez ces saucisses dans de la farine pour bien les enrober, puis les laisser reposer au frigo durant 30 mn. 
+    4) Une fois les saucisses bien enrobées de farine et reposées au réfrigérateur, vous pouvez les cuire à la poêle comme des saucisses «normales».
+    A la cuisson, ces saucisses peuvent légèrement craqueler, soyez donc un peu plus vigilants à cette étape.
+  ]]>
+  </preparation>
+</recette>

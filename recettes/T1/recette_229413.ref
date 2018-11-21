@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229413">
+  <titre>Fenouil au saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 fenouil</p>
+    <p>2 tranches de saumon fumé (ou truite fumé)</p>
+    <p>1 citron</p>
+    <p>5 cuillères à soupe d'huile d'olives</p>
+    <p>aneth, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le fenouil en lamelles fines, ainsi que le saumon.
+    Mettre le tout dans un plat creux et arroser d'huile d'olive et d'un jus de citron. Poivrer et ajouter l'aneth (quantité selon votre goût).
+    Mettre une heure au réfrigérateur.
+    Servir bien frais.Tres simple et délicieux!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12428">
+  <titre>Salade de poulpes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulpe de 1 kg</p>
+    <p>2 c à s de capres</p>
+    <p>4 gousses d'ail finement hachées</p>
+    <p>4 c à s d'huile d'olive</p>
+    <p>3 c à s de jus de citron jaune</p>
+    <p>un 1/2 verre de vinaigre de vin</p>
+    <p>un 1/2 bouquet de persil</p>
+    <p>1 poivron vert</p>
+    <p>1 salade frisée</p>
+    <p>4 belles tomates</p>
+    <p>Poivre du moulin</p>
+    <p>sel</p>
+    <p>cumin</p>
+    <p>harissa</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer le poulpe en enlevant le bec, les yeux et les poches. couper les tomates et le poivrons en dés. couper la salade en petits morceaux.
+    Cuire le poulpe 15mn à la cocotte minute avec le 1/2 verre de vinaigre. S'il est congelé, il sera + tendre.
+    Le laisser refroidir dans la cocotte sans l'ouvrir.
+    Couper le poulpe en morceaux de 1 cm environ.
+    Mettre les morceaux dans le plats de service, ajouter l'ail haché, le persil, le jus de citron, l'huile d'olive, poivrer et saler.
+    Saupoudrer de cumin et ajouter l'harissa. Mélanger le tout.
+    Ajouter les tomates, le poivron et la salade frisée. Mélanger.
+    Mettre au frigidaire au moins 30mn avant de servir.
+    Ne pas employer de petits poulpes, il se désagrègent à la cuisson. Rosé de Provence glacé
+  ]]>
+  </preparation>
+</recette>

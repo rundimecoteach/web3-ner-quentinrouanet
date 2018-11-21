@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26273">
+  <titre>Saumon à la normande</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pavés de saumon</p>
+    <p>150 g de beurre</p>
+    <p>150 g d’échalotes</p>
+    <p>persil</p>
+    <p>15 cl de Calvados</p>
+    <p>4 pommes (de préférence la variété Canada) </p>
+    <p>4 poireaux</p>
+    <p>sel</p>
+    <p>poivre blanc</p>
+    <p>sucre en poudre</p>
+    <p>papier aluminium</p>
+    <p>Pour la sauce :</p>
+    <p>un pot de crème fraîche (50 cl) </p>
+    <p>deux pommes</p>
+    <p>1/4 l de cidre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Commencer par la sauce : 
+    Faire revenir les pommes coupées en petits dés dans une casserole avec du beurre. 
+    Flamber avec le Calvados. 
+    Ajouter le cidre puis laisser réduire. 
+    Ajouter la crème fraîche. 
+    Pour les papillotes : 
+    Couper les poireaux en julienne et les faire fondre à la poêle dans un peu de sucre. 
+    Couper les pommes en 4 quartiers puis en lamelles. 
+    Disposer sur chaque feuille aluminium préalablement beurrée, les pommes coupées en lamelles en les faisant se chevaucher. 
+    Déposer le pavé de saumon sur les pommes, puis sur le saumon un lit de julienne de poireaux, les échalotes hachées, le persil, arroser avec un peu de calvados. 
+    Saler, poivrer. 
+    Fermer les feuilles aluminium et mettre au four environ 1/2 heure.
+    Servir avec du riz sauvage. C'est un plat qui plait à tous les coups :-)  Chablis ou Sancerre
+  ]]>
+  </preparation>
+</recette>

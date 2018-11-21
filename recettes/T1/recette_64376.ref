@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64376">
+  <titre>Betteraves à la polonaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 ou 3 belles betteraves rouges crues</p>
+    <p>2 beaux oignons</p>
+    <p>pommes de terre ou pommes</p>
+    <p>une cuillère à soupe de vinaigre de vin </p>
+    <p>huile, sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper grossièrement les betteraves crues.
+    Mettre un peu d'huile dans une cocotte en fonte et faire blondir les oignons émincés.
+    Ajouter les betteraves, le vinaigre, saler, poivrer.
+    Eplucher les pommes de terre (ou les pommes épépinées) et les "nicher" dans les betteraves.
+    Couvrir et cuire une heure et demi à feu doux ou encore mieux au four chaud.
+    Plat très agréable les soirs d'hiver.
+    Choisir un bon vinaigre de vin, "maison" si possible.
+  ]]>
+  </preparation>
+</recette>

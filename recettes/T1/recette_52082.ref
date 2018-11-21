@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52082">
+  <titre>Tarte aux pommes, cannelle, amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>8 pommes</p>
+    <p>3 cuillères à soupe d'amandes en poudre</p>
+    <p>2 cuillères à café de cannelle</p>
+    <p>2 cuillères à café de confiture d'abricot sans morceaux</p>
+    <p>sucre en poudre</p>
+    <p>du beure pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Eplucher 5 pommes et les cuire à la vapeur jusqu'a ce qu'elles soient bien tendre.
+    Mixer les pommes avec la moitié des amandes et la moitié de la cannelle, pour en faire une compote.
+    Etaler la pâte dans un moule à tarte beuré, couper la pâte qui dépasse et piquer la pâte avec une fourchette.
+    Etaler le reste des amandes et de la cannelle dans le fond du moule.
+    Y ajouter la compote de pomme, par petit paquet pour garder la couche d'amandes en dessous.
+    Eplucher et trancher les pommes restantes en fines lamelles.
+    Les disposer dans le moule en forme de rose.
+    Soupoudrer de sucre.
+    Cuire au four à 220° jusqu'à ce que la pâte soit dorée et les pommes tendres.
+    Avant la fin de la cuisson, faire chauffer la confiture pour la rendre liquide.
+    Dès la sortie du four badigeonner la tarte de confiture d'abricot.
+  ]]>
+  </preparation>
+</recette>

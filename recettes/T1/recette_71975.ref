@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71975">
+  <titre>Petits gâteaux chocolat pignons</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>2 oeufs</p>
+    <p>200 g de sucre</p>
+    <p>60 g de beurre</p>
+    <p>1 yaourt nature</p>
+    <p>1 sachet de levure chimique</p>
+    <p>200 g de pignons</p>
+    <p>100 g de chocolat noir de préférence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs avec la sucre. Ajouter ensuite le beurre, le yaourt, et la farine mélangée avec la levure chimique.
+    Casser le chocolat en petits morceaux, et les ajouter à la préparation. Ajouter les pignons.
+    Répartir la préparation dans 5 petits moules à tarte individuels.
+    Laisser cuire 10 à 15 min à 200°C (thermostat 6-7).
+    Les petits gâteaux doivent être dorés.
+    Vous pouvez ajouter des graines de pavot par dessus, ou encore  saupoudrez de sucre glace.
+    Vous pouvez également mettre des framboises à la place du chocolat.
+  ]]>
+  </preparation>
+</recette>

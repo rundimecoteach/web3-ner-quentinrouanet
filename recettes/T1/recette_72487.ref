@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72487">
+  <titre>Croque choco banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bananes mûres</p>
+    <p>150 g de chocolat lait, noir ou praliné</p>
+    <p>8 tranches de pain de mie (ou brioche)</p>
+    <p>30 g de beurre + pour la poêle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Ecrasez les bananes à la fourchette.
+    Beurrez les 8 tranches de pain de mie. Recouvrez de bananes écrasées 4 d'entres elles (côté beurré en dessous). 
+    Disposez 5 morceaux de chocolat sur les bananes.
+    Recouvrez-les des 4 tranches de pain restantes, la face beurrée sur le dessus.
+    Mettez une noix de beurre dans une poêle, et faites dorer les croques 3 à 4 min de chaque côté.
+    Idéal pour le goûter. A faire avec tous types de fruits. jus de fruits
+  ]]>
+  </preparation>
+</recette>

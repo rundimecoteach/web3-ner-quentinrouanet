@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69584">
+  <titre>Gratin de courgettes des gourmands</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes </p>
+    <p>2 oignons </p>
+    <p>200 g de lardons fumés </p>
+    <p>20 cl de crème semi épaisse </p>
+    <p>du gruyère râpé</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper en fines rondelles les oignons, réserver.
+    Eplucher et laver les courgettes les couper en fines tranches.
+    Dans un plat à gratin, commencer par mettre les oignons, ensuite une couche de courgettes,les lardons et la dernière couche de courgettes, poivrer.
+    Arroser de crème battue au fouet.
+    Parsemer de gruyère et enfourner.
+    Four chaud à 180°C (thermostat 6) pendant 45 minutes.
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

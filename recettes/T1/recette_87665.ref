@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87665">
+  <titre>Quiche potiron roquefort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 kg de potiron</p>
+    <p>500 ml de lait</p>
+    <p>500 ml d'eau</p>
+    <p>200 g de roquefort</p>
+    <p>1 cuillère à café de noix de muscade râpée</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (th.7).
+    Eplucher le potiron. Le couper en morceaux réguliers, idéalement en cubes de 1 à 1,5 cm de large.
+    Le faire cuire à feu moyen pendant 20 minutes dans le mélange lait/eau, assaisonné de noix de muscade rapée. Les morceaux doivent être cuits mais encore un peu fermes.
+    Bien égoutter.
+    Dérouler la pate feuilletée dans un plat à tarte. Déposer au fond les morceaux de potiron cuits et émietter le roquefort au-dessus. Parsemer de poivre moulu.
+    Placer la tarte dans le four chaud et laisser cuire 25 minutes à 180°C (th.6), puis 5 minutes sur position grill.
+    Délicieux avec une salade verte aux noix...
+  ]]>
+  </preparation>
+</recette>

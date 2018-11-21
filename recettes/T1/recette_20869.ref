@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20869">
+  <titre>FILETS DE LOTTE A L'AMERICAINE</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de filets de lotte</p>
+    <p>10 cl de vin blanc</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>2 échalotes</p>
+    <p>200 g de sauce crustacés surgelée ou une 1/2 boîte de bisque de homard</p>
+    <p>Cognac</p>
+    <p>sel et poivre de Cayenne</p>
+    <p>1 cuillère à soupe d'estragon haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les filets de lotte en morceaux. Hacher finement l'échalote. 
+    Dans la cocotte, mettre l'huile et faire revenir les morceaux de lotte. Ajouter l'échalote. Laisser suer, et flamber avec le Cognac, verser le vin blanc. 
+    Mettre le concentré de tomate et la sauce crustacé ou la bisque de homard, assaisonner. Fermer l'autocuiseur. 
+    Laisser cuire 4 mn. 
+    Présenter la lotte avec la sauce, parsemée d'estragon haché. 
+    Servir bien chaud
+    Accompagnez ce plat d'un riz pilaf
+  ]]>
+  </preparation>
+</recette>

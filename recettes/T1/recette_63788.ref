@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63788">
+  <titre>Lapin à la liégeoise avec du sirop de Liège</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin en morceaux</p>
+    <p>2 gros oignons doux</p>
+    <p>beurre</p>
+    <p>de la farine</p>
+    <p>2 grosses poignées de raisins secs</p>
+    <p>3 cuillères à soupe de sirop de Liège</p>
+    <p>1 cuillère à soupe de vinaigre blanc</p>
+    <p>sel, poivre, feuille de laurier, branche de thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une sauteuse, faire revenir les morceaux de lapin farinés, salés et poivrés avec le beurre. Pendant ce temps, faire blondir sans colorer les oignons émincés avec une noix de beurre dans une grande poêle ou sauteuse (un ustensile à grosse capacité). Quand ils sont cuits, les fariner et laisser cuire quelques minutes en mélangeant.
+    Ajouter le lapin et recouvrir la viande d'eau bouillante.
+    Dissoudre le sirop dans l'eau, ajouter le vinaigre ainsi que le laurier et le thym. Laisser cuire à très petit feu.
+    Après 1 h ajouter les raisins.
+    Juste avant de servir, vérifier la consistance de la sauce, si elle est trop liquide, y ajouter une cuillère à soupe de liant type Maïzena.
+    Accompagné avec frites ou purée de pomme de terre et compote de poires. Une bonne bière brune (Leffe, Ciney) ou un vin rouge pas trop fort.
+  ]]>
+  </preparation>
+</recette>

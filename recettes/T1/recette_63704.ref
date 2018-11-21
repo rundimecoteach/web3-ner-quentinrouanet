@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63704">
+  <titre>Gratin de saumon, légumes et ananas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 morceaux de saumon frais ou surgelé</p>
+    <p>5 carottes</p>
+    <p>1 grosse courgette ou 2 moyennes</p>
+    <p>1 boite de 500 g d'ananas au jus</p>
+    <p>50 cl de sauce béchamel en brique</p>
+    <p>75 g gruyere rapé</p>
+    <p>sel, poivre</p>
+    <p>paprika</p>
+    <p>1 cuillère à soupe de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le saumon au micro-ondes ou au court-bouillon 10 min.
+    Dans une grande casserole d'eau bouillante, cuire les carottes coupées en petits cubes d'un centimètre de côté environ pendant 20 min.
+    Cuire les courgettes coupées en rondelles 7 min de la même manière.
+    Faire sauter les morceaux d'ananas dans une poêle à sec pour les griller légèrement.
+    Dans un plat à four légèrement beurré, mettre le saumon mélangé aux carottes dans le fond, saler, poivrer.
+    Couvrir avec une couche de courgettes en rondelles, saler, poivrer.
+    Ajouter l'ananas et enfin recouvrir de béchamel et de gruyère râpé.
+    Faire gratiner 20 min au foru à 200°C (thermostat 6-7).
+    Pour les plus courageuses : béchamel maison, c'est meilleur ! Riesling
+  ]]>
+  </preparation>
+</recette>

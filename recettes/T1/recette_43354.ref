@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43354">
+  <titre>Cake marbré caramélisé aux deux chocolats</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de chocolat très noir</p>
+    <p>100 g de chocolat blanc</p>
+    <p>50 g de pépites de caramel</p>
+    <p>3 oeufs</p>
+    <p>80 g de beurre salé</p>
+    <p>50 g de sucre roux</p>
+    <p>80 g de farine à gâteaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, les oeufs, le sucre. 
+    Faire fondre séparément le chocolat noir avec la moitié du beurre, et le chocolat blanc avec l'autre moitié.
+    Séparer la pâte en 2 moitiés. Ajouter le chocolat blanc dans l'une et le chocolat noir dans l'autre.
+    Dans un moule à cake, verser une première couche de pâte noire, saupoudrer de pépites de caramel, verser une couche de pâte blanche, resaupoudrer de pépites de caramel, et recommencer jusqu'à épuisement.
+    Mettre au four une demi-heure à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

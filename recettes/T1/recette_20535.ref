@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20535">
+  <titre>Lapin aux poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin de 1,5 kg</p>
+    <p>4 beaux poireaux</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le lapin coupé en morceaux dans un peu d'huile et de beurre (ou margarine). 
+    Une fois les morceaux dorés, saupoudrer de farine. 
+    Ajouter le verre de vin blanc puis les blancs de poireaux coupés en morceaux (ils doivent être secs). 
+    Saler, poivrer. 
+    Laisser cuire à feu moyen pendant 1h15 à une 1h30. S'il le faut, ajouter de l'eau pendant la cuisson. 
+    5 mn avant de servir, ajouter la crème fraîche mélangée à la moutarde. 
+    C'est prêt !!!!!
+     Vin blanc sec de pays
+  ]]>
+  </preparation>
+</recette>

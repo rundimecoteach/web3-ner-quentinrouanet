@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82392">
+  <titre>Soupe de courgettes aux tomates confites</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de courgettes</p>
+    <p>20 g de tomates confites</p>
+    <p>20 cl de jus de tomate</p>
+    <p>1 petit oignon </p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>50 cl de bouillon fait avec 2 cubes</p>
+    <p>10 cl de crème</p>
+    <p>100 g de fromages ail et fines herbes</p>
+    <p>quelques feuilles de basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'ail et l'oignon.
+    Ajouter les courgettes en cubes et les tomates séchées. 
+    Cuire 5 minutes puis ajouter le bouillon et le jus de tomate.
+    Cuire pendant 15 minutes.
+    Mixer.
+     
+    Au moment de servir, ajouter la crème, le fromage ail et fines herbes et le basilic coupé.
+    Saler et poivrer à votre convenance.
+  ]]>
+  </preparation>
+</recette>

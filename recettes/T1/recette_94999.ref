@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94999">
+  <titre>Crumble à l'ananas et cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 ananas frais (ou 1 grande boite d'ananas)</p>
+    <p>-150g de farine </p>
+    <p>100g + 15g de beurre</p>
+    <p>-75g + 20g de sucre</p>
+    <p>-cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    *Découper l'ananas en tranches ou en morceaux.*Le faire revenir dans une casserole avec 15g de beurre et 20g de sucre.*Saupoudrez de cannelle selon votre convenance.*Pendant ce temps dans un saladier mélanger la farine,le sucre et la cannelle.*Ajouter le beurre ramolli et émietter.*Au fond d'un plat disposer l'ananas et saupoudrez de la préparation.*Faire cuire 30 min a 200°C.Déguster tiède avec une boule de glace vanille ou mangueVous pouvez décliner avec de la pomme et/ou remplacer la cannelle par de la poudre d'amande ou de la noix de coco râpée!
+  ]]>
+  </preparation>
+</recette>

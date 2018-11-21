@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170884">
+  <titre>Moelleux au citron confit</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 g de beurre</p>
+    <p>1 citron non traité</p>
+    <p>2 oeufs</p>
+    <p>75 g de sucre</p>
+    <p>120 g de farine</p>
+    <p>1/2 sachet, soit 5 g de baking powder (levure chimique)</p>
+    <p>25 g de miel</p>
+    <p>90 g d'huile d'olive</p>
+    <p>50 g de bâtonnets de citrons confits sucrés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°, thermostat 6.Faites fondre le beurre afin qu'il prenne une belle couleur noisette et laissez-le tiédir.
+    Rincez le citron, pressez-en le jus et râpez-en le zeste.
+    Fouettez les oeufs avec le sucre et ajoutez la farine et la baking powder. Une fois que l'appareil est homogène, ajoutez le miel, le beurre noisette, l'huile d'olive, le jus et les zestes de citrons confits.
+    Versez l'appareil dans une moule et faites cuire pendant 15 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35588">
+  <titre>Tartine charentaise de haricots blancs (dites mogettes)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de conserve ou en bocaux de haricots blancs précuits et préparés au préalable</p>
+    <p>1 feuille de laurier (facultatif) </p>
+    <p>1 gousse d'ail par personne</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>beurre salé</p>
+    <p>huile de noix</p>
+    <p>tranches de pain campagnard (2 à 3 tranches de pain par personnes selon l'appétit)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer des haricots blancs en conserve ou en bocaux (préparés et précuits au préalable) dans une casserole y ajouter une feuille de laurier. Préparer des tranches de pain campagnard et les dorer au four ou grille-pain. Ensuite chacun frotte la gousse d'ail sur la surface de la tranche de pain puis la beurre légèrement. Servir les haricots blancs chauds dans les assiettes. 
+    Chacun émiette les haricots dans son assiette, sale et poivre, puis ajoute un filet d'huile de noix. Étaler cette mixture sur la tranche de pain puis régalez vous !Un plat charentais très convivial.
+  ]]>
+  </preparation>
+</recette>

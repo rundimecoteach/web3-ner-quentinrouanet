@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22084">
+  <titre>Chou-fleur à la crème et aux croûtons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gros chou-fleur</p>
+    <p>Pour la sauce :</p>
+    <p>50 g de beurre</p>
+    <p>100 g de crème fraîche</p>
+    <p>2 jaunes d’œufs</p>
+    <p>1 pincée de noix de muscade râpée</p>
+    <p>sel, poivre</p>
+    <p>Pour la décoration :</p>
+    <p>3 tranches de pain</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer le chou-fleur, inciser en croix sa base et le mettre à cuire entier dans l’eau bouillante salée pendant environ 20 minutes.
+    Dans une casserole, faire fondre doucement le beurre avec la crème puis incorporer ensuite les jaunes d’œufs, du sel et du poivre.
+    Saupoudrer de noix de muscade et laisser la sauce épaissir à feu doux.
+    Détailler le pain en dés et les faire dorer dans le beurre.
+    Dresser le chou-fleur sur un plat de service, le napper de sauce et saupoudrer de croûtons.
+  ]]>
+  </preparation>
+</recette>

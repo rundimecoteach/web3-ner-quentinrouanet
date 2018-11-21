@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10938">
+  <titre>Coquilettes au surimi</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gousse d'ail</p>
+    <p>12 bâtonnets de surimi</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>500 g de coquillettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cuillère à soupe d'huile d'olive faire revenir une gousse d'ail coupée en petits morceaux.
+    Une fois l'ail blondi, ajouter les bâtonnets de surimi coupés en petites tranches, les faire revenir quelques secondes puis ajouter le pot de crème fraîche.
+    Laisser chauffer quelques secondes et verser la préparation sur les coquillettes, déguster. 
+  ]]>
+  </preparation>
+</recette>

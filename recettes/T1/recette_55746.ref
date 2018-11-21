@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55746">
+  <titre>Fricassée  de veau à la crème de cidre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de veau (épaule)</p>
+    <p>4 échalotes</p>
+    <p>100 g de beurre</p>
+    <p>1/2 verre d'huile</p>
+    <p>1/2 bouteille de cidre</p>
+    <p>1 verre à liqueur de Calvados</p>
+    <p>200 g de crème épaisse</p>
+    <p>2 pommes</p>
+    <p>200 g de haricots verts</p>
+    <p>400 g de champignons</p>
+    <p>4 tranches fines de poitrine fumée</p>
+    <p>100 g de lardons fumés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le veau en morceaux.
+    Faites-les revenir dans l'huile et le beurre.
+    Laissez bien colorer sur toutes les faces.
+    Ajoutez les échalotes finement coupées et flambez le tout au calvados.
+    Mouillez les morceaux de veau avec le cidre et laissez mijoter à couvert pendant 45 minutes.
+    Cuisez les haricots verts dans de l'eau bouillante et refroidissez-les à l'eau froide.
+    Faites sauter les champignons émincés dans une poêle avec du beurre.
+    Coupez les pommes en quartiers et cuisez-les dans une poêle avec du beurre.
+    Faire des bouquets de haricots verts avec les tranches de poitrine fumée.
+    Retirez les morceaux de veau quand ils sont cuits.
+    Ajoutez la crème à la sauce et laissez-la réduire jusqu'à épaississement.
+    Ajoutez les lardons fumés sautés et les champignons.
+    Dressez sur une assiette : la fricassée au centre puis les garnitures autour.
+  ]]>
+  </preparation>
+</recette>

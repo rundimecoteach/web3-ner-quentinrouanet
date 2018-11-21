@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13767">
+  <titre>Cake à la purée de marrons</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>100 g + 50 g de sucre</p>
+    <p>250 g de purée de marrons</p>
+    <p>50 g de sucre</p>
+    <p>125 g de noisettes moulues</p>
+    <p>1/2 sachet de poudre à lever chimique (environ 8 g)</p>
+    <p>1 sachet de glaçage au chocolat (peu être remplacé par 150 g de chocolat à fondre clair ou fonçé)</p>
+    <p>quelques marrons glacés ou noisettes pour la décoration</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. Beurrer un moule à cake.
+    Battre environ 3 à 4 minutes les jaunes d'oeufs, 100 g de sucre, la purée de marrons ainsi que 2 cuillères à soupe d'eau bouillante, jusqu'à obtention d'une crème épaisse et lisse.
+    Battre les blancs d'oeufs en neige. Puis, par petites cuillerées, introduire 50 g de sucre tout en continuant à battre jusqu'à obtention d'une masse blanche et brillante.
+    Incorporer les noisettes moulues et la poudre à lever. Introduire couche par couche la purée de marrons et la masse aux blancs d'oeufs en mélangeant avec précautions.
+    Cuire au four à 180°C pendant 30 mn puis réduire la température du four à 160°C et poursuivre la cuisson durant encore environ 30 mn.
+    Contrôler la cuisson au moyen d'une baguette de bois. Sortir le cake du four et le laisser refroidir dans son moule durant 10 mn. Séparer le cake de la paroi du moule et le placer sur une grille.
+    Après refroidissement complet, tartiner avec le glaçage au chocolat selon les instructions figurant sur le sachet ou avec le chocolat fondu.
+    Décorer avec quelques marrons glaçés ou des noisettes entières.
+    Idéal pour les personnes atteintes de maladie coéliaque car ne contiennent pas de farine ni de gluten.
+  ]]>
+  </preparation>
+</recette>

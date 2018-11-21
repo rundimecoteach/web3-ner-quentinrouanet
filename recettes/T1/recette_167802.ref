@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167802">
+  <titre>Poisson sauce aigre-douce-piquante minute</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>-400g de filet de poisson surgelé, choisir un poisson un peu ferme comme le panga</p>
+    <p>5 c à soupe de sauce soja</p>
+    <p>3 c à soupe de vinaigre balsamique</p>
+    <p>_ 5 grosses cuillères à soupe de sauce piquante sucrée genre "sweat chili sauce" ou 1 c à soupe de sauce pimentée + 4morceaux de sucre</p>
+    <p>_ 5 c à soupe d'eau</p>
+    <p>_ 2 brins de persil ou de coriandre hachés</p>
+    <p>_ 1 c à soupe de maïzena</p>
+    <p>_ sel  (très peu, la sauce de soja est salée), poivre</p>
+    <p>_ gingembre frais (1 à 2 cm) râpé ou en poudre (1 cc)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    faire décongeler le poisson 2 minutes au micro-ondes, il doit encore être très ferme pour pouvoir le découper facilement
+    découper le poisson en lamelles de 2cm environmélanger tous les autres ingrédients
+    goûter et rectifier (les quantités données sont approximatives, chacun les adaptera à son goût : pas assez salé :+ de sauce soja; pas assez aigre : plus de vinaigre balsamique, pas assez sucré, pas assez piquant ...)mélanger avec le poisson, disposer dans un plat allant au micro-ondes, couvrir et cuire 10 minutes à puissance maximaleOn peut faire de même avec des blancs de poulet détaillés en lamelles mais alors il faut les cuire 5 minutes au grill. Servir avec du riz ou des nouilles chinoises
+  ]]>
+  </preparation>
+</recette>

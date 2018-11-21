@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83112">
+  <titre>Roulés de jambon aux oeufs brouillés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>6 tranches de jambon </p>
+    <p>5 cuillères à soupe de crème fraîche épaisse</p>
+    <p>muscade en poudre</p>
+    <p>sel et poivre</p>
+    <p>1 noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez une casserole. 
+    Cassez un à un les oeufs au-dessus de la casserole et incorporez-les délicatement.
+    Ajoutez la crème.
+    Brouillez les oeufs et la crème avec le fouet. 
+    Portez à feu doux ; remuez jusqu'à ce que la masse devienne crémeuse.
+    Posez une tranche de jambon sur chaque assiette.
+    Farcissez avec les oeufs brouillés.
+    Salez, poivrez, saupoudrez de muscade.
+    Refermez le jambon en le roulant. 
+    Ne laissez pas refroidir, servez aussitôt.
+    Vous pouvez ajoutez quelques champigon de paris avec c'est délicieux.
+    Accompagné de tranches de pain de campagne grillées.
+  ]]>
+  </preparation>
+</recette>

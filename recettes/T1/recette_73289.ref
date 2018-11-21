@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73289">
+  <titre>Salade de fenouil méditérranéenne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 bulbes de fenouil</p>
+    <p>1 petite boîte d'anchois</p>
+    <p>un peu d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper finement les bulbes de fenouil.
+    Couper en petits morceaux les filets d'anchois et les mélanger au fenouil.
+    Arroser d'huile d'olive, saler et poivrer à votre convenance.
+    A déguster bien frais! Rosé
+  ]]>
+  </preparation>
+</recette>

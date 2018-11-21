@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="2103">
+  <titre>Carré Frais aux fruits secs sur un lit de mangues</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>fruits secs concassés (noix, amandes, noisettes,...) </p>
+    <p>4 tranches de pain grillées</p>
+    <p>4 cuillères à soupe de graines de sésame</p>
+    <p>piment d'Espelette en poudre</p>
+    <p>4 Carrés Frais</p>
+    <p>sel marin</p>
+    <p>mangues et/ou ananas confits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Toaster 4 tranches de pains.
+    Faire griller le sésame 3 min dans une poêle, à sec.
+    Concasser grossièrement un mélange de fruits secs.
+    Tartiner les toasts de Carré Frais. 
+    Parsemer de fruits secs concassés grossièrement. 
+    Recouvrir de graines de sésame grillées, et assaisonner de piment d'Espelette (ou paprika), et de sel marin.
+    Présenter sur l'assiette, avec des tranches de mangues (et/ou d'ananas) confites.
+  ]]>
+  </preparation>
+</recette>

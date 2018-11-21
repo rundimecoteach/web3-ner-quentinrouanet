@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24038">
+  <titre>Pennes alla vodka</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pennes</p>
+    <p>50 g de beurre</p>
+    <p>50 g de parmesan</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>1 piment rouge frais</p>
+    <p>4 cuillères à soupe de vodka</p>
+    <p>2 cuillères à soupe de concentré de tomates</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle faire fondre le beurre, ajouter le piment et le concentré de tomate, faire transpirer. Augmenter le feu pour que ça bouillonne. Saler et ajouter la crème et vos pâtes cuites. Ajouter la vodka et ne pas cesser de remuer.... Au dernier moment rajouter le parmesan. Laisser sur le feu encore 2 mn et servir à table.Une recette inédite comme au resto !
+  ]]>
+  </preparation>
+</recette>

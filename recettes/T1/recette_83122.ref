@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83122">
+  <titre>Tarte aux amandes et aux pignons de pin</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée prête à dérouler</p>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre semoule</p>
+    <p>100 g de poudre d'amandes</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de gelée de groseille (ou de pomme)</p>
+    <p>100 g de pignons de pin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Mettre la pâte déroulée dans le moule.
+    Etaler la gelée de groseille sur le fond de pâte.
+    Mélanger le beurre ramolli, le sucre, la poudre d'amandes et les oeufs battus.
+    Etaler la préparation sur le fond de gelée de groseille.
+    Parsemer la tarte de pignons de pin.
+    Mettre au four à 200°C (thermostat 6-7) pendant 35 minutes.
+    Déguster froid ou tiède...un régal !!!
+  ]]>
+  </preparation>
+</recette>

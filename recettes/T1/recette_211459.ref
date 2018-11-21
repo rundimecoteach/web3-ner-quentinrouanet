@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211459">
+  <titre>Quiche aux légumes du soleil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 kg de courgettes</p>
+    <p>2 tomates</p>
+    <p>1 poivron vert</p>
+    <p>1/2 poivron rouge</p>
+    <p>1 oignon</p>
+    <p>6 gousses d'ail</p>
+    <p>2 œufs</p>
+    <p>20 cl de crème soja</p>
+    <p>1 bouquet garni</p>
+    <p>200 g d'allumettes de lardons fumés</p>
+    <p>poivre</p>
+    <p>40 g de parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher et couper en cube les courgettes.
+    Couper en cube les tomates et les poivrons puis 
+    émincer l'oignon et l'ail.
+    Faire revenir durant 15 min dans un wok (ou une grande poêle) tous les ingrédients.
+    Ajouter le poivre et le bouquet garni. Faire revenir les lardons à côté et une fois bien dorés, les ajouter aux légumes. Préchauffez le four à 180°C (thermostat 6).Mélanger les œufs et la crème puis incorporer les légumes et bien mélanger à nouveau.
+    Mettre la pâte dans un moule à tarte et piquer le fond de la pâte avec une fourchette.
+    Ajouter le mélange, saupoudrer de parmesan et enfourner 30 min.
+    Se mange chaude ou froide accompagnée d'une salade verte.
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

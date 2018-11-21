@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24934">
+  <titre>Salade du pays de Caux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre (type ratte) </p>
+    <p>vinaigre de cidre</p>
+    <p>2 blancs de céleri en branches</p>
+    <p>1 citron (le jus)</p>
+    <p>20 cl de crème fleurette</p>
+    <p>100 g de jambon maigre</p>
+    <p>2 cuillères à soupe d'herbes mélangées (persil plat, cerfeuil, estragon, ciboulette...)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre avec la peau. 
+    Egouttez-les, épluchez-les encore chaudes et coupez-les en bâtonnets. Mettez-les dans un saladier et aspergez-les d'un peu de vinaigre de cidre. Lavez le céleri, retirez les fibres et taillez-les en julienne. Mélangez les pommes de terre et le céleri. Arrosez de jus de citron, salez et poivrez, mélangez bien. Coupez le jambon en julienne. Lavez et hachez les fines herbes. Fouettez dans un bol la crème fleurette et incorporez-la alors aux pommes de terre et céleri pour bien lier l'ensemble. Disposez la salade sur un plat de service. Saupoudrez-la de la julienne de jambon maigre et des fines herbes au moment de servir.
+  ]]>
+  </preparation>
+</recette>

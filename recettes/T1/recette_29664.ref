@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29664">
+  <titre>Cari de mérou créole</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 mérou rouges</p>
+    <p>6 tomates</p>
+    <p>2 oignons</p>
+    <p>5 gousses d'ail</p>
+    <p>1 morceau de gingembre</p>
+    <p>1 piment</p>
+    <p>1 combava (ou citron vert)</p>
+    <p>1/2 cuillère à café de curcuma</p>
+    <p>thym</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher les tomates, émincer les oignons.
+    Piler ensemble l'ail, le zeste de citron vert, le gingembre, le piment et du sel.
+    Couper les poissons en morceaux. 
+    Faire chauffer de l'huile dans une cocotte, y faire dorer les oignons.
+    Rajouter l'ail pilé avec les autres ingrédients et le thym, remuer et ajouter le curcuma et les tomates.
+    Laisser mijoter 10 min. 
+    Verser un verre d'eau, remuer et mettre les poissons dans la cocotte.
+    Couvrir et laisser cuire 10-15 min.
+    Servir le cari parsemé d'oignon verts émincés.
+    Le curcuma peut être remplacé par du safran, et les poissons peuvent être laissés entiers pour la cuisson.
+    On peut d'ailleur prendre d'autres poissons selon le marché !
+  ]]>
+  </preparation>
+</recette>

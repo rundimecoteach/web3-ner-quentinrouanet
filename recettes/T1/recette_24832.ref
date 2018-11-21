@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24832">
+  <titre>Thon mijoté aux champignons et oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 tranche de thon de 600 g</p>
+    <p>4 oignons</p>
+    <p>250 g de champignons</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>1 bouquet garni</p>
+    <p>huile ou beurre</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons. Lavez et émincer les champignons.
+    Faire suer les oignons dans une cocotte avec un bon morceau de beurre. Une fois qu'ils sont tendres, les retirer et réserver.
+    Faire revenir le thon dans la cocotte des deux côtés, saler et poivrer. Remettre les oignons, saupoudrer de farine et ajouter le vin blanc sec.
+    Ajoutez le bouquet garni, couvrez et laissez mijoter 30 min.
+    Ajoutez les champignons, découvrez et laissez cuire encore 15 minutes.
+    Servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

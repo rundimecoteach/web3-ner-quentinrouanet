@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18088">
+  <titre>Tortillons</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>13 cuillères à soupe de lait</p>
+    <p>13 cuillères à soupe de sucre</p>
+    <p>9 cuillères à soupe d'huile </p>
+    <p>2 oeufs</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 kg de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 parfum au choix (anis, rhum, citron...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four. 
+    Mélanger tous les ingrédients sauf la farine. 
+    Une fois le mélange homogène (vous pouvez d'ailleurs mélanger au mixeur) ajouter la farine et le sachet de levure petit à petit en quantité suffisante pour obtenir une pâte dure, genre pâte à tarte qui ne colle pas aux mains. Pétrir à la main. 
+    Former des tortillons. 
+    Faire cuire au four thermostat 6/7 et surveiller la cuisson. 
+    Faire plusieurs fournées.
+    Ces tortillons ne sont excellents pour le dessert mais se mangeront très bien au goûter ou au petit déjeuner.
+    Vous pouvez également confectionner un coulis de fruit et l'introduire à la pâte avant d'y joindre la farine.
+  ]]>
+  </preparation>
+</recette>

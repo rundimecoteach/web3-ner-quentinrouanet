@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42959">
+  <titre>Gâteau aux noisettes et pralin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g de noisettes en poudre</p>
+    <p>100 g de pralin</p>
+    <p>200 g de sucre</p>
+    <p>125 g de beurre fondu</p>
+    <p>5 oeufs entiers</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients.
+    Le tout dans un plat et au four à 220°C (thermostat 7-8) pendant 20-25 min.
+    Bon app'!
+    Il est possible de rajouter du chocolat fondu sur le gâteau une fois qu'il est cuit.
+    On peut aussi remplacer les noisettes ou le pralin par des amandes.
+  ]]>
+  </preparation>
+</recette>

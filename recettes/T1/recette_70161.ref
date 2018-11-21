@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70161">
+  <titre>Pennes epinards gorgonzola</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pâtes type penne</p>
+    <p>250 g d'épinards en branches (les surgelés font très bien l'affaire)</p>
+    <p>100 g de gorgonzola (ou + selon les goûts)</p>
+    <p>20 cl de crème fraîche semi-épaisse</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les épinards dans de l'eau salée. Une fois cuits, les laisser refroidir et bien égoutter. 
+    Préparer la sauce en faisant fondre le fromage dans la crème à feu doux.
+    Faire cuire les pâtes, et pendant leur cuisson, ajouter les épinards à la crème de gorgonzola. Une fois les pâtes cuites (bien respecter le temps de cuisson), verser les épinards crémeux dans les pâtes.
+    Remuer, saler, poivrer et servir.
+    Si vous voulez proposer un plat complet, vous pouvez rajouter des blancs de poulet coupés en dés (que vous aurez cuits à part) dans la crème d'épinards, ou alors des allumettes de jambon. Pensez alors à allonger votre sauce avec un peu plus de crème fraîche. On peut également ajouter des cerneaux de noix en plus.
+  ]]>
+  </preparation>
+</recette>

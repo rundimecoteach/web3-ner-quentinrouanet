@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58307">
+  <titre>Brochettes de dinde au herbes et au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 blancs de dinde ou de poulet</p>
+    <p>1 petite courgette</p>
+    <p>un oignon</p>
+    <p>8 tomates cerises</p>
+    <p>un citron</p>
+    <p>herbes de provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les blancs de dinde en petits morceaux, éplucher l'oignon, émincer la courgette et laver les tomates cerises.
+    Ensuite enfiler le tout en alternant sur des pics à brochettes.
+    Passer un filet de citron fraîchement pressé sur chacune des brochettes et y ajouter les herbes de provences.
+    Faire cuire au grill environ 15 min selon le grill.
+    Déguster !
+    A consommer avec des petits légumes ou du riz.
+  ]]>
+  </preparation>
+</recette>

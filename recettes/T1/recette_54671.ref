@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54671">
+  <titre>Galette beurrée des Rois façon Dunkerquoise</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>150 g de sucre</p>
+    <p>3 oeufs entiers</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>1 sachet de levure chimique</p>
+    <p>150 g de Farine</p>
+    <p>Pour la crème :</p>
+    <p>120 g de sucre glace</p>
+    <p>125 g de margarine</p>
+    <p>1 oeuf entier</p>
+    <p>2 cuillères à soupe de rhum ambré (plus ou moins selon le goût souhaité)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).Pâte: Mélanger le sucre et les jaunes d'oeufs afin de former un mélange mousseux.
+    Ajouter le lait, la farine et la levure.
+    Enfin ajouter les blancs d'oeufs battus en neige afin d'obtenir un gâteau moelleux.
+    Verser dans un moule beurré et fariné et cuire au four 15 à 20 minutes.Démouler laisser refroidir.
+    Crème :Mélanger le sucre glace avec l'oeuf entier pour obtenir un mélange mousseux, puis la margarine (non fondue, juste à température ambiante), le rhum et fouetter le tout au batteur de préférence afin d'obtenir une crème légère.
+    Couper le gâteau refroidi en deux dans le sens de l'épaisseur.
+    Etaler la crème au beurre, dissimuler une fêve.
+    Refermer et saupoudrer de sucre glace...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15203">
+  <titre>Gratin de pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pommes épluchées</p>
+    <p>jus de citron</p>
+    <p>20 cl de lait demi-écrémé</p>
+    <p>1/2 gousse de vanille (ou vanille en poudre)</p>
+    <p>3 oeufs</p>
+    <p>8 cuillères à café de sucre</p>
+    <p>2 cuillères à café de margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pommes en dés et les citronner pour éviter qu'elles noircissent.
+    Ajouter 4 cuillères à café de sucre. Laisser macérer 15 mn.
+    Pendant ce temps, porter à ébullition le lait additionné des 4 cuillères à café de sucre restantes et de la gousse de vanille. Laisser infuser quelques instants. Préchauffer le four à thermostat 6/7.
+    Oter la gousse de vanille du lait. Battre les 3 jaunes d'oeufs et les verser dans le lait en mélangeant. Battre lègèrement en mousse (et non en neige) les blancs d'oeufs, puis les incorporer au lait.
+    Disposer dans un plat (ou 4 moules individuels) les dés de pommes et la crème au lait.
+    Enfourner pour 20 à 25 mn (four préchauffé à thermostat 6/180°C). 
+    Laisser tiédir avant de déguster.
+    Dessert allégé pour personne au régime... les autres peuvent mettre plus de sucre, mais personnellement, ça me va!
+  ]]>
+  </preparation>
+</recette>

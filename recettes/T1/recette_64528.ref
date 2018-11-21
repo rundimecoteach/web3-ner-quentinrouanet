@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64528">
+  <titre>Gâteau au chocolat-cookies</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 boîtes de cookies (avec pépites de chocolat)</p>
+    <p>1 sachet de pépites de chocolat</p>
+    <p>3 oeufs</p>
+    <p>100 g de beurre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>un peu de lait entier</p>
+    <p>5 cuillères à soupe de cassonnade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cassez les cookies en 4 et les tremper rapidement dans un peu de lait. Egouttez.
+    Mélangez oeufs, cassonnade, sucre vanillé, pépites de chocolat et beurre fondu (encore tiède).
+    Ajoutez les cookies et remuez bien.
+    Mettre la préparation dans un moule à cake (ou à gâteau) graissé.
+    Faire cuire environ 45 min à 200°, thermostat 6. Le gâteau est cuit quand la pâte est bien bombée et élastique.
+  ]]>
+  </preparation>
+</recette>

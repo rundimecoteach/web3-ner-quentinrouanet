@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53528">
+  <titre>Poulet aux pruneaux et aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet avec les hauts de cuisse</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 poignée de persil</p>
+    <p>10 pruneaux dénoyautés</p>
+    <p>2 cuillères à soupe rases de raisins secs blonds</p>
+    <p>1 pointe de muscade</p>
+    <p>1 pointe de cannelle</p>
+    <p>1 cuillère à café de maïzena</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et déjointer les cuisses de poulet.
+    Les faire revenir dans l'huile d'olive.
+    Lorsqu'elles sont bien dorée, recouvrir le fond de la sauteuse d'eau, ajouter les pruneaux coupés en 2 dans le sens de la longueur, les raisins secs, la noix de muscade, la cannelle et le persil.
+    Laisser cuire à feu doux 30 minutes.
+    5 minutes avant la fin, ajouter la maïzena diluée préalablement dans une tasse d'eau froide, bien remuer et ajouter un peu d'eau si besoin pour obtenir un peu de jus.
+    Vous pouvez servir ce plat accompagné de tagliatelles fraîches !
+  ]]>
+  </preparation>
+</recette>

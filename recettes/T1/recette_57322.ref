@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57322">
+  <titre>Pizza maison de Mami Joelle</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte à pizza</p>
+    <p>100 g de gruyère ou gruyère râpé</p>
+    <p>8 tomates</p>
+    <p>filets d'anchois à l'huile (1 boîte)</p>
+    <p>10 olives</p>
+    <p>ail mouliné, persil haché, sel (pas trop car anchois), poivre, moutarde, thym</p>
+    <p>un peu d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dégorger les tomates coupées en rondelles pendant une heure, avec du sel fin.
+    Faire désaler les olives 5 min dans l'eau chaude.
+    Mettre la pâte.
+    Tapisser avec de la moutarde, pas trop épais.
+    Faire couler un filet d'huile d'olive.
+    Tapisser avec du gruyère.
+    Mettre les rondelles de tomates, l'ail, le persil haché, les anchois, les olives désalées.
+    Mettre le sel, poivre, un peu de thym.
+    Couvrir de gruyère râpé.
+    Cuire 25 min à four chaud 250°C (thermostat 8-9) haut et bas.
+    Il faut l'essayer pour faire la difference avec une pizza surgelée ou de fast food ! Rouge ou Rosé selon la saison
+  ]]>
+  </preparation>
+</recette>

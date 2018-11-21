@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26601">
+  <titre>Cocktail de crevette en coque de pamplemousse</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 pamplemousses</p>
+    <p>300 g de crevettes</p>
+    <p>3 tomates</p>
+    <p>50 g de crème fraîche</p>
+    <p>3 cuillères à soupe de ketchup</p>
+    <p>1 cuillère à café de sauce soja</p>
+    <p>1 ou 2 citrons</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pamplemousses en 2 et récupérer la chair sans abîmer les coques. Retirer toutes les membranes blanches présentes dans les demi-coques de pamplemousse et les mettre de côté.
+    Détailler la chair de pamplemousse, les tomates et les crevettes en dés.
+    Mélanger, ajouter la crème, le ketchup et la sauce soja. Ajouter du jus de citron et saler.
+    Remplir les coques de cette préparation et servir frais.
+  ]]>
+  </preparation>
+</recette>

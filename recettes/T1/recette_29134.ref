@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29134">
+  <titre>Courgettes farcies au fromage de chèvre et aux amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes rondes</p>
+    <p>fromage de chèvre frais</p>
+    <p>amandes effilées</p>
+    <p>thym</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper en deux les courgettes. Les évider. 
+    Faire blanchir les courgettes dans de l'eau bouillante (5 mn). 
+    Disposer les moitiés de courgettes dans un plat à gratin huilé. 
+    Fourrer les courgettes de fromage de chèvre, puis saupoudrer avec les amandes. 
+    Saupoudrer de thym, de sel et de poivre. 
+    Mettre au four (200 degrés) pendant 20 ou 25 mn.
+    Servir par exemple avec du riz. On peut aussi utiliser des courgettes longues.
+  ]]>
+  </preparation>
+</recette>

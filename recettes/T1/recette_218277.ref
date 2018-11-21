@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218277">
+  <titre>Rôti d'espadon aux petits légumes et épinards</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 tranche d’espadon 400/500 g (2,5 à 3cm d’épaisseur)</p>
+    <p>400 g d’épinards à cuire</p>
+    <p>1 courgette</p>
+    <p>1 tomate</p>
+    <p>1 échalote</p>
+    <p>15 cl de vin blanc (Chablis)</p>
+    <p>1 cuillerée à soupe de crème fraiche</p>
+    <p>jus de citron</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer le four à 240°C (thermostat 8).Couper la courgette en dés de 8 mm d’épaisseur environ et la tomate en petits morceaux tout comme l’échalote.
+    Dans un plat allant au four poser la tranche d’espadon, placer autour les petits légumes coupés, saler et poivrer puis arroser avec le verre de vin.
+    Laisser cuire au four pendant 15 à 20 min suivant épaisseur de l’espadon.
+    Pendant ce temps faire revenir les épinards dans une poêle avec un peu d’huile d’olive, saler et poivrer légèrement puis tenir au chaud.
+    Sortir du four le plat, découper le poisson en tranche d’1 cm d’épaisseur.
+    Ajouter dans le plat chaud contenant les petits légumes les épinards et la crème fraîche.
+    Servir et assaisonner dan l’assiette avec un jus de citron. Chablis
+  ]]>
+  </preparation>
+</recette>

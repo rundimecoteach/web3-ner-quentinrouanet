@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65695">
+  <titre>Civet de sanglier à la mode de Rochefort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de sanglier</p>
+    <p>2 gros oignons</p>
+    <p>1 fond de gibier</p>
+    <p>2  l de bière de Rochefort - abbaye belge (ou autre de type trappiste)</p>
+    <p>250 g de sirop de Liège (spécialité belge à base de pommes et poires)</p>
+    <p>du vinaigre balsamique</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Débiter le sanglier en cubes de 3 cm de côté.
+    Dans une grande marmite chauffée avec de l'huile, faire fondre les oignons taillés en lamelles et y colorer légèrement les cubes de sanglier. Recouvrir avec le fond de gibier, la bière et le pot de sirop.
+    Laisser mijoter à feu très doux pendant au moins 6 heures.
+    Rectifier l'assaisonnement et aciduler avec le vinaigre balsamique selon votre affinité pour la notion d'aigre-doux. Lier si nécessaire.
+    Servir avec du "croquant" (petits cubes frits de pommes de terre ou Rösti...) et une salade bien acidulée.
+    S'il y a des restes, on peut poursuivre la cuisson jusqu'à ce que la viande soit complètement défaite et servir comme sauce sur des tagliatelles.(à la manière de la recette toscane des pâtes au Cinghale) Une bière du même type que celle de la cuisson
+  ]]>
+  </preparation>
+</recette>

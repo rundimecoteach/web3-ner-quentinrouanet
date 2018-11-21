@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28727">
+  <titre>Raviolis chinois grillés au porc</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à raviolis :</p>
+    <p>250 g de farine</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>eau</p>
+    <p>Pour la farce et cuisson :</p>
+    <p>200 g de filet de porc haché</p>
+    <p>1 poireau</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>1 blanc d’œuf</p>
+    <p>5 cuillères à soupe d'huile d'arachide</p>
+    <p>1 cuillère à soupe d'huile de sésame</p>
+    <p>Pour la sauce d'accompagnement :</p>
+    <p>1 gousse d'ail</p>
+    <p>1 pointe de couteau de pâte de piment</p>
+    <p>4 cuillères à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de vinaigre de riz</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la pâte :Mettez la farine tamisée et le sel dans un saladier, creusez un puits.
+    Versez doucement 15 cl d'eau tiède et travaillez la pâte de manière à ce qu'elle soit lisse et souple.
+    Roulez en boule et laissez-la reposer 30 min.
+    Préparez la farce :Hachez finement le poireau après l'avoir nettoyé et épluché (retirez les feuilles vertes et dures).Faites-le suer 5 min dans 2 cuillères à soupe d'huile avec l'ail haché.
+    Retirez de la casserole et mettez le porc à la place.
+    Laissez colorer 3-4 min puis laissez refroidir.Mélangez avec le poireau, le blanc d’œuf, la sauce soja et l'huile de sésame.Découpez des disques de 8 cm de diamètre dans la pâte à ravioli finement étalée.
+    Déposez un peu de centre de chaque et fermez en aumônières. Faites-les revenir dans le reste d'huile chaude à la poêle.
+    Mouillez de 15 cl d'eau, couvrez et laissez cuire à feu doux 5 min environ.
+    Videz le jus de cuisson, mettez les raviolis dans un plat et passez-les 2 min sous le grill du four afin qu'ils dorent.Mélangez l'ail pressé, la sauce soja, le vinaigre et la pâte de piment.
+    Sortez les raviolis, et servez-les avec la sauce en accompagnement.
+  ]]>
+  </preparation>
+</recette>

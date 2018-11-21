@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17950">
+  <titre>Poulet aux morilles et Chimay bleue</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 g de morilles sèches</p>
+    <p>10 cl de Porto</p>
+    <p>4 blancs de poulet</p>
+    <p>15 cl de crème fraîche</p>
+    <p>10 cl de bière Chimay bleue</p>
+    <p>beurre</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les morilles dans le porto.
+    Cuire les blancs de poulet, farinés, dans du beurre, à feu doux.
+    Lorsqu'ils sont cuits, réserver au chaud, et déglacer la poele avec la Chimay. Laisser réduire, ajouter les morilles et le porto. Laisser de nouveau réduire, et puis crémer.
+    Lorsque la sauce est à consistance voulue, assaisonner (poivre et sel).Napper le fond d'assiette avec la sauce, et y dresser le poulet.A servir avec des tagliatelles vertes au beurre, et une purée de carottes relevée d'une pointe de curry.
+    Extra ! un Graves, pour ceux qui aiment. Sinon Pinot Noir
+  ]]>
+  </preparation>
+</recette>

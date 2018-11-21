@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82484">
+  <titre>Purée de carottes et pâtes pour bébé de 8 mois</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 belles carottes </p>
+    <p>2 cuillères à soupe rases de petites pâtes (genre alphabet)</p>
+    <p>1 peu d'huile végétale au choix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les carottes puis les couper en rondelles.
+    Les mettre à la vapeur environ 20 minutes.
+    Mixer les carottes jusqu'à obtention d'une purée bien lisse.
+    Faire cuire les pâtes séparément et de façon à ce qu'elles soient bien fondantes.
+    Mélanger les pâtes et les carottes et ajouter si vous le souhaitez un peu d'huile végétale.
+  ]]>
+  </preparation>
+</recette>

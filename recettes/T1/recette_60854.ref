@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60854">
+  <titre>Gâteau caramélisé aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>100 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>100 g de beurre</p>
+    <p>facultatif : 2 à 3 cuillères à soupe d'eau-de-vie de poire</p>
+    <p>3 ou 4 poires selon la grosseur</p>
+    <p>Pour le caramel :</p>
+    <p>10 morceaux de sucre</p>
+    <p>3 cuillèrées à soupe d'eau</p>
+    <p>1 goutte de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez votre caramel dans une casserole. Faites fondre le sucre dans l'eau et chauffez à feu moyen. Dès que le mélange prend une couleur blonde, versez le sur le fond d'un moule à manqué antiadhésif de 20 cm de diamètre.
+    Préchauffez le four à 170°C (thermostat 5-6).
+    Préparez les poires : pelez les et coupez les en quartiers. Recoupez ensuite ces quartiers en 2. Maintenant disposez les sur le fond du moule (essayez de former une rosace)
+    Préparez la pâte : mélangez dans un saladier le beurre ramolli avec le sucre. Incorporez les oeufs puis la farine et la levure tamisées. 
+    Attention il faut que la pâte soit bien lisse!
+    Ajouter l'eau de vie.
+    Versez la pâte sur les poires. Il ne vous reste plus qu'à enfourner pendant 40 minutes!
+    Une fois le gâteau cuit, laissez-le tiédir avant de le démouler. 
+    Mettez-le au frais et dégustez...mmh!!
+    On peut aussi le faire avec des pommes, dans ce cas mettre du calvados... Un côteau du Layon
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12816">
+  <titre>Strudel alsacien</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>200 g de farine</p>
+    <p>1 oeuf</p>
+    <p>1 pincée de sel</p>
+    <p>1/16 de litre d'eau tiède</p>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>Pour la garniture :</p>
+    <p>600 g de saumon fumé pré-tranché</p>
+    <p>1 kg de choucroute</p>
+    <p>2 à 3 pommes (de type Granny smith)</p>
+    <p>60 g de beurre</p>
+    <p>80 g  de chapelure</p>
+    <p>Pour la cuisson : </p>
+    <p>60 g de beurre fondu</p>
+    <p>Pour la sauce :</p>
+    <p>50 cl de crème épaisse</p>
+    <p>2 cuillères à soupe de raifort râpé</p>
+    <p>le jus réduit de cuisson de la choucroute</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire la choucroute avec des oignons, de l'ail, du thym, du laurier, des baies de genièvre, sel et poivre, et mouillée à moitié hauteur avec du vin blanc ou de la bière.
+    Complétez pour couvrir avec de l’eau, cuire à feu doux environ 1 heure.
+    Pendant ce temps, pétrissez sur une planche tous les ingrédients de la pâte : celle-ci doit être lisse et aérée. Laissez-la reposer 30 mn, couverte.
+    Etendez sur une table un grand torchon et saupoudrez-le de farine.
+    Etendez-la pâte au rouleau jusqu'à ce qu'elle soit si fine que l'on voie à travers (si, si, c’est possible sur le torchon).Passez la choucroute et récupérez le jus de cuisson que vous faites réduire jusqu’à un demi verre.
+    Pelez les pommes et coupez les en petits dés, préchauffez le four.
+    	Badigeonnez toute la surface de la pâte avec le beurre fondu, parsemez de chapelure, recouvrez de tranches de saumon fumé, puis de la choucroute après avoir enlevé les baies, le thym et le laurier et en fin mettez les pommes, quelques tours de moulin à poivre et un peu de sel pour finir.
+    En soulevant le torchon , roulez le strudel et faites le glisser sur la plaque du four recouverte d’un papier cuisson et mettez le au four pour 30 à 45 mn , pendant la cuisson badigeonnez-le de beurre fondu afin que la pâte ne durcisse pas.Mélangez les ingrédients de la sauce sans la faire bouillir, servez le strudel au sortir du four, coupé en tranches de 2 cm et nappé de sauce.Peut servir de plat principal accompagné de riz. vin d'Alsace Edelzwicker ou Auxerrois
+  ]]>
+  </preparation>
+</recette>

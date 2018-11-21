@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57846">
+  <titre>Irish Bailey's cheesecake</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la croûte de biscuits :</p>
+    <p>2 paquets de palets bretons</p>
+    <p>50 g de beurre fondu</p>
+    <p>Pour la crème :</p>
+    <p>2 boîtes de Saint-Morêt</p>
+    <p>4 oeufs</p>
+    <p>170 g de sucre</p>
+    <p>150 ml de Bailey's</p>
+    <p>1 cuillère à café d'extrait de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four thermostat 6.
+    Ecraser les biscuits et les mélanger au beurre fondu.
+    Etaler ce mélange dans un plat rond allant au four, il faut que la croûte soit un peu épaisse.
+    Placer le plat au four pendant 5 min environ.
+    Mélanger le Saint-Morêt et le sucre, puis ajouter les jaunes d'oeuf, la vanille et le Bailey's.
+    Battre les blancs en neige et les ajouter à la préparation.
+    Disposer le mélange sur la croûte de biscuit.
+    Placer au four thermostat 4 pendant environ 1 heure.
+    Une fois que le cheesecake est cuit, arrêter le four et laisser le plat à l'intérieur jusqu'à ce qu'il soit froid.
+    Placer ensuite au réfrigérateur pendant 6 heures minimum.
+  ]]>
+  </preparation>
+</recette>

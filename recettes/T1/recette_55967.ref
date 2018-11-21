@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55967">
+  <titre>Gâteau au chocolat et aux amandes entières pilées</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>125 g de sucre en poudre</p>
+    <p>125 g d'amandes entières (c'est important le goût est différent)</p>
+    <p>50 g de farine tamisée</p>
+    <p>1 gousse de vanille ou 1 cuillerée à café de vanille moulue</p>
+    <p>75 g de chocolat noir (à pâtisser)</p>
+    <p>10 cl d'eau</p>
+    <p>125 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>20 g de beurre pour le moule</p>
+    <p>Pour le glaçage :</p>
+    <p>100 g de chocolat noir (à pâtisser)</p>
+    <p>30 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Mixer finement 125 g de sucre et 125 g d'amandes douces qui doivent être employées à l'état brut ainsi que la vanille (on peut piler dans un mortier si on n'a pas de mixer).
+    Ajouter la farine.
+    Mettre ensuite dans une casserole 75 g de chocolat en morceaux, le mouiller avec l'eau et le faire fondre en le tournant avec une spatule sur feu doux.
+    Lorsque le chocolat est fondu et qu'il forme une crème lisse, le retirer du feu, le verser dans un saladier et lui incorporer petit à petit 125 g de beurre coupé en petits morceaux puis l'un après l'autre 3 jaunes d'oeufs.
+    Après avoir bien travaillé cette pâte, lui incorporer d'abord la poudre d'amandes sucrée, farinée et vanillée puis délicatement les 4 blancs battus en neige ferme avec la pincée de sel (on garde 1 jaune d'oeuf pour le glaçage!)
+    Mettre sans précaution 1/4 des blancs puis soulever la pâte délicatement pour incorporer le reste.
+    Beurrer un moule, le fariner, puis le remplir aux 3/4.
+    Mettre au four pendant 25 minutes.
+    Surveiller la cuisson en piquant la lame d'un couteau, elle doit ressortir sèche.
+    Si on double les proportions, ce que je fais la plus part du temps, le temps de cuisson est de 45 minutes.
+    Glaçage au chocolat :
+    Faire fondre à feu doux 100 g de chocolat en morceaux avec un peu d'eau (1 cuilère à soupe) et ajouter hors du feu 30 g de beurre et 1 jaune d'oeuf (pour le double, 1 jaune d'oeuf suffit).
+    C'est un gâteau assez chocolaté et consistant, plutôt pour un goûter d'anniversaire.
+  ]]>
+  </preparation>
+</recette>

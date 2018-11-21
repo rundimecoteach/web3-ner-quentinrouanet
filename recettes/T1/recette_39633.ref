@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39633">
+  <titre>Salade de petits fruits parfumés</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 petite barquette de myrtilles</p>
+    <p>1 petite barquette de framboises</p>
+    <p>1 petite barquette de fraises</p>
+    <p>1 petite barquette de groseilles rouges et/ou jaunes</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>2 cuillères à soupe de miel clair</p>
+    <p>1 cuillère à soupe de sucre vanillé Bourbon</p>
+    <p>1 pincée de cannelle moulue</p>
+    <p>2 cuillères à soupe de jus d'orange</p>
+    <p>facultatif : amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le jus de citron, le miel clair, le sucre vanillé Bourbon,la pincée de cannelle moulue et le jus d’orange.
+    Napper les fruits de cette préparation et mettre au réfrigérateur pendant 1 heure. Au moment de servir, vous pouvez parsemer d’amandes effilées grillées.
+  ]]>
+  </preparation>
+</recette>

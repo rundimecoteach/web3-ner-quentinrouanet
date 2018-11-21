@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80633">
+  <titre>Tarte aux noix et aux abricots secs</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>20 g de beurre</p>
+    <p>150 g de cerneaux de noix</p>
+    <p>150 g d'abricots secs</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>10 cl de crème fraîche</p>
+    <p>2 œufs</p>
+    <p>1 cuillère à café de maïzena</p>
+    <p>quelques gouttes de vanille liquide</p>
+    <p>70 g de sucre en morceaux</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Abaissez la pâte et garnissez-en un moule à tarte préalablement beurré.
+    Tapissez de papier alu et remplissez de légumes secs. Mettez au four préchauffé à 180°, thermostat 6, et laissez cuire à blanc 15 min.
+    Pendant ce temps, coupez les abricots en 2 et concassez grossièrement les noix.
+    Versez le miel dans une poêle, ajoutez les noix et faites dorer doucement. 
+    Ajoutez ensuite les abricots, remuez bien et faites revenir le tout pendant 2 min.
+    Disposez les fruits dans le fond de la tarte.
+    Mettez les œufs, la maïzena, la crème fraîche et la vanille dans un saladier, battez au fouet puis versez sur les fruits. 
+    Remettez la tarte au four encore 15 min.
+    Pendant ce temps, préparez le caramel avec le sucre en morceaux et un peu d’eau. Lorsqu’il est bien doré, ajoutez le jus de citron puis versez sur la tarte à la sortie du four.
+    Servez tiède ou froid.
+    Un dessert original et toujours apprécié par les convives.
+  ]]>
+  </preparation>
+</recette>

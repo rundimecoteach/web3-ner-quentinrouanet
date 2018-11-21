@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22233">
+  <titre>Blancs de poulet sauce miel et balsamique</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 blancs de poulet</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>1 petit pot de crème fraîche</p>
+    <p>1 noix de beurre (pour la cuisson) </p>
+    <p>sel, poivre</p>
+    <p>3 cuillères à soupe de vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une poêle. Y faire dorer les blancs de poulet (entiers ou coupés en petits cubes selon préférence).
+    Avant la fin de la cuisson choisie, verser dans la poêle la crème fraîche, le miel et le vinaigre (+ sel et poivre selon votre goût).
+    Servir avec du riz basmati, du boulgour ou des pâtes fraîches.
+    Servir en décorant de feuilles de coriandre ou de persil plat.
+  ]]>
+  </preparation>
+</recette>

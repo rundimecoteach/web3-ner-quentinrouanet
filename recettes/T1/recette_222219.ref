@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222219">
+  <titre>Velouté à la marinière (moules, palourdes, praires)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>90 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>12 moules</p>
+    <p>8 palourdes</p>
+    <p>8 praires</p>
+    <p>45 cl de vin blanc</p>
+    <p>3 cuillères à soupe de crème fraiche</p>
+    <p>thym</p>
+    <p>laurier</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réalisez une béchamel (avec un roux beurre, farine puis 50 cl d'eau, assaisonnez).Dans une grande casserole, à feu vif, mettez tous les coquillages avec le vin blanc, le thym, le laurier, du sel et du poivre, pendant une dizaine de minutes (pour que les coquillages s'ouvrent).Égouttez-les et filtrer l'eau de cuisson pour l'ajouter à la béchamel. Faites réchauffer le velouté obtenu à feu doux, liez avec la crème fraiche et le restant du beurre.
+    Avant de servir, ajoutez les coquillages.A l'origine, cette recette riche se faisait avec du cidre au vin blanc.
+    La Normandie assurée !
+  ]]>
+  </preparation>
+</recette>

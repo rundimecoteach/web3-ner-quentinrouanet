@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22635">
+  <titre>Tarte aux fraises et à la faisselle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>2 œufs</p>
+    <p>250 g de fromage blanc faisselle</p>
+    <p>200 g de sucre</p>
+    <p>25 cl de crème fraîche</p>
+    <p>vanille (extrait ou gousse) </p>
+    <p>500 g de fraises (elles doivent être bien mûres)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+     
+    Casser les œufs et les battre comme une omelette avec le sucre jusqu'à ce que le mélange blanchisse un peu. Ajouter la vanille, la crème fraîche et le fromage blanc (sans cesser de remuer). La crème doit être onctueuse. Mettre la pâte dans un moule et y verser le mélange. Faire cuire pendant environ 20 à 25 min à four chaud. Laver les fraises et enlever les queues. Attendre que la tarte refroidisse et y déposer les fraises (de l'extérieur vers l'intérieur pour que ce soit plus joli).
+  ]]>
+  </preparation>
+</recette>

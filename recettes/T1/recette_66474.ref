@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66474">
+  <titre>Crumble pommes framboises ultra-simple</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 pommes (acides)</p>
+    <p>un sachet de framboises surgelées</p>
+    <p>200 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>120 g de beurre salé</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Beurrer le fond d'un plat.
+    Couper les pommes en fines rondelles et les disposer au fond du plat.
+    Faire décongeler les framboises au micro-ondes et les ajouter sur les pommes (dans le plat).
+    Mélanger la farine, le sucre, le beurre fondu et le sucre vanillé.
+    Répartir cette pâte poudreuse sur les fruits.
+    Enfourner 30 minutes.
+    On sert chaud, et si vous le souhaitez, avec une boule de glace. Bon appétit!!!
+    Mangez quelque chose de léger avant le crumble.
+  ]]>
+  </preparation>
+</recette>

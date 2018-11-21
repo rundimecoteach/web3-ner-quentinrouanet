@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29627">
+  <titre>Mousses de saumon aux herbes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de saumon frais</p>
+    <p>50 cl de fumet de poisson</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>25 cl de crème fraîche épaisse</p>
+    <p>4 blancs d'oeufs</p>
+    <p>2 cuillères à soupe d'herbes hachées (aneth, ciboulette ou basilic)</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixez le saumon frais avec 20 cl de crème. Salez, poivrez et incorporez les blancs d'oeufs battus en neige.
+    Beurrez 4 ramequins et versez-y la préparation. Faites cuire 15 minutes au four à 200°C (thermostat 6-7).
+    Faites bouillir le fumet et le vin blanc jusqu'à ce que le mélange réduise de moitié. Ajoutez la crème et les herbes et mélangez.
+    Servez les petits mousses démoulées avec la sauce chaude.
+  ]]>
+  </preparation>
+</recette>

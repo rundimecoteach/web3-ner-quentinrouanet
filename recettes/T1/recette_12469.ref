@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12469">
+  <titre>Pommes boulangères</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de pommes de terre</p>
+    <p>1/2 gousse d'ail</p>
+    <p>1 feuille de laurier </p>
+    <p>4 branches de thym</p>
+    <p>1 c à soupe de persil haché</p>
+    <p>4 c à soupe de graisse d'oie</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les pommes de terre épluchées
+    en rondelles très fines.
+    Lavez-les rapidement à l'eau froide pour supprimer
+    la fécule, puis égouttez-les.
+    Dans un plat à gratin, mettez une bonne cuillerée de graisse d'oie, étendez-la et graissez les bords du plat.
+    Disposez le tiers des pommes de terre, salez et poivrez (pas trop), saupoudrez de la moitié des herbes mélangées (laurier emietté et thym) avec un peu d'ail finement écrasé. Ne mettez pas 
+    plus d'herbes pour éviter un excès d'arômes.
+    Remettez une couche de pommes de terre, saupoudrez du reste des herbes, couvrez avec le reste de pommes de terre, salez et poivrez légèrement chaque couche.
+    Répartissez le reste de graisse d'oie en surface,
+    mouillez d'eau chaude au ras des pommes de terre
+    Mettez sur le feu moderé, amenez à ébullition, faites mijoter sans remuer jusqu'a ce que toute l'eau soit évaporée et qu'au fond des pommes il n'y ait plus que la graisse.
+    Mettez alors au four chaud 220°C (6-7) pour finir de cuire et dorer en surface.
+    Lorsque la bonne couleur est atteinte, baissez le feu à 160°C (3 au thermostat) et laisser encore rissoler 20 mn.
+    Servez avec des viandes grillées ou rôties.
+    Très bien aussi en plat seul avec une salade verte !
+  ]]>
+  </preparation>
+</recette>

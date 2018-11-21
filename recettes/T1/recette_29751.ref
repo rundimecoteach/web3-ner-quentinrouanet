@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29751">
+  <titre>CREPES FOURRÉES A LA PURÉE</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pommes de terre</p>
+    <p>75 g de gruyère râpé</p>
+    <p>50 g de beurre</p>
+    <p>10 cl de crème fraîche</p>
+    <p>3 œufs</p>
+    <p>1 pincée de sel</p>
+    <p>poivre et muscade</p>
+    <p>4 crêpes de sarrasin toutes prêtes </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les pommes de terre épluchées dans une casserole d'eau bouillante salée et les écraser en purée. Incorporer le beurre, 50 g de gruyère râpé, le poivre et la muscade. Ajouter les œufs, la crème fraîche et une pincée de sel.
+    Dans la poêle, avec un peu de beurre salé, disposer une crêpe et la garnir de la préparation précédente. Saupoudrer de gruyère râpé.Servir chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20324">
+  <titre>Potage de légumes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 carottes</p>
+    <p>1 oignon</p>
+    <p>1 navet</p>
+    <p>2 poireaux</p>
+    <p>1 branches de céleri</p>
+    <p>40 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>1 litres de bouillon de volaille </p>
+    <p>1 jaune d'oeuf</p>
+    <p>50 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les carottes, l'oignon, le navet, le céleri et les poireaux en morceaux.
+    Faire fondre le beurre dans une casserole puis ajouter les légumes. Les faire suer à feu doux durant 10 minutes puis verser le bouillon chaud, couvrir et laisser cuire durant 1 heure.
+    Mixer finement puis ajouter le mélange jaune d'oeuf crème.
+    Servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

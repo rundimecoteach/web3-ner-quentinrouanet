@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93637">
+  <titre>Aubergines grillées tomate-fêta</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 belles aubergines</p>
+    <p>des tomates sechées</p>
+    <p>de la fêta</p>
+    <p>huile d'olive</p>
+    <p>2 gousses d'ail </p>
+    <p>basilic</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez (ou non) les aubergines et coupez les en tranches pas trop fines dans le sens de la longueur.
+    Déposez les sur une feuille de papier sulfurisé et enfournez sous le grill un dizaine de minutes.
+    Pendant ce temps préparez une petite sauce à base d'un peu d'huile d'olive, l'ail haché très finement (avec un presse-ail par exemple), du basilic ciselé, sel et poivre.
+    Sortez les aubergines du four et badigeonnez-les de cette petite préparation. Enfin, posez sur chaque tranches une ou deux tomates séchées et un dé de fêta. Remettez au four environ 5 minutes le temps de faire dorer la fêta.
+    Sortez du four et dégustez.
+  ]]>
+  </preparation>
+</recette>

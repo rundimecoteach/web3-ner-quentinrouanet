@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66451">
+  <titre>Petits pains à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>50 g de beurre (allégé ou non)</p>
+    <p>15 à 20 cl de lait</p>
+    <p>50 g de sucre (roux de préférence)</p>
+    <p>50 g de noix de coco râpée</p>
+    <p>un sachet de sucre vanillé</p>
+    <p>un sachet de levure chimique</p>
+    <p>une pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger ensemble à l'aide d'une cuillère en bois la farine, la levure, les sucres et la noix de coco râpée. Puis ajouter le beurre fondu et le lait.
+    Mélanger jusqu'à obtention d'une pâte assez épaisse et légèrement grumeleuse.
+    A l'aide de 2 cuillères, former 10 petites boules, les poser sur une plaque de cuisson recouverte de papier sulfurisé, et les aplatir un peu. 
+    Mettre à cuire dans un four préchauffé à 180°C, thermostat 6, pendant 15 à 20 min (le dessus des petits pains doit être doré).
+  ]]>
+  </preparation>
+</recette>

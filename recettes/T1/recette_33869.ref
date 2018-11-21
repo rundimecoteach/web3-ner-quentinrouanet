@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33869">
+  <titre>Sauté de dinde façon juju</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de dinde (ou bien poulet ou veau, tout dépend de votre porte-monnaie...) </p>
+    <p>2 aubergines</p>
+    <p>4 tomates</p>
+    <p>2 courgettes</p>
+    <p>2 oignons</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la dinde en lamelles et les faire revenir sur feux vif, jusqu'à l'obtention d'une belle couleur dorée. Laisser de côté. 
+    Dans une autre sauteuse, faire revenir les oignons à feux doux pendant 10 mn. 
+    Pendant ce temps, couper les courgettes en rondelles, les aubergines et les tomates en dés. 
+    Ajouter ensuite tous ces légumes et le concentré de tomates aux oignons. Saler, poivrer. Ajouter le bouquet garni. Laisser mijoter à couvert pendant 20 mn. 
+    Ajouter les lamelles dorées aux légumes et terminer la cuisson pendant 10 mn.
+    Se sert éventuellement avec du riz.
+  ]]>
+  </preparation>
+</recette>

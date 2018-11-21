@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54819">
+  <titre>Tarte au fromage blanc (délicieuse et facile)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>65 g beurre</p>
+    <p>65 g sucre</p>
+    <p>1 oeuf</p>
+    <p>150 g farine</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>Pour le gâteau :</p>
+    <p>600 à 700 g de fromage blanc 20%</p>
+    <p>30 cl de crème fraîche</p>
+    <p>150 g de sucre fin</p>
+    <p>1 sachet de pudding vanille</p>
+    <p>3 jaunes d'oeuf (garder le blanc à part)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la pâte : 
+    Mélanger tous les ingrédients jusqu'à obtenir une pâte assez épaisse et compact et l'étaler dans un moule rond.
+    Pour le gâteau :
+    Mélanger le tout dans un saladier.
+    Faire monter le blanc des oeufs (pas trop dur) et les ajouter au saladier.
+    Ensuite verser le contenu du saladier dans le moule rond et mettre au four environ à 230°C (thermostat 8-9) et faire cuire la tarte pendant 35 à 40 minutes.
+    Quand le dessus de la tarte commence à dorer la recouvrir avec du papier aluminium ou sulfurisé pour ne pas la brunir.
+    Pour voir si la tarte est bien cuite au bout de 35 min bouger un peu le moule pour voir si elle n'est pas trop liquide sinon la laisser encore un petit peu.
+    Laisser la reposer 1h au frais et servir.
+    Vous allez adorer.
+  ]]>
+  </preparation>
+</recette>

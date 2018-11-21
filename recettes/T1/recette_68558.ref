@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68558">
+  <titre>Tartare de veau facon provençal</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de viande de veau à tartare (la longe par ex)</p>
+    <p>60 g de tapenade </p>
+    <p>1 échalote</p>
+    <p>10 g de câpres</p>
+    <p>15 g de cornichons</p>
+    <p>1 oeuf</p>
+    <p>jus d'un ½ citron</p>
+    <p>1 cuillère à soupe de moutarde à l'ancienne</p>
+    <p>10 cl d'huile de tournesol</p>
+    <p>1 filet d'huile de noisette</p>
+    <p>1 filet de vinaigre de xérès</p>
+    <p>1 petit bouquet d'estragon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en petits dés, réserver.
+    Réaliser une mayonnaise avec la moutarde, le jaune d'oeuf, le vinaigre de xérès, l'huile de tournesol et de noisette, du sel et du poivre.
+    Hacher les câpres et les cornichons, ciseler finement l'échalote et l'estragon.
+    Assaisonner la viande avec deux grosses cuillères de mayonnaise, saler, poivrer. Ajouter les câpres, les cornichons, l'échalote, l'estragon.
+    Arroser avec le jus de citron.
+    Dans 2 petites assiettes, dresser la viande assaisonnée. Surmonter d'une cuillerée de tapenade (ou bien de lamelles de poutargue).
+    Conseil de présentation : Vous pouvez dresser des jaunes d'oeuf hachés autour de la viande.
+  ]]>
+  </preparation>
+</recette>

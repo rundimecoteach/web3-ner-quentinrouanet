@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84394">
+  <titre>Tagliatelles provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de tagliatelles</p>
+    <p>200 g d'allumettes de lardons</p>
+    <p>40 cl de crème fraîche liquide</p>
+    <p>2 tomates</p>
+    <p>Parmesan </p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>herbes de Provences</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les tagliatelles selon le temps de cuisson préconisé par le fabricant.
+    Pendant ce temps couper les deux tomates en dés puis les faire revenir à la poêle avec les lardons.
+    Verser la crème fraîche lorsque les lardons sont légèrement dorés et faire chauffer à feux doux.
+    Une fois chaud, ajouter l'huile d'olive, le sel et le poivre, saupoudrer d'herbes de Provences et de parmesans selon le goût. 
+    Mélanger le tout.
+    Passer les tagliatelles à l'eau froide une fois cuite puis les verser dans la poêle pour les réchauffer et mélanger.
+    Servez.
+    J'ai mis des allumettes de lardons car celle-ci sont plus fines au goût et moins grasses. Ne pas faire bouillir la crème fraîche. Rosé
+  ]]>
+  </preparation>
+</recette>

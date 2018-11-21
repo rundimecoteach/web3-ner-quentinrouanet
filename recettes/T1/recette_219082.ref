@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219082">
+  <titre>Madeleines à la courge</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de courge (potiron ou potimarron) </p>
+    <p>2 œufs </p>
+    <p>110 g de sucre </p>
+    <p>250 g de farine</p>
+    <p>125 g de beurre fondu</p>
+    <p>10 g de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 190°C (thermostat 6).Couper la chaire de la courge en petits morceaux et la cuire à l'eau frémissante 5 minutes.
+    Bien égoutter et faire revenir au beurre 2 ou 3 minutes. Réserver.
+    Blanchir ensemble les œufs et le sucre,
+    ajouter la farine et la levure tamisée ensemble
+    puis le beurre fondu (noisette, c'est encore meilleur) et enfin la courge.
+    Garnir aux 3/4 les moules à madeleines préalablement beurrés (ou moules silicones) et enfourner pendant 10 à 12 min à 190°C.
+  ]]>
+  </preparation>
+</recette>

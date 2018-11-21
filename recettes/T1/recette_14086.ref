@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14086">
+  <titre>Paté végétal au tofu</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>250 g de tofu</p>
+    <p>300 g de champignons</p>
+    <p>120 g de flocons de blé</p>
+    <p>2 oignons</p>
+    <p>2 carottes</p>
+    <p>2 gousses d'ail</p>
+    <p>3 oeufs</p>
+    <p>150 g de fromage blanc</p>
+    <p>2 cuillères à soupe de levure maltée</p>
+    <p>80 g de graines de tournesol</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de persil</p>
+    <p>2 feuilles de laurier</p>
+    <p>2 cuillères à soupe de basilic</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emietter le tofu à la fourchette dans un saladier.
+    Hacher oignons, ail, persil et basilic. Râper les carottes. Emincer les champignons. Broyer les graines de tournesol. Piler le laurier.
+    Faire fondre les oignons 10 mn dans une poêle avec l'huile, puis ajouter les champignons et terminer la cuisson. Oter du feu, incorporer les oeufs battus, le tofu, les flocons et tous les autres ingrédients. Saler, puis verser dans un moule à cake huilé et fariné.Faire cuire à four moyen 1h15.Servir froid en entrée.
+  ]]>
+  </preparation>
+</recette>

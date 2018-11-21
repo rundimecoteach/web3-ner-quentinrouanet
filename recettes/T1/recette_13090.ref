@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13090">
+  <titre>Escalopines de dinde en brouillade</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de dinde </p>
+    <p>25 g de beurre</p>
+    <p>125 g de roquefort</p>
+    <p>un peu de farine</p>
+    <p>1 tasse de crème fraîche</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>sel et poivre</p>
+    <p>persil ou cerfeuil coupé</p>
+    <p>1 verre à liqueur de cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râpez le roquefort ou écrasez-le finement à la fourchette dans un bol. Travaillez-le avec la crème fraîche et les jaunes d'oeufs.
+    Coupez les escalopes de dinde en 2 ou 3 morceaux. farinez-les très légèrement. Faites chauffer le beurre dans un autocuiseur et faites-y revenir les escalopes.
+    Salez légèrement et poivrez. Parsemez de persil ou de cerfeuil. Fermez l'autocuiseur et laissez mijoter sur feu doux, 10 minutes à partir de la mise en pression. Au bout de ce temps, ouvrez l'autocuiseur. 
+    Arrosez la viande avec le cognac. Portez à ébullition et faites flamber sur le feu. Déposez la viande dans un plat. Tenez-le au chaud. 
+    Mélangez vivement au fouet le mélange au roquefort avec le jus resté dans l'autocuiseur, sur le feu, mais sans laisser bouillir (comme 
+    un crème anglaise). Retirez du feu dès que la sauce commence à prendre de l'onctuosité.
+    Versez-la sur la viande et servez aussitôt avec du riz nature ou des pommes vapeur.
+     Un bon Bordeaux
+  ]]>
+  </preparation>
+</recette>

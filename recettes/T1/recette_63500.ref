@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63500">
+  <titre>Rôti de porc à la bretonne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de rôti de porc</p>
+    <p>moutarde</p>
+    <p>6 gousses d'ail</p>
+    <p>vin blanc</p>
+    <p>500 g de petites pommes de terre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 240°C (thermostat 8).
+    Beurrer un plat à four et y frotter une gousse d'ail.
+    Piquer le rôti avec des gousses d'ail, l'enduire de moutarde, poivrer et saler.
+    Poser dessus du beurre en petits morceaux.
+    Autour du rôti disposer le reste des gousses d'ail un peu écrasées.
+    Eplucher les pommes de terres (pour les rattes ne pas les éplucher c'est meilleur).
+    Les disposer autour du rôti.
+    Arroser le tout avec du vin blanc afin d'émerger entièrement les pommes de terres.
+    Enfourner le rôti durant 1 h 30. 
+    Arroser de temps en temps le rôti avec la sauce.
+    Servir chaud. Bonne dégustation !!!
+    P.S : s'il reste du rôti, vous pouvez le manger le lendemain c'est excellent. Cahors
+  ]]>
+  </preparation>
+</recette>

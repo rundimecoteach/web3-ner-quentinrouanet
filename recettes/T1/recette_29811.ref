@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29811">
+  <titre>Poulet au chou-fleur</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 chou-fleur environ</p>
+    <p>300 g de blancs de poulet</p>
+    <p>4 tomates</p>
+    <p>50 g de parmesan environ</p>
+    <p>1 yaourt nature</p>
+    <p>paprika, ciboulette, beurre, sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le chou-fleur à la vapeur, à l'eau ou au micro-ondes.
+    Faire cuire le poulet coupé en petits morceaux dans une poêle anti-adhésive (ou avec un peu d'huile d'olive).
+    Beurrer un moule a gratin (ou mettre un peu d'huile d'olive, selon les goûts). Y placer les tomates coupées en dés et parsemer de ciboulette.
+    Battre le yaourt et le verser sur les tomates. Saupoudrer de paprika.
+    Mettre le poulet par dessus et y 'planter' les bouquets de choux-fleur. Saupoudrer de parmesan et laisser gratiner au four (préchauffé à thermostat 7/8, soit 230°C) pendant 10 à 15 mn.
+  ]]>
+  </preparation>
+</recette>

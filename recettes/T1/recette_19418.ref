@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19418">
+  <titre>Médaillons de thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse boîte de thon au naturel</p>
+    <p>3 oeufs durs</p>
+    <p>4 jaunes d'oeuf</p>
+    <p>30 g de farine de blé</p>
+    <p>50 g de beurre</p>
+    <p>2 gousses d'ail émincées</p>
+    <p>1 cuillère à café de câpres</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien égoutter le thon, l'émietter du bout d'une fourchette. 
+    Ecraser les oeufs durs et les mélanger au thon. 
+    Ajouter les jaunes d'oeufs, sel, poivre, câpres, et bien malaxer le tout. 
+    Former de petits médaillons (boulettes aplaties) avec la préparation. 
+    Les roulez dans la farine. 
+    Dans une poêle, faire chauffer le beurre et faire dorer les médaillons 3 mn de chaque côté. 
+    A la fin, parsemez d'ail et de persil hachés. 
+    Déglacer avec le jus de citron et déguster de suite avec de la salade ou du riz nature. 
+    N.B. : on peut aussi les manger froid avec une mayo et de la salade.
+  ]]>
+  </preparation>
+</recette>

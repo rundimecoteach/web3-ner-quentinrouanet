@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82049">
+  <titre>Pintade aux tomates et oignons confits</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pintade</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>1 gros oignon</p>
+    <p>1 poignée de raisins secs</p>
+    <p>basilic frais</p>
+    <p>de l'ail confit</p>
+    <p>1 cuillère à soupe d'huile d'olive aillée (marinade de l'ail confit)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Placer la pintade dans une terrine.
+    Ajouter la boîte de tomates pelées.
+     
+    Emincer l'oignon finement et l'ajouter dans la terrine.
+    Ajouter ensuite le basilique frais, 2 pointes d'ail confit, 1 cuillère à soupe d'huile aillée, saler, poivrer. Ajouter enfin un fond d'eau et enfourner, couvert, pendant 2h30 à 210°C (thermostat 7).
+    A la sortie, la pintade est grillée et l'accompagnement a confis doucement. Servir avec des petites pommes de terre grenailles, sautées dans le beurre.
+  ]]>
+  </preparation>
+</recette>

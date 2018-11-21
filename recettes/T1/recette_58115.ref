@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58115">
+  <titre>Quatre-quart au miel</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs pesés</p>
+    <p>le même poid de farine, de margarine fondue</p>
+    <p>15 cl de miel tiédi (plus facile à doser)</p>
+    <p>1 sachet de levure</p>
+    <p>1 cuillère à café d'arome de vanille liquide</p>
+    <p>1 cuillère à café de rhum (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 180°C (ou thermostat 6).
+    Mélanger dans un saladier les oeufs entiers, la farine, la margarine fondue et le miel.
+    Ajouter l'arôme de vanille et le rhum.
+    Mettre la levure en dernier en veillant à ne pas trop la mélanger, votre gâteau lèvera mieux.
+    Enfourner 45 minutes.
+    Surveillez bien la cuisson du gâteau, le miel le fera brunir plus rapidement.
+    Si votre gâteau fonce trop, couvrez le d'une feuille d'aluminium.
+    C'est un gâteau idéal à tout moment de la journée et aussi très pratique lors des fins de mois difficile.
+  ]]>
+  </preparation>
+</recette>

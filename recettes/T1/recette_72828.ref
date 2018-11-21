@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72828">
+  <titre>Pizza miel chèvre...(mélange des pizzas traditionnelles)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte à pizza</p>
+    <p>100 g (ou plus selon le goût) de miel roux</p>
+    <p>150 g de blanc de poulet</p>
+    <p>1 boîte d'ananas (200 g)</p>
+    <p>3 petits poivrons (jaune, rouge, vert)</p>
+    <p>1 oignon</p>
+    <p>100 g de chèvre</p>
+    <p>fromage râpé (100 g)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre une pâte à pizza toute prête ou la faire et la disposer sur une plaque avec du papier aluminium saupoudré de farine.
+    Couper en dés les morceaux d'ananas puis les mettre au frais.
+    Couper le blanc de poulet en cube et le faire cuire légèrement dans une poêle.
+    Couper les poivrons en formes de lamelles.
+    Couper les oignons finement.
+    Trancher le chèvre en rondelles.
+    Etaler le miel roux sur la pâte à pizza de facon uniforme. 
+    Ajouter les dés d'ananas ainsi que le blanc de poulet, placer ensuite les poivrons et les oignons.
+    Et enfin au dessus, placer d'abord le fromage râpé puis le chèvre.
+    Placer la pizza au four pendant 25 min; surveiller tout de même la cuisson.
+    Bon appétit!!!!
+    Super pour les soirées entre amis, pizza assez copieuse...!!
+  ]]>
+  </preparation>
+</recette>

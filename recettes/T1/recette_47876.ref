@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47876">
+  <titre>Papillotes de saumon navets et carottes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 pavés de saumon</p>
+    <p>2 carottes</p>
+    <p>2 navets</p>
+    <p>1 citron</p>
+    <p>une petite brique de crème fraîche légère (5%)</p>
+    <p>sel, poivre</p>
+    <p>papier de cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les carottes et les navets, les faire revenir dans une noix de beurre dans 2 poêles séparées.
+    Poser un pavé de saumon sur une feuille de papier cuisson.
+    Ajouter sur le saumon un peu de jus de citron, saler et poivrer.
+    Ajouter une cuillère à café de crème fraîche puis un peu de navet sur une moitié du pavé et un peu de carottes sur l'autre moitié.
+    Replier le papier cuisson afin de réaliser une papillote et la poser dans un plat, faire cuire environ 30 minutes dans un four préchauffé à 180°C (thermostat 6).
+    Procéder de la même façon pour les 3 autres pavés de saumon.
+    Ce plat peut être accompagné de riz basmati.
+  ]]>
+  </preparation>
+</recette>

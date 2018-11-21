@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69626">
+  <titre>Artichauts au brocciu</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 petits artichauts</p>
+    <p>1 brocciu ou à défaut 1 brousse</p>
+    <p>1 oeuf</p>
+    <p>1/2 botte de persil haché</p>
+    <p>un peu de mie de pain</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retailler les queues des artichauts.
+    Faire bouillir un grand volume d'eau salée et y plonger les artichauts durant environ 15 à 20 minutes.
+    Dans un saladier, mettre le brocciu égoutté, l'oeuf, le persil haché, saler, poivrer et mélanger à l'aide d'une fourchette.
+    Egoutter les petits artichauts et écarter les feuilles pour pouvoir les farcir ensuite fariner les artichauts côté brocciu et faire frire à la poêle toujours du même côté jusqu'à ce que le brocciu soit bien doré.
+    Un conseil ne prenez pas un brocciu du jour pour la tenue à la cuisson. Vous pouvez ajouter un peu de menthe ciselée au brocciu si vous aimez. On peut ajouter un coulis de tomate dans la poêle afin d'avoir une sauce.
+  ]]>
+  </preparation>
+</recette>

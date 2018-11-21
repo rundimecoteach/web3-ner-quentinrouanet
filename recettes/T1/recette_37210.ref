@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37210">
+  <titre>Gratin de pâtes au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes</p>
+    <p>6 tranches de jambon (dinde, poulet ou porc)</p>
+    <p>1 sachet de sauce béchamel</p>
+    <p>sel, poivre</p>
+    <p>aïl en poudre</p>
+    <p>persil</p>
+    <p>gruyère rappé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire vos pâtes en y ajoutant du sel à la cuisson.
+    Une fois égouttées, versez dans un plat une rangé de pâtes puis parsemez de jambon que vous aurez préalablement coupé en dé, recommencez l'opération et terminez par le jambon.
+    Préparez la sauce béchamel et versez sur les pâtes.
+    Saupoudrez un peu d'ail séché, du sel, du poivre et du persil.
+    Parsemez votre plat de gruyère râpé selon votre convenance.
+    Laissez gratiner au four à 200°C (thermostat 6-7) pendant 20 minutes.
+  ]]>
+  </preparation>
+</recette>

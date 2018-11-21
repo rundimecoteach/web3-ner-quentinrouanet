@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29254">
+  <titre>Tarte tutti-frutti à la crème de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>200 g de chocolat fondant</p>
+    <p>850 g de fruits en sirop en morceaux (1 grande boîte)</p>
+    <p>4 oeufs</p>
+    <p>20 cl de crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 220°C (thermostat 7/8).
+    Etaler la pâte brisée et en garnir le fond d'un moule à tarte. Puis la piquer à la fourchette et la faire cuire à blanc 15 min au four chaud.
+    Faire fondre le chocolat cassé en morceaux avec 6 cuillères à soupe de sirop de fruits, soit au bain-marie soit 2 minutes au micro-ondes puissance maximale.
+    Dans un saladier, battre les oeufs entiers avec la crème liquide en fouettant vigoureusement, puis verser le chocolat fondu par-dessus.
+    Mettre les fruits égouttés sur la pâte à tarte. Verser ensuite dessus la crème au chocolat.
+    Enfourner la tarte et la laisser cuire 30 min à four chaud.
+    Déguster tiède ou laisser refroidir avant de servir.
+  ]]>
+  </preparation>
+</recette>

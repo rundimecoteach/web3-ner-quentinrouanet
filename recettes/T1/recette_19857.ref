@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19857">
+  <titre>Dés de poulet sautés au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de poulet (que l'on peut remplacer par de la dinde, ou du porc) </p>
+    <p>1 cuillerée à soupe d'huile d'olive</p>
+    <p>1 cuillerée à soupe de sauce soja</p>
+    <p>un peu de piment en poudre (facultatif) </p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>3 carottes</p>
+    <p>petits pois</p>
+    <p>10 cuillères à soupe de riz cuit</p>
+    <p>purée de tomate</p>
+    <p>sel, poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire mariner une demi journée les escalopes de poulet coupées en dés dans l'huile, la sauce soja, le piment et l'ail et l'oignon coupés en petits morceaux. 
+    Dans une poêle, cuire la viande accompagnée de l'ail et l'oignon. Réserver la marinade. 
+    Une fois la viande cuite, la réserver, et dans la même poêle, cuire les carottes coupées en dés selon votre goût (fermes ou molles), ajouter ensuite les petits pois, le riz et la purée de tomate. Mélanger. Ajouter la marinade au mélange, puis les dés de viande. 
+    Laisser chauffer quelques minutes à feu doux. Saler, poivrer, et parsemer de quelques herbes de Provence.
+    Il est possible de remplacer les carottes et les petits pois par n'importe quels légumes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51589">
+  <titre>Tarte nutella et ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte feuilletée</p>
+    <p>3 oeufs</p>
+    <p>50 g de sucre</p>
+    <p>20 cl de crème liquide</p>
+    <p>7 tranches d'ananas</p>
+    <p>4 à 5 cuillères à soupe de nutella</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Mettre la pâte dans un moule, la garnir avec du nutella, ajouter les tranches d'ananas sans les couper.
+    Dans un saladier, battre les oeufs, le sucre et la crème liquide puis recouvrir la pâte de ce mélange.
+    Mettre au four 30 à 35 minutes.
+    Servir froid. Peut se servir avec une boule de glace à la vanille.
+    Vous pouvez mettre de la poire au lieu de l’ananas. Mes enfants et mon mari ont adopté ce gâteau, un régal pour les gourmands.
+  ]]>
+  </preparation>
+</recette>

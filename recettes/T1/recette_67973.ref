@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67973">
+  <titre>Quatuor de mousses au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs (4 blancs + 1 jaune)</p>
+    <p>40 g de chocolat au lait</p>
+    <p>40 g de chocolat blanc </p>
+    <p>40 g de chocolat noir corsé </p>
+    <p>40 g de chocolat noir aux noisettes </p>
+    <p>80 g de beurre</p>
+    <p>70 g de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cassez les oeufs en séparant les blancs des jaunes. Ne gardez qu'un jaune sur les 4.
+    Faîtes fondre chaque variété de chocolat avec une cuiller à soupe d'eau, indépendemmment dans un bol ou un saladier (comptez 30 à 40 secondes au micro-ondes à 800W).
+    Mélangez avec une cuillère en bois le chocolat avec 20 g de beurre dans chacun des bols (vous pouvez mettre un peu moins dans le bol de chocolat blanc, celui-ci étant un peu plus gras).
+    Incorporez ensuite 1/4 de jaune d'oeuf dans chacun des bols.
+    Montez les 4 blancs en neige, puis incorporez délicatement le sucre pour obtenir une meringue.
+    Incorporez dans chaque bol indépendemment 1/4 de la meringue délicatement.
+    Mettez les bols 3h00 minimum au réfrigérateur.
+    Au moment de servir, composez 4 petits tas de mousse dans chacune des assiettes. Complétez avec des gâteaux ou des fruits frais.
+    A mon sens, la meilleure façon de faire une mousse au chocolat. Si vous ne souhaitez pas vous compliquer la vie, vous ne pouvez utiliser qu'une sorte de chocolat, avec les mêmes proportions. Champagne ou vin blanc
+  ]]>
+  </preparation>
+</recette>

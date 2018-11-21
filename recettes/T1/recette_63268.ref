@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63268">
+  <titre>Crumble courgettes-poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 courgettes moyennes</p>
+    <p>2 poivrons rouges</p>
+    <p>3 tomates</p>
+    <p>200 g de farine</p>
+    <p>100 g de beurre salé</p>
+    <p>50 g de parmesan</p>
+    <p>1/2 cuillère à café de piment doux</p>
+    <p>1 belle branche de thym</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Couper tous les légumes en petits cubes et les placer dans un grand plat à gratin. Verser un filet d'huile d'olive, saler, poivrer.
+    Préparer le crumble : 
+    Mélanger du bout des doigts la farine, le beurre salé coupé en dés, le parmesan râpé, le piment doux et le thym effeuillé jusqu'à l'obtention d'une pâte grumeleuse.
+    Répartir le crumble sur les légumes et enfourner pour 40 minutes. Au bout de ce temps passer sous le grill 5 minutes.
+    Le piment doux apporte un p'tit quelque chose en plus... Mais, même doux, n'en abusez pas de trop au risque de voir vos convives faire la grimace!! Un bon rosé de Provence
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57412">
+  <titre>Saint-jacques à l'aigre-douce</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 noix de st jacques</p>
+    <p>250 g carottes</p>
+    <p>4 échalotes</p>
+    <p>1 cuillère à soupe de ciboulette ciselée</p>
+    <p>2 oeufs</p>
+    <p>75 g beurre</p>
+    <p>10 cl de crème liquide</p>
+    <p>10 cl de vinaigre d'alcool</p>
+    <p>20 cl de porto</p>
+    <p>30 cl de vin rouge corsé</p>
+    <p>1 filet huile olive</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les carottes, puis les émincer finement, les cuire 8 minutes.
+    Les égoutter et les mixer.
+    Saler et poivrer, ajouter les oeufs, la moitié de la crème et mixer. Cet appareil à flan doit être onctueux et lisse.
+    Ajouter ensuite la ciboulette et mélanger.
+    Ne pas re-mixer.
+    Préchauffer le four à 130°.
+    Beurrer grassement les moules à flan, puis les garnir au 3/4.
+    Disposer ces moules dans une cocotte avec de l'eau et glisser au four 30 mn à 130°.
+    Mettre les échalotes hachées dans un poêlon, ajouter le vinaigre et le porto rouge, porter à ébullition et laisser réduire pratiquement à sec.
+    Ajouter alors le vin rouge et laisser réduite à nouveau, il doit rester la valeur de 2 cuillères à soupe de jus.
+    Puis monter ce jus au beurre, mettre 60 g de beurre froid en petits morceaux et mélanger avec un fouet, passer cette sauce à travers un chinois.
+    Chauffer un peu d'huile puis disposer les nois de st jacques à dorer.
+    Démouler les flancs, en disposer un au centre de chaque assiette puis verser un cordon de sauce aigre-douce tout autour et disposer harmonieusement 3 St Jacques par assiette et parsemer de quelques grains de fleur de sel.
+     Vin blanc sec ou vin rouge corsé
+  ]]>
+  </preparation>
+</recette>

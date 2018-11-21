@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172959">
+  <titre>Soupe poulet Itame</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de lait de coco</p>
+    <p>2 filets de poulet</p>
+    <p>10 cm de racine de gingembre frais</p>
+    <p>partie supérieur de la citronnelle ( en boutique asiatique)</p>
+    <p>coriandre fraîche</p>
+    <p>piment rouge</p>
+    <p>bok choy ( en boutique asiatique)</p>
+    <p>1 oignon rouge</p>
+    <p>1 poivron rouge</p>
+    <p>2 oignons verts</p>
+    <p>100g de soja frais</p>
+    <p>100g de pâte chinoise (au riz)</p>
+    <p>sauce de poisson (Nuoc Nam)</p>
+    <p>jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Assaisonnez le poulet d'huile végétale, sel, poivre et faire frire des 2 côtés puis réserver.
+    Faites bouillir les pâtes chinoises (selon le mode d'emploi sur le paquet).Coupez et préparez les légumes:
+    décortiquez le bok choy
+    émincez les oignon rouge et verts
+    détaillez le poivron
+    préparez le soja
+    Faites-les revenir dans de l'huile.
+    Mettez le lait de coco (dilué dans sa moitié d'eau), la citronnelle, gingembre, coriandre et le poulet coupé en morceaux dans une casserole.
+    Faites bouillir 10 min à feu doux.
+    Incorporez la sauce de poisson, le jus de citron et le piment (à votre convenance).Retirez la citronnelle.Répartissez le bouillon et les pâtes dans 2 grands bols.Dégustez chaud.Recette du célèbre restaurant Wagamama !Possibilité de remplacer le poulet par des crevettes ou du tofu pour les végétariens.
+  ]]>
+  </preparation>
+</recette>

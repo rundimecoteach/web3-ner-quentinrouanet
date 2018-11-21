@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227706">
+  <titre>Purée onctueuse trois couleurs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 pommes de terre</p>
+    <p>500 g de carottes </p>
+    <p>500 g de choux brocolis</p>
+    <p>50 cl de lait</p>
+    <p>1 sachet de gruyère râpé</p>
+    <p>50 g de beurre</p>
+    <p>1 sel</p>
+    <p>1 poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les pommes de terres, les couper en morceaux. Peler les carottes, les couper en rondelle. Nettoyer le choux brocolis et ne garder que les fleurettes. Mettre les carottes dans de l'eau froide salée et les laisser cuire environ 15 min.
+    Retirer du feu et y ajouter le choux brocolis et les pommes de terre. Après reprise de l'ébullition, laisser le tout cuire environ 50 min. S'assurer de la cuisson du tout avec la pointe d'un couteau.
+     
+    Une fois cuits, vider l'eau, réduire en purée, y ajouter le beurre, le poivre, ajuster le sel en fonction de la quantité mise pour la cuisson. Ensuite ajouter le gruyère râpé, bien mélanger pour avoir une consistance homogène et diluer le lait jusqu'à obtenir une purée onctueuse.Pour avoir une purée plus onctueuse, il suffit de faire chauffer un peu le lait avant de l'ajouter à la purée. Accompagnée d'une viande rouge, un bon vin de Bordeaux.
+  ]]>
+  </preparation>
+</recette>

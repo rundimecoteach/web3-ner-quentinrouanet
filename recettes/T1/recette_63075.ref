@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63075">
+  <titre>Pâtes carbonara allégées</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 cuillères à soupe de fromage blanc à 0%</p>
+    <p>1 oignon</p>
+    <p>200 g de lardons</p>
+    <p>un jaune d'oeuf</p>
+    <p>poivre</p>
+    <p>1 pincée de coriandre</p>
+    <p>1 pincée de muscade</p>
+    <p>350 g de pâtes de blé complet</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes comme indiqué sur le paquet.
+    Dans une poêle, faire revenir l'oignon en même temps que les lardons. Les égoutter pour débarrasser du gras superflu.
+    Dans une casserole, verser le fromage blanc, et le faire chauffer à feu très doux, pour éviter que le fromage blanc ne se transforme en fromage. Y verser la muscade, la coriandre et le poivre.
+    Ajouter au mélange l'oignon et les lardons, ainsi que le jaune d'oeuf.
+    Retirer du feu et servir.
+  ]]>
+  </preparation>
+</recette>

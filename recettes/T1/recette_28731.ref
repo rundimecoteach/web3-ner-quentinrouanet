@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28731">
+  <titre>Zéphyr au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de fécule de pomme de terre</p>
+    <p>200 g de chocolat noir</p>
+    <p>180 g de sucre semoule</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>100 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 bouchon de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat au bain-marie. 
+    Préchauffer le four thermostat 4 (120°C). 
+    Pendant ce temps, séparer le blanc des jaunes d'oeufs. 
+    Battre les jaunes avec le sucre pour obtenir un mélange mousseux. 
+    Ajouter la fécule et la levure. Remuer énergiquement. 
+    Faire ramollir le beure coupé en morceaux dans le chocolat fondu. Puis verser dans le mélange précédent. 
+    Battre les blancs en neige et incorporer délicatement à la pâte. 
+    Verser dans un moule et faire cuire 40 mn au four thermostat 7 (180°C). 
+    Vérifier la cuisson du gâteau en plongeant une lame de couteau. 
+    Démouler aussitôt, laisser refroidir. 
+    Décorer de sucre glace et accompagner d'une crème anglaise.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83520">
+  <titre>Gratin de poissons ou fruits de mer à la vanille</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>90 cl de lait</p>
+    <p>Fromage râpé</p>
+    <p>2 gousses de vanille</p>
+    <p>Sel et poivre au moulin</p>
+    <p>600 g de morceaux choisis de poissons nordiques (picard)ou 500 g de St jacques sans corail et 200 g crevettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une béchamel avec le beurre fondu y ajouter la farine puis petit à petit le lait ajouter les gousses de vanilles fendues dans leur longueur, mettre à feu très doux. Saler, Poivrer. Puis ajouter un peu de fromage râpé.
+    Faire décongeler le poisson ou les fruits de mer (la veille) ou au micro-ondes, après les avoir égouttés, les mettre dans un plat à gratin. Ou dans des ramequins individuels si entrée.
+    Couvrir de béchamel, puis de fromage râpé suivant les goûts.
+    Mettre au four à 200°c(thermostat 7)une vingtaine de minute en surveillant.
+    Servir avec un riz basmati.
+  ]]>
+  </preparation>
+</recette>

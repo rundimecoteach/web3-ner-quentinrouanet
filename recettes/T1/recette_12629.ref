@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12629">
+  <titre>Scampi à l'estragon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de scampis</p>
+    <p>2 échalotes</p>
+    <p>1 boîte de coulis de tomate</p>
+    <p>1 boîte de crème fraîche liquide</p>
+    <p>1 boîte de champignons de préférence frais</p>
+    <p>2 cuillère à soupe de vin blanc</p>
+    <p>quelques pincées d'estragon frais</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquez les scampis. Incisez-les à partir de leur queue jusqu'à la moitié de leur corps.
+    Faites chauffer de l'huile d'olive dans une grande poêle et faites-y roussir les scampis. Ajoutez les échalotes, les champignons frais et laissez cuire le tout à feu vif.
+    Versez dans cette préparation le coulis de tomate, le vin blanc, la crème fraîche et assaisonnez le tout.
+    En fin de cuisson, ajoutez l'estragon frais et mélangez.
+     vin blanc
+  ]]>
+  </preparation>
+</recette>

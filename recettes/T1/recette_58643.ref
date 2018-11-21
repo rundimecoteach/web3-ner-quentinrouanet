@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58643">
+  <titre>Courgettes farcies au steak haché</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 courgettes moyennes et rondes</p>
+    <p>2 ou 3 steaks hachés</p>
+    <p>3 oeufs</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>sel et poivre du moulin</p>
+    <p>2 à 3 cuillères à café de curry</p>
+    <p>2 grosses cuillères à soupe de chapelure</p>
+    <p>100 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Couper les courgettes en deux et les mettre de côté (2 courgettes par personne).
+    Dans une poêle : mettre un peu d'huile d'olive, ajouter l'oignon et les gousses d'ail. Ajouter les steaks hachés. Saler, poivrer et mettre les cuillères de curry. Lorsque les steaks sont cuits, ajouter le curry et mélanger hors du feu. Battre les oeufs, les ajouter avec la chapelure.
+    Creuser les courgettes et les remplir de farce. Ajouter du fromage râpé et mettre au four à 180°C (thermostat 6) pendant 45 minutes.
+    Vous pouvez faire la même chose avec des pommes de terre.
+  ]]>
+  </preparation>
+</recette>

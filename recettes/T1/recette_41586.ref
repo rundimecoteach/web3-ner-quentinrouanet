@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41586">
+  <titre>Le broyé poitevin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>250 g de sucre blanc</p>
+    <p>250 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 pincée de sel (ou utiliser du beurre demi-sel)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine, le sucre, le sel et le beurre coupé en petit morceau (pour facilité le mélange).
+    Malaxer à la main (surtout pas au robot pour ne pas casser les grains du sucre) le tout jusqu'à obtenir un mélange homogène (ressemblant plus ou moins à du crumble).
+    Mettre le mélange dans un plat à tarte de 30 cm de diamètre pour obtenir une galette de 2 cm d'épaisseur.
+    Lisser le tout, et badigonner avec le jaune d'oeuf pour faire dorer.
+    Mettre au four 45 minutes à 150°C (thermostat 5).
+    Laisser refroidir après cuisson pour solidifier le gâteau.
+    Bon appétit et attention aux dents c'est un peu dur!!!
+    Les 500g de farine peuvent être remplacés par: 350g de farine et 200g de noisettes concassées (surtout pas en poudre).Plutot que de mettre une pincée de sel vous pouvez utiliser du beurre demi-sel. thé ou café
+  ]]>
+  </preparation>
+</recette>

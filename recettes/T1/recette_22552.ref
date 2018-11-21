@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22552">
+  <titre>Fricassé de poulet au paprika et poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet d'1,2 kg découpé en morceaux</p>
+    <p>1 kg de poivrons rouges</p>
+    <p>150 g de lard de poitrine fumé</p>
+    <p>3 gros oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>80 g d'olives vertes</p>
+    <p>10 cl de vermouth blanc</p>
+    <p>1 bouquet garni</p>
+    <p>1 cuillère de paprika</p>
+    <p>persil</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites griller les poivron 20 min au four en les retournant souvent.
+    Enfermez-les dans un récipient hermétique : la condensation vous facilitera l'épluchage.
+    Pelez et épépinez-les, découpez-les en lanières.
+    Salez et poivrez les morceaux de poulet.
+    Saupoudrez-les de paprika.
+    Découpez le lard en lardons, émincez les oignons et écrasez l'ail.
+    Faites dorer ces 3 éléments dans une cocotte avec de l'huile chaude.
+    Retirez le tout et réservez.
+    Faites dorer le poulet dans la même cocotte, versez le vermouth et rajoutez le bouquet garni. Couvrez et laissez mijoter 20 min à feu moyen.
+    Dans une poêle chaude, faites revenir les poivrons dans un fond d'huile.
+    Salez, poivrez et saupoudrez d'ail.
+    Ebouillantez les olives dénoyautées 5 min.
+    Otez le bouquet garni de la cocotte et remettez les lardons et oignons dans la cocotte.
+    Rajoutez les olives et les poivrons.
+    Couvez et laissez mijoter 15 minutes puis servez.
+    Vous pouvez bien sûr prendre uniquement des cuisses de poulet si vous préférez.
+  ]]>
+  </preparation>
+</recette>

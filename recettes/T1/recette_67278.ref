@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67278">
+  <titre>Tagliatelles fraîches sauce à la crème, aux noix de Saint-Jacques et crevettes à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de tagliatelles fraîches</p>
+    <p>200 g de noix de Saint-Jacques surgelées avec ou sans corail selon les goûts</p>
+    <p>100 g de crevettes surgelées décortiquées</p>
+    <p>5 cuillères à soupe de crème fraîche</p>
+    <p>2 jaunes d'oeuf </p>
+    <p>1 cuillère à soupe bombée de persil émincée</p>
+    <p>du poivre</p>
+    <p>1 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour les pâtes : suivre les indications sur le paquet.
+    Pour la sauce :
+    Dans une poêle, mettre l'huile et les noix de Saint-Jacques surgelées sur le feux jusqu'à disparition complète de l'eau dégorgée (les Saint-Jacques doivent roussir un peu).
+    En attendant dans un saladier allant au micro-ondes, y mettre les crevettes et recouvrir d'eau. Mettre à chauffer 3 bonnes minutes puis égoutter et ajouter aux noix de Saint-Jacques.
+    Ajouter la crème, le persil haché, le poivre et laisser mijoter 5 minutes à feu doux. Enfin sur feu éteint et juste avant de servir, ajouter les jaunes d'oeufs et remuer rapidement pour éviter l'effet omelette.
+    Dresser les pâtes sur les assiettes, ajouter la sauce et servir.
+    Rapide, simple et délicieux. Si les noix de Saint-Jacques sont grosses, les couper en dés. vin blanc
+  ]]>
+  </preparation>
+</recette>

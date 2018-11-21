@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21315">
+  <titre>PARMENTIER DE POIS CASSES</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de pois cassés</p>
+    <p>300 g de viande hachée</p>
+    <p>sel, poivre</p>
+    <p>chapelure</p>
+    <p>beurre pour le plat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pois cassés dans l'eau salée pendant 40 mn. 
+    Les réduire en purée au mixer, saler, poivrer. 
+    Beurrer un plat à gratin. Etaler une couche épaisse de pois cassés puis une couche viande et une deuxième couche de pois cassés. 
+    Recouvrir de chapelure et mettre quelques noix de beurre dessus. 
+    Enfourner à four chaud, jusqu'à ce que çà dore, et servir.
+  ]]>
+  </preparation>
+</recette>

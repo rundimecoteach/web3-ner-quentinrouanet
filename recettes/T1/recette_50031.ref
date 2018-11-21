@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50031">
+  <titre>Bavarois light au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de chocolat pâtissier</p>
+    <p>125 g de fromage blanc</p>
+    <p>3 g d'aspartame</p>
+    <p>25 cl de lait</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>3 feuilles de gélatine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les jaunes d'oeufs et l'aspartam. 
+    Pendant ce temps, faire chauffer le lait et le chocolat, mélanger de temps en temps pour faire fondre le chocolat. 
+    Faire ramollir la gélatine dans un bol d'eau froide, puis égoutter.
+    Mélanger le mélange jaune + aspartam, à celui lait + chocolat. Faire épaissir sur le feu, puis ajouter la gélatine. Y incorporer le fromage blanc préalablement fouetté (au batteur). 
+    Verser dans un moule, puis le placer au moins 12 h au réfrigérateur pour faire prendre la préparation.
+  ]]>
+  </preparation>
+</recette>

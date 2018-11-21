@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21189">
+  <titre>Poulet pané aux herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>60 g de farine</p>
+    <p>1 oeuf</p>
+    <p>10 cl de lait</p>
+    <p>50 g de beurre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillerée à soupe de persil</p>
+    <p>2 cuillerée à café d'estragon</p>
+    <p>2 cuillerée à café de romarin</p>
+    <p>1 zeste de citron râpé</p>
+    <p>1 cuillerée à café de sel fin</p>
+    <p>1/2 cuillerée à café de poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Utilisez des herbes sèches en pot, plus pratiques pour cette recette.
+    Mélangez la farine avec les herbes, le zeste de citron, le sel et le poivre.
+    Battez l'oeuf avec le lait dans une assiette creuse.
+    Trempez les morceaux de poulet dans l'oeuf battu puis passez-les dans la farine aux herbes.
+    Réservez au frais au moins 1h.
+    Faites chauffer la moitié du beurre et l'huile dans un plat à four jusqu'à ce que le beurre grésille.
+    Mettez les morceaux de poulet dedans et arrosez-les de beurre fondu.
+    Faites cuire 50 min au four à 180°C (thermostat 6) en retournant les morceaux de poulet à mi-cuisson pour qu'ils soient bien dorés.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23462">
+  <titre>Mousse au chocolat et à la menthe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de chocolat noir</p>
+    <p>2 cuillères à soupe de sirop de menthe</p>
+    <p>20 g de beurre</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat avec le beurre au micro-onde (1 mn puissance maximum). Hors du feu, ajouter au chocolat fondu les jaunes d'oeufs et le sirop de menthe. 
+    Battre les blancs d'oeufs en neige et les incorporer délicatement (avec une spatule sans remuer) au mélange chocolat. Verser la mousse dans des ramequins et la faire prendre au réfrigérateur (2 henviron). Avant de servir, décorer avec une feuille de menthe.Une mousse au chocolat rafraîchissante, idéale pour l'été. 
+  ]]>
+  </preparation>
+</recette>

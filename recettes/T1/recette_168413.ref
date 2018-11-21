@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168413">
+  <titre>Pseudo-moussaka épicée aux courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de courgettes</p>
+    <p>500 g de viande de boeuf hachée</p>
+    <p>1 grosse boites de tomates pelées au jus</p>
+    <p>1 cuillère à café de concentré de tomates</p>
+    <p>6 gousses d'ail</p>
+    <p>125 g (une boule) de mozzarella</p>
+    <p>Curry</p>
+    <p>Paprika</p>
+    <p>Pili Pili</p>
+    <p>Herbes de Provence</p>
+    <p>10 cl de Vin blanc sec</p>
+    <p>Huile d'olive</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Préchauffer le four, thermostat 6.
+    Débiter les courgettes en rondelles de 5 mm d'épaisseur.
+    Faire revenir la viande hachée dans un peu d'huile d'olive pour qu'elle soit bien dorée. Presser 3 gousses d'ail, ajouter du poivre, un peu de pili pili et des herbes de Provence.
+    Dans un plat à gratin, disposer une couche de courgettes, un peu de curry, la viande assaisonnée, une couche de courgettes, un peu de curry et de poivre. Arroser le tout de 10 cl de vin blanc sec.
+    Ouvrir la boîte de tomates et y passer à plusieurs reprises un couteau pour concasser grossièrement les tomates.
+    Préparer une sauce tomate dans la même poêle que celle qui a été utilisée pour la viande hachée. Dans un peu d'huile d'olive, faire réduire les tomates, avec du paprika et du pili pili. Incorporer 3 gousses d'ail pressées. 
+    Disposer la préparation sur les courgettes et la viande. Recouvrir le tout de mozzarella coupées en petits dés.
+    Enfourner pendant environ 1 heure (piquer un couteau pour vérifier la cuisson des courgettes).Hors saison, je préfère utiliser des tomates en boîte qui, à chaud, font assez bien illusion.
+  ]]>
+  </preparation>
+</recette>

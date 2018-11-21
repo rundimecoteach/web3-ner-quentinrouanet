@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24441">
+  <titre>Bûche à la patate douce</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de patates douces</p>
+    <p>250 g de chocolat</p>
+    <p>250 g de beurre</p>
+    <p>20 g de sucre</p>
+    <p>1 tasse de café très noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les patates douces dans leur peau (à l'eau ou à la vapeur). 
+    Les peler encore chaude et les réduire en purée. 
+    Sur feu doux, incorporer au fur et à mesure le sucre, le chocolat, le café et le beurre sans cesser de remuer. 
+    Beurrer un moule à cake, le remlpir de la préparation et mettre au congélateur pendant 24 ha u minimum. 
+    Sortir du congélateur 1 h avant de servir et présenter en tranches d'environ 1 cm d'épaisseur.
+  ]]>
+  </preparation>
+</recette>

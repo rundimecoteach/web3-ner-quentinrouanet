@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50835">
+  <titre>Tarte légère à la fourme d'Ambert</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>250 g de fourme d'Ambert</p>
+    <p>3 à 4 tomates</p>
+    <p>huile d'olive</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans un moule à tarte, puis la piquer avec une fourchette. 
+    Tartiner le fond de moutarde, et ajouter ensuite la fourme coupée en tranches par dessus. 
+    Disposer les tomates coupées en rondelles d'environ 5 mm, verser un filet d'huile d'olive, et saupoudrer d'herbes de Provence. 
+    Enfourner à 210°C (thermostat 7), pendant 20 min.
+    Peut se servir en entrée pour 6 à 8 personnes, ou le soir, avec une salade pour 2 à 3 personnes.
+  ]]>
+  </preparation>
+</recette>

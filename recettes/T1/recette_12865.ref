@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12865">
+  <titre>Paupiettes de filet mignon à la mozzarella</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 filet mignon de porc</p>
+    <p>8 larges tranches de chorizo</p>
+    <p>2 boules de mozzarella</p>
+    <p>sel, poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper en 8 portion un beau filet mignon de porc. 
+    Sur chaque portion, mettre une tranche de mozzarella puis couvrir avec une large tranche de chorizo, ficeler vos paupiettes avec de la ficelle à roti.
+    Poivrer mais ne pas trop saler surtout si vous utilisez du chorizo fort.
+    Faire revenir dans une poêle huilée pendant un quart d'heure environ.
+    Vous pouvez servir accompagné d'un coulis de tomates et d'un plat de haricots verts ou de céréales (type Ebly ou Céréales méditerranéennes).
+     Un chianti ou un vin d'Anjou
+  ]]>
+  </preparation>
+</recette>

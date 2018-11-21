@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47131">
+  <titre>Asperges fraîches et crevettes marinées</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 crevettes</p>
+    <p>8 asperges vertes fraîches</p>
+    <p>1 sachet de pousses d'épinards</p>
+    <p>Pour la marinade des crevettes :</p>
+    <p>le jus d'1 orange</p>
+    <p>le jus d'1 citron</p>
+    <p>1/4 de verre de whisky</p>
+    <p>4 gousses d'ail</p>
+    <p>curry</p>
+    <p>curcuma</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>Pour le velouté d'asperges :</p>
+    <p>400 g d'asperges blanches en boîte</p>
+    <p>2 pommes de terre</p>
+    <p>sel et poivre</p>
+    <p>1/2 bouillon cube de poule</p>
+    <p>3/4 de litre d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes, en ne laissant que la queue.
+    Dans un plat, mettre tous les ingrédients de la marinade, et y disposer les crevettes. Laisser reposer 1 nuit ou au moins 3 h.
+    Préparer le velouté d'asperges : 
+    Plonger les asperges et les pommes de terre en petits morceaux dans l'eau chaude. Laisser cuire jusqu'à ce que les pommes de terre soient cuites. 
+    Saler, poivrer, ajouter le bouillon cube et mixer avec du lait.
+    Cuire les asperges vertes pendant 20 min, après les avoir épluchées.
+    Dresser l'assiette juste avant de servir : mettre quelques pousses d'épinards, ajouter dessus les crevettes préalablement dorées à la poêle, ajouter de la marinade des crevettes. 
+    A coté, disposer 2 asperges vertes et 1 verre à chupito de velouté d'asperges chaud.
+    Régalez vous!
+    C'est une entrée qui fait son effet : très jolie à voir et excellente à déguster Un vin blanc type Riesling
+  ]]>
+  </preparation>
+</recette>

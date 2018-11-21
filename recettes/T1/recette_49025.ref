@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49025">
+  <titre>Jolie charlotte au verre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 cuillère à soupe bombée de mascarpone</p>
+    <p>1 cuillère à soupe bombée de "crème de yaourt"</p>
+    <p>1 cuillère à soupe de cassonade</p>
+    <p>1 fruit d'été coupé en petits morceaux ou des fruits rouges</p>
+    <p>2 biscuits à la cuillère</p>
+    <p>jus d'orange</p>
+    <p>liqueur Amaretto ou autre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un verre, superposer :
+    1 couche du mélange fromages et sucre,
+    1 biscuit trempé dans le jus d'orange et l'Amaretto (3 cuillères de jus pour une de liqueur),
+    1 couche de fruits coupés.
+    Recommencer les 3 couches et terminer par un peu de mélange fromages/sucre.
+    Décorer avec une feuille de menthe et 3 fruits rouges.
+    Si possible à faire la veille.
+    Servir très frais.
+  ]]>
+  </preparation>
+</recette>

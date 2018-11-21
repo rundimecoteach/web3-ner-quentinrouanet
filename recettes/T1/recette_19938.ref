@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19938">
+  <titre>Soufflé de St Jacques sauce aux écrevisses</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de noix de St jacques (si surgelées les décongeler dans du lait) </p>
+    <p>1 oeuf entier </p>
+    <p>2 blancs d'oeufs</p>
+    <p>50 cl de crème fraîche épaisse</p>
+    <p>sel et poivre</p>
+    <p>Pour la sauce :</p>
+    <p>1 boîte de bisque de homard (ou de soupe à l'écrevisse)</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les St Jacques avec l'oeuf entier et les 2 blancs. Incorporer la crème fraiche épaisse, le sel et le poivre.
+    Verser la préparation dans des ramequins bien beurrés (important)
+    les mettre au réfrigerateur au moins une demi journée. 
+    Cuire ensuite au four au bain marie 30 a 35 mn à thermostat 6. En fin de cuisson, chauffer la moitié de la bisque avec de la crème fraîche.
+    Retourner les petits soufflés sur une assiette. Il y a beaucoup d'eau: bien égoutter et servir individuellement avec la bisque. En décor, mettre quelques grosses crevettes ou autres.
+  ]]>
+  </preparation>
+</recette>

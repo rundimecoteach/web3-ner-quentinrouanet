@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51852">
+  <titre>Molletes Mexicains originaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petits pains ronds</p>
+    <p>1 boite de 250 g d'haricots noirs (plus facile si vous trouver une boite la costeña de frijoles ecrasés)</p>
+    <p>2 tomates</p>
+    <p>1/4 d'oignon</p>
+    <p>250 g de fromage oaxaca ou 8 tranches de fromage Manchego</p>
+    <p>2 petits piments verts (falcultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Coupez les pains dans le sens de la longueur.
+    Faites revenir les haricots dans une poêle avec une cuillère à soupe d'oignon coupé finement.
+    Ecrasez les haricots en purée et étalez-les sur le pain.
+    Mettez une tranche de fromage sur chaque pain et mettre au four pendant 10 minutes jusqu'a ce que le fromage soit fondu.
+    Coupez les tomates en petits dés ainsi que le reste de l'oignon et les piments.
+    Cette sauce se met sur le pain chaud et c'est prêt à être mangé.
+  ]]>
+  </preparation>
+</recette>

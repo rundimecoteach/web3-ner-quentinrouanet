@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65570">
+  <titre>Caille en pâte</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 cailles (2 par personnes)</p>
+    <p>1 verre de porto</p>
+    <p>quelques noisettes de foie gras de canard</p>
+    <p>quelques grains de raisin blanc</p>
+    <p>pain de mie</p>
+    <p>pâte feuilletée</p>
+    <p>1 œuf</p>
+    <p>sel, poivre, beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Désosser les cailles.
+    Les mettre sur un plat, ajouter les foies et arroser de porto.
+    Sur chaque caille, ajouter une noisette de foie gras, un ou deux grains de raisin pelé et épépiné, quelques dés de pain de mie frits au beurre.
+    Refermer les cailles, les enrober d'un carré de pâte feuilletée très mince puis dorer à l'œuf.
+    Cuire sur plaque, four moyen (environ 160°, thermostat 6) pendant 25 min.
+    Un peu long à faire (dessosage) mais tellement bon.
+  ]]>
+  </preparation>
+</recette>

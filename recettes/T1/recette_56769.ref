@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56769">
+  <titre>FLEISCHNACKA FEUILLETée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de viande hachée de boeuf ou des restes de pot au feu cuit</p>
+    <p>1 oignon haché</p>
+    <p>quelques brins de persil émincé</p>
+    <p>1 oeuf entier</p>
+    <p>sel, poivre</p>
+    <p>300 g de pâte feuilletée</p>
+    <p>un peu d'huile</p>
+    <p>1/4 l de bouillon de boeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un saladier la viande hachée avec l'oignon, le persil, l'oeuf, assaisonner de sel et poivre.
+    Etaler la pâte feuilletée en rectangle environ 40cm x 30 cm.
+    Etaler la préparation sur la pâte avec une fourchette c'est un peu plus facile.
+    Enrouler, souder les bords avec un peu d'eau et couper en tranches d'environ 2 cm d'épaisseur avec un couteau scie.
+    Faites revenir ces tranches dans une poële avec un peu d'huile, cuire très doucement car la pâte feuilletée doit gonfler.
+    Ranger dans un plat allant au four, arroser de bouillon (pas trop sinon la pâte ramollie) et réchauffer au four.
+    Ils sont meilleurs préparés la veille dans ce cas, arroser de bouillon le lendemain.
+    Accompagner d'une salade verte ou céleri rémoulade !
+    Spécialité alsacienne détournée l'original est fait avec de la pâte à nouille.
+  ]]>
+  </preparation>
+</recette>

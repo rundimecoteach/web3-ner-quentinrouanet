@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47088">
+  <titre>Brochettes de saumon à la mangue</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filet de saumon</p>
+    <p>2 mangues</p>
+    <p>100 g de beurre</p>
+    <p>1 cuillérée à café de curry</p>
+    <p>10 cl de lait de coco</p>
+    <p>10 cl de jus d'orange</p>
+    <p>30 cl de fumet de poisson</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le saumon en cubes.
+    Eplucher la mangue et tailler la pulpe en cubes.
+    Monter les brochettes en alternant saumon et mangue (3 de saumon et 2 de mangue).
+    Dans une casserole, faire fondre 40 g de beurre. Saupoudrer de curry.
+    Ajouter le jus d'orange et le fumet de poisson. Faire réduire de moitié.
+    Incorporer le reste de beurre, morceau par morceau, en fouettant.
+    Allonger la sauce de lait de coco.
+    Pocher les brochettes à la vapeur (posées sur un plat avec de l'eau au four traditionnel) et les servir avec la sauce.
+  ]]>
+  </preparation>
+</recette>

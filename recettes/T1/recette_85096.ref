@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85096">
+  <titre>Pâtes de riz aux moules et curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un paquet de spaghettis de riz (400 g en magasin asiatique)</p>
+    <p>moules surgelées </p>
+    <p>2-3 tomates fraîches</p>
+    <p>1 petit oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>piment en poudre</p>
+    <p>curry en poudre</p>
+    <p>huile d'olive</p>
+    <p>4 cuillères à soupe de vin blanc sec</p>
+    <p>sel,poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faites revenir l'oignon émincé et l'ail haché dans de l'huile d'olive.
+    Ajoutez les tomates débitées en morceaux. Arrosez de vin blanc. Salez. Poivrez et remuez.
+    Faites cuire les pâtes dans un grand volume d'eau bouillante.
+    Surveillez bien la cuisson en goûtant régulièrement : la cuisson des pâtes de riz est relativement rapide.
+    Pendant que les pâtes cuisent, ajoutez les moules dans la sauce oignons-tomates. Saupoudrez de piment et de curry selon vos goûts. Remuez et laissez mijoter à feu doux en attendant que les pâtes soient cuites.
+    Egouttez les nouilles de riz, et ajoutez-les à la sauce aux moules.
+  ]]>
+  </preparation>
+</recette>

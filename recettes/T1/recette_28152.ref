@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28152">
+  <titre>Soupe au thon et à la coriandre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de 200 g de thon au naturel</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 courgette</p>
+    <p>1 poireau</p>
+    <p>5 cl d'huile</p>
+    <p>100 g de riz</p>
+    <p>1/2 cuillère à café de grains de coriandre</p>
+    <p>1 petit morceau de gingembre frais</p>
+    <p>sel, poivre de Cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et éplucher tous les légumes. Couper les oignons et les poireaux en rondelles. Couper les courgettes et les carottes en petits bâtonnets.
+    Faire chauffer l'huile à feu doux, y jeter les légumes et remuer. Laisser cuire à couvert 10 minutes.
+    Saler et verser 1 l d'eau bouillante. Ajouter les grains de coriandre pilés et le gingembre râpé. Laisser cuire 30 minutes.
+    Faire cuire le riz à l'eau bouillante salée à part pendant 20 minutes. Egoutter.
+    Dans les assiettes, déposer un peu de thon égoutté, du riz et verser dessus la soupe de légumes. Saupoudrer de poivre de Cayenne et servir.
+  ]]>
+  </preparation>
+</recette>

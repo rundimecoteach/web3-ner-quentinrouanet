@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82935">
+  <titre>Saumon frais et fumé en croute à la choucroute</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de choucroute</p>
+    <p>20 cl de vin blanc</p>
+    <p>20 cl de fond de poissons</p>
+    <p>3 à 4 cuillères à soupe de crème fraiche</p>
+    <p>sel, poivre</p>
+    <p>Pour le poisson et la croûte :</p>
+    <p>1 saumon entier de 1 kg ou 2 filets de 500 g</p>
+    <p>100 g de saumon fumé</p>
+    <p>450 g de pâte feuilletée</p>
+    <p>1 oeuf</p>
+    <p>Pour la sauce :</p>
+    <p>1 échalote finement haché</p>
+    <p>25 g de beurre</p>
+    <p>15 cl de fond poisson</p>
+    <p>15 cl de vin blanc (riesling)</p>
+    <p>6 cuillères à soupe de crème fraiche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Laver la choucroute, faire mijoter 45 minutes. 
+    Laisser refroidir et incorporer la crème fraiche.
+    Parer 2 filets de saumon, saler poivrer. 
+    Abaisser la pâte en un rectangle plus grand que le poisson et au moins 3x plus large. 
+    Poser un filet sur un côté du rectangle et étaler la moitié de la choucroute.
+    Ajouter le saumon fumé et terminer par le second filet de saumon.
+    Humecter les bords du rectangle, fermer les bords, dorer à l'oeuf.
+    Mettre le poisson au four 30 à 40 minutes.
+     
+    Pour la sauce :
+    A feu doux, faire suer les échalotes, mouiller avec du fond de poisson et le vin blanc.
+    Reduire de moitié.
+    Au fouet, incorporer la crème fraiche, rectifier l'assaisonement si nécessaire.
+    Servir accompagné de sauce et de pommeS de terre à l'eau.
+     vin blanc Pinot d'Alsace
+  ]]>
+  </preparation>
+</recette>

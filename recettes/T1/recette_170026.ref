@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170026">
+  <titre>Marinade de saumon en salade</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>1 mangue</p>
+    <p>2 tomates</p>
+    <p>salade verte à volonté</p>
+    <p>3 pavés de saumon (frais !!)</p>
+    <p>2 citrons verts</p>
+    <p>1 citron jaune</p>
+    <p>gros sel</p>
+    <p>paprika</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les citrons verts, réserver les zestes.
+    Presser tous les citrons.
+    Enlever la peau des saumons et couper les pavés en dés.
+    Disposer le saumon dans un plat, recouvrir du jus, saupoudrer de gros sel et recouvrir de paprika. Laisser mariner au moins une heure au frais.Mélanger la mangue et les tomates en dés, l'avocat en lamelles, et y ajouter de la salade à volonté.Au dernier moment, ajouter le saumon ainsi qu'un filet d'huile d'olive.Cette salade d'été se déguste aussi bien en entrée qu'en plat. Elle peut aussi être présentée en verrine, en superposant les ingrédients. Ce mélange est vraiment surprenant et ne laissera pas vos papilles indifférentes ! Succès garanti !
+  ]]>
+  </preparation>
+</recette>

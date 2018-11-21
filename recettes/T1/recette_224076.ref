@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224076">
+  <titre>Aiguillettes de filet de dinde marinées à l'ail et au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 filets de dinde</p>
+    <p>6 grosses gousses d'ail</p>
+    <p>2 citrons jaunes</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>beurre de cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les filets de dinde en lamelles d'environ 1 cm de largeur et les mettre dans un saladier.
+    Passer les 6 gousses d'ail au presse ail (ne pas oublier d'enlever la germe) et les ajouter aux lamelles de dinde.
+    Couper les deux citrons dans le sens de la largeur et les presser (retirer les pépins).Ajouter le jus des citrons aux lamelles de dinde et à l'ail.
+    Saler, poivrer et bien mélanger pour que les lamelles s’imprègnent de la marinade.
+    Laisser reposer au moins 2h.
+    Cuire avec du beurre de cuisson de façon à ce qu'il s'ajoute à la marinade pour faire la sauce (ne pas hésiter à en ajouter).A accompagner avec des légumes croquants ou du riz.
+  ]]>
+  </preparation>
+</recette>

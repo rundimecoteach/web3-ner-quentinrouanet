@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23495">
+  <titre>Flan aux Abricots maison</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 abricots</p>
+    <p>2 oeufs</p>
+    <p>1/2 l de lait</p>
+    <p>75 g de sucre</p>
+    <p>45 g de Maïzena</p>
+    <p>1 gousse de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four Th 6 (180°C). 
+    Faire bouillir le lait avec la gousse de vanille fendue. 
+    Dans une jatte mélangez la Maïzena etle sucre puis ajoutez les oeufs jusqu'à obtenir une pâte bien homogène. Ajoutez à cette préparation le lait bouillant petit à petit sans cesser de remuer. Reversez le tout dans la casserole et faites cuire à feu doux pendant 2 mn sans cesser de remuer. 
+    Lavez les abricots et coupez-les en deux et tapissez-en le fond du moule. 
+    Versez la préparation sur les abricots (sans la gousse de vanille) et mettre au four 40 mn. 
+    Une fois le flan cuit, le sortir du four et mettre le four en position grill. Saupoudrez le flan de sucre et remettre le flan 3 mn le temps qu'il caramélise.
+  ]]>
+  </preparation>
+</recette>

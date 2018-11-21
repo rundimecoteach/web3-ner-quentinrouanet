@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230045">
+  <titre>Verrine sablé breton, crème au citron et mousse au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>9 œufs</p>
+    <p>90 g de sucre</p>
+    <p>90 g de beurre</p>
+    <p>1 citron</p>
+    <p>200 g de chocolat noir pâtissier</p>
+    <p>1 pincée de sel</p>
+    <p>6 sablés breton</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émiettez un sablé breton dans chaque verrine.
+    Préparation de la crème au citron :
+    Faites fondre le beurre sur feu doux.
+    Dans un récipient, mélangez 3 œufs, le sucre et le jus de citron.
+    Ajoutez la préparation obtenue au beurre fondu; sur feu vif, remuez sans cesse (avec un fouet), jusqu'à la première ébullition (la crème doit s'épaissir), retirez du feu.
+    Ajoutez la crème au citron dans chaque verrine.
+    Préparation de la mousse au chocolat :
+    Faites fondre le chocolat sur feu doux.
+    Prenez 6 œufs, séparez les blancs des jaunes. Battez les blancs en neige avec une pincée de sel.
+    Mélangez les jaunes d’œufs avec le chocolat fondu. Incorporez la préparation au chocolat aux blancs en neige et mélangez.
+    Recouvrez la crème au citron de mousse au chocolat.
+    Décorez avec des copeaux de chocolat (réalisés avec un économe sur un carré de chocolat noir).
+  ]]>
+  </preparation>
+</recette>

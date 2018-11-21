@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17869">
+  <titre>Mousse à la banane et à l'orange</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 bananes</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 citron</p>
+    <p>2 oranges</p>
+    <p>100 g de fromage blanc maigre</p>
+    <p>2 blancs d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer au mixeur les bananes épluchées, avec le jus de citron et d'orange, le miel, le sucre vanillé.Ajouter le fromage blanc pour obtenir un mélange homogène.
+    Battre les blancs en neige très ferme. Incorporer doucement. Mettre dans de petit récipient en soulevant la mousse.On peut décorer la mousse avec une lamelle de fraise.
+  ]]>
+  </preparation>
+</recette>

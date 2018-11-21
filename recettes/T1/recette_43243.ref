@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43243">
+  <titre>Rosalie (gâteau à la rose et au litchi)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 yaourts au litchi, ou nature</p>
+    <p>2 œufs</p>
+    <p>25 cl de sucre</p>
+    <p>37,5 cl de farine</p>
+    <p>6,25 cl d’huile</p>
+    <p>1 sachet de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 pincée de sel</p>
+    <p>de l’eau de rose</p>
+    <p>1 boîte de litchis</p>
+    <p>20 cl de crème liquide à 30% de matière grasse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les yaourts, les œufs, l’huile, les sucres, la farine, la levure et le sel dans un saladier. Verser la pâte dans un moule à manqué et enfourner 35 min environ à 180°C (thermostat 6).
+    Démouler sur un plat, couper le gâteau en deux dans le sens de l’épaisseur.
+    Imbiber la partie inférieure d’eau de rose et y enfoncer des morceaux de litchis, et imbiber un peu l’intérieur de la partie supérieure. Replacer la partie supérieure sur l’autre.
+    Gratter le dessus du gâteau, puis y enfoncer des morceaux de litchis et l’imbiber légèrement du jus des litchis. Battre la crème en chantilly et l’étaler sur le gâteau.
+    Décorer de quelques litchis.
+  ]]>
+  </preparation>
+</recette>

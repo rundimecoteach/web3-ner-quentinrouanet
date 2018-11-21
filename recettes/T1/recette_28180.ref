@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28180">
+  <titre>Gâteau au yaourt fourré chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>1 yaourt nature</p>
+    <p>3 oeufs entiers</p>
+    <p>1/2 pot d'huile</p>
+    <p>1 pot 1/2 de sucre</p>
+    <p>2 pots de farine</p>
+    <p>1 sachet de levure</p>
+    <p>1 sachet de sucre vanilléPour le fourrage :</p>
+    <p>1 tablette de chocolat au lait (100 g) </p>
+    <p>10 g de beurre</p>
+    <p>2 ou 3 cuillères à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre et les oeufs jusqu'à ce que le mélange blanchisse. Ajouter la farine, la levure. Remuer puis ajouter le yaourt, l'huile et le sucre vanillé. 
+    Verser la préparation dans un moule beurré et faire cuire 20-30 mn à 180°C . Quand le gâteau est cuit, le démouler et le laisser refroidir. 
+    Pendant ce temps faire fondre doucement le chocolat avec le beurre et le lait. Bien mélanger. 
+    Couper le gâteau en 2 dans l'épaisseur et le fourrer avec le mélange au chocolat.
+    En touche finale,je mets un nappage au chocolat (50g de chocolat noir fondu avec 2 c à soupe d'eau). C'est comme vous voulez !
+  ]]>
+  </preparation>
+</recette>

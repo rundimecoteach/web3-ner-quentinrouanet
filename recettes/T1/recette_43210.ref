@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43210">
+  <titre>Berlinerbrot (petits gâteaux de Noël chocolat amandes cannelle)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>1/2 paquet de levure chimique</p>
+    <p>500 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>150 g de beurre mou</p>
+    <p>125 g d'amandes concassées grossièrement (par exemple des amandes entières burrinées au marteau)</p>
+    <p>3 bonnes cuillères à soupe de cacao</p>
+    <p>2 bonnes cuillères à soupe de cannelle</p>
+    <p>1 petite cuillère à café de piment (pas trop, sinon...)</p>
+    <p>zest de citron (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four, à 200°C (thermostat 6-7).
+    Mélanger la farine, la levure, le sucre, le cacao, la cannelle, le piment, les amandes, ajouter les oeufs, puis le beurre. 
+    Bien travailler pour former une masse compacte et homogène. Bref vous l'aurez reconnu, il s'agit plus ou moins d'une pâte sablée (sombre à cause du cacao). 
+    Former alors avec la pâte des rouleaux de 3 cm de diamètre (des petits boudins noirs en quelques sortes) de la taille de la plaque de votre four. 
+    Laisser cuire lentement une bonne vingtaine de minutes, mais surveiller (si vous faites plusieurs fournées, les dernières, comme toujours, cuiront bien plus vite). Attendre que le centre soit bien cuit pour les sortir du four.
+    Une fois que la pâte est cuite, elle est encore assez molle, laisser refroidir quelques instants et attendre qu'elle durcisse un peu avant de passer à l'étape suivante, sinon c'est l'effritement assuré. 
+    Théoriquement les rouleaux se sont effondrés pendant la cuisson et se sont affaissés en une masse longitudinale proche du rectangle à bouts arrondis. Couper des tranches dans le sens de la largeur (évidemment), laisser refroidir, c'est prêt !
+    Ne vous inquiétez pas, si vos petits gâteaux deviennent assez durs, c’est comme ça qu’ils sont prévus (des croquants au chocolat en quelque sorte)
+    Une recette d'Allemagne du Nord. Mot à mot, "le pain de Berlin" (Berliner-Brot), je ne peux pas vous garantir les liens avec Berlin. En revanche, je peux vous assurer qu'il s'agit d'une des meilleures recettes de Plätzchen, ces petits gâteaux de Noël dont raffolent les allemands.
+    Dans une boîte en métal, ils se conservent une bonne semaine.
+    Pour un essai ou si vous n'avez pas une colonie d'enfants à nourrir, divisez les proportions par deux !
+  ]]>
+  </preparation>
+</recette>

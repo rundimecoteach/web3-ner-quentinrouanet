@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68090">
+  <titre>Bûche citron meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la mousse au citron : </p>
+    <p>4 oeufs</p>
+    <p>3 citrons</p>
+    <p>3 feuilles de gélatine</p>
+    <p>150 g de sucre en poudre</p>
+    <p>20 cl de crème liquide</p>
+    <p>1 sachet de sucre vanilléPour la meringue :</p>
+    <p>4 blancs d'oeufs</p>
+    <p>120 g de sucre glace</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>Pour la décoration :</p>
+    <p>vermicelles en chocolat</p>
+    <p>meringue (décors)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la mousse au citron :
+    Faire tremper la gélatine dans de l'eau froide.
+    Dans une casserole, mélanger le jus des citrons, le sucre et les jaunes d'oeufs. Faire bouillir pendant 1 min.
+    Hors du feu, ajouter la gélatine essorée et mélanger. Laisser refroidir quelques minutes.
+    Battre les blancs en neige et préparer la crème chantilly (battre la crème liquide avec le sucre vanillé).
+    Ajouter les blancs puis la chantilly au mélange refroidi. Réserver au réfrigérateur.
+    Préparation de la meringue :
+    Fouetter les blancs en neige avec une pincée de sel et lorsqu'ils sont mousseux, ajouter peu à peu le sucre. Quand les blancs sont très fermes, incorporer le sucre glace avec une spatule sans casser les blancs.
+    Recouvrir deux plaques à pâtisserie avec du papier sulfurisé. Dessiner deux rectangles de 25 cm sur 10 cm sur l'une, un rectangle et deux ronds de 10 cm de diamètre sur l'autre.
+    Saupoudrer avec une pincée de farine puis remplir une poche à douille avec la meringue et remplir les rectangles en traçant des bandes les unes à côté des autres (des spirales pour les cercles).
+    Faire cuire 50 min à 150°C (th 4-5). Laisser refroidir avant de les décoller du papier.
+    Assemblage :
+    Déposer un rectangle sur un plat de service puis étaler 1/4 de la mousse dessus. Recommencer avec un deuxième rectangle et étaler le reste de la mousse sur le 3ème rectangle. Couper les spirales de meringue pour les adapter aux bouts de la bûche.
+    Toute recette de mousse au citron est bonne à prendre. Pour Noël, vous pouvez imiter les stries du bois avec une fourchette sur le dessus de la bûche et décorer avec des vermicelles en chocolat et des petits décors meringués.
+  ]]>
+  </preparation>
+</recette>

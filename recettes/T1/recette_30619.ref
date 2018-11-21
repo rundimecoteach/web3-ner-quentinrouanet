@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30619">
+  <titre>Gratin aux cerises (9ème rencontre)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de cerise</p>
+    <p>3 cuillères à soupe rases de sucre</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe légèrement bombées de farine</p>
+    <p>40 cl de lait tiède</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à café rase de levure</p>
+    <p>un peu de beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffé le four Th 7 (210°C). 
+    A l'aide d'un fouet mélanger le sucre et les oeufs. 
+    Ajouter la farine tamisée avec la pincée de sel et la levure puis le lait tiède. 
+    Ajouter les cerises à l'appareil et verser le tout dans un moule préalablement beurré. 
+    Mettre au four pour 30 mn environ. 
+    Saupoudrer d'un peu de sucre glace une fois le gratin refroidi.
+    Très bon aussi servi tiède. J'ai l'habitude de dénoyauter les cerises mais les cerises non dénoyautées apportent un petit plus au niveau de la saveur.
+  ]]>
+  </preparation>
+</recette>

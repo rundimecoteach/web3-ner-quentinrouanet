@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169846">
+  <titre>Tarte à la poire chocolat et épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte à tarte feuilletée</p>
+    <p>3 poires</p>
+    <p>3 sachets de sucre vanillé</p>
+    <p>2 cuillères à café de cannelle en poudre</p>
+    <p>2 pincées de noix de muscade en poudre</p>
+    <p>2 cuillères à soupe de crème fraiche</p>
+    <p>33 cl de lait</p>
+    <p>1 oeuf</p>
+    <p>2 cuillères à soupe de chocolat en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 200°C, thermostat 6-7.Dans un saladier, mélanger la crème fraiche avec le lait et l'oeuf et rajouter le chocolat en poudre à votre convenance et réserver.
+    Peler et couper les poires en quartiers et réserver.
+    Dans une assiette creuse, mélanger le sucre vanillé, la cannelle et la muscade, puis passer chaque quartier de poire dans cette préparation.Étaler la pâte dans un moule et piquer le fond à la fourchette.
+    Verser la préparation au chocolat sur la pâte et ensuite déposer les quartiers de poire.
+    Pour les plus gourmand vous pouvez saupoudrer le tout avec de la cassonade.
+    Enfourner 25 min.
+  ]]>
+  </preparation>
+</recette>

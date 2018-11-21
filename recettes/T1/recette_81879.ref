@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81879">
+  <titre>Tarte au camembert</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 beau camembert (ou coulommiers)</p>
+    <p>1 pâte </p>
+    <p>5 cuillères à soupe de crème</p>
+    <p>4 oeufs</p>
+    <p>sel, poivre</p>
+    <p>2 cuillères à soupe de ciboulette (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans votre plat à tarte. Piquer le fond avec une fourchette.
+    Couper le camenbert en tranches fines et le disposer sur la pâte.
+    Dans un saladier mélanger la crème, les oeufs, une pincée de sel et de poivre et ajoutez-y la ciboulette si vous le souhaitez.
+    Tout bien mélanger puis verser le tout sur le camenbert.
+    Mettre au four environ 20 min à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

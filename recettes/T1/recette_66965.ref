@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66965">
+  <titre>Gâteau de crêpes frangipane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour les crêpes :</p>
+    <p>250 g de farine</p>
+    <p>3 oeufs</p>
+    <p>20 g de sucre</p>
+    <p>20 g de beurre fondu</p>
+    <p>50 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la crème :</p>
+    <p>1 oeuf + 1 jaune</p>
+    <p>50 g de sucre</p>
+    <p>40 g de farine</p>
+    <p>40 cl de lait</p>
+    <p>40 g de poudre d'amande</p>
+    <p>1 cuillère à café d'arôme d'amande amère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites les crêpes (environ 12) et mettez les de côtés.
+    Battez 1 oeuf et 1 jaune avec le sucre dans une casserole. Incorporez-y la farine et le lait chaud en remuant.
+    Faites épaissir sur le feu pendant 5 min. Ajoutez l'amande en poudre et la cuillère à café d'arôme.
+    Sur une assiette plate, superposez les crêpes et les couches de crème d'amande.
+    Enveloppez de film alimentaire et réservez au frais environ 2 heure.
+  ]]>
+  </preparation>
+</recette>

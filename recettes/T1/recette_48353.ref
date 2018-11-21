@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48353">
+  <titre>Salade aux haricots blancs courgettes et crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte moyenne de haricots blancs natures</p>
+    <p>2 petites courgettes</p>
+    <p>20 crevettes Pour la vinaigrette :</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>sel, poivre</p>
+    <p>le jus d'un demi-citron</p>
+    <p>un gousse d'ail pilée </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les courgettes en petits dés et les faire cuire 8 minutes au micro ondes à 750 watt.
+    Pendant ce temps, décortiquez les crevettes et  égouttez puis rincez les haricots blancs.
+    Préparer la vinaigrette,  puis y mélanger les haricots blancs, les crevettes et les courgettes chaudes.
+    Servir tiède.
+    Une autre façon d'accomoder les haricots blancs. Riesling
+  ]]>
+  </preparation>
+</recette>

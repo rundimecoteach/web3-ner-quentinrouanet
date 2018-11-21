@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45339">
+  <titre>Gratin de pommes de terres à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g à 1 kg de pommes de terre</p>
+    <p>2 ou 3 gros oignons</p>
+    <p>50 g de beurre</p>
+    <p>25 cl de vin blanc</p>
+    <p>4 tranches de jambon</p>
+    <p>lait demi-écrémé</p>
+    <p>gruyère râpé</p>
+    <p>noix de muscade moulue</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher, puis découper les pommes de terre en rondelles fines, et les disposer dans un plat à gratin.
+    Pendant ce temps, faire suer au beurre les oignons épluchés. 
+    Une fois ceux-ci biens dorés, rajouter le vin blanc, et laisser mijoter jusqu'à absorbtion.
+    Découper grossièrement les tranches de jambon en larges carrés, mélanger aux pommes de terre avec les oignons. Saler et poivrer.
+    Recouvrir le tout de lait, jusqu'au niveau des pommes de terre.
+    Saupoudrez de noix de muscade à votre convenance (personellement, je n'hésite pas). 
+    Recouvrir d'une bonne couche de gruyère râpé.
+    Enfourner à 200°C (th 6-7), pendant 1 heure.
+    Régalez-vous !!
+    Les pommes de terres et le jambon s'imprègnent du lait, c'est un régal!Vous pouvez remplacer le jambon par des lardons, du bacon, ou du blanc de dinde...
+    Vous pouvez aussi frotter le plat à gratin avec de l'ail ou du beurre.
+  ]]>
+  </preparation>
+</recette>

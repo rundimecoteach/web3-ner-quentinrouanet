@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171238">
+  <titre>Délicieux aux pommes et au porto</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5/6 pommes de goût (canada, reinette)</p>
+    <p>3 œufs entiers</p>
+    <p>125 g de beurre ramolli</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>2 verres environ de farine </p>
+    <p>1 verre de sucre de canne ou blanc ou 1/2 de fructose</p>
+    <p>1/4 verre de porto blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 190°C (thermostat 6-7).Peler les pommes et les couper en grosses lamelles ou morceaux. Les étaler sur un plat à manqué préalablement beurré.Mélanger ensuite tous les ingrédients : les œufs, les sucres, le beurre ramolli ou fondu, le porto, la levure et la farine.
+    Verser sur les pommes et enfourner pour 40 minutes de cuisson.
+    Servir tiède ou froid.Très simple à faire et délicieux. Prendre un verre d'une contenance de 20 cl.
+    Le porto peut-être remplacé par de l'eau de vie ou du rhum. cidre, café
+  ]]>
+  </preparation>
+</recette>

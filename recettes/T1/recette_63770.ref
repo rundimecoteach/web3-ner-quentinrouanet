@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63770">
+  <titre>Far breton aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de beurre salé</p>
+    <p>125 g de farine</p>
+    <p>125 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>50 cl de lait</p>
+    <p>1/2 cuillère à café d'essence d'amandes amères</p>
+    <p>100 g d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Faire fondre le beurre salé mais avant, ne pas oublier de beurrer un moule à manquer de 20 cm.
+    Faire chauffer le lait.
+    Mélanger farine + sucre + oeufs + beurre fondu.
+    Ajouter le lait chaud très doucement tout en mélangeant.
+    Ajouter l'essence d'amandes et les amandes.
+    Verser dans le moule et enfourner pour une demi-heure ou plus. 
+    Tester la cuisson avec un couteau.
+    Rose, 7 ans, dit que c'est le meilleur gâteau du monde et Rose a souvent raison.
+  ]]>
+  </preparation>
+</recette>

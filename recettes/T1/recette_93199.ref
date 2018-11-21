@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93199">
+  <titre>Mousse poire chocolat de Pierrick</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosses boite de poires au sirop</p>
+    <p>150 g de chocolat à dessert</p>
+    <p>15 boudoirs</p>
+    <p>3 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Comme pour une mousse au chocolat,Battre les blancs en neige
+    Faire fondre le chocolat
+    Mélanger le chocolat avec les jaunes d'oeufs
+    Ajouter les blancs en neige au mélange jaune d'oeufs/chocolat
+    Tapisser le fond d'un plat avec des boudoirs trempés légrement dans le sirop des poires
+    Faire un rang de mousse au chocolat (1-2cm)Mettre au frigo pdt 1/2h
+    Tapisser de lamelles de poires
+    Recommencer les boudoirs, la mousse au chocolat
+    Remettre au frigo pdt 1/2h
+    Finir par tapisser par des lamelles de poires
+    Servir frais !
+  ]]>
+  </preparation>
+</recette>

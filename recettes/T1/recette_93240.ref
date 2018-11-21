@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93240">
+  <titre>Le gâteau au chocolat que tout le monde adore</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour un petit moule épais( doubler pour un grand plat rectangulaire)- 200g de chocolat noir-200g de beurre- 80 g de farine- vanille-4 oeufs-1/2 sachet de levure-1 pointe de sel</p>
+    <p>(facultatif: noix de son choix ou pépites de chocolat)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat et le beurre au bain marie.
+    En dehors du feu, ajouter le sel,la vanille, la levure, le sucre et la farine en fouettant.(et les noix ou les pépites)
+    Puis 1 à 1 les œufs en fouettant après chaque œuf.
+    Placer dans un plat au four pendant 20 ,25 ou 30 min à th 6 environ selon son four et la texture voulue: fondante ou moelleuse(plus de cuisson). Il faut être très attentif à la cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87733">
+  <titre>Crumble aux framboises et chocolat blanc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de framboises</p>
+    <p>100 g de chocolat blanc</p>
+    <p>100 g de farine</p>
+    <p>80 g de beurre</p>
+    <p>50 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser la farine, le sucre et le beurre ramolli coupé en morceaux dans un grand saladier. 
+    Mélanger avec les mains, la pâte doit être sableuse et se défaire entre vos doigts.
+    Disposer les framboises dans un plat.
+    Casser le chocolat en morceaux grossiers et les répartir sur les framboises.
+    Émietter la pâte sur les framboises.
+    Faire cuire au four 20 minutes à 180°C (thermostat 6).
+    Le chocolat blanc étant assez sucré, il atténue l'acidité des framboises cuites.  Vin blanc doux
+  ]]>
+  </preparation>
+</recette>

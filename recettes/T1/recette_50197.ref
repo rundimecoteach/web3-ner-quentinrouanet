@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50197">
+  <titre>Flan de courgettes et poivron</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 ou 5 courgettes non épluchées</p>
+    <p>1 poivron rouge</p>
+    <p>150 g de petit salé</p>
+    <p>4 oeufs</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 cuillère à café de levure</p>
+    <p>100 g de fromage râpé</p>
+    <p>4 ou 5 biscottes</p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Faire revenir dans l'huile d'olive les cougettes et le poivron coupés en petits dés.
+    Lorsque les légumes sont tendres, ajouter le petit salé détaillé en morceaux.
+    Battre les oeufs avec la cuillère de farine, la levure et le fromage râpé.
+    Ajouter les biscottes émiettées et la crême fraîche.
+    Incorporer ce mélange aux légumes et mélanger. Mélanger le tout avec les légumes.
+    Saler et poivrer.
+    Verser la préparation dans un moule à cake beurré et faire cuire 30 minutes.
+    J'utilise de la crème fraîche allégée.
+  ]]>
+  </preparation>
+</recette>

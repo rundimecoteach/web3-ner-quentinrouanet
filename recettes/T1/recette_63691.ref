@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63691">
+  <titre>Gaspacho de coco aux copeaux de jambon serrano</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de jambon serrano</p>
+    <p>400 g de haricots blancs au naturel</p>
+    <p>40 cl de bouillon de volaille</p>
+    <p>1 cuillère à soupe de vinaigre de xérès</p>
+    <p>5 cl d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le jambon en lanières, faites de petits rouleaux et enfilez-les sur des piques en bois.
+    Rincez les haricots et mixez-les.
+    Ajoutez le bouillon de volaille petit à petit et remixez quelques minutes. La consistance doit être fluide et onctueuse, si vous préférez plus épais mettez moins de bouillon. 
+    Mettez l'huile d'olive et le vinaigre et vérifiez l'assaisonnement. Salez mais pas trop et poivrez..
+    Répartissez le gaspacho dans des bols ou verrines et posez les piques de jambon sur le bord.
+    On peut juste réchauffer un peu le gaspacho avant de le présenter dans les bols ou verrines c'est meilleur tiède. Pour le vinaigre il faut faire attention, goûter et on peut toujours en rajouter. un vin blanc 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31946">
+  <titre>Boulettes sauce tomate (Belgique)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de haché de porc et de veau</p>
+    <p>1 gousse d'ail</p>
+    <p>1 jaune d'oeuf</p>
+    <p>5 cuillères à soupe de chapelure</p>
+    <p>sel et poivre</p>
+    <p>2 pincées de noix de muscade moulue</p>
+    <p>beurre</p>
+    <p>1 ravier de coulis de tomates</p>
+    <p>1 échalote</p>
+    <p>origan, basilic, laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le haché dans un plat.
+    Peler et hacher finement la gousse d'ail.
+    Ajouter l'ail, le jaune l'oeuf et la chapelure au haché, saler, poivrer et ajouter la noix de muscade. Bien mélanger le tout avec les mains. Former des boulettes.
+    Faire fondre un peu de beurre dans une poêle et faire dorer les boulettes.
+    Pendant ce temps, faire rissoler l'échalote finement hachée dans un petit morceau de beurre et ajouter le coulis de tomates.
+    Assaisonner de sel, poivre, origan, basilic et laurier.
+    Déposer les boulettes dans la sauce tomate et faire mijoter pendant 30 à 40 minutes.
+    Accompagner de frites, bien sûr!
+  ]]>
+  </preparation>
+</recette>

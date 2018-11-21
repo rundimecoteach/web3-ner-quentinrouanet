@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81009">
+  <titre>Poulet mariné et légumes du Sud</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poulet</p>
+    <p>2 poivrons (rouge et jaune)</p>
+    <p>2 courgettes</p>
+    <p>2 tomates</p>
+    <p>2 gousses d' ail</p>
+    <p>1 branchette de thym</p>
+    <p>2 cuillères à soupe de soja</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>1 pincée de piment</p>
+    <p>sel, poivre moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déposer le poulet dans un plat, arroser avec la sauce soja et 2 cuillères à soupe d'huile d'olive. Poudrez de poivre et de piment. 
+    Laisser mariner. 
+    Pendant ce temps, rincer et éponger les poivrons, les épépiner et couper la pulpe en dés. Peler et couper les oignons en dés.
+    Dans une cocotte, faire chauffer le reste d'huile d'olive et faire blondir les poivrons et oignons. Fendre les courgettes en 4 dans le sens de la longueur (non épluchées). 
+    Les découper en petits dés. Presser les gousses d'ail. Couper les tomates en petits dés.
+    Ajouter dans la cocotte les courgettes, l'ail, les tomates et le thym. Saler et poivrer.
+    Laisser mijoter 30 minutes.
+    Faire chauffer un grill, y laisser colorer les filets de poulets 5 minutes de chaque côté.
+    Les filets de poulets peuvent également être cuits au barbecue.
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

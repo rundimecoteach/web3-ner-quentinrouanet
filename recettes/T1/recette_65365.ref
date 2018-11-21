@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65365">
+  <titre>Le gratin de Gwen</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 carottes</p>
+    <p>2 belles tomates</p>
+    <p>2 petites courgettes</p>
+    <p>2 oignons</p>
+    <p>500 g de pâtes</p>
+    <p>1 cube de bouillon de légumes</p>
+    <p>béchamel</p>
+    <p>gruyère ou comté râpé</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les légumes coupés en morceaux dans une cocotte, avec le cube de bouillon de légume et 1,5 L d'eau.
+    A ébulition, faire cuire pendant 40 min environ.
+    Préchauffer le four à 180°C (thermostat 6).
+    Faire cuire les pâtes dans de l'eau salée, comme indiqué sur le paquet.
+    Dans un plat allant au four, étaler les légumes cuits, puis les pâtes.
+    Terminer avec la béchamel et le fromage râpé.
+    Enfourner pour 20 min environ et faire gratiner légèrement.
+    Vous pouvez utiliser tous les légumes que vous voulez dans ce plat. Il est simple à faire et plaît beaucoup aux enfants.
+  ]]>
+  </preparation>
+</recette>

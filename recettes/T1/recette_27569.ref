@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27569">
+  <titre>Tourte de pommes de terre au lard persillé</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de pommes de terre</p>
+    <p>200 g de lard maigre</p>
+    <p>400 g de farine</p>
+    <p>200 g de lard gras, de panne ou à défaut de saindoux</p>
+    <p>1 oeuf entier + 1 jaune</p>
+    <p>1 poignée d'oseille</p>
+    <p>1 gousse d'ail</p>
+    <p>1/2 bouquet de persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez le lard gras, mélangez-le avec la farine, l'oeuf, du sel et un verre d'eau tiède.
+    Pétrissez de manière à obtenir une pâte bien homogène.
+    Tapissez le fond d'un moule à tarte avec les 2/3 de la pâte étalée au rouleau, en laissant largement
+    dépasser les bords.
+    Pelez et coupez les pommes de terre en rondelles.
+    Rincez-les et séchez-les dans un torchon.
+    Hachez finement le lard avec l'oseille, l'ail et le persil. 
+    Déposez une couche de
+    pommes de terre sur le fond de pâte, puis une de lard haché assaisoné. Recommencez jusqu'à épuisement des ingrédients.
+    Couvrez avec le reste de pâte étalée, badigeonnez de jaune d'oeuf.
+    Soudez les bords et faites cuire au four à 210°C (thermostat 7) environ 35 min.
+  ]]>
+  </preparation>
+</recette>

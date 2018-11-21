@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61695">
+  <titre>Crumble tomate chèvre léger</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 ptite boîte de tomate pelée</p>
+    <p>3 à 4 tomates fraîches</p>
+    <p>quelques tomates séchées (facultatif)</p>
+    <p>3 échalotes</p>
+    <p>basilic</p>
+    <p>80 g de farine</p>
+    <p>1/2 bûche de chèvre allégé</p>
+    <p>60 g de beurre ou margarine allégée</p>
+    <p>poivre, muscade</p>
+    <p>bacon ou lardons ou lardons de dinde (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Mettre dans le robot le beurrre et le fromage coupés en morceaux, ainsi que la farine (et éventuellement un peu de noix de muscade et de poivre).
+    Mélanger jusqu'à l'obtention de petits paquets homogènes.
+    Le plus du cuisto : si les paquets sont trop petits, ajouter du fromage, si ils sont trop épais, ajouter de la farine).
+    Dans une poêle, faire revenir les lardons (sans matière grasse), puis y ajouter les échalotes hachées pour qu'elles brunissent un peu. Ajouter une pincée de poivre.
+    Le petit plus light : on peut égoutter les lardons en cours de cuisson pour éliminer le surplus de matière grasse.
+    Dans un plat allant au four, mettre les tomates pelées et les tomates entières coupées en morceaux, ainsi que les tomates séchées.
+    Ajouter le mélange lardons et échalotes et saupoudrer de basilic.
+    Recouvrir de crumble.
+    Enfourner pour 25 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

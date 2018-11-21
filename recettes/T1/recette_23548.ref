@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23548">
+  <titre>Pancakes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 cuillères à soupe de farine</p>
+    <p>6 cuillères à soupe de sucre</p>
+    <p>6 cuillères à soupe de lait</p>
+    <p>2 oeufs (jaunes et blanc séparés)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine avec le sucre, puis ajoutez le lait. Incorporez-y les oeufs battus en neige puis enfin le jaune d'oeuf. Faites cuire les pancakes à la poêle environ 2 mn pour chaque côté, à feu doux. NB: Ce ne sont pas des crêpes, donc la pâte doit être beaucoup plus épaisse!Cette recette fera le régal de vos enfants à l'heure du goûter comme au petit déjeuner!Les pancakes peuvent être servis avec du chocolat en poudre, de la confiture, du sucre mais pour ma part le must c'est sirop d'érable !Alors bon appétit à tous les gourmands !
+  ]]>
+  </preparation>
+</recette>

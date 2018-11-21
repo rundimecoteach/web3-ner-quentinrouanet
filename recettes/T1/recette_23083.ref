@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23083">
+  <titre>Boulettes de lentilles aux échalotes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tasses de lentilles cuites et mixées</p>
+    <p>4 échalotes ciselées</p>
+    <p>sauce soja</p>
+    <p>6 olives noires</p>
+    <p>8 cuillères à soupe de farine</p>
+    <p>chapelure</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger les échalotes, la purée de lentilles, les olives (dénoyautées), du sel et de la sauce soja.
+    Ajouter de la farine et former des boulettes.
+    Les rouler dans la chapelure et dorer dans une poêle avec un peu d'huile.
+  ]]>
+  </preparation>
+</recette>

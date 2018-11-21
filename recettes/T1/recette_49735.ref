@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49735">
+  <titre>Charlotte choco/menthe (peepermint)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>36 biscuits boudoir</p>
+    <p>30 cl de peepermint</p>
+    <p>Pour la mousse au chocolat :</p>
+    <p> 200 g chocolat noir dessert</p>
+    <p>6 œufs</p>
+    <p>Pour la mousse à la menthe</p>
+    <p>30 cl de crème fraîche épaisse</p>
+    <p>5 cl de peepermint</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la mousse au chocolat en faisant fondre au bain-marie le chocolat coupé en morceaux avec 1 cuillère à soupe d'eau.
+    Incorporer ensuite les jaunes d'œufs puis les blancs battus en neige bien ferme.
+    Réserver.
+    Battre la crème fraîche avec le peepermint en chantilly.
+    Tremper les biscuits dans le peepermint et en tapisser le moule à charlotte.
+    Mettre une couche moyenne de mousse au chocolat, puis une couche de biscuits imbibés, puis une couche de chantilly à la menthe et terminer par une couche de biscuits.
+    Laisser au frais 24h puis démouler la charlotte, la décorer de chantilly à la menthe et la servir soit avec une sauce au chocolat, soit une crème anglaise parfumée à la menthe.
+    Pour réussir une crème Chantilly légère, ajouter un glaçon pendant sa confection.
+  ]]>
+  </preparation>
+</recette>

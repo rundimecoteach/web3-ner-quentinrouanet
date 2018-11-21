@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32174">
+  <titre>Saumon au miel (Finlande)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 darnes de saumon</p>
+    <p>8 cuillères a soupe de miel </p>
+    <p>8 branches d'aneth fraiches</p>
+    <p>gros sel, poivre, beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le four à préchauffer à 250°C (thermostat 8).
+    Beurrer généreusement un moule large. Y déposer les darnes de saumon, côté peau contre le plat. Etaler le miel sur les darnes, puis déposer 2 branches d'aneth sur chaque darne. Rajouter le sel et le poivre en grain.
+    Enfourner pendant 25 minutes.
+    Le servir à la finlandaise, avec des pommes de terre binjte à la vapeur.
+  ]]>
+  </preparation>
+</recette>

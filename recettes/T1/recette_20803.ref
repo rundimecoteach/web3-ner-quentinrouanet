@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20803">
+  <titre>Fèves aux lardons et au cognac</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>fèves sèches (1 petit filet comme ceux vendus en supermarché) </p>
+    <p>1 petite rasade de Cognac</p>
+    <p>1 feuille de laurier + un peu de thym</p>
+    <p>2 boîtes de coulis de tomate (400 g) </p>
+    <p>sucre roux</p>
+    <p>sel, poivre</p>
+    <p>lardons fumés (1 boîte) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Jeter les fèves sèches dans l'eau bouillante pendant 5 mn. Les sortir pour les écosser. Puis les remettre à cuire dans l'eau pendant 1h  (avec cette technique, on peut se dispenser de les faire tremper 1 nuit dans l'eau). 
+    Faire revenir les lardons dans une casserole pour les dégraisser. Vider le gras. 
+    Ajouter aux lardons le coulis de tomate, le laurier et le thym. Mélanger et réserver hors du feu. 
+    Quand les fèves sont cuites, les égoutter (si elles sont un peu en purée, c'est pas grave) et les ajouter aux lardons. 
+    Maintenant, il reste à saler (légèrement car les lardons sont souvent très salés) et poivrer, à saupoudrer le tout de sucre (ne pas hésiter, c'est très bon !). 
+    Mélanger et réchauffer. Quand c'est bien chaud, arroser d'un peu de Cognac et faire flamber. Re-mélanger. 
+    Laisser mijoter 30 petites minutes, c'est prêt !
+     la bière convient très bien
+  ]]>
+  </preparation>
+</recette>

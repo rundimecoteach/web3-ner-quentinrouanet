@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84336">
+  <titre>Macaroni au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de macaroni</p>
+    <p>700 g de chair à saucisse nature</p>
+    <p>700 g de talon ou bloc de jambon</p>
+    <p>1 boite de 450 g de champignons</p>
+    <p>1 boite de 450 g de concentré de tomate</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>Poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le jambon en dés; égoutter les champignons.
+    Dans une cocotte, faire revenir la chair à saucisse dans l'huile d'olive et égrainer avec une fourchette.
+    Ajouter les champignons et les dés de jambon. Poivrer. Mettre le concentré de tomate et remplir la boite de concentré de tomate d'eau que vous mettez dans la cocotte.
+    Couvrir et laisser mijoter 30 minutes.
+    Pendant ce temps, faire bouillir de l'eau et mettre les macaronis.
+    Égoutter les macaronis, les mettre dans une assiette et servir avec la sauce au jambon.
+    Ne pas saler car souvent la chair à saucisse et le jambon sont déjà assez salés.
+  ]]>
+  </preparation>
+</recette>

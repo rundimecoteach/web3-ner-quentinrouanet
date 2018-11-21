@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40419">
+  <titre>Flammekueche végétarienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>1 cuillère à café de sauce soja</p>
+    <p>1 oignon</p>
+    <p>2 pommes de terre</p>
+    <p>1/2 courgette</p>
+    <p>pousses de soja</p>
+    <p>1/2 munster</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à l'eau, sans toutefois qu'elles soient trop cuites.
+    Préchauffer le four à 240°C (thermostat 8).
+     
+    Mélanger la sauce soja et la crème fraîche et répartir sur la pâte.
+    Disposer l'oignon, les courgettes et les pommes de terre finement coupées. Rajouter les pousses de soja.
+    Disposer sur le dessus des tranches de munster.
+    Faire cuire jusqu'à ce que le munster soit fondant (environ 20 minutes).
+    On peut rajouter du poivron ou autres légumes au goût de chacun.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61931">
+  <titre>Queue de boeuf au pinot noir</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 beaux morceaux de queue de boeuf</p>
+    <p>3 oignons moyens</p>
+    <p>2 grosses gousses d’ail</p>
+    <p>2 échalotes</p>
+    <p>1/2 carotte</p>
+    <p>1/4 de branche de céleri</p>
+    <p>2 feuilles de laurier</p>
+    <p>2 branches de thym</p>
+    <p>200 g de lardons fumés</p>
+    <p>1 bol de bouillon</p>
+    <p>50 cl de pinot noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les oignons, échalotes, et l'ail en deux. Faire revenir le tout avec les lardons.
+    Ajouter les morceaux de queue de boeuf.
+    Faire dorer et fariner légèrement.
+    Ajouter le pinot. Mélanger deux minutes.
+    Ajouter la carotte + le céleri + le bouquet garni.
+    Ajouter le bouillon, saler un peu et poivrer (poivre gris).
+    Laisser cuire à feu doux environ 4 heures en remuant toutes les demi-heures.
+    Quand c’est fini de cuire, laisser tiédir la viande, faire revenir les morceaux de queue de boeuf dans une poêle avec de la chapelure. Les retourner plusieurs fois en rajoutant de la chapelure. Récupérer le jus de cuisson pour la saucière.
+    Servir les morceaux bien chauds avec des pommes de terres en rondelles légèrement dorées
+     Pinot noir ou bourgogne
+  ]]>
+  </preparation>
+</recette>

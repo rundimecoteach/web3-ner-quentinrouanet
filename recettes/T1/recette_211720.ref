@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211720">
+  <titre>Cookies au Son de Blé</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g beurre</p>
+    <p>150 g sucre blanc</p>
+    <p>1 œuf</p>
+    <p>20 g son de blé</p>
+    <p>1 sachet levure chimique</p>
+    <p>170 g farine</p>
+    <p>100 g chocolat noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C (thermostat 6).Dans un saladier, commencez par mélanger ensemble beurre mou et le sucre.
+    Ajoutez l’œuf et mélangez bien.
+    Ajoutez le son de blé. Mélangez. Ajoutez enfin la farine et la levure chimique.
+    Hachez votre chocolat et incorporez le au mélange précédent.
+    Faites des petits tas sur une plaque anti-adhésive et enfournez une dizaine de minutes ! eau ou lait
+  ]]>
+  </preparation>
+</recette>

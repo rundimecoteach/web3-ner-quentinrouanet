@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33702">
+  <titre>Pennes gourmandes express</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de pennes (on peut bien sûr utiliser d'autres pâtes : tagliatelles, spaghettis, coquillettes, farfalles...) </p>
+    <p>4 tranches fines de jambon cru (ou jambon de Bayonne) </p>
+    <p>1 saint marcellin</p>
+    <p>1 petit pot de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 sachet de parmesan</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pennes, les égoutter. 
+    Mélanger dans un plat assez grand la crème fraîche, un peu de sel, du poivre, le jaune d'oeuf. 
+    Ajouter les pennes et bien mélanger. 
+    Réchauffer si besoin. 
+    Répartir les pâtes dans les assiettes. 
+    Et parsemer dessus des morceaux de jambon cru et de saint marcellin préalablement découpés. 
+    Saupoudrer très généreusement de parmesan. 
+    Servir.
+  ]]>
+  </preparation>
+</recette>

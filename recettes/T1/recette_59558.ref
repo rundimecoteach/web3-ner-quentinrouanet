@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59558">
+  <titre>Milk shake aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 l de glace à la vanille</p>
+    <p>1 kg de fraises</p>
+    <p>100 g de sucre</p>
+    <p>30 feuilles de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire macérer pendant 30 min les fraises coupées en 2, la menthe (garder quelques feuilles pour la décoration) et le sucre.
+    Au bout de ce temps, mixer la glace, les fraises, la menthe et le jus rendu.
+    Déguster aussitôt, décoré d'une feuille de menthe.
+  ]]>
+  </preparation>
+</recette>

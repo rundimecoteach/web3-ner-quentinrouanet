@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20193">
+  <titre>Galette des rois</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de beurre fondu</p>
+    <p>100 g de poudre d'amande</p>
+    <p>80 g de sucre</p>
+    <p>1 œuf pour dorer</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe de fleur d'oranger</p>
+    <p>2 grosses cuillères à soupe de crème fraîche</p>
+    <p>2 rouleaux de pâtes feuilletées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7). 
+    Mélanger tous les ingrédients. 
+    Etaler un disque de pâte sur une plaque de four. Répartir la frangipane sur le disque, en laissant 2,5 cm de bord libre. 
+    Si la pâte est trop épaisse, ajouter la crème fraîche. 
+    Glisser la fève. A l’aide d’un pinceau, mouiller tout le bord libre. 
+    Recouvrir le tout, avec le deuxième disque de pâte. 
+    Presser le bord, afin de bien fermer la galette. 
+    Avec une fourchette, dessiner des quadrillages sur le dessus de la galette. 
+    Badigeonner le tous avec le jaune d’oeuf. Enfourner 20/30 min. 
+    Bon appétit. cidre
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230050">
+  <titre>Wok coquillettes crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de coquillettes</p>
+    <p>400 g de crevettes (assez grosses - type 40/60)</p>
+    <p>3 oignons moyens</p>
+    <p>3 gousses d'ail</p>
+    <p>1/2 cuillère à café de curry rouge (ou un peu de harissa)</p>
+    <p>1 poignée de pousses de soja</p>
+    <p>40 g de noix de cajou</p>
+    <p>huile de sésame</p>
+    <p>3 cuillères à soupe de jus de citron</p>
+    <p>2 cuillères à soupe de Nuoc Mam</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>coriandre fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes et les couper et tronçons d'environ 2 cm.
+    Cuire les coquillettes dans une casserole d'eau salée, de manière à ce qu'elles soient encore un peu fermes (la cuisson se terminera dans le wok).
+    Eplucher puis émincer finement les oignons.
+    Concasser les noix de cajou (à l'aide d'un mortier).
+    Dans un wok, chauffer de l'huile de sésame. 
+    Y incorporer les oignons. 
+    Ajouter le sucre, les pousses de soja et l'ail en chemise (pour le goût).
+    Ajouter la pâte pimentée (curry) puis verser le jus de citron et le nuoc mam.
+    Incorporer les noix de cajou dans la préparation, puis y casser l'oeuf.
+    Verser à nouveau un peu d'huile de sésame, puis ajouter les crevettes.
+    Pour finir, incorporer les coquillettes, et laisser cuire 2 minutes supplémentaires tout en remuant.
+    Ciseler de la coriandre sur la préparation au moment de servir.
+  ]]>
+  </preparation>
+</recette>

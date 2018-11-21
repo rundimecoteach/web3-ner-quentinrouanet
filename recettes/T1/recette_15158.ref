@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15158">
+  <titre>Soupe à la banane</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse boîte de tomates pelées</p>
+    <p>5 bananes bien mûres</p>
+    <p>1,5 l de bouillon (cubes)</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>sel, poivre, curry</p>
+    <p>50 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>15 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre. Ajouter la farine (jusqu'à ce que le beurre l'ait absorbé). Ajouter le lait et ensuite le bouillon.
+    Ajouter les tomates puis les bananes en rondelles. Saler (si nécessaire), poivrer, ajouter du curry (3 cuillères à soupe).Faire cuire à feu moyen pendant environ 20 à 30 mn (attention aux bouillons, la soupe a tendance à déborder).Mixer, ajouter la crème et rectifier l'assaisonnement (le curry doit être bien présent).Servir tel quel ou avec des croûtons.
+  ]]>
+  </preparation>
+</recette>

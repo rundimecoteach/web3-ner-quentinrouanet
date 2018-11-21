@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72617">
+  <titre>Sorbet à la fraise sans sorbetière</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de fraises</p>
+    <p>le jus d'un citron</p>
+    <p>le jus d'une orange</p>
+    <p>600 g de sucre en poudre</p>
+    <p>1,5 cuillère à soupe de crème (en brique)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Equeuter les fraises.
+    Mixer le tout.
+    Mettre dans un moule en plastique style charlotte au congélateur.
+    Absolument délicieuse et bluffante.
+    Toujours beaucoup de succès avec ce sorbet.
+  ]]>
+  </preparation>
+</recette>

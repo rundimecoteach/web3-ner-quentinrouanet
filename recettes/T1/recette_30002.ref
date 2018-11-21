@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30002">
+  <titre>Gratin de pommes de terre au saumon fumé (micro-ondes)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700 g de pommes de terre </p>
+    <p>4 belles tranches de saumon fumé (ou de truite fumée)</p>
+    <p>25 cl crème liquide</p>
+    <p>beurre, sel, poivre, laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pommes de terre en rondelles fines.
+    Beurrer un moule en verre rond, déposer de façon régulière une première couche de pommes de terre, puis une couche de poisson fumé, ajouter un peu de laurier, du poivre, un tout petit peu de sel. 
+    Continuer en alternant jusqu'à épuisement des ingrédients en finissant par une couche de pommes de terre et quelques petits morceaux de beurre.
+    Couvrir et faire cuire 15 mn à moyenne puissance.
+    Verser la crème fraîche, couvrir et faire cuire 5 mn à puissance maxi. Attendre quelques minutes et démouler.
+    Difficile d'être très précis pour la cuisson, ça dépend beaucoup du micro-ondes utilisé. Bon menu de dépannage pour le soir, avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

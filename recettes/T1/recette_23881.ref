@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23881">
+  <titre>Muffins aux carottes et aux raisins</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de beurre fondu</p>
+    <p>1 oeuf battu</p>
+    <p>100 g de sucre en poudre</p>
+    <p>150 g de carottes râpées</p>
+    <p>200 g de farine</p>
+    <p>17 cl de lait</p>
+    <p>1 cuillère à café de muscade en poudre</p>
+    <p>1 cuillère à café de mélange quatre épices</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>100 g de raisins secs</p>
+    <p>2 cuillères à café de levure chimique</p>
+    <p>1 cuillère à café de bicarbonate de soude</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    P
+    réchauffer le four à thermostat 6 (180°C).
+    Mélanger la farine, la levure, le bicarbonate, les épices et le sel dans un saladier.
+    Mélanger tous les autres ingrédients dans une jatte. Faire un puit dans la farine et verser cette préparation au centre. Mélanger doucement.
+    Remplir des moules à muffins jusqu'au 3/4 avec la pâte, et mettre au four 20 à 25 mn (il faut que les muffins soient dorés).
+    Ces muffins ne montent pas beaucoup, mais ils sont très moelleux.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51222">
+  <titre>Terrine de foie gras aux épices</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 lobes de foie gras crus (env 800g)</p>
+    <p>1 pincée de cannelle</p>
+    <p>2 cuillères à café de gros sel de Guérande</p>
+    <p>1 cuillère à café de poivre noir en grains</p>
+    <p>2 cuillères à café de baies roses</p>
+    <p>1 pincée de safran</p>
+    <p>1 pincée de 4 épices</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dénerver le foie gras.
+    Le couper en tranches d'environ 1 cm d'épaisseur.
+    C'est ce qui va prendre le plus de temps ( astuce moins économique : acheter des escalopes de foie gras).
+    Piler toutes les épices, ainsi que le sel et le poivre.
+    Badigeonner bien tous les morceaux de foie gras d'épices.
+    Dans une poêle bien chaude, faire revenir tous les morceaux 1 minute sur chaque face.
+    Les disposer dans une terrine, filtrer le jus restant de la poêle et recouvrir à hauteur.
+    Bien tasser (par ex. avec une planche de dimension légèrement inférieure à la terrine).
+    Attention, placer la terine dans un plat plus grand car cela va déborder !
+    Laisser au réfrigérateur pendant 2 jours et déguster en tranches recouvertes de quelques grains de fleur de sel. 
+    La confiture d'oignons va aussi très bien avec ! 
+    Bon appétit !
+     Gewurstraminer en vendanges tardives
+  ]]>
+  </preparation>
+</recette>

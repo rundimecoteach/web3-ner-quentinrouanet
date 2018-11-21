@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16051">
+  <titre>Gâteau aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>250 g de sucre</p>
+    <p>50 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>4 pommes ou 4 fruits à pepins ou fruits secs</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger sucre et farine. Ajouter les 4 oeufs et le litre de lait, ainsi que la pincée de sel.
+    Mettre dans un moule avec des bord assez haut et cuire à thermostat 7 (210°C) pendant 1h.A la sortie du four disposer en pluie fine le sucre vanillé.Facile, économique et rapide et toujour très apprécié des enfants. Crémant d'Alsace
+  ]]>
+  </preparation>
+</recette>

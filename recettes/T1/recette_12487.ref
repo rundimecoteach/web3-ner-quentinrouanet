@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12487">
+  <titre>Tarte poires et roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de roquefort (plus ou moins, selon votre goût)</p>
+    <p>2 poires très fermes (type Louise Bonne)Pour la pâte brisée :</p>
+    <p>200 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>1/2 verre d'eau</p>
+    <p>sel</p>
+    <p>Pour la garniture :</p>
+    <p>3 oeufs</p>
+    <p>crème fraîche</p>
+    <p>lait</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte brisée du bout des doigts (farine et sel + beurre puis eau), l'étaler dans un moule à tarte et la piquer avec une fourchette.
+    Préparer un mélange de type quiche avec les oeufs battus, la crème fraîche et le lait, puis saler et poivrer.
+    Sur la pâte étalée, répartir le roquefort en miettes puis les tranches de poire (préalablement pelées et tranchées) et verser le flan par-dessus.
+    Mettre au four (thermostat 7/210°C) pour 25 mn.
+  ]]>
+  </preparation>
+</recette>

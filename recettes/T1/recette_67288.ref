@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67288">
+  <titre>Rata de saucisse au cumin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 saucisse fine pour 4 personnes (soit 400 g) ou plusieurs si elles sont petites</p>
+    <p>4 pommes de terre</p>
+    <p>2 carottes</p>
+    <p>1 noix de beurre</p>
+    <p>cumin en poudre et en grains</p>
+    <p>un peu d'eau</p>
+    <p>1 oignon</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher carottes et pommes de terre, les couper à votre convenance (rondelles, carrés...).
+    Faire fondre le beurre dans une cocotte, ajouter l'oignon et la saucisse, puis la moitié des légumes.
+    Assaisonner de cumin, sel et poivre, ajouter un fond d'eau afin d'éviter que le plat n'attache. Mettre le reste des légumes puis à nouveau du cumin si vous souhaitez un goût plus prononcé. Couvrir la cocotte et laisser mijoter 1 heure.
+    Très bon aussi réchauffé. S'accompagne très bien de moutarde ou de ketchup.
+  ]]>
+  </preparation>
+</recette>

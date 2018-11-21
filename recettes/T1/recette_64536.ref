@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64536">
+  <titre>Verrines de saumon rapide</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de saumon fumé</p>
+    <p>1 tomate</p>
+    <p>250 g de fromage blanc</p>
+    <p>1 trait de jus de citron</p>
+    <p>1 cuillère à soupe de ciboulette hachée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer la tomate en très petites tranches.
+    Découper grossièrement le saumon en lamelles, puis en petits carrés. 
+    Arroser le tout d'un trait de jus de citron.
+    Ajouter le fromage blanc et la ciboulette. Mélanger soigneusement.
+    Verser le mélange dans des verres... C'est prèt !
+    A consommer tout de suite ou après un petit séjour de 2 heures au réfrigérateur : c'est encore meilleur !
+     Un chablis se mariera à merveille avec cette entrée.
+  ]]>
+  </preparation>
+</recette>

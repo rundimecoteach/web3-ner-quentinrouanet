@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10815">
+  <titre>Rouleaux de prosciutto, carré frais et roquette</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de prosciutto (jambon cru italien)</p>
+    <p>8 petits carrés frais</p>
+    <p>25 g de de roquette </p>
+    <p>sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser les carrés frais dans un bol.
+    Ciseler la roquette.Mélanger les carrés frais avec la roquette. Assaisonner de poivre et de sel.
+    Sur chaque tranche de jambon déposer sur un bord quelques cuillères du mélange de carré frais/roquette.
+    Puis rouler de manière à obtenir de fins cigares fourrés.Déposer un filet d'une très bonne huile d'olive sur ces rouleaux.
+  ]]>
+  </preparation>
+</recette>

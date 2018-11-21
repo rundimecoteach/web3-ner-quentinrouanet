@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22442">
+  <titre>Tarte saumon et poivron aux accents du sud</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée toute prête</p>
+    <p>2 boîtes de saumon (300 g de chair de saumon cuite) </p>
+    <p>1 tomate</p>
+    <p>1 poivron rouge</p>
+    <p>1 oignon</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème liquide</p>
+    <p>sel, poivre</p>
+    <p>1 pincée de piment moulu (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le poivron et l'oignon finement, faire cuire à l'huile d'olive (10 mn). 
+    Etaler la pâte dans un moule à tarte. 
+    Couper la tomate en tranches et la saler. 
+    Émietter le saumon sur la tarte, ajouter le poivron et l'oignon. 
+    Fouetter l'oeuf et la crème, saler poivrer et mettre une pincée de piment. 
+    Égoutter les tomates, les disposer en rosace sur la tarte. 
+    Verser le mélange oeuf/crème et mélanger un peu avec une fourchette. 
+    Cuisson 40 mn Th 7 (210°C)
+      Cette tarte se mange chaude ou froide accompagnée d'un bouquet de persil frais. On peut  la parfumer de coriandre, d'origan, de ciboulette selon ses goûts. rosé de provence ou du Maroc
+  ]]>
+  </preparation>
+</recette>

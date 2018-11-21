@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95757">
+  <titre>Tarte au bleu et fonds d'artichauts</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte brisée (achetée ou faite)</p>
+    <p>une boîte de fonds d'artichauds</p>
+    <p>environ 180 g de fromage bleu (bresse ou auvergne)</p>
+    <p>3 oeufs</p>
+    <p>4 cuillères de crème</p>
+    <p>20 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte et piquer le fondMélanger le bleu, les oeufs, la crème la farine et le lait jusqu'à obtenir une petite mousse
+    Mettre les fonds d'artichauds en petits morceaux sur le fond de tarte et verser la prépa dessus.
+    Faite cuire dans un four préchauffé environ 30 min (+ ou -)à 180 degréAccompagné avec une belle salade
+  ]]>
+  </preparation>
+</recette>

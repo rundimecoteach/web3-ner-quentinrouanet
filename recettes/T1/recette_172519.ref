@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172519">
+  <titre>Pavé de lieu au citron et aux câpres</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pavés de lieu</p>
+    <p>1/2 citron</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>40 g de beurre</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire 4 min de chaque côté le lieu séché avec du papier absorbant dans le beurre chaud.
+    Ajouter les câpres et le citron.
+    Servir chaud.Servir avec pommes vapeur et une poignée de salade. vin blanc sec
+  ]]>
+  </preparation>
+</recette>

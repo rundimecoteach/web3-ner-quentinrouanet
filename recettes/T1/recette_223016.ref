@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223016">
+  <titre>Kouing Patatez</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>200 g de beurre </p>
+    <p>25 g de beurre (pour beurrer la tourtière)</p>
+    <p>300 g de farine (normale et de froment au choix)</p>
+    <p>1 jaune d’œuf</p>
+    <p>1 noix de muscade</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laisser ramollir le beurre à température ambiante.
+    Faire cuire les pommes de terre durant environ 20 min.
+    Les éplucher et les écraser dans un saladier afin de faire une purée "sèche".Préchauffer le four à 180°C (thermostat 6).Verser ensuite la farine progressivement tout en mélangeant puis incorporer petit à petit le beurre ramolli.
+    Rapper la noix de muscade, saler et poivrer.Pétrir la pâte obtenue et réaliser une galette d'environs 1,5 cm d'épaisseur.
+    Beurrer la tourtière et y étaler la pâte en lissant bien la surface.
+    Badigeonner avec le jaune d’œuf battu.
+    Enfourner la préparation et laisser cuire 30 min, jusqu'à ce que le dessus soir bien doré.A déguster avec un poisson, de la salade ou encore de la viande. Cidre
+  ]]>
+  </preparation>
+</recette>

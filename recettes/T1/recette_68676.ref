@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68676">
+  <titre>Tarte de pâques</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>2-3 cuillères à soupe de confiture</p>
+    <p>40 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>4 cuillères à soupe de semoule</p>
+    <p>1/2 citron (bio)</p>
+    <p>50 g beurre</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>3 cuillères à soupe de raisins secs bruns</p>
+    <p>3 cuillères à soupe d'amandes en poudre</p>
+    <p>3 œufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Beurrer et fariner le plat, y disposer la pâte et y tartiner la confiture.
+    Faire chauffer le lait jusqu'à ébullition, y rajouter le sel et la semoule. Laisser gonfler.
+    Prendre le zeste du citron ainsi que le jus. Ajouter le sucre, le beurre, les raisins, les amandes et la semoule. Incorporer les jaunes d'oeufs puis les blancs d'oeufs montés en neige.
+    Mettre sur la pâte et faire cuire 30 à 35 minutes.
+  ]]>
+  </preparation>
+</recette>

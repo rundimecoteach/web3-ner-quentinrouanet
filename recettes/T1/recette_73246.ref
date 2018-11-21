@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73246">
+  <titre>Lotte au vin blanc, accompagnée de riz aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de lotte</p>
+    <p>25 cl de vin blanc</p>
+    <p>beurre</p>
+    <p>échalote</p>
+    <p>2 verres de riz</p>
+    <p>10 beaux champignons de Paris</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever la peau de la lotte, la laver, et la piquer à l'échalote.
+    Déposer la lotte dans un plat allant au four, l'assaisonner (sel, poivre), mettre le vin blanc dans le plat, et beurrer la lotte. 
+    Enfourner le plat à 180°, thermostat 6, pendant 30 à 40 min. Rajouter un peu d'eau en cours de cuisson. 
+    Pendant ce temps, préparer le riz  : mettre 2 verres de riz et 2 verres d'eau dans un plat. Faire chauffer au micro-ondes pendant 6 min (jusqu'à ce que le riz soit cuit).
+    Préparer les champignons: couper les champignons en fines lamelles et les faire revenir à la poêle. Lorsqu'ils sont cuits, ajouter la crème fraîche. Arrêter la cuisson dès que la crème se liquéfie. 
+    Servir la lotte accompagnée du riz aux champignons. 
+    Bonne dégustation !
+    La lotte doit être bien cuite.
+  ]]>
+  </preparation>
+</recette>

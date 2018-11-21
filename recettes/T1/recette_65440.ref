@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65440">
+  <titre>Fondue de poireaux et noix de pétoncles gratinés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 blancs de poireaux</p>
+    <p>20 noix de pétoncles (ou 10 Saint-Jacques)</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>3 cuillères à soupe de cognac</p>
+    <p>20 g de gruyère rapé</p>
+    <p>1 biscotte</p>
+    <p>1 échalote émincée</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et émincer les blancs de poireaux.
+    Faire revenir les poireaux dans une poêle avec du beurre, saler et poivrer. En fin de cuisson ajouter la crème fraiche.
+    Dans une autre poêle, faire fondre du beurre avec l'échalote, puis ajouter les noix de pétoncles. Arroser avec le cognac.
+    Mettre les noix de pétoncles dans un plat, et y rajouter la fondue de poireaux par dessus. Parsemer de gruyère et de la biscotte écrasée en chapelure.
+    Mettre au four 15 min à 200°C (thermostat 6-7) pour que ça gratine.
+     Petit Chablis
+  ]]>
+  </preparation>
+</recette>

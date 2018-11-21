@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15419">
+  <titre>Gâteau au chocolat fourré aux framboises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de framboises entières fraîches ou surgelées</p>
+    <p>100 g de mousse au chocolat noir (en pot)</p>
+    <p>150 g de chocolat patissier</p>
+    <p>140 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>80 g de farine</p>
+    <p>150 g de sucre semoule</p>
+    <p>1 coulis de framboises (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le beurre et les morceaux de chocolat: mettez-les 5 mn au bain-marie en mélangeant ou laissez-les 1 mn au micro-ondes. Lissez-bien.
+    Mélangez les oeufs, la farine et le sucre au mixeur ou au fouet. Incorporez le chocolat et le beurre fondu.
+    Beurrez et farinez un moule assez haut, de 20 cm environ de diamètre. Faites cuire la préparation au four pendant 35 mn à 170°C
+    Laissez refroidir, démoulez et coupez le gâteau en deux dans l'épaisseur. Saupoudrez les framboises de sucre glace, fourrez le gâteau d'une couche de mousse au chocolat et de framboises, puis refermez.
+    Avant de servir, nappez de coulis de framboises (facultatif).
+  ]]>
+  </preparation>
+</recette>

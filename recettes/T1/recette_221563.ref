@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221563">
+  <titre>Tarte à l'artichaut à la grecque</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 artichauts nettoyés</p>
+    <p>1 oignon finement haché</p>
+    <p>3 petits oignons jeunes finement hachés</p>
+    <p>1 petit bouquet d'aneth finement haché</p>
+    <p>200 g de boeuf haché</p>
+    <p>1 verre à vin d'huile d'olive</p>
+    <p>300 g de kasseri (fromage grec) râpé</p>
+    <p>1/2 verre à vin de jus de citron</p>
+    <p>1 biscotte émiettée</p>
+    <p>1 pâte brisée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).Dans une casserole, faites dorer l'oignon, l'oignon jeune et la viande dans l'huile d'olive pendant 5-6 minutes.
+    Ajoutez les tomates, salez, poivrez et laissez cuire la viande.
+    Au dernier moment, ajoutez les fonds d'artichaut coupés en morceaux, le citron et l'aneth et laissez cuire jusqu'à ce qu'il n'y ait plus d'eau.
+    Disposez la pâte à tarte dans un plat et mettez-la seule au four pendant une dizaine de minutes.
+    Sortez-là du four, remplissez-là avec la garniture.
+    Saupoudrez avec le kasseri, la biscotte.
+    Mettez-là au four pendant 15 minutes, jusqu'à ce que le fromage soit fondu.
+    Servez chaud.
+  ]]>
+  </preparation>
+</recette>

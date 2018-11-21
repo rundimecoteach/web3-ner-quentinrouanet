@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80839">
+  <titre>Gâteau rose au yaourt extra moelleux</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt</p>
+    <p>3 oeufs</p>
+    <p>2 pots de sucres</p>
+    <p>2 pots de farine</p>
+    <p>1 pot de maïzena</p>
+    <p>1 sachet de levure</p>
+    <p>1/2 pot d'huile</p>
+    <p>1/2 sachet de sucre vanillé</p>
+    <p>cannelle (facultatif)</p>
+    <p>6 gouttes de colorant alimentaire rouge</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez tous les ingrédients dans un saladier. 
+    Une fois que vous avez obtenus une préparation sans grumeaux, ajoutez-y 6 gouttes de colorant alimentaire rouge, puis remuez encore une fois. 
+    Mettez la préparation dans un moule à gâteau et enfournez à 200°C (thermostat 6-7) durant 40 minutes. 
+    C'est super moelleux et très joli ! Hummmm !
+    C'est un délicieux gâteau extra moelleux ! Je vous conseille vraiment d'y ajouter le colorant alimentaire, c'est très joli et cela apporte une pointe d'originalité !
+  ]]>
+  </preparation>
+</recette>

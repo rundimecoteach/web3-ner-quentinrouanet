@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11105">
+  <titre>Poulet cuit dans le sel</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>3 kg de gros sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ce sont les chinois qui ont inventé la cuisson des aliments enrobés dans le sel, ce sont les lyonnais qui l’ont remis au goût du jour, et c’est un breton qui vous communique la recette !Le poulet est choisi en fonction de la taille du récipient : il ne doit pas toucher les bords.
+    Verser trois kilos de gros sel dans la cocotte. Poser le poulet (vidé et préparé comme pour être rôti) sur le sel. Le recouvrir avec du sel : il doit être entièrement enfoui.
+    Faire chauffer le four pendant 15 minutes. 
+    Quand il est très chaud, y mettre la cocotte. Laisser cuire à découvert pendant une heure et demie. Sortir la cocotte du four, et la renverser sur un grand plat.
+    Porter sur la table le bloc de sel contenant le poulet, et le casser devant les convives. L’effet produit est étonnant : le poulet est non seulement cuit à point mais doré. Sa chair n’est en aucun cas trop salée, et elle est d’une saveur particulière.
+  ]]>
+  </preparation>
+</recette>

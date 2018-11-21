@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17367">
+  <titre>Mini-délices au citron sans culpabiliser</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g fromage blanc à 0%</p>
+    <p>1 citron (jus + zeste) </p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>1 oeuf</p>
+    <p>20 g de beurre fondu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre l'oeuf et le sucre jusqu'à obtenir un mélange mousseux. 
+    Ajouter le fromage blanc, puis le citron (jus et zeste), la farine, la levure et le beurre. Verser dans 4 petits ramequins. 
+    Enfourner à 170°C jusqu'à ce que le dessus commence juste à dorer! 
+    Aussi bon tiède que très frais. Egalement délicieux servis avec un coulis (ou confiture) de fruits rouges.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29339">
+  <titre>Macarons moelleux comme à Nancy</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de poudre d'amandes</p>
+    <p>5 blancs d'oeufs</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>Pour l'arôme : </p>
+    <p>extrait d'amande amère (vanille ou autre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez les blancs d'oeufs en neige bien ferme.
+    Incorporez délicatement le sucre et la poudre d'amandes, puis la farine et l'arôme choisi.Déposez des petits tas sur la plaque du four recouverte de papier sulfurisé.Faites-les cuire environ 10 min au four à 150°C, à mi-hauteur.
+    Laissez refroidir avant de déguster.Vous pouvez les parsemer d'amandes effilées avant d'enfourner...
+    Ces macarons se conservent bien au réfrigérateur dans une boîte hermétique, ils restent alors moelleux à coeur.
+  ]]>
+  </preparation>
+</recette>

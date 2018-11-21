@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85901">
+  <titre>Steak à l'oignon et au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de beefsteak - 1 gros oignon - 1 cuillère à café de miel (vous pouvez faire varier la quantité, suivant si vous préférez que ce soit plus ou moins sucré)- 3 à 4 pincées d'herbes de Provence (séchées ou hachées)- 1 cuillère à soupe d'huile (de préférence d'olive)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, versez un peu d'huile et étalez-la avec de l'essuie-tout.
+    Pelez et coupez finement les oignons.
+    Mettez-les dans la poêle et faites-les dorer à feu doux.
+    Arrêtez le feu.
+    Dans une autre poêle, faites cuire la viande selon vos goûts de cuisson.
+    Reprenez la poêle avec les oignons et ajoutez le miel, avant de les faire tiédir en les faisant cuire 1 à 2 min, en mélangeant délicatement le miel.
+    Versez cette préparation sur la viande préalablement sortie de la poêle.
+    Répartissez les herbes sur votre préparation.
+    Bonne dégustation ! Vin rouge.
+  ]]>
+  </preparation>
+</recette>

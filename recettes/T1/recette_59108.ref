@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59108">
+  <titre>Sandwich à la tomate et au basilic</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 baguette bien croustillante</p>
+    <p>2 grosses tomates mûres (ou 4 petites)</p>
+    <p>4 brins de basilic</p>
+    <p>2 gousses d'ail nouveau (ail frais)</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>4 cuillères à café de vinaigre de vin rouge</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détacher les feuilles de basilic de leurs tiges, les laver et les sécher. Laver les tomates et les couper en très fines tranches. Peler l'ail.
+    Couper la baguette en 4. Ouvrir chaque morceau dans le sens de la longueur, enlever la mie en trop et frotter l'intérieur avec une gousse d'ail frais coupée en deux. Arroser l'intérieur d'une cuillère à soupe d'huile d'olive et d'une cuillère à café de vinaigre.
+    Disposer dans chaque sandwich des feuilles de basilic, des tranches de tomates, saler et poivrer. Rajouter, si l'on aime, une demi gousse d'ail écrasée (attention! l'ail frais est beaucoup moins fort que l'ail sec).
+    Un sandwich typiquement marseillais! Vin rosé de Provence
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12830">
+  <titre>Boules de Berlin</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>500 g de farine</p>
+    <p>160 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>25 g de levure</p>
+    <p>lait</p>
+    <p>sucre</p>
+    <p>cannelle</p>
+    <p>Pour la crème pâtissière :</p>
+    <p>1 l de lait</p>
+    <p>150 g de sucre en poudre</p>
+    <p>vanille en poudre</p>
+    <p>120 g de farine</p>
+    <p>2 oeufs</p>
+    <p>4 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine dans une terrine, y faire un puits et y mettre la levure émiettée.
+    Mouiller avec un peu de lait tiède puis incorporer le beurre, le sucre, les oeufs et bien travailler la pâte avec les mains.
+    Ajouter un peu de cannelle et laisser lever la pâte pendant 2 heures.
+    Crème pâtissière :Faire bouillir le lait vanillé; mélanger dans une terrine la farine, le sucre et les oeufs.
+    Incorporer le lait bouillant petit à petit en mélangeant soigneusement.
+    Verser le mélange dans un poêlon et faire cuire à feu doux en remuant constament.
+    Quand la crème arrive à ébullition, la retirer du feu et la faire refroidir.
+    Abaisser la pâte à une épaisseur d'1/2cm.A l'aide d'un verre découper des rondelles de 6cm de diamètre.
+    Mettre une cuillerée de crème pâtissière sur chaque rondelle; souder les bords avec du blanc d'oeuf et laisser lever pendant 2 heures.
+    Faire cuire alors dans la friture bien chaude et saupoudrer de sucre impalpable avant de servir.
+  ]]>
+  </preparation>
+</recette>

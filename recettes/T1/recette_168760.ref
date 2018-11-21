@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168760">
+  <titre>Petits gâteaux chocolat-amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200g de chocolat</p>
+    <p>100g de sucre en poudre</p>
+    <p>120g de beurre </p>
+    <p>100g d'amandes en poure</p>
+    <p>4 oeufs (jaunes et blancs séparés)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180° (th 6)
+      Casser le chocolat dans une casserole avec le sucre et le beurre. Placer sur feu doux jusqu'à ce que le mélange soit lisse.
+      Ajouter les amandes en poudre. Mélanger une minute puis ôter du feu.
+      Incorporer les 4 jaunes d'oeufs en fouettant bien.
+      Battre les 4 blancs en neige ferme et les incorporer au mélange dans la casserole.
+      Beurrer une vingtaine de petit moules et y répartir la préparation. Enfourner 15 à 20min.Pour les gourmands, il est possible d'ajouter de la cannelle, sinon, ces petits gâteaux sont meilleurs tièdes ! Bonne dégustation ;)
+  ]]>
+  </preparation>
+</recette>

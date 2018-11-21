@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31892">
+  <titre>Délice chocolat coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de lait concentré sucré (397 g) </p>
+    <p>125 g de noix de coco râpé</p>
+    <p>2 oeufs</p>
+    <p>20 cl de lait (la valeur de la boîte de lait concentré sucré vide)</p>
+    <p>100 g de chocolat</p>
+    <p>20 cl de crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four Th 6 (180°C). Mélangez le lait concentré sucré, la noix de coco, les oeufs entiers et le lait frais. 
+    Versez le tout dans un moule à manqué (pas en silicone), recouvert d'un papier alu. 
+    Faites cuire au bain-marie pendant 1 H20 . Laissez refroidir. Dans une casserole, portez à ébullition la crème liquide. 
+    Versez-la dans un saladier contenant le chocolat coupé en morceaux puis mélangez jusqu'à l'obtention d'une crème lisse. Nappez votre délice une fois froid et mettez le tout au réfrigérateur pendant 1 H00 .
+  ]]>
+  </preparation>
+</recette>

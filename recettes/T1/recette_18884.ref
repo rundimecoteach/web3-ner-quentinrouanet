@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18884">
+  <titre>Aubergines confites aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'aubergines naines de 3 à 4 centimètre de long </p>
+    <p>500 g de sucre</p>
+    <p>le jus d'un demi citron</p>
+    <p>1 cuillère à café de cannelle + 1 cuillère à café de Gingembre + 1/2 cuillère à café de girofle moulue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les aubergines. Piquez les à la fourchette puis les mettre à cuire dans l'eau bouillante pendant 10 mn. 
+    Egouttez puis laissez refroidir. 
+    Préparez le sirop en mélangeant à froid le sucre, 2 verres d'eau, les épices et le citron. Ajouter les aubergines à cette préparation et laisser cuire pendant une heure environ jusqu'à obtention d'une consistance sirupeuse. 
+    Laisser tiédir avec les aubergines. 
+    Servir avec de la glace à la vanille.
+    Il faut choisir des aubergines mâles (sans pépins). Elle sont de forme rebondie et pointue.
+    Bien surveiller la cuisson du sirop afin de ne pas obtenir du caramel.si vous ne trouvez pas d'aubergines naines, cette recette peut être préparée avec de petites aubergines.
+  ]]>
+  </preparation>
+</recette>

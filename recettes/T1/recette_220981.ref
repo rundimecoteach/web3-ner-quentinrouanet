@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220981">
+  <titre>Rôti de porc aux deux moutardes, miel et curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de Porc de 600 g</p>
+    <p>1 gros oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>3 cuillères à soupe de moutarde</p>
+    <p>2 cuillères à soupe de moutarde à l'ancienne</p>
+    <p>1 cuillère à café de curry</p>
+    <p>3 cuillères à soupe de miel</p>
+    <p>1 tomate</p>
+    <p>20 cl de vin blanc</p>
+    <p>1 bouillon de poule</p>
+    <p>1 pincée de gros sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un hachoir, disposer un tiers de l'oignon, les 2 moutardes, le curry, le miel et le vin puis hacher le tout.
+    Préchauffer le four à 210°C (thermostat 7).Mettre dans un plat le rôti de porc.
+    Couper la gousse d'ail en morceaux et piquer le rôti de porc avec.
+    Badigeonner le rôti de la sauce moutarde.Émincer le reste de l'oignon et le mettre dans la plat.
+    Mettre le rôti de porc au four à 210°C pendant 1h20, l'arroser tout les 20 min avec le bouillon de poule.
+  ]]>
+  </preparation>
+</recette>

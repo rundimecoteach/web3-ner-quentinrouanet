@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64271">
+  <titre>Petits crumbles choco-banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 bananes bien mûres</p>
+    <p>10 biscuits du type galettes bretonnes (riches en beurre)</p>
+    <p>2 barres de chocolat noir à pâtisserie</p>
+    <p>6 cuillères à soupe de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans un bol, écraser les biscuits pour en faire une poudre grossière et y ajouter la cassonade.
+    Couper les bananes en rondelles et les répartir dans 6 petits moules à crème brûlée, parsemer du chocolat râpé, puis du mélange biscuits/cassonade.
+    Passer au four jusqu'à ce que le biscuit brunisse.
+    Servir tiède, avec éventuellement une boule de glace vanille.
+    Peut être préparé facilement par des enfants - la maman s'occupant du four.
+  ]]>
+  </preparation>
+</recette>

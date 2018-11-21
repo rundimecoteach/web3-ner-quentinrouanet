@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201023">
+  <titre>Gros cookies moelleux aux pralines roses</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>150 g de sucre roux et 100 g de sucre blanc (ou 250 g de sucre blanc)</p>
+    <p>160 g de beurre</p>
+    <p>2 œufs</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>2 pincées de sel</p>
+    <p>quelques gouttes d'arôme vanille (facultatif)</p>
+    <p>200 g de pralines roses concassées</p>
+    <p>(+ éventuellement 10 0g de chocolat blanc ou noir cassé en grosses pépites)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 160°C (thermostat 5-6).Dans un saladier, verser la farine, le sel, la levure.
+    Dans un autre saladier, mélanger au fouet ou au batteur électrique : le beurre (préalablement fondu au bain-marie ou au micro-ondes), le sucre, les œufs et l'arôme vanille.
+    Ajouter les ingrédients secs à ce mélange, et bien homogénéiser.
+    Ajouter les pralines concassées (+ les pépites de chocolat si vous en avez prévu).Laisser reposer une dizaine de minutes au frigo.
+    Sur une plaque de cuisson munie de papier sulfurisé, faire des tas de pâte d'environ 3cm de diamètre en s'aidant de cuillères à café.
+    Attention à laisser au moins 10 cm de libre entre chaque tas car les cookies vont beaucoup s'étaler à la cuisson.
+    Enfourner pour 10-15 minutes : il faut sortir les cookies dès que leur bord commence à colorer. Même si l'intérieur du cookie ne paraît pas cuit, il finira de cuire en refroidissant.
+    Après avoir sorti une fournée, laisser refroidir les cookies quelques minutes jusqu'à ce qu'ils soient manipulables, puis les transférer sur une grille.
+    Ils gardent leur moelleux pendant quelques jours, conservés dans une boîte bien hermétique. café, thé ou chocolat chaud
+  ]]>
+  </preparation>
+</recette>

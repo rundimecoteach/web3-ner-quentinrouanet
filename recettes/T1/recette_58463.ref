@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58463">
+  <titre>Pita garnie aux courgettes/mozza/tomates</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pains type pita</p>
+    <p>2 tomates</p>
+    <p>1 courgette</p>
+    <p>1 boule de mozzarella</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 gousse d'ail</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation (pour 1 pita) :Couper la pita en deux, la tartiner d'huile d'olive.Déposer plusieurs rondelles de courgettes, mozzarella et tomates sur chaque côté.Ajouter un peu d'ail, sel et poivre.15 minutes au four à 180°C (thermostat 6) et le tour est joué !
+  ]]>
+  </preparation>
+</recette>

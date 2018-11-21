@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55407">
+  <titre>Crêpes au chèvre et aux petits lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 galettes de sarrasin toutes prêtes</p>
+    <p>4 crottins de chavignol</p>
+    <p>125 g de lardons</p>
+    <p>4 cuillères à café de crème fraîche épaisse</p>
+    <p>1/2 botte de ciboulette</p>
+    <p>quelques feuilles de salade verte pour la déco</p>
+    <p>poivre et sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Coupez les crottins de Chavignol en deux et déposez les dans un plat à gratin.
+    Enfournez 10 min environ, puis 1 min sur la position grill du four pour que les crottins dorent bien.
+    Pendant ce temps dans une poêle, faites revenir les lardons 8 min environ jusqu'à ce qu'ils soient bien croustillants. Remuez régulièrement.
+    Dans une autre poêle, faites chauffer une galette de sarrasin 30 secondes de chaque côté.
+    Puis ajoutez 1 cuillère à café de crème fraîche, 2 demi crottins et quelques lardons.
+    Poivrez et salez.
+    Pliez la crêpe en carré et faites la glisser dans une assiette. Ajoutez la ciboulette préalablement lavée et coupée.
+    Vous pouvez remplacer le chèvre par du reblochon, du camembert ou du fromage à raclette.
+    Ou bien remplacer les lardons par du saumon fumé.
+  ]]>
+  </preparation>
+</recette>

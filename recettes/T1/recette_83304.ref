@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83304">
+  <titre>Aumônières de raisin au coulis de muscade</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de raisin blanc Pour le sirop : </p>
+    <p>150 g de sucre</p>
+    <p>2 clous de girofle</p>
+    <p>1/2 cuillère à café de noix de muscade râpée</p>
+    <p>Pour les crêpes :</p>
+    <p>65 g de farine</p>
+    <p>15 cl de lait</p>
+    <p>1 œuf</p>
+    <p>1 cuillère à soupe de beurre fondu</p>
+    <p>2 cuillères à café de vanille en poudre</p>
+    <p>sel</p>
+    <p>1 filet d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte à crêpes : verser la farine dans une jatte, creuser un puits. Mettre l'œuf, un peu de vanille et de sel. Mélanger en récupérant les bords. Quand la pâte devient trop épaisse, verser du lait. Lorsqu'elle est lisse et homogène, ajouter le beurre. Faire reposer 1 heure à température ambiante.
+    Préparer le sirop : mettre le sucre dans une casserole avec 25 cl d'eau, les clous de girofle et la muscade. Porter à ébullition puis baisser le feu et laisser bouillir doucement.
+    Épépiner les grains de raisin et les mettre à pocher 15 minutes dans le sirop. 
+    Puis les retirer avec l'écumoire et laisser le sirop réduire d'un tiers. Réserver.
+    Huiler une poêle et faire chauffer. Verser un peu de pâte et faire cuire 1 à 2 minutes de chaque côté. Recommencer jusqu'à épuisement de la pâte (environ pour 6 crêpes)
+    Étaler une crêpe, y poser environ une cuillère à soupe de raisin. Refermer avec une ficelle ou quelque chose de plus esthétique. 
+    Poser dans des assiettes et arroser de sirop.
+    Les crêpes sont légères, et l'ensemble est très agréable. Ne pas trop forcer sur les épices, qui peuvent dominer le plat.
+  ]]>
+  </preparation>
+</recette>

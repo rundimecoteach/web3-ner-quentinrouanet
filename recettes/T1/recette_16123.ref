@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16123">
+  <titre>Boulettes de viande aux pêches</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de boeuf haché</p>
+    <p>1 oeuf</p>
+    <p>1/2 tasse de chapelure</p>
+    <p>1 oignon haché</p>
+    <p>sel, poivre au goût</p>
+    <p>Pour la sauce :</p>
+    <p>90 g de sauce au chili</p>
+    <p>90 g de ketchup</p>
+    <p>50 g de cassonade</p>
+    <p>le jus d'1/2 citron</p>
+    <p>1 cuillère à café de sauce soja</p>
+    <p>12 cl d'eau</p>
+    <p>120 g de jus de pêches</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>500 g de pêches au sirop</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le boeuf, l'oeuf, la chapelure et l'oignon.
+    Façonner en boulettes et frire dans l'huile. Mettre les boulettes dans un chaudron allant au four, verser dessus les ingrédients de la sauce. Cuire au four à 350°F (180°C) pendant 40 mn à couvert et 15 mn à découvert. On peut facilement doubler la recette de sauce.
+  ]]>
+  </preparation>
+</recette>

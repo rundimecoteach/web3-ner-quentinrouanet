@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29540">
+  <titre>Gâteau de neige</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs d'oeufs</p>
+    <p>170 g de sucre en poudre</p>
+    <p>50 g beurre</p>
+    <p>100 g farine</p>
+    <p>1 zeste de citron râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les blancs en neige ferme, ajouter le sucre en le versant en pluie, puis la farine, le beurre juste fondu et le zeste de citron râpé.
+    Travailler légèrement la pâte à la spatule, puis la mettre dans un moule beurré et tapissé de papier cuisson.
+    Faire cuire 30 mn à thermostat 5/6, suivant le four... Bien surveiller!
+    Gâteau très léger qui se mange nature au goûter ou peut être fourré de compote de fruits et nappé d'un glacage au citron, pour le rendre un peu plus sophistiqué.
+    Très pratique pour utiliser un reste de blancs d'oeufs quand on n'a pas envie de faire des meringues.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26852">
+  <titre>Tarte "côté mer"</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>Pour garnir :</p>
+    <p>1 paquet de filets de merlan surgelés</p>
+    <p>vin blanc</p>
+    <p>200 g de champignons de Paris</p>
+    <p>100 g de crevettes roses cuites et décortiquées</p>
+    <p>Pour la sauce :</p>
+    <p>1 brique de sauce béchamel</p>
+    <p>2 cuillères à café de concentré de tomate</p>
+    <p>Pour gratiner :</p>
+    <p>3 biscottes</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Déposer les filets de merlan dans une grande casserole, puis les arroser à hauteur de vin blanc.
+    Laisser cuire sur feu doux jusqu'à l'évaporation complète du vin blanc.
+    Etaler la pâte sur un moule à tarte beurré et la passer à four chaud pendant 5 min.
+    Nettoyer les champignons sous l'eau froide, leur couper le bout terreux, puis les émincer finement.
+    Les faire ensuite revenir à la poêle avec du beurre et les réserver.
+    Découper les crevettes cuites et décortiquées en 2 dans le sens de la longueur et les réserver au frais.
+    Dans une casserole, mettre la sauce béchamel toute prête à chauffer avec 2 cuillères à café de concentré de tomates, puis saler et poivrer.
+    Garnir la pâte en déposant les filets de merlan cuits, puis les recouvrir de champignons et les napper de béchamel à la tomate.
+    Décorer avec les demi-crevettes en les disposant en couronne, puis saupoudrer de biscottes préalablement émiettées.
+    Parsemer de quelques noisettes de beurre, puis enfourner et laisser cuire 15 à 20 min.
+  ]]>
+  </preparation>
+</recette>

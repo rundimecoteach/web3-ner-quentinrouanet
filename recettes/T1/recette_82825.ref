@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82825">
+  <titre>Carottes à la carbolognaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 belles carottes</p>
+    <p>250 g de lardons fumés</p>
+    <p>400 g de boeuf haché</p>
+    <p>1 oignon</p>
+    <p>25 cl de crème fraîche liquide</p>
+    <p>1 bouillon de volaille</p>
+    <p>2 l d'eau</p>
+    <p>1 poignée de gros sel</p>
+    <p>1 pincée de poivre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>2 à 3 cuillère à soupe de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les carottes et lavez-les. 
+    Coupez-les le plus finement possible. 
+    Plus elles seront coupées fines, plus elles cuiront vite.
+    Portez l'eau à ébullition avec le gros sel et le bouillon de volaille puis plongez-y les carottes.
+    Comptez 5 à 10 minutes de cuisson si les carottes sont très fines.
+    Pelez l'oignon et coupez-le en fines lamelles que vous faites revenir dans l'huile d'olive. 
+    Ajoutez y les lardons et la viande de boeuf hachée. 
+    Salez et poivrez à votre convenance. 
+    Laissez cuire 10 minutes.
+    Lorsque les carottes sont cuites, égouttez-les puis remettez-les dans la casserole. 
+    Ajoutez y alors le mélange lardon/boeuf et mélangez.
+    Dans un bol, mélangez la crème fraiche avec le curry, un peu de sel et de poivre si besoin.
+     
+    Versez la crème au curry sur les carottes puis mélangez bien et réchauffez le tout quelques minutes sur le feu.
+    Ce plat permet de faire manger des carottes aux enfants sans qu'ils fassent la grimace.
+  ]]>
+  </preparation>
+</recette>

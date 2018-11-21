@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42276">
+  <titre>Salade estivale melon-concombre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 concombres</p>
+    <p>1 melon</p>
+    <p>pignons de pin</p>
+    <p>2 tomates</p>
+    <p>4 tranches de jambon de Parme</p>
+    <p>huile d'olive</p>
+    <p>vinaigre à la pulpe de mangue</p>
+    <p>fleur de sel et poivre blanc</p>
+    <p>citron vert</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire des billes de melon (ou utiliser des billes de melon congélées), et les faire mariner au réfrigérateur dans le jus d'un citron vert poivré.
+    Eplucher les concombres, et taillez les en lanières.
+    Couper les tomates en dés, et le jambon en fines lanières.
+    Mixer les pignons avec l'huile d'olive et le vinaigre. Utiliser un vinaigre de vin blanc/cidre/mangue.
+    Disposer dans des assiettes les lanières de concombres, les billes de melon, les dés de tomates, et le jambon. 
+    Arroser avec la vinaigrette, et parsemer de ciboulette ciselée.
+    Bon appétit!
+    On trouve le vinaigre à la pulpe de mangue dans la gamme "le temps des mets". Un rosé frais et léger
+  ]]>
+  </preparation>
+</recette>

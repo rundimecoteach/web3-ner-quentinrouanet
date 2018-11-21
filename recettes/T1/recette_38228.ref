@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38228">
+  <titre>Tarte tatin tomates et sardines</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 kg de tomates</p>
+    <p>12 filets de sardines fraiches</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 branche de romarin ou bien herbe de provence</p>
+    <p>20 g de beurre</p>
+    <p>fleur de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 100°C (thermostat 2).
+    Essuyez les sardines et retirez les arêtes.
+    Coupez les tomates en deux, posez-les sur la plaque du four, côté bombé en dessous. Arrosez d'huile d'olive salez de sel fin et mettre le romarin en brins ou les herbes de provence. Laissez cuire doucement à four doux pendant 20 minutes voir plus si les tomates sont juteuses.
+    Huilez le fond du moule, disposer les filets de sardines peu vers le moule, disposez dessus les tomates cuites puis mettre la pâte.
+    Badigeonnez la pâte au pinceau de beurre fondu et faire cuire au four à 210°C (thermostat 7) pendant 25 minutes.
+    Retournez la tarte sur le plat de service, parsemez de fleur de sel et donnez 2 tours de moulin à poivre puis arrosez d'un filet d'huile d'olive.
+  ]]>
+  </preparation>
+</recette>

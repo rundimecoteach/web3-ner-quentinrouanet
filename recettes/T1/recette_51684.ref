@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51684">
+  <titre>Hachis parmentier moelleux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de viande hachée (bœuf ou bœuf/veau)</p>
+    <p>1,5 kg pommes de terre (type Bintje)</p>
+    <p>2 oignons</p>
+    <p>2  gousses d'ail</p>
+    <p>100 g de fromage râpé</p>
+    <p>3 œufs</p>
+    <p>10 cl de crème fraîche</p>
+    <p>20 cl de lait</p>
+    <p>1 bouillon cube</p>
+    <p>7 cl d’eau</p>
+    <p>persil haché</p>
+    <p>poivre et sel</p>
+    <p>beurre</p>
+    <p>noix muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre, les rincer et les couper en morceaux.
+    Faire cuire les pommes de terre, de préférence à la vapeur, puis la réduire en purée et incorporer  1 oeuf, la crème fraîche, le lait, du sel, du poivre, du beurre et de la noix de muscade râpée.
+    Réserver la purée au chaud.
+    Faire revenir les oignons et l’ail finement hachés dans un peu de beurre, ajouter la viande hachée, faire dorer quelques minutes, ajouter l'eau et un bouillon cube.
+     
+    Faire cuire doucement 10 minutes puis, hors du feu, ajouter 2 jaunes d’œufs et un peu de persil haché.
+    Saler, poivrer.
+    Préchauffer le four à 210°C (thermostat 7).
+    Etaler une couche de purée dans le fond d'un plat à gratin, étaler le hachis par dessus puis recouvrir uniformément de purée.
+     
+    Saupoudrer de fromage râpé.
+    Mettre à gratiner au four pendant 10 à 15 minutes environ.
+    Servir avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

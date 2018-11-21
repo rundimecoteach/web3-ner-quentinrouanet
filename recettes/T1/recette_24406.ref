@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24406">
+  <titre>Terrine d'oeufs aux épinards et à la tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g d'épinards cuits hachés</p>
+    <p>100 g de gruyère râpé</p>
+    <p>100 g de crème fraîche</p>
+    <p>18 oeufs</p>
+    <p>20 cl de coulis de tomates</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>noix muscade</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210° (thermostat 7).
+    Battre 6 oeufs en omelette dans trois récipients différents. Assaisonner et verser 1 cuillère à soupe d'huile dans chaque plat.
+    Mélanger les œufs et les épinards dans le premier plat, et verser le tout dans un moule beurré. Enfourner pendant 15 min au bain-marie à 210° (thermostat 7).
+    Incorporer 50 g de crème, le gruyère et la muscade aux œufs du deuxième plat. Verser dans le moule, sur la première préparation cuite et enfourner encore 15 min au bain-marie.
+    Ajouter le reste de crème et le coulis de tomates dans le dernier plat. Bien mélanger et faire cuire dans le moule au bain-marie pendant 15 min.
+  ]]>
+  </preparation>
+</recette>

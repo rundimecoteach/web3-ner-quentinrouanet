@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83554">
+  <titre>Charlotte royale au chocolat et au café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de chocolat</p>
+    <p>4 œufs</p>
+    <p>30 g de sucre</p>
+    <p>1 boite de biscuits à la cuillère</p>
+    <p>25 cl de café noir</p>
+    <p>125 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chemisez un moule à charlotte de biscuits à la cuillère légèrement imbibés de café. Faites fondre le chocolat et le beurre au bain-marie puis y ajoutez le sucre.
+    A part, séparez les blancs des jaunes et ajoutez les jaunes d'œuf un à un au chocolat fondu, réservez. 
+    Dans un jatte battez les blancs en neige très ferme puis ajoutez les  délicatement an mélange beurre chocolat.
+    Versez la moitié de cette préparation dans le moule chemisé puis recouvrir avec une couche de biscuits imbibé, versez l'autre moitié de la préparation puis recouvrez le tout d'une autre couche de biscuits imbibés. Placez-la au réfrigérateur démouler au dernier moment.
+     Servir avec du thé !
+  ]]>
+  </preparation>
+</recette>

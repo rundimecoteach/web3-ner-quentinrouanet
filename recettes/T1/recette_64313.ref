@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64313">
+  <titre>Poulet Rashmar</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>1 litre de jus de pommes bio</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>1 boîte de champignons émincés</p>
+    <p>2 oignons </p>
+    <p>1 échalote</p>
+    <p> farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un fait-tout, mettre les tomates pelées, les champignons, le ou les oignons, l'échalote et le jus de pommes bio. Saler et poivrer.
+    Commencer à faire mijoter.
+    En attendant, faire un mélange avec les épices spéciales volailles et la farine et fariner les cuisses.
+    Les plonger dans la préparation et laisser mijoter à feu doux jusqu'à cuisson des cuisses.
+    Bon appétit, régalez-vous. Vin moelleux
+  ]]>
+  </preparation>
+</recette>

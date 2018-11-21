@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15325">
+  <titre>Champignons de Paris au Boursin</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 très gros champignons de Paris</p>
+    <p>2 fromages ail et fines herbes (de type Boursin)</p>
+    <p>sel et poivre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La ver les champignons. Couper les pieds et les évider légèrement. Saler (légèrement) et poivrer;
+    Garnir largement chaque champignon avec du fromage.
+    Cuire à four moyen 20 mn dans un plat légèrement beurré.
+    original et super bon !
+  ]]>
+  </preparation>
+</recette>

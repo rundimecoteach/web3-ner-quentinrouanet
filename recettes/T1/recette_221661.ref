@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221661">
+  <titre>Andouillettes faciles et pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 andouillettes</p>
+    <p>2 échalotes</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>2 cuillères à soupe de crème fraîche entière</p>
+    <p>200 g de gruyère râpé</p>
+    <p>huile</p>
+    <p>12 pommes de terre vapeur</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les andouillettes en 2, dans le sens de la longueur.Émincer les échalotes.
+    Dans une poêle chaude, faire fondre un peu de beurre (ou un peu d'huile) et faire revenir les 1/2 andouillettes 2 min de chaque coté.
+    Réserver.
+    Préchauffer le four à 200°C (thermostat 7).Dans ce qui reste dans la poêle, faire revenir les échalotes émincées.
+    Couper le feu et mettre la crème et la moutarde. Bien mélanger dans la poêle chaude.
+    Dans un plat allant au four, disposer : en premier une pincée de gruyère, puis une trace de sauce moutarde-crème, puis 1/2 andouillette, puis une trace de sauce moutarde et enfin du gruyère.
+    Enfourner le tout 20 min à four chaud (200°C).Servir avec des pommes de terre cuites vapeur et arrosées du reste de la sauce crème-moutarde.Avec une petite salade cela fait un bon repas d'hiver. Pour de bons mangeurs...
+  ]]>
+  </preparation>
+</recette>

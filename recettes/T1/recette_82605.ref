@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82605">
+  <titre>Crème aux oeufs au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs </p>
+    <p>100 g de sucre </p>
+    <p>150 g de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le lait dans une casserole avec le chocolat,jusqu'a ce que le chocolat soit bien fondu.
+    Dans un saladier mettre les oeufs et le sucre, bien mélanger.
+    Verser le contenu de la casserole dans le saladier.
+    Mettre dans un plat allant au four et faire cuire 1 heure environ.
+  ]]>
+  </preparation>
+</recette>

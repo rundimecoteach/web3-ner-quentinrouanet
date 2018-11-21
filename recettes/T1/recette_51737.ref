@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51737">
+  <titre>Tarte prunes spéculoos</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>environ 12 prunes rouges</p>
+    <p>1 paquet de biscuit spéculoos style "bastogne"</p>
+    <p>100 g de sucre roux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Etalez la pâte sablée dans un moule à tarte et piquez-la.
+    Après avoir nettoyé les prunes, coupez-les en deux et enlevez le noyau.
+    Disposez sur la pâte sablée les spéculoos entiers.
+    Il faut entièrement recouvrir la pâte de biscuits.
+    Ensuite, disposez par-dessus les demi-prunes câté bombé dessous.
+    Saupoudrez généreusement de sucre roux afin de supprimer l'acidité des prunes lors de la cuisson.
+    Mettre au four environ 30 minutes.
+    les spéculoos retiennent le jus des prunes lors de la cuisson et donnent à la tarte un côté encore plus croustillant. Vin blanc doux.
+  ]]>
+  </preparation>
+</recette>

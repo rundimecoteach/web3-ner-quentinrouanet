@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85475">
+  <titre>Soupe au lard à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courgette- 1 aubergine- 1 oignon- 240 g de tomates pelées en cubes (soit 1 petite boîte)- 1 morceau de lard (environ 100 g, selon les envies)- 1 l d'eau- 1 cube de bouillon de bœuf- sel et poivre- cumin et épices à couscous ou gingembre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper tous les légumes en petits dés.
+    Faire rissoler le lard (juste le temps de graisser un peu la casserole/sauteuse).
+    Faire revenir environ 5 min les légumes.
+    Mettre les tomates pelées et recouvrir d'eau.
+    Ajouter le cube de bouillon de bœuf, le sel (attention, avec modération, à cause du lard), le poivre et les épices (suivant les goûts et l'envie du jour : je mets parfois du cumin et des épices couscous ou du gingembre).
+    Laisser cuire environ 1 h (suivant la taille de votre morceau de lard).
+    Couper le lard en 2 et servir dans des assiettes creuses avec le reste de la soupe.
+  ]]>
+  </preparation>
+</recette>

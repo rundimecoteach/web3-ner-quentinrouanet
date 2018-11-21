@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44690">
+  <titre>Nutelloise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de yaourt brassé</p>
+    <p>1 pot de farine</p>
+    <p>2 pots de poudre de noisettes</p>
+    <p>2 pots de sucre</p>
+    <p>1 sachet de levure chimique</p>
+    <p>2 oeufs</p>
+    <p>sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le pot de yaourt servira de mesure.
+    Mélanger le tout, et verser le mélange dans un moule à manqué, beurré et fariné.
+    Enfourner pendant 35 min à 180°C (th 6).
+    Variante : on peut aussi ajouter des morceaux d'abricot secs ou
+    des pépites de chocolat!
+    des morceaux de noix...
+    -
+    Cette recette possède un petit goût de Nutella, mais ne vous y trompez pas, ça n'en est pas! Le moule ne doit pas être trop grand, moi j'utilise un moule à cake siliconé. Un bon chocolat chaud !
+  ]]>
+  </preparation>
+</recette>

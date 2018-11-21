@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60634">
+  <titre>Petits gâteaux à la ricotta et aux framboises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de ricotta</p>
+    <p>3 oeufs</p>
+    <p>180 g de sucre</p>
+    <p>75 g de farine</p>
+    <p>75 g de poudre d'amandes</p>
+    <p>125 g de framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Séparer les blancs des jaunes d'oeufs.
+    Battre les jaunes avec le sucre puis incorporer la ricotta. Battre énergiquement pour éliminer les grumeaux.
+    Ajouter la farine et la poudre d'amandes.
+    Battre les blancs d'oeufs en neige et les incorporer délicatement à la préparation.
+    Beurrer ou huiler vos moules à muffins et les remplir aux 2/3. Y déposer 3 framboises puis presser légèrement.
+    Enfourner 30 minutes. Laisser refroidir sur une grille.
+    L'association framboises, ricotta et amandes est tout simplement divine. Hors saison, on peut utiliser des framboises surgelées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52729">
+  <titre>Petit dessert gourmand banane-chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 belles bananes</p>
+    <p>2 tablettes de chocolat au lait (soit 200 g)</p>
+    <p>poudre de noix de coco</p>
+    <p>2 cuillères à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les bananes en rondelles dans une casserole.
+    Ajoutez le chocolat en petits morceaux ainsi que le lait.
+    Faites cuire à feu doux afin que les rondelles de bananes soient enrobées de chocolat.
+    Bien mélanger.
+    Une fois que le chocolat a fondu, retirez la casserole du feu et versez le mélange dans 6 petits raviers.
+    Laissez refroidir environ 30 minutes puis saupoudrez de poudre de noix de coco.
+    Mettez au frigo 3 à 4 heures, voir plus, pour que les bananes "trempent" bien dans le chocolat.
+  ]]>
+  </preparation>
+</recette>

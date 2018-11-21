@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56750">
+  <titre>Tartiflette sans crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de pommes de terre</p>
+    <p>3 petits oignons</p>
+    <p>200 g de lardons ou jambon</p>
+    <p>1 fromage spéciale tartiflette ou 500 g de reblochon</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les couper en dès.
+    Les faire blanchir dans de l'eau bouillante pendant 10 à 15 minutes.
+    Dans une poêle, mettre l'huile et y faire revenir les lardons, les oignons couper en lamelles, puis ajouter les pommes de terre encore chaude (égouttées).
+    Mettre la préparation dans un plat à gratin et y recouvrir du fromage coupé en 2 (croûte vers l'intérieur).
+    Mettre au four thermostat 6 pendant 20 à 30 min selon le degrés de dorage que vous souhaitez.
+    Le fromage étant gras il n'est pas nécessaire de rajouter du liquide dans le plat.
+  ]]>
+  </preparation>
+</recette>

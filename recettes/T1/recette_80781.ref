@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80781">
+  <titre>Quiche au saumon fumé et à l'oignon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>175 g de pâte brisée</p>
+    <p>200 g de saumon fumé</p>
+    <p>3 fines tranches de fromage</p>
+    <p>1 gros oignon</p>
+    <p>1 peu d’huile (pour frire l’oignon)</p>
+    <p>20 cl de crème fraîche</p>
+    <p>15 cl de lait</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 cuillères à soupe de ciboulette</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir à l’huile l’oignon haché. 
+    Pendant ce temps, étaler la pâte dans un moule à tarte, piquer quelques coups de fourchette (pour que la pâte ne gonfle pas pendant la cuisson). Couper les toastinettes en fines lamelles et les étaler sur le fond de tarte. 
+    Battre les œufs avec la crème fraîche, la farine et le lait. Ajouter les herbes et le poivre. Verser deux petites louches de cette préparation sur les toastinettes.
+    Etaler dessus le saumon fumé coupé en fins morceaux, et l’oignon frit. 
+    Verser dessus le reste de la préparation liquide.
+    Mettre au four à 280°C (thermostat 9) pendant 5 minutes, puis à 230°C (thermostat 8) pendant 25 minutes.
+    Se sert chaud ou froid. 
+    S'accompagne très bien de petits pois.
+  ]]>
+  </preparation>
+</recette>

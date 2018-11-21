@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81537">
+  <titre>Gâteau de fruit à pain au lait de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un fruit à pain de 1 kg environ</p>
+    <p>200 ml de lait de coco</p>
+    <p>600 ml d'eau pour la cuisson du fruit à pain</p>
+    <p>200 g de sucre de canne</p>
+    <p>3 oeufs</p>
+    <p>rhum, vanille, écorce d'une demie orange hachée.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher le fruit à pain, ôter le coeur, détailler en petits morceaux:
+    Le faire cuire avec le lait de coco et l'eau.
+    L'écraser à la fourchette.
+    Mélanger le reste des ingrédients.
+    Mettre au four dans un moule à cake chemisé de papier sulfurisé.
+    Cuire à 180°C (thermostat 6).
+    Excellent avec un coulis de goyavier ou un autre fruit rouge (cassis par ex).
+  ]]>
+  </preparation>
+</recette>

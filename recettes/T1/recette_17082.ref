@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17082">
+  <titre>Tortellini au mascarpone</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de tortellini</p>
+    <p>50 g de beurre</p>
+    <p>200 g de champignons de Paris</p>
+    <p>un filet d’huile</p>
+    <p>du parmesan râpé</p>
+    <p>sel et poivre</p>
+    <p>150 g de mascarpone</p>
+    <p>2 jaunes d’œufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les champignons, coupez-les en fines tranches et faites-les revenir dans un peu d’huile. En fin de cuisson, faites fondre le beurre et salez.
+    Mélanger le mascarpone avec les jaunes d’œufs jusqu’à obtention d’un mélange mousseux et homogène. Assaisonnez avec du sel et du poivre.
+    Faites cuire les tortellini, égouttez-les et rajouter les champignons et la crème au mascarpone. Saupoudrez de parmesan et servez.
+  ]]>
+  </preparation>
+</recette>

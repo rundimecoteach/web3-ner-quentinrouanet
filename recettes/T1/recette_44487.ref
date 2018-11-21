@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44487">
+  <titre>Boeuf à la bière brune</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de boeuf à bourguignon</p>
+    <p>75 cl de bière brune</p>
+    <p>12 champignons frais</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre de la farine dans une assiette, et rouler les morceaux de viande dedans.
+    Dans une marmite, faire chauffer un fond d'huile d'olive.
+    Ajouter, au fur et à mesure, les morceaux de boeufs farinés. Les faire légèrement cuire sur chaque face.
+    Augmenter le feu, saler et poivrer, et ajouter les trois  fois 25 cl de bière.
+    Diminuer le feu quand la bière bouillonne.
+    Laisser mijoter environ 1 h 15.
+    Dans une poêle beurrée, faire revenir les champignons frais préalablement coupés en quatre, saler et poivrer.
+    Laisser dorer légèrement, puis les mettre dans la marmite.
+    Laisser cuire environ 10 min.
+    Servir avec des frites, des pommes de terre à l'eau ou bien du riz. Bordeaux 
+  ]]>
+  </preparation>
+</recette>

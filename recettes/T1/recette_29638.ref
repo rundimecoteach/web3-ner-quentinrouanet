@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29638">
+  <titre>Cake moelleux aux pommes et à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>150 g de beurre mou</p>
+    <p>250 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>1 sqchet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>3 pommes très parfumées</p>
+    <p>30 g de cannelle moulue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, travaillez le beurre mou en pommade avec 200 g de sucre jusqu'à ce que le mélange blanchisse.
+    Incorporez un à un les oeufs en fouettant, le mélange doit être mousseux.
+    Incorporez alors la farine tamisée avec la levure et le sel.
+    Versez la pâte dans un moule rond beurré.
+    Pelez, épépinez et coupez les pommes en tranches.
+    Mélangez le sucre restant et la cannelle, saupoudrez les lamelles de pommes de ce mélange.
+    Glissez les tranches de pommes dans la pâte.
+    Faites cuire au four à 170°C (thermostat 5-6) pendant 1 h.
+  ]]>
+  </preparation>
+</recette>

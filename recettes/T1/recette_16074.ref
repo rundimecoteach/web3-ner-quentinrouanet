@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16074">
+  <titre>Omelette de la mère Poulard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>60 g de beurre</p>
+    <p>2 cuillerees a soupe de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparez les blancs et les jaunes des oeufs.
+    Battez bien au fouet et séparement les jaunes et les blancs. Salez et poivrez les jaunes uniquement.
+    Faites chauffer le beurre dans une poêle. Versez-y les jaunes battus puis, lorsqu'ils ont commencé à prendre, la crème fraîche et enfin les blancs battus.
+    Agitez la poêle pendant toute la cuisson (qui doit se faire à feu vif).
+    173 calories
+  ]]>
+  </preparation>
+</recette>

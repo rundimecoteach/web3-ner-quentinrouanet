@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16874">
+  <titre>Mousse de saumon fumé rapide</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de saumon fumé</p>
+    <p>40 cl de crème fraîche</p>
+    <p>1 cuillérée à soupe de moutarde</p>
+    <p>quelques oeufs de truite saumonée </p>
+    <p>quelques brins de ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixez le saumon avec la crème et la moutarde.
+    Décorez avec les oeufs de truite et la ciboulette.
+     Vous pouvez servir cette préparation sur des toasts, des blinis, dans un avocat ou une tomate, avec des tranches de concombres, etc.
+  ]]>
+  </preparation>
+</recette>

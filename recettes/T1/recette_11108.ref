@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11108">
+  <titre>Poulet au sirop d'érable</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 poulets de 1 kg chacun</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>1/4 cuillère à café de poivre</p>
+    <p>1 pincée de sarriette</p>
+    <p>4 cuillères à soupe de beurre</p>
+    <p>2 oignons</p>
+    <p>8 cuillères à soupe de sirop d'érable</p>
+    <p>10 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poulets en quatre. Mélanger la farine, le sel et le poivre, rouler les morceaux de poulet dedans.
+    Faire dorer au beurre, dans un poêlon à feu moyen.
+    Placer les morceaux cuit dans une lèche frite.
+    Frire les oignons dans la graisse restant du poulet. Saupoudrer de sarriette et 1 cuillère à soupe de sirop d'érable sur chaque morceau de poulet.
+    Rincer le poelon avec l'eau. Verser sur le poulet.
+    Faire cuire pendant 40 minutes sans couvrir, au four à 180°C (thermostat 6).Ce plat peut-être fait avec des cuisses, dos de poulet et est excellent. Vous pouvez ajouter jusqu'à 1 tasses de sirop d'érable.
+  ]]>
+  </preparation>
+</recette>

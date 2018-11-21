@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11281">
+  <titre>Gâteau à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>340 g d'ananas en tranches au sirop</p>
+    <p>225 g de farine</p>
+    <p>175 g de beurre</p>
+    <p>200 g de sucre en poudre</p>
+    <p>100 g de sucre en morceaux</p>
+    <p>2 oeufs</p>
+    <p>20 cl de lait</p>
+    <p>1 citron non traité</p>
+    <p>11 g de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans le fond d'un moule à manqué de 22cm de diamètre, préparez un caramel blond avec le sucre en morceaux, 3 cuillères d'eau et 2 gouttes de jus de citron. Egouttez les tranches d'ananas. Réservez le sirop.
+    Posez les tranches de fruit sur le caramel. Préchauffez alors le four à 180°C (th6).Préparez la pâte. Tamisez la farine avec la levure. Faites fondre le beurre sur feu doux et laissez le refroidir. Râpez le zeste du citron.Mélangez le beurre avec le sucre en poudre, ajoutez les oeufs entiers, le zeste de citron, puis la farine tamisée et le lait froid. La pâte doit être souple. Versez-la sur les tranches d'ananas.
+    Enfournez pour 40 mn. Démoulez le gâteau, fruits sur le dessus, sur un plat de service.
+    Présentez le sirop réservé, mélangé au jus de citron, dans une saucière.Les tranches d'ananas peuvent être remplacées par des abricots, des pêches, des poires en morceaux...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81765">
+  <titre>Galette de légumes variés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poireau</p>
+    <p>3 pommes de terre</p>
+    <p>2 belles courgettes</p>
+    <p>5 oeufs</p>
+    <p>sauce soja (environ 50 ml)</p>
+    <p>ail (environ 3 gousses)</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>200 g chapelure</p>
+    <p>100 g parmesan</p>
+    <p>1 belle botte de persil (voir 2)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les poireaux et les faire revenir avec de l'huile d'olive. 
+    Ajouter les pommes de terre et courgettes râpées puis la sauce soja, l'ail, le sel et le poivre selon les goûts (pas trop de sel avec la sauce soja).
+    Laisser cuire en remuant environ 20 min puis égoutter.
+    Battre les oeufs puis ajouter la farine, le persil ciselé, 150 g de chapelure et le parmesan râpé.
+    Préchauffer le four en position grill à 150°C (thermostat 5).
+    Mélanger la base et les légumes. Faire dorer sur une poêle en ajoutant de la chapelure d'un côté des galettes.
+    Puis passer au four pendant 15 min.
+    A déguster tiède avec de la crème et du saumon fumé, avec de la sauce tomate, du fromage frais, ou encore simplement accompagné d'une salade.
+    Note: variante avec d'autres légumes: carottes, chou, céleri, oignons... et avec de la coriandre à la place du persil.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81331">
+  <titre>Saumon rôti, rosaces de pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet de saumon</p>
+    <p>600 g de pommes de terre</p>
+    <p>6 échalotes</p>
+    <p>4 cuillères à soupe de persil haché</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez les filets de saumon en 8 morceaux, arrosez-les avec l'huile d'olive et la sauce soja et laissez mariner au frais.
+    Pelez et hachez finement les échalotes, faites-les étuver dans 20 g de beurre. Versez le vin blanc, ajoutez le persil haché et laissez mijoter 20 minutes.
+    Mixez la préparation, ajoutez sel et poivre et gardez au chaud.
+    Pelez les pommes de terre, découpez-les en tranches régulières. Sur une planche, préparez des rosaces en disposant les tranches en cercle et en les chevauchant. Farinez-les légèrement.
+    Faites chauffer le beurre restant dans une poêle, déposez les rosaces et laissez cuire 7 minutes par face, salez et poivrez.
+    Préchauffez le four thermostat 7 (210°C). Faites dorer le poisson sans matière grasse. Glissez-le ensuite au four pendant 8 minutes pour terminer la cuisson.
+    Servez-le avec les pommes de terre et la sauce.
+    Bon appétit.
+    Pour un repas plus raffiné, accompagnez en plus d'une garniture de légumes verts en fonction des saisons (asperges vertes, pois gourmands, haricots verts, brocolis, courgettes, épinards, poireaux...). Un blanc bien fruité (ex:muscat d' Alsace)
+  ]]>
+  </preparation>
+</recette>

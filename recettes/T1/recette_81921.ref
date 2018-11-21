@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81921">
+  <titre>Chaussons camembert surimi</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>2 oeufs</p>
+    <p>10 cl de crème fraîche liquide</p>
+    <p>3 bâtonnets de surimi</p>
+    <p>1 camembert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 200°C (thermostat 6-7)
+    Découper dans la pâte feuilletée trois cercles de 14 centimètres de diamètre.
+     
+    Battre un oeuf avec la crème fraîche, saler et poivrer.
+     
+    Au milieu de chaque cercle, découper en rondelles un bâtonnet de surimi, mettre une tranche de camembert et une cuillère à soupe de mélange oeuf/crème fraîche.
+     
+    Mouiller le bord du cercle puis refermer pour former un chausson.
+    Badigeonner le dessus d'oeuf battu, pour donner une belle couleur dorée. 
+    Mettre au four pendant environ 30 minutes.
+    A servir avec une salade verte, peut se manger chaud ou froid. Vous pouvez les faire en plus petit pour l'apéritif. 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83019">
+  <titre>Lasagne aux courgettes, chèvre et poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>7 à 9 plaques de lasagnes</p>
+    <p>50 g de gruyère rapé</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+    <p>250 g de courgettes</p>
+    <p>1 gousse d'ail</p>
+    <p>1 escalope de poulet</p>
+    <p>150 g de chèvre frais</p>
+    <p>Pour la béchamel:</p>
+    <p>30 g de beurre</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>50 cl de lait 1/2 écrémé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites préchauffer le four à 200°C (thermostat 6-7) pendant 10 minutes.
+    Hachez l'escalope de poulet à l'aide d'un robot.
+    Coupez l'ail en petits morceaux
+    Râpez les courgettes à l'aide d'un robot. Vous devez obtenir des vermicelles de courgettes.
+    Faites revenir à feu vif le poulet dans une sauteuse avec de l'huile d'olive.
+    Quand il est doré, ajoutez l'ail et faites-le revenir aussi.
+    Ajoutez ensuite les courgettes et faites sauter le tout environ 10 minutes.
+    Mélangez enfin le chèvre frais à la préparation à feu doux.
+    Salez, poivrez et réservez.
+    Préparation de la béchamel:
+    Faites fondre le beurre dans une casserole à feu doux.
+    Ajoutez la farine et mélangez avec un fouet.
+    Versez le lait d'un seul trait.
+    Remuez sans cesse la préparation jusqu'à ce qu'elle épaississe.
+    Salez et poivrez.
+    Dans un plat à gratin versez une louche de béchamel.
+    Posez 2-3 plaques de lasagnes.
+    Recouvrez d'un tiers de la préparation aux courgettes, puis d'une louche de béchamel.
+    Saupoudrez ensuite de gruyère.
+    Recommencez encore 2 fois l'opération, mais pour la dernière couche ne mettez pas de gruyère. Terminez en recouvrant de béchamel.
+    Faîtes cuire le plat pendant 30 min à 200°C (thermostat 6-7).
+    5 minutes avant la fin de la cuisson, saupoudrez le plat de gruyère et remettez-le au four.
+    On peut remplacer le poulet par du saumon. Vin rouge
+  ]]>
+  </preparation>
+</recette>

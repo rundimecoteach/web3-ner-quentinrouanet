@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15998">
+  <titre>Foie gras vigneron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de foie gras de canard mi-cuit</p>
+    <p>400 g de gros raisins blancs</p>
+    <p>400 g de gros raisins noirs</p>
+    <p>12 tranches de bon pain d'épice</p>
+    <p>1 cuillère à café de miel</p>
+    <p>6 brins de cerfeuil</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>3 cuillère à café de baies roses</p>
+    <p>1 cuillère à soupe d'huile de noix</p>
+    <p>2 cuillère à soupe d'huile de tournesol</p>
+    <p>5 cl d'Armagnac (ou de Cognac)</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egrappez les raisins et pelez-en la moitié.
+    Mélangez le vinaigre, le sel et le poivre avec les huiles, ajoutez les raisins pelés et gardez au frais.
+    Coupez le foie gras en 6 tranches et mettez au frais.
+    Poêlez au beurre le reste des raisins avec le miel à feu vif. Versez l'armagnac, flambez et laissez réduire légèrement.
+    Grillez les tranches de pain d'épice. Posez-en une sur chaque assiette, ajouter des raisins poêlés et une autre tranche de pain d'épice, puis une tranche de foie gras (vous confectionnez ainsi un sandwich aux raisins avec du foie gras dessus).
+    Décorez avec des raisins poêlés et la salade de raisins pelés puis éparpillez le cerfeuil et les baies roses en décoration.
+    Faire griller au dernier moment. Il doit y avoir un contraste entre le chaud du pain d'épices et le froid de la salade de raisins.
+  ]]>
+  </preparation>
+</recette>

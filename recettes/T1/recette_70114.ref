@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70114">
+  <titre>Tarte banane chocopépites</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée </p>
+    <p>4 cuillères à soupe de compote de pomme-vanille</p>
+    <p>1 cuillère à café de sucre en poudre </p>
+    <p>5 cuillères à soupe de crème </p>
+    <p>1 oeuf </p>
+    <p>2 bananes</p>
+    <p>cannelle en poudre</p>
+    <p>1 sachet de pépites de chocolat (125 g)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Mettez votre pâte sablée dans un moule à tarte après l'avoir préalablement graissé (beurre ou huile), ou utilisez la feuille de cuisson si c'est une pâte achetée. Piquez le fond de pâte à l'aide d'une fourchette.
+    Etalez la compote au fond de la tarte.
+    Fouettez la crème, l'oeuf et le sucre et verser sur la compote. 
+    Coupez les bananes en rondelles et déposez-les délicatement sur le mélange.
+    Saupoudrez de cannelle. Parsemez le tout de pépites de chocolat.
+    Mettez la tarte au four et laissez cuire pendant 25-30 min  (cela dépend des fours).
+    Encore meilleure tiède.
+  ]]>
+  </preparation>
+</recette>

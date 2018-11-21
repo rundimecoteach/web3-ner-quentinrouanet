@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81341">
+  <titre>Agneau et bacon casserole</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de collier d'agneau</p>
+    <p>15 cl worcestershire sauce (anglaise)</p>
+    <p>250 g de bacon en dés (ou lardons)</p>
+    <p>30 cl de sauce tomate</p>
+    <p>1 gros oignon</p>
+    <p>1 demi poivron vert</p>
+    <p>1 tasse et demi d'eau</p>
+    <p>20 g de farine</p>
+    <p>1 cube de bouillon de poule</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le bacon avec l'oignon émincé à feu doux pendant 5 min, puis réserver. 
+    Faire dorer les colliers d'agneau des deux cotés, avec un peu de beurre si nécessaire, puis réserver. 
+    Mettre la farine dans la poêle avec la graisse de la viande et revenir jusqu'à obtenir une belle coloration marron mais pas brûlée. Ajouter l'eau petit à petit et porter à ébullition en remuant continuellement.
+    Ajouter le sel et poivre, les sauces et le cube de bouillon émietté. 
+    Mettre oignons et bacon dans un plat, puis la viande et enfin verser la sauce par-dessus.
+    Couvrir le plat avec papier aluminium, par exemple, et mettre à four chaud (180°C-thermostat 6) pendant 1h30.
+    Ajouter le poivron vert pendant les 15 dernières minutes de cuisson.
+    Servir avec riz, pâtes ou semoule selon les goûts de chacun.
+  ]]>
+  </preparation>
+</recette>

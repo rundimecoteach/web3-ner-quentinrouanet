@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64448">
+  <titre>Oeufs au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>35 g de beurre</p>
+    <p>1 gros oignon</p>
+    <p>1 pomme</p>
+    <p>30 g de farine</p>
+    <p>1 ou 2 cuillères à soupe de curry en poudre</p>
+    <p>1 cuillère à café de cumin en poudre</p>
+    <p>60 cl de bouillon de poulet</p>
+    <p>6 oeufs durs écalés et coupés en deux</p>
+    <p>1 cuillère à soupe de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une casserole et ajouter l'oignon.
+    Laisser cuire 4 min, jusqu'à ce qu'il soit doré.
+    Ajouter la pomme coupée en dés.
+    Saupoudrer de farine, de curry et de cumin. Mélanger délicatement et poursuivre la cuisson.
+    Verser lentement le bouillon, en remuant pour obtenir une crème lisse.
+    Laisser frémir quelques minutes et ajouter les oeufs coupés en deux. Les enrober de sauce, saupoudrer de persil et servir.
+    Pour un repas complet et équilibré, servez avec du riz et une salade verte.
+  ]]>
+  </preparation>
+</recette>

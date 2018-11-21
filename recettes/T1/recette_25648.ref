@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25648">
+  <titre>Fruits secs au thé</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de pruneaux</p>
+    <p>100 g de raisins secs</p>
+    <p>200 g de figues sèches</p>
+    <p>200 g d'abricots secs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>3 cuillères à café rases de thé en feuilles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer cette salade la veille.
+    Faire macérer les pruneaux, pendant 20 minutes, dans 20 cl d'eau bouillante additionnée d'1 cuillère à café de thé puis les égoutter.
+    Remplir un saladier avec 1 couche de pruneaux, du sucre, 1 couche de raisins, 1 couche de figues, du sucre et 1 couche d'abricots. 
+    Préparer un thé fort avec le thé restant et 40 cl d'eau puis verser sur les fruits.
+    Laisser refroidir et ne consommer que le lendemain.
+  ]]>
+  </preparation>
+</recette>

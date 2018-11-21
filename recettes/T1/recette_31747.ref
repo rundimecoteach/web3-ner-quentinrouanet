@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31747">
+  <titre>Tarte aux poivrons et au comté</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée ou brisée</p>
+    <p>4 ou 5 poivrons verts</p>
+    <p>300 g de coulis de tomates</p>
+    <p>200 g de comté</p>
+    <p>herbes de Provence</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper les poivrons en morceaux. Les faire cuire dans une poêle avec de l'huile d'olive. Saler, poivrer.
+    Râper le comté.
+    Préchauffer le four à thermostat 7 (210°C).
+    Dérouler la pâte à tarte et la recourvrir avec le coulis de tomate, puis les poivrons, puis le comté. Saupoudrez avec un peu d'herbes de Provence.
+    Faire cuire 40 mn.
+  ]]>
+  </preparation>
+</recette>

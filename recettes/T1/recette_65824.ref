@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65824">
+  <titre>Galette des rois fourrée aux pommes et à la crème pralinée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 pommes</p>
+    <p>100 g de pralin (mélange de noisettes caramélisées concassées)</p>
+    <p>50 g de sucre glace</p>
+    <p>50 g de poudre d'amande</p>
+    <p>15 g de sucre vanillé (1 ou 2 sachets selon leur taille)</p>
+    <p>2 rouleaux de pâte feuilletée</p>
+    <p>3 oeufs</p>
+    <p>2 cuillères à soupe de crème fraîche liquide</p>
+    <p>100 g de beurre</p>
+    <p>1 fève</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, préparer le fourrage de la galette : 
+    Fouetter le beurre ramolli avec le sucre glace et la poudre d'amande, ajouter 1 oeuf + 1 jaune, la crème puis le pralin. Couvrir et laisser reposer 12h au réfrigérateur.
+    Le jour même, préchauffer le four à 160°C (thermostat 5-6)). Peler les pommes, les couper en gros quartiers, les déposer sur la plaque du four et les saupoudrer de sucre vanillé. Mettre au four 10 min.
+    Dérouler un des rouleaux de pâte feuilletée, étaler la crème au praliné, disposer les pommes en rosace. N'oubliez pas la fève !!
+    Recouvrir avec la 2ème pâte feuilletée, bien presser puis hachurer les bords, badigeonner d'oeuf battu, quadriller la surface avec la pointe d'un couteau.
+    Enfourner 30 min.
+    [NDChef : badigeonnez de sirop de sucre et repassez la galette 5 min au four pour la rendre brillante]
+  ]]>
+  </preparation>
+</recette>

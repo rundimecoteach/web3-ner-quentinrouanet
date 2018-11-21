@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66592">
+  <titre>Saumon sauce aux crevettes et curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 darnes de saumon surgelées (c'est plus rapide et tout aussi bon que du frais)</p>
+    <p>300 g de grosses crevettes décortiquées et surgelées</p>
+    <p>2 petites briques de crème fleurette</p>
+    <p>2 gousses d'ail</p>
+    <p>1 gros oignon</p>
+    <p>1 cuillère à café de cumin en poudre</p>
+    <p>2 cuillères à café de curry en poudre</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les darnes de saumon au micro-ondes (environ 18 min à 750W).
+    Pendant ce temps, faire revenir l'oignon coupé en lamelles dans une poêle avec une cuillère à soupe d'huile d'olive.
+    Quand il est doré, incorporer les crevettes encore congelées, les saupoudrer de l'ail haché, du cumin, curry, et persil.
+    Laisser cuire quelques minutes en remuant de temps en temps.
+    Quand les crevettes sont cuites (environ 10 min), ajouter la crème fleurette, sel et poivre, et laisser mijoter quelques minutes afin que la sauce épaississe un peu.
+    Les darnes de saumon cuites, les passer dans la sauce crevette encore sur le feu.
+    Servir avec un riz pilaf au curry (pour le goût et surtout la couleur !).
+    Selon les goûts de chacun, vous pouvez plus ou moins augmenter ou réduire les épices. Moi je mets un peu plus de cumin car j'adore cette épice, et parce qu'elle se marie très bien avec le curry.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30147">
+  <titre>Râble de lapin farci à l'estragon, sauce moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 lapin avec son râble et son foie</p>
+    <p>2 brins d'estragon</p>
+    <p>1 crépine</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>5 cl d'Armagnac</p>
+    <p>1 cuillère à soupe de moutarde à l'ancienne avec grains</p>
+    <p>10 cl de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réservez le râble, hachez le reste de la chair du lapin avec le foie, l'estragon, du sel et du poivre. 
+    Farcissez le râble avec ce hachis puis roulez-le dans la crépine afin de maintenir la farce en place. Faites revenir le râble dans l'huile chaude, baissez le feu puis laissez-le cuire à couvert durant 30 min.
+    Retirez le râble de la sauteuse, ôtez la graisse superflue puis versez l'Armagnac. 
+    Flamblez, ajoutez la moutarde et la crème fraîche. 
+    Mélangez, rectifiez l'assaisonnement et servez le râble farci avec cette sauce. 
+  ]]>
+  </preparation>
+</recette>

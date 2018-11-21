@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47593">
+  <titre>Roulade de jambon aux champignons et à la menthe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tranches de jambon un peu épaisse (2 mm)</p>
+    <p>4 beaux champignons de couche frais (Paris)</p>
+    <p>150 g de Carré frais</p>
+    <p>crème liquide</p>
+    <p>24 feuilles de menthe</p>
+    <p>6 feuilles de batavia</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, mélanger la menthe hachée avec les Carrés frais et le poivre; détendre avec la crème pour obtenir une pâte qui s’étalera facilement.
+    Nettoyer succinctement les champignons (couper le pied et les frotter ou ôter la première peau).
+    Les couper pour en faire une sorte de hachis grossier (les morceaux ne doivent pas être trop petits).
+    Sur chaque tranche de jambon, étaler la crème à la menthe; puis parsemer de champignons.
+    Rouler chaque tranche sur elle-même, et maintenir au frais jusqu'au service.
+    Plusieurs présentations possible :
+    sur une feuille de batavia
+    sur une grande assiette avec diverses salade : carotte, concombre, tomates...
+    à l’apéro en coupant des tronçons de 2 cm de large.
+  ]]>
+  </preparation>
+</recette>

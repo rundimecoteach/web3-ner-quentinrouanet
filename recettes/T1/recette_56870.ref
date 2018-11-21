@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56870">
+  <titre>Poulet créole au lait de coco accompagné de bananes dorées à la poêle</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>6 morceaux de poulet</p>
+    <p>2 oignons hachés grossièrement</p>
+    <p>2 gousses d'ail ecrasées</p>
+    <p>2 tomates mondées à l'eau bouillante et concassées</p>
+    <p>1 cuillère à café de curry</p>
+    <p>1 pincée de filaments de safran</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>35 cl de lait de coco</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer l'huile dans une grande cocotte, faites-y dorer les morceaux de poulet.
+    Ajoutez les oignons et l'ail, faites dorer 5 minutes puis ajouter les tomates.
+    Remuez et faites cuire 10 minutes à feu moyen.
+    Ajoutez le curry et le safran puis le vin et le bouillon de volaille.
+    Portez à ébullition, baissez le feu, couvrez et faites cuire 30-40 minutes à feu doux.
+    Le poulet doit être tendre.
+    Ajoutez alors le lait de coco et faites cuire 5 minutes à feu doux.
+    Goûtez, salez, poivrez à votre convenance.
+    Servez avec du riz blanc et ajoutez quelques bananes jaunes dorées à la poêle dans un peu de beurre.
+    Régalez vous !!!!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60220">
+  <titre>Tarte aux noix de zouille</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>4 oeufs</p>
+    <p>180 g de sucre roux</p>
+    <p>55 g de beurre fondu</p>
+    <p>1 cuillère à café d'arôme de vanille</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>150 g de cerneaux de noix</p>
+    <p>2 cuillères à soupe de miel de châtaigne</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>un peu de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire la pâte (que vous aurez préalablement piquée) dans un moule de 26 cm de diamètre pendant 10 min à 180°C (thermostat 6).
+    Dans un saladier, mélangez les oeufs, le sucre, le beurre, la vanille, la farine, la crème fraîche, le miel, les noix, et en dernier la cannelle en assaisonnant selon votre goût.
+    Mélangez bien jusqu'à obtenir une pâte bien homogène.
+    Une fois que la pâte a pris une jolie couleur dorée, sortez-la du four et attendez un peu qu'elle refroidisse.
+    Ensuite versez la préparation dedans et laissez cuire la tarte à 200°C (thermostat 6-7) pendant 10 min puis réduisez la température à 170°C (thermostat 5-6).
+    Poursuivez la cuisson pendant 10 à 15 min selon la puissance de votre four.
+    La tarte sera prête une fois qu'elle aura bien gonflée, qu'elle aura craquelé, et que quand vous plantez un couteau dedant le bout ressortira sans résidus dessus.
+    Vous n'avez plus qu'à déguster!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30545">
+  <titre>Poulet flambé au Calvados</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>10 cl de Calvados</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer l'huile dans une cocotte. Faites-y dorer le poulet sur toutes ses faces.
+    Retirez-le, videz la graisse de cuisson et mettez un beau morceau de beurre à la place.
+    Faites chauffer le calvados.
+    Remettez le poulet dans la cocotte, flambez au Calvados et couvrez la cocotte. Laissez mijoter 40 min à feu doux.
+    Retirez le poulet de la cocotte. Délayez le jaune d'oeuf avec la crème, ajoutez ce mélange dans la cocotte et réchauffez 2 min en remuant.
+    Servez la poulet nappé de sauce.
+    Avec une poêlée de pommes de terres, pommes fruits et chataîgnes c'est un délice, on peut même ajouter des petits lardons et des raisins secs. Très bien avec des pâtes fraîches aussi, pour faire plus simple...
+  ]]>
+  </preparation>
+</recette>

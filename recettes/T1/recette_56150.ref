@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56150">
+  <titre>Penne à la florentine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de penne</p>
+    <p>10 tomates cerise</p>
+    <p>2 cubes de bouillon</p>
+    <p>30 g de parmiggiano (parmesan) à la coupe</p>
+    <p>50 g de roquette</p>
+    <p>2 tiges de basilic frais</p>
+    <p>3 tranches de jambon fumé</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Voici une recette italienne, pleine de saveurs et diétetique.
+    Mélanger dans un récipient la roquette, le basilic finement émincé, le jambon fumé découpé en fines lanières, les copeaux de parmiggiano (à l'économe, c'est plus facile).
+    Faire chauffer dans une casserole 50 cl d'eau avec les cubes de bouillon.
+    Porter à ébulition.
+    Dans une autre casserole, faire chauffer l'huile d'olive et y ajouter les pennes pour les faire blondir quelques minutes sans les faires griller.
+    Ajouter les tomates cerises coupées en deux et recouvrir le tout avec l'eau frémissante.
+    Laisser cuire à feu doux tout en remuant de temps en temps jusqu'au stade al dente puis égoutter.
+    Mélanger les pennes et les autres ingrédients.
+    C'est prêt !
+    La fraîcheur et la qualité des ingrédients conditionnent le résultat final. Un chianti ou un montepulciano
+  ]]>
+  </preparation>
+</recette>

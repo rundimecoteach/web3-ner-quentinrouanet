@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27589">
+  <titre>Artichauts à la Florentine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 artichauts</p>
+    <p>1 carotte</p>
+    <p>1 poireau</p>
+    <p>200 g de lardons nature ou fumés</p>
+    <p>une feuille de laurier</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>une pincéee de thym</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte-minute, faites revenir l'ail et l'échalote dans un peu d'huile d'olive. Laissez dorer. 
+    Ajoutez les lardons pour les faire blanchir. Ajoutez le poireau coupé en julienne ainsi que la carotte. Faites revenir et ajoutez les artichauts que vous aurez étêtés au préalable. 
+    Mouillez le tout à mi-hauteur des artichauts. Salez, poivrez. Ajoutez la feuille de laurier et la pincée de thym. 
+    Fermez la cocotte. Faites monter en pression, laissez cuire pendant un bon quart d'heure.
+    Très bon avec des pâtes. Saint -Pourçain blanc
+  ]]>
+  </preparation>
+</recette>

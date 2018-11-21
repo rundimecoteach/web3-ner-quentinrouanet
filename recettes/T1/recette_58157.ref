@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58157">
+  <titre>Salade Nestor (haricots blancs, moules et rollmops)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grand bocal de gros haricots blancs</p>
+    <p>1 grand bocal de moules</p>
+    <p>1 grand bocal de roll mops</p>
+    <p>Mayonnaise à votre convenance</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez tous les ingrédients rincés dans un grand saladier et réservez au frais.
+    Servir avec des frites !
+    Salade créée par mon grand-père qui me fait l'effet de la madeleine de Proust ! A essayer, faut oser !
+  ]]>
+  </preparation>
+</recette>

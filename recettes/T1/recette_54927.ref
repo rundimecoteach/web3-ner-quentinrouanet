@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54927">
+  <titre>Pâtes en fêtes de mon ami Rémy</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de pâtes suffisamment fermes type penne, farfalle...</p>
+    <p>1 tomate parfumée (ou 2 petites) </p>
+    <p>2 gousses d'ail</p>
+    <p>20 g de beurre par assiette</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes al dente 
+    Pendant ce temps de cuisson, détailler la (les) tomate(s) et petits dés. Puis hâcher l'ail le plus fin possible.Mélanger tomates et ail. Saler et poivrer le mélange et lier le tout avec un filet d'huile d'olive. Mettre de côté de mélange.
+    Lorsque les pâtes sont cuites et après les avoir égouttées, les servir en assiette individuelle puis y verser le mélange tomates-ail. Mélanger. Ajouter un petit morceau de beurre puis déguster.Une recette qui permet d'allier équilibre (crudités - huile végétale - sucre lents) et gourmandise. En hommage à notre ami Rémy, qui savait nous concocter des plats délicieux avec quelques ingrédients simples et un seul crédo: "quand on a du goût, c'est facile!". Un vin rouge italien ou pourquoi pas un petit blanc frais et légèrement fruité.
+  ]]>
+  </preparation>
+</recette>

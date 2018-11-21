@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20379">
+  <titre>Rôti de porc moutardé à la sauge</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de viande de porc pour rôti, dans l'échine par exemple</p>
+    <p>12 feuilles de sauge</p>
+    <p>3 cuillères à soupe de moutarde forte</p>
+    <p>3 cuillères à soupe de miel</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 citron</p>
+    <p>sel, poivre de Cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Etalez la viande et posez 8 feuilles de sauge dessus. Salez, poivrez et ficelez le rôti.
+    Tartinez-le de moutarde.
+    Versez l'huile et 2 cuillères à soupe d'eau dans un plat allant au four, déposez le rôti dedans.
+    Mettez les feuilles de sauge restante dans le plat et faites cuire 45 min au four.
+    Une fois cuit, sortez le rôti du plat.
+    Déglacez le plat avec le jus du citron, et le miel en grattant bien les sucs de cuisson. Salez et poivrez, filtrez, versez dans une casserole et faites réduire 2 min à feu vif.
+    Découpez le rôti en tranches. Servez nappé de sauce au miel.
+    Accompagnez de pommes de terre vapeur ou de pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

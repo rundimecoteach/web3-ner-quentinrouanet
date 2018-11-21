@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48754">
+  <titre>Riz au lait caramélisé</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de riz rond </p>
+    <p>100 g de sucre roux</p>
+    <p>1 litre de lait demi-écrémé à température ambiante</p>
+    <p>25 à 30 g de beurre </p>
+    <p>1 pincée de sel</p>
+    <p>Pour les épices au choix, mais moi je les mets toutes :</p>
+    <p>vanille</p>
+    <p>zestes de 1 citron </p>
+    <p>muscade râpée</p>
+    <p>cannelle </p>
+    <p>eau de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans la casserole à feu doux.
+    Ajouter le riz rond et remuer pendant 5 min.
+    Ajouter le sucre et surveiller jusqu'à consistance d'un caramel noisette; cela sent bon le caramel...
+    Ajouter le lait d'un seul coup, le sel et les épices de votre choix (faites attention à ne pas vous bruler car le mélange caramel-riz va réagir et sera grumeleux, pas de panique, c'est normal).
+    Laisser cuire à feu doux, en remuant de temps en temps .
+    Le riz au lait sera cuit quand la cuillère en bois sera nappée.
+    Verser dans de jolis petits pots, et déguster tiède ou froid
+    Ce riz au lait aura une jolie couleur caramel en fin de cuisson.
+  ]]>
+  </preparation>
+</recette>

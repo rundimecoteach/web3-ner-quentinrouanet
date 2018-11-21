@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44516">
+  <titre>Potée de lentilles au rôti de porc (restes)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 verre entier de lentilles</p>
+    <p>1/8e de chou rouge (ou des restes...)</p>
+    <p>restes de rôti de porc</p>
+    <p>1 carotte</p>
+    <p>1 branche de céleri et quelques feuilles</p>
+    <p>3 feuilles de laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande casserole, faire chauffer 1L d'eau. Quand elle frémit, y ajouter les lentilles, la carotte et la branche de céleri coupés en rondelles, ainsi que le laurier.
+    Laisser mijoter à feu doux sans couvrir.
+    Si on veut éviter que le chou ne vienne teinter en noir la préparation : dans une autre casserole remplie d'eau, faire chauffer le chou rouge coupé en lamelles pendant 10 min - l'eau doit devenir bleu foncée. Egoutter et ajouter à la préparation aux lentilles.
+    Couper le porc en lamelles puis en petits carrés, ajouter à la préparation.
+    Saler et ajouter les feuilles de céleri coupées en petits morceaux.
+    Laisser mijoter en remuant de temps en temps jusqu'à ce que les lentilles soient cuites.
+  ]]>
+  </preparation>
+</recette>

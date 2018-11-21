@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31825">
+  <titre>Farce (pour tomates ou poule au pot)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 belles côtes de porc dans l'échine (250/300 g) </p>
+    <p>2 tranches de jambon cru (Bayonne) </p>
+    <p>1 échalote</p>
+    <p>1 petit oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>8 tiges de persil plat</p>
+    <p>1 belle tranche de pain rassis</p>
+    <p>un peu de lait</p>
+    <p>un jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir un robot pour hacher.
+    Ôter la croûte de la tranche de pain. Mettre la mie restante dans un bol avec un peu de lait. 
+    Eplucher ail, oignon et échalote, laver et effeuiller le persil. Hacher grossièrement avec le robot. Vider le hachoir, réserver. 
+    Dans le hachoir, mettre les deux tranches de jambon cru et hacher grossièrement. 
+    Couper les échines de porc en gros morceaux avec un couteau bien aiguisé. Retirer les petits os et le cartilage s'il y en à, laisser le gras. Ajouter les morceaux d'échine au jambon dans le hachoir et hacher à nouveau, pas trop fin. 
+    Presser à la main le pain imbibé de lait. Dans un saladier, malaxer à la main le pain imbibé, le jaune d'oeuf, le hachis ail / oignon / échalote / persil et le hachis porc / jambon. 
+    Poivrer généreusement, et saler légèrement (le jambon cru est déjà salé).
+    Cette farce doit cuire au four environ 30 minutes. Elle convient aussi très bien pour la poule au pot ou la poitrine de veau farcie.
+    Rien à voir avec les farces toutes faites !
+  ]]>
+  </preparation>
+</recette>

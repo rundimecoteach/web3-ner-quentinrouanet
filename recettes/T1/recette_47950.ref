@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47950">
+  <titre>Légumes sautés au balsamique, feta et noix de pecan</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poivron rouge</p>
+    <p>1 aubergine</p>
+    <p>2 petites courgettes</p>
+    <p>une barquette de feta</p>
+    <p>noix de pecan</p>
+    <p>vinaigre balsamique noir</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les légumes en tranches fines et faites-les cuire dans une poêle avec un peu d'huile d'olive.
+    Une fois les légumes cuits, mettez le tout dans un grand saladier avec les morceaux de feta (préalablement coupés en gros morceaux), et les noix de pecan.
+    Assaisonnez avec sel, poivre, huile d’olive et vinaigre balsamique selon votre goût.
+    La douceur de la feta contraste avec l'acidité du balsamique. Le moelleux des aubergines avec le croquant des noix de pecan... Vin blanc
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37073">
+  <titre>Tian de légumes gratiné</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon moyen</p>
+    <p>2 tomates</p>
+    <p>2 pommes de terre</p>
+    <p>1 courgette</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>100 g de gruyère râpé (ou plus pour les gourmands!)</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Huilez le plat à gratin.
+    Couper au robot (ça va plus vite!) l'oignon, les pommes de terre et la courgette (la tomate passée au robot a tendance à donner de la purée, alors plutôt au couteau).Disposer par couche dans le plat : oignon, tomates, courgettes, pommes de terre, crème, sel et poivre, et de nouveau la même opération jusqu'à épuisement des ingrédients. Recouvrir le tout d'un filet d'huile d'olive, et de fromage râpé, et enfourner à 180°C (thermostat 6) pendant environ 1h, à surveiller!L'avantage du robot : les rondelles sont beaucoup plus fines et régulières, donc ça cuit plus vite...
+  ]]>
+  </preparation>
+</recette>

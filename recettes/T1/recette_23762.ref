@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23762">
+  <titre>Véritables Brownies aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de cerneaux de noix</p>
+    <p>225 g de chocolat noir</p>
+    <p>225 g de beurre</p>
+    <p>4 œufs</p>
+    <p>190 g de sucre semoule</p>
+    <p>75 g de poudre d'amande</p>
+    <p>75 g de farine</p>
+    <p>1 cuillère à café de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le chocolat en morceaux avec le beurre au micro-ondes.
+    Mélangez les oeufs, le sucre et la poudre d'amande; incorporez avec le chocolat.
+    Ajoutez la farine et la levure, puis les noix grossièrement hachées.
+    Versez la préparation dans un moule rectangulaire (20 X 28 cm) beurré et laissez cuire 20 à 25 min thermostat 6 (180°C).
+    Laissez tiédir 5 min avant de démouler. Une fois refroidi détaillez le gâteau en carrés.
+    Aussi calorique que divin.
+  ]]>
+  </preparation>
+</recette>

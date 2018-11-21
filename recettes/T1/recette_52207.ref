@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52207">
+  <titre>Salade fraîcheur du Jura</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 branches de céleri</p>
+    <p>200 à 300 g de comté</p>
+    <p>2 pommes vertes</p>
+    <p>coriandre fraîche (facultatif)</p>
+    <p>vinaigrette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et effiler le céleri, puis le détailler en petits dés.
+    Laver et éplucher les pommes, puis les détailler en petits dés.
+    Couper également le comté en petits dés.
+    Dans un saladier, mélanger les ingrédients et laisser refroidir quelques minutes en réfrigérateur.
+    Au moment de servir, arroser d'une vinaigrette légère.
+    Humm, c'est un régal !
+    Recette simple et accessible qui surprendra et ravira les papilles de vos hôtes! Succès garanti! Blanc du Jura
+  ]]>
+  </preparation>
+</recette>

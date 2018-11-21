@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13352">
+  <titre>Clafoutis (poires, abricots ou cerises)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de farine</p>
+    <p>90 g de sucre</p>
+    <p>6 oeufs</p>
+    <p>1/4 de litre de lait</p>
+    <p>une pincée de sel</p>
+    <p>750 g de fruits pelés et dénoyautés (soit de cerises dénoyautées soit d'abricots, ou de poires coupées en dés.</p>
+    <p>facultatif : kirsch ou rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dénoyauter les cerises ou les abricots, pelez les poires, les couper en dés et fariner ces fruits dans une passoire.Mélanger la farine, les oeufs entiers, le sucre, le sel, le lait.
+    Bien travailler la pâte (consistance d'une pâte à crêpe). Ajouter les fruits et l'alcool.
+    Cuire 35 mn à four chaud. Saupoudrer de sucre en poudre à la sortie du four. Déguster tiède.Le temps de préparation varie en fonction du fruit : les cerises sont longues à dénoyauter. Mais c'est plus agréable et le kirsch remplacera le goût qu'auraient pu donner les noyaux. La farine évite que les fruits ne surnagent dans la pate et se retrouvent à la surface.
+  ]]>
+  </preparation>
+</recette>

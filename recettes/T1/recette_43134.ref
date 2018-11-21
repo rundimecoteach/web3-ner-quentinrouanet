@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43134">
+  <titre>Financiers au pralin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre glace</p>
+    <p>150 g de poudre d'amandes</p>
+    <p>4 blancs d'oeuf</p>
+    <p>50 g de farine</p>
+    <p>1 zeste d'orange</p>
+    <p>du pralin (amandes caramélisées et concassées)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6). 
+    Et beurrer 6 moules à muffins.
+    Faire fondre le beurre à feu doux dans une casserole, le laisser roussir légèrement. Ecumer les impuretés.
+    Tamiser dans un saladier le sucre glace, la farine. 
+    Ajouter 1 pincée de sel, la poudre d'amandes, puis les blancs d'oeuf battus à la fourchette (mais pas en neige). 
+    Mélanger, puis ajouter le beurre fondu et le zeste d'orange haché très fin. 
+    Bien mélanger, et laisser reposer 1/2 h au frais.
+    Verser dans les moules à muffins, parsemer de pralin concassé, en tassant légèrement, pour bien le fixer au gâteau.
+    Cuire 15 à 20 min environ, à 180°C (thermostat 6)... Verifier, les financiers doivent âtre dorés.
+    Laisser refroidir, avant de déguster...
+     Un thé à la bergamote-citron
+  ]]>
+  </preparation>
+</recette>

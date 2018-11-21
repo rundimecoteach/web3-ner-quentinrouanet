@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49288">
+  <titre>Fondant chocolat nutella</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros oeufs</p>
+    <p>30 g de sucre en poudre</p>
+    <p>150 g de farine</p>
+    <p>100 g de chocolat pâtissier</p>
+    <p>2 cuillères à soupe de nutella</p>
+    <p>30 g de beurre allégé</p>
+    <p>quelques amandes ou noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat, le beurre et le nutella avec un fond d'eau (au micro-ondes).
+    Dans un saladier, verser la farine, le sucre et les oeufs, y ajouter la préparation de chocolat et de beurre fondu.
+    Remuer jusqu'à obtenir un pâte homogène, puis ajouter des amandes ou des noix (selon les goûts !)
+    Verser la pâte dans un moule et le mettre au four préchauffé à 160°C (thermostat 5-6), laisser cuire 15 min.
+  ]]>
+  </preparation>
+</recette>

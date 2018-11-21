@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62472">
+  <titre>Velouté de courgettes au basilic</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 belles courgettes</p>
+    <p>1 oignon</p>
+    <p>1 l eau</p>
+    <p>1 bouillon cube</p>
+    <p>sel poivre</p>
+    <p>1 bonne poignée de feuilles de basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon et le faire revenir l'oignon dans un faitout jusqu'à ce qu'il blondisse. Ajouter les courgettes coupées en cubes.
+    Faire revenir quelques minutes.
+    Ajouter l'eau ,le bouillon cube et faire cuire 20 minutes à partir de l'ébullition.
+    Mixer la soupe à la fin de la cuisson.
+    Ciseler le basilic et le rajouter dans la soupe hors du feu. Servir aussitôt avec un peu de crème fraîche.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73728">
+  <titre>Verrines de légumes aux gambas</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 avocats mûrs</p>
+    <p>4 grosses carottes</p>
+    <p>15 gambas</p>
+    <p>cumin, sel, piment d'espelette, poivre</p>
+    <p>citron</p>
+    <p>crème fraîche ou crème de soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Faire cuire les carottes coupées en 2 dans une cocotte minute pendant 4 min.
+    Eplucher les avocats, les écraser à la fourchette, rajouter du sel, du poivre, du jus de citron et de la crème de soja.
+    Décortiquer les gambas et les laisser macérer quelques minutes dans le reste du jus de citron.
+    Mixer les carottes avec du cumin, du piment d'espelette et de la crème de soja (ou crème fraîche).
+    Mettre une couche d'avocat dans le fond de la verrine.
+    Couper les gambas en morceaux et en recouvrir l'avocat.
+    Pour finir ajouter la purée de carottes.
+    Mettre au réfrigérateur.
+    Vous pouvez ajouter dans l'avocat quelques gouttes d'huile de sésame pour donner plus de goût. vin blanc
+  ]]>
+  </preparation>
+</recette>

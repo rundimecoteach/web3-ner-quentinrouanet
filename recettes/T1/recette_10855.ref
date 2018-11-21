@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10855">
+  <titre>Cannelloni carré frais, menthe et poivre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 plaques de pâte à lasagnes fraîche</p>
+    <p>4 carré frais</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 petite botte de menthe</p>
+    <p>10 g de poivre concassé</p>
+    <p>10 cl d'huile olive</p>
+    <p>quelques feuille de mesclun</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les lasagnes 3 minutes à l'eau bouillante salée, rafraîchir.
+    Ecraser les carrés frais à la fourchette, incorporer le poivre, la menthe finement ciselée, la crème et l'huile d'olive pour obtenir une pâte homogène.
+    Prendre les lasagnes cuites, étaler sur la bordure l'appareil au carré frais et rouler comme un cannelloni.
+    Servir avec un mesclun.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38810">
+  <titre>Poêlée de fruits au Nutella</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 belle poire d’été (type Guyot)</p>
+    <p>1 banane</p>
+    <p>beurre doux</p>
+    <p>nutella</p>
+    <p>cacao en poudre</p>
+    <p>glace à la vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la poire en fines lamelles et la banane en rondelles.
+    Faire fondre une belle noisette de beurre dans une poêle anti-adhésive.
+    Ajouter les fruits, laisser fondre à feu moyen.
+    Quand les fruits sont tendres et commencent à colorer, ajouter quelques cuillères de Nutella.
+    Disposer dans des ramequins individuels avec une boule de glace à la vanille et saupoudrer le tout de cacao en poudre.
+    Totalement décadent et tout simplement divin ! 
+  ]]>
+  </preparation>
+</recette>

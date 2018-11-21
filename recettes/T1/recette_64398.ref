@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64398">
+  <titre>Fondants au chocolat lights</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de chocolat noir</p>
+    <p>50 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>75 g de sucre</p>
+    <p>2 cuillères à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Faire fondre le chocolat avec le beurre.
+    Ajouter le sucre en plusieurs fois.
+    Ajouter la farine.
+    Bien mélanger.
+    Ajouter les oeufs.
+    Verser la préparation dans un moule en silicone, type cannelés.
+    Faire cuire 10 min.
+    Il faut bien surveiller la cuisson pour que les fondants le restent !
+  ]]>
+  </preparation>
+</recette>

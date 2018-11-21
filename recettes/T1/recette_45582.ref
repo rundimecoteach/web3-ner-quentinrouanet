@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45582">
+  <titre>Cake à la Bretonne au Sarrasin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 gros oeufs</p>
+    <p>180 g de farine de Sarrasin</p>
+    <p>180 g d'andouille</p>
+    <p>150 g de tomme de brebis</p>
+    <p>25 cl de lait (entier de préférence)</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 sachet de levure</p>
+    <p>1 oignon haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, la levure et les oeufs dans un grand bol.
+    Ajouter le lait, bien mélanger pour éviter les grumeaux puis introduire la crème fraîche.
+    Préchauffer le four à 180°C (thermostat 6).
+    Beurrer un moule.
+    Ajouter au mélange obtenu l'andouille, le fromage en morceaux et l'oignon haché.
+    Verser dans le moule et enfourner, laisser cuire le tout 45 minutes environ.
+    L'idéal est de l'accompagner de salade de roquette relevée d'une vinaigrette à la framboise. Cahors 
+  ]]>
+  </preparation>
+</recette>

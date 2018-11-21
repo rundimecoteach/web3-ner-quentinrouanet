@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58465">
+  <titre>Escalopes de dinde panée à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde assez fines</p>
+    <p>2 cuillères à soupe de moutarde forte</p>
+    <p>100 g de chapelure dorée (1 tasse)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recouvrir les escalopes de moutarde des 2 côtés, les recouvrir ensuite de chapelure. Saler, poivrer.
+    Faire chauffer de l'huile une poêle anti-adhésive, y faire cuire les escalopes de 3 à 5 minutes de chaque côté selon l'épaisseur.
+    Servir bien chaud avec un filet de jus de citron.
+  ]]>
+  </preparation>
+</recette>

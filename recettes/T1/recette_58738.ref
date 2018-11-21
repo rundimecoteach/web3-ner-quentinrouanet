@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58738">
+  <titre>Cake au jambon, fromage et courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>11 g de levure (1 sachet)</p>
+    <p>3 œufs</p>
+    <p>12,5 cl de lait</p>
+    <p>2 belles courgettes</p>
+    <p>200 g de chèvre frais</p>
+    <p>les restes de fromage de votre frigo</p>
+    <p>150 g jambon en dés</p>
+    <p>huile de tournesol</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Découper les courgettes en rondelles, les passer 4 minutes au micro-ondes. Puis les faire dorer à la poêle avec un peu d'huile, de sel et de poivre.
+    Dans un saladier : mélanger la farine, la levure, les œufs, le lait et 4 cuillères à soupe d'huile. Couper en dés le jambon, le chèvre et les restes de fromage et les ajouter dans le saladier.
+    Faire cuire 30 à 40 min au four à 200°C (thermostat 7).
+    NB : mon four est petit et ne chauffe pas beaucoup donc pour un four traditionnel, peut-être est-il préférable de baisser légèrement la température et de rallonger le temps de cuisson.
+    Vous pouvez manger ce plat en entrée servi sur un lit de salade ou en plat principal.
+  ]]>
+  </preparation>
+</recette>

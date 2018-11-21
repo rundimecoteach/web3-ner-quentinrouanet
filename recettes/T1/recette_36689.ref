@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36689">
+  <titre>Pain de poisson et saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de saumon fumé</p>
+    <p>200 g de filet de poisson blanc (cabillaud, merlan)</p>
+    <p>1 petite boîte de mousse de saumon (type petit navire)</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>2 oeufs</p>
+    <p>un filet de citron</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire au court-bouillon les filets de poisson blanc.
+    Pendant ce temps, détailler le saumon fumé dans le robot, ajouter la boîte de mousse de saumon ainsi que la crème. Mixer le tout.
+    Une fois le poisson cuit et légèrement refroidi, le rajouter à la préparation ainsi que les oeufs et un filet de citron.
+    Poivrer et mixer afin d'obtenir une préparation homogène.
+    Verser le tout dans un moule à cake légèrement huilé.
+    Mettre au four au bain marie à 240°C (thermostat 8) pendant 1 h.
+    Servir froid accompagné d'une mayonnaise.
+    Je n'utilise que la fonction "sol" du four.
+  ]]>
+  </preparation>
+</recette>

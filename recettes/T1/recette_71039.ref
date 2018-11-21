@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71039">
+  <titre>La tourte paysanne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>6 à 8 pommes de terre précuites</p>
+    <p>250 g de champignons de Paris</p>
+    <p>250 g de lardons</p>
+    <p>1 oignon</p>
+    <p>3 oeufs</p>
+    <p>25 cl de crème fraiche semi-épaisse</p>
+    <p>150 g de fromage râpé (emmental, gruyère, comté...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les lardons à la poêle, puis ajouter les champignons de Paris.
+    Couper les pommes de terre précuites en rondelles assez fines et les ajouter aux lardons avec persil, sel, poivre et fromage.
+    Mélanger à part la crème fraîche, 2 oeufs entiers + 1 blanc (conserver le jaune pour la fin), sel (pas trop) et poivre.
+    Etaler une pâte dans un moule à tarte ou sur une plaque. Y verser les pommes de terre aux lardons, puis la crème.
+    Poser l'autre pâte, souder les bords pour bien la fermer. Faire un trou au couteau au centre, diluer le jaune d'oeuf avec une petite cuillère d'eau et en badigeonner sur la pâte.
+    Enfournez environ 40 minutes à 190°C (thermostat 6-7).
+    Servir accompagné d'une salade verte.
+  ]]>
+  </preparation>
+</recette>

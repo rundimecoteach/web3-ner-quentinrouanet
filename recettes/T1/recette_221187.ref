@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221187">
+  <titre>Pain perdu Antillais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pain tranché aux céréales</p>
+    <p>4 œufs</p>
+    <p>170 g de sucre de canne</p>
+    <p>1 litre de lait</p>
+    <p>quelques noix de beurre </p>
+    <p>1/2 cuillère à café d'amande amère</p>
+    <p>1 cuillère à soupe d'extrait de vanille</p>
+    <p>cannelle en poudre</p>
+    <p>noix muscade râpée</p>
+    <p>zeste de citron vert avec un peu de jus</p>
+    <p>2 cuillères à soupe de rhum blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déposer les tranches de pain aux céréales dans un moule à manqué (pas trop petit).Préchauffer le four à 180°C (thermostat 6).Dans un saladier, battre les  œufs, ajouter le sucre et bien remuer de façon à rendre la préparation onctueuse.
+    Ajouter toutes les épices puis le lait tout en remuant et verser le tout sur le pain.
+    Mettre au four 180°C environ 25 min.
+    Une fois sorti du four, saupoudrer le pain perdu de sucre en poudre et de quelques noix de beurre.
+    Laisser refroidir et glisser délicatement ce dessert dans un plat.
+  ]]>
+  </preparation>
+</recette>

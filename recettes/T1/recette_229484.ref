@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229484">
+  <titre>Hamburger au saumon et aux galettes de pomme de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour les galettes de pomme de terre :</p>
+    <p>3 pommes de terre</p>
+    <p>75 g de beurre </p>
+    <p>1 œuf</p>
+    <p> </p>
+    <p>Pour la garniture :</p>
+    <p>4 tranches de saumon fumé</p>
+    <p>4 poignées de salade (iceberg)</p>
+    <p>1 crottin de chèvre</p>
+    <p>4 cuillères à soupe de crème fraîche </p>
+    <p>4 cuillères à soupe d'aneth ciselée</p>
+    <p>1/2 citron (pour son jus)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour les galettes :Râper les pommes de terre, ajouter le beurre fondu et l'oeuf. Mélanger puis faire cuire environ 4 min chaque face dans une poêle anti-adhesive. L'idée est de réaliser 8 galettes. Réserver sur une plaque pour le four avec du papier sulfurisé.Pour la garniture : Couper le crottin en 4 et les poser sur 4 galettes enfourner 10 min au four à 180°C (thermostat 6).Mélanger la crème l'aneth et le jus de citron puis déposer ce mélange sur les 4 autres galettes à la sortie du four.
+    Prendre la salade avec le saumon et la déposer sur celle-ci puis recouvrir avec la galette, avec le chèvre en la retournant.
+    Voilà, c'est prêt, bon appétit !Pour les pressés des pains à hamburger peuvent remplacer les galettes.
+  ]]>
+  </preparation>
+</recette>

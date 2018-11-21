@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57741">
+  <titre>Spaghetti au jambon, sauce tomate épicée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 belles tomates</p>
+    <p>2 échalotes</p>
+    <p>1 grosse gousse d'ail</p>
+    <p>2 petits piments rouges sechés</p>
+    <p>6 tranches de jambon</p>
+    <p>500 g de spaghetti</p>
+    <p>1 cuillère à café d'herbes (origan, basilic, romarin)</p>
+    <p>1 filet de crème fraîche allégée</p>
+    <p>200 g de fromage (gruyère, emmental ou parmesan, selon votre goût)</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 noix de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les tomates, les couper en quartiers, enlever les pépins puis les couper en petits cubes (les puristes peuvent également enlever la peau en ébouillantant les tomates 30 secondes).
+    Emincer finement les échalotes, les faire suer dans l'huile puis ajouter les piments en les ouvrant un peu.
+    Quand les échalotes sont blondes, ajouter les cubes de tomates, puis couvrir en remuant régulièrement.
+    Ajouter les herbes et ajuster l'assaisonnement en sel et poivre (goûtez !!), laisser mijoter...
+    Faire chauffer l'eau pour les pâtes, pendant ce temps, couper les tranches de jambon en petits carrés.
+    Une fois les pâtes cuites, y ajouter un filet d'huile d'olive.
+    Utiliser la casserole encore chaude des pâtes pour y faire fondre une noix de beurre et y faire revenir rapidement le jambon.
+    Ajouter à la sauce la crème fraîche, y faire fondre une petite poignée de fromage et rajouter le jambon.
+    Mélanger directement la sauce aux pâtes et servir sans attendre...
+    Parsemer les assiettes du reste de fromage.
+    Bon appétit.
+    Ce plat est facile à faire, léger, complet et très goûtu... ! Un blanc sec (de type Sancerre)
+  ]]>
+  </preparation>
+</recette>

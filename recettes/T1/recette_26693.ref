@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26693">
+  <titre>Sandwich léger à la dinde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit pain long ou 1/4 de baguette au sésame</p>
+    <p>1 tranche de filet de dinde aux herbes</p>
+    <p>sauce allégée au curry (voir recette sur le site)</p>
+    <p>sel, poivre</p>
+    <p>quelques feuilles de laitue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la sauce au curry. 
+    Couper la tranche de dinde en deux ou trois selon la taille du pain. 
+    Ouvrir le pain sur toute la longueur sans que les deux parties ne se détachent (comme pour un hot-dog). 
+    Etaler une couche de sauce, puis alterner laitue-dinde en répartissant sur toute la longueur du pain.
+    On peut ajouter d'autres crudités telles que des tomates ou des carottes râpées si la place le permet.
+  ]]>
+  </preparation>
+</recette>

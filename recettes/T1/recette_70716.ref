@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70716">
+  <titre>Tarte à la tomate de Rachel</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à tarte brisée</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>200 g d'emmental râpé (ou autre fromage)</p>
+    <p>3 grosses tomates à farcir</p>
+    <p>1 petite boîte de concentré de tomate (70g)</p>
+    <p>huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte dans un plat, piquez-la à la fourchette. Faites cuire au four préchauffé à 180°C (thermostat 6) durant 20 minutes (dans le bas du four).
+    Pendant ce temps, mélangez dans un bol le concentré de tomate, 5 cuillerées à soupe d'huile d'olive et 2 gousses d'ail pressées ou hachées en tout petits morceaux. Réservez. 
+    Coupez les tomates en demi-rondelles d'environ 3 millimètres. Réservez.
+    Une fois le fond de tarte précuit, badigeonnez-le de moutarde. Tapissez-le d'emmental et ajoutez les tranches de tomates. Recouvrez uniformément les tomates de la préparation concentré-huile-ail.
+    Remettez au four à 180°C pendant 30 minutes.
+    Vous pouvez servir la tarte chaude avec une petite salade pour l'entrée, ou froide pour l'apéritif !
+    Bon appétit !!!
+  ]]>
+  </preparation>
+</recette>

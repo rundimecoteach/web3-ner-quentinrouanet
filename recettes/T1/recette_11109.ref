@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11109">
+  <titre>Pizza terre/mer flambée</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>10 cl de sauce pizza</p>
+    <p>250 g de boeuf haché</p>
+    <p>1 oignon grosseur moyen coupé en tranches</p>
+    <p>250 g de petites crevettes de Matane</p>
+    <p>250 g de mozzarella râpé</p>
+    <p>2.5 cl de Cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un poêlon, faire revenir le boeuf découpé en petits morceaux dans un peu d'huile et un carré de beurre, ajouter nles oignons, Faire bien cuire.
+    Retirer du feu et égoutter.
+    Sur la pâte, étendre la sauce à pizza, ensuite ajouter la viande et les oignons (bien égoutté).Étendre les crevettes sur le dessus.
+    Ajouter le fromage à volonté.Mettre au four à 180 °C.
+    Attendre que le fromage soit très légèrement grillé, soit environ 20 minutes.TRÈS IMPORTANT : retirer du four et laissé refroidir environs 15 minutes.
+    Etendre uniformément le cognac sur la pizza.
+    Allumer (faire attention, la flamme étant très bleue, elle est peu visible)Lorsque le fromage est suffisamment grillé, éteindre en soufflant dessus.C'est à essayer  un bon rouge
+  ]]>
+  </preparation>
+</recette>

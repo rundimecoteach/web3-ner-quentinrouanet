@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32441">
+  <titre>Coupe glacée d'automne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de quetsches</p>
+    <p>100 g de sucre (plus ou moins selon le taux de sucre des quetsches) </p>
+    <p>1 gousse de vanille fendue</p>
+    <p>1 pincée de cannelle</p>
+    <p>glace à la vanille (maison de préférence) </p>
+    <p>4 Bastognes (ou autres speculoos) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une compote avec les prunes dénoyautées, le sucre, la vanille, la cannelle et un peu d'eau. Faire cuire à feu doux jusqu'à ce que les fruits soient bien tendres, retirer la gousse de vanille et écraser au presse-purée ou à la fourchette. Laisser tiédir une dizaine de minutes. 
+    Placer les Bastognes dans un sac congélateur, fermer et écraser entre vos mains pour obtenir de grosses miettes (pas de la chapelure). 
+    Dans des coupes, placer deux boules de glace vanille par convive, recouvrir de compote de quetsches tiède et saupoudrer de miettes de gâteau. 
+    Servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

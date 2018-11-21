@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63152">
+  <titre>Gâteau à la danette  au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 danettes chocolat (le pot sert de mesure)</p>
+    <p>3 pots de farine</p>
+    <p>1,5 pot de sucre</p>
+    <p>1/2 sachet de levure</p>
+    <p>2 oeufs</p>
+    <p>100 g de chocolat pâtissier au lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Mélanger dans un récipient les danettes, la farine, le sucre, les oeufs et la levure.
+    Faire fondre les 3/4 du chocolat pâtissier, les incorporer au mélange et rajouter les carrés restants (sans les faire fondre).
+    Beurrer le moule et mettre le tout dans au four durant 45 minutes.
+  ]]>
+  </preparation>
+</recette>

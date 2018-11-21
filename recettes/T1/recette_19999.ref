@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19999">
+  <titre>Confiture de potimarron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 kg de potimarron pour 250 ml d'eau environ</p>
+    <p>500 à 750 g de sucre</p>
+    <p>1 bâton de cannelle par pot</p>
+    <p>1 cuillerée à soupe de vanille</p>
+    <p>300 g de fruits (ce peut être des fruits frais comme des pommes ou des poires ou des fruits secs abricots, raisins ou pruneaux) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler le potimarron et en ôter les graines ; couper en dés. Faire cuire dans l'eau à petits bouillons pendant une demi-heure. La chair doit se défaire. Passer au moulin à légumes (grille fine) ou au mélangeur pour obtenir une belle purée homogène relativement liquide. 
+    Ajouter le sucre, les fruits secs coupés en dés si besoin est, et la vanille. Remettre le tout sur le feu et faire cuire une vingtaine de minutes en remuant souvent avec une cuillère de bois pour éviter l'oxydation. Le feu doit être doux pour éviter que votre confiture ne colle au fond. Mettre en pot avec un bâton de cannelle ; couvrir à chaud.On peut varier les associations de potimarron+fruits frais ou secs selon nos goûts ou le marché. Si vous utilisez les fruits secs, vous pouvez les faire tremper 24 heures pour les faire gonfler. Utilisez alors cette eau de trempage pour cuire votre potimarron. Si vous désirez faire une confiture pour une longue conservation, verser la préparation bouillante dans des pots stérilisés bouillants et recouvrez de paraffine.
+  ]]>
+  </preparation>
+</recette>

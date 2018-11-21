@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30168">
+  <titre>Ratatouille aux carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de tomates</p>
+    <p>300 g de poivrons</p>
+    <p>300 g d'oignons</p>
+    <p>150 g de carottes</p>
+    <p>2 gousses d'ail</p>
+    <p>persil haché</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et émincer les carottes en rondelles.
+    Les faire revenir dans une cocotte avec de l'huile d'olive chaude.
+    Couper les tomates en quartiers, épépiner et émincer les poivrons en lanières, émincer les oignons.
+    Retirer les carottes une fois dorées de la cocotte, y mettre les poivrons.
+    Faire de même et remplacer par les oignons, puis les tomates. 
+    Enfin, remettre tous les légumes dans la cocotte, saler et poivrer.
+    Ajouter l'ail haché et le persil, laisser mijoter 10 min et servir.
+    Aussi bon chaud que froid !
+  ]]>
+  </preparation>
+</recette>

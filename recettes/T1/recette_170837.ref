@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170837">
+  <titre>Tarte courgette tomate bacon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>3 tomates</p>
+    <p>2 grandes courgettes</p>
+    <p>15 tranches de bacon</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les légumes puis les découpe en tranches (ni trop fine, ni trop grosse).Faire revenir les morceaux de courgettes quelques minutes dans l'huile, avec sel et poivre.
+    Préchauffer votre four à 180°C, thermostat 6.Disposer les ingrédients en les alternants (tomate / courgette / tomate / bacon / courgette / tomate / courgette / bacon...) dans un plat à tarte préalablement huilé. Saler et poivrer.
+    Disposer la pâte au dessus de cette préparation, en renfonçant bien les bord et mettre le plat dans le four pendant 30 min, jusqu'à l'obtention d'une pâte bien dorée !A l'aide d'un plat (ou d'une assiette), renverser la tarte.
+    Bon appétit !Peut-être considéré comme une entrée, cela dépend des estomacs de chacun ! Et surtout bon appétit !
+  ]]>
+  </preparation>
+</recette>

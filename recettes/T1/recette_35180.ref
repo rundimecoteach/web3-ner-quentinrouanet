@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35180">
+  <titre>Cake bon thon.</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>250 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>1/2 verre (ordinaire) d'huile d'olive</p>
+    <p>1 verre de vin blanc 11°</p>
+    <p>250 g de thon en boîte bien égoutté et grossièrement émietté</p>
+    <p>100 g d'olives vertes égouttées et coupées en rondelles</p>
+    <p>1/2 zeste râpé de citron</p>
+    <p>70 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fouetter les oeufs. 
+    Ajouter farine et levure en pluie. 
+    Mouiller avec huile d'olive et vin blanc. 
+    Incorporer le thon et les olives vertes et mélanger en soulevant la pâte pour ne pas écraser. 
+    Ajouter zeste de citron et gruyère et donner encore un ou deux tours de cuillère. 
+    Verser dans un moule à cake (L30 x l 11 x h 8 ). 
+    Faire cuire 45 mn à 150°C dans un four à chaleur tournante.
+    Peut se préparer à l'avance car très présentable après décongèlation.
+    Le thon peut être remplacé par 100 g de dés de jambon et 100 g d'olives noires ou par 200 g d'olives noires et origan.
+    Vite fait, ... bien fait ? 
+  ]]>
+  </preparation>
+</recette>

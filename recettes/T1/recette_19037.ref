@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19037">
+  <titre>Darne de thon rouge à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>une belle darne de thon</p>
+    <p>une boîte de tomates pelées 4/4 </p>
+    <p>olives noires dénoyautées et coupées en petits morceaux</p>
+    <p>un oignon émincé très fin</p>
+    <p>2 belles gousses d'ail</p>
+    <p>une branche de thym</p>
+    <p>une feuille de laurier</p>
+    <p>deux cuillères à soupe de vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la darne dans une poêle à l'huile d'olive rapidement des deux côtés.
+     
+    Dans une cocotte, faites blondir l'oignon, toujours à l'huile d'olive. Ajouter la boîte de tomates, après avoir grossièrement émincé les tomates. 
+    Faites revenir à l'ébullition mais à petits bouillons ; ajouter alors les olives, le thym, le laurier et l'ail. Laisser cuire la sauce un petit quart d'heure à feu doux, il faut qu'elle réduise un peu. 
+    Si vous aimez le thon pas trop cuit, ajouter la darne puis trois minutes après, arrosez avec le vinaigre balsamique et servez. Sinon laissez cuire un peu plus longtemps.
+  ]]>
+  </preparation>
+</recette>

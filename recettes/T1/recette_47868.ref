@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47868">
+  <titre>Riz GHOL (Gruyère-Haricot-Oignons-Lardons)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de riz</p>
+    <p>100 g de lardons</p>
+    <p>100 g de haricots verts</p>
+    <p>1 gros oignon</p>
+    <p>100 g de gruyère </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz blanc 8 à 10 minutes environ.
+    Pendant ce temps, faire blanchir les haricots 10 minutes dans l’eau bouillante.
+    Dans une poêle, faire revenir l’oignon (sans matière grasse).
+    Lorsque l’oignon est doré, ajouter les lardons.
+    Après cuisson des aliments suivants, mélanger le tout dans un saladier et y ajouter les dés de gruyère.
+    Servir chaud ou tiède.
+    Plat tout en couleurs et en saveurs!On épate ses amis sans faire de folies...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24365">
+  <titre>Tarte niçoise aux oignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>Pour la garniture :</p>
+    <p>500 g d'oignons</p>
+    <p>3 tomates</p>
+    <p>50 g d'olives noires</p>
+    <p>50 g de filets d'anchois à l'huile</p>
+    <p>5 à 6 cuillères d'huile</p>
+    <p>sel et poivre</p>
+    <p>1 pincée de thym et de laurier</p>
+    <p>1 cuillère à café d'ail semoule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Pétrir la farine, le beurre ramolli et ajouter un peu d'eau salée puis laisser reposer 30 min.
+    Détailler les oignons en rondelles et les faire revenir dans de l'huile avec du sel, poivre, ail, le thym et le laurier.
+    Avec un rouleau à pâtisserie étaler la pâte puis ajouter les oignons, les tomates, les olives et répartir les anchois.
+    Faire cuire le tout 45 min à four chaud à 210°C.
+  ]]>
+  </preparation>
+</recette>

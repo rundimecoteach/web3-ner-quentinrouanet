@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45142">
+  <titre>Sandwich cess'touch</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une demi baguette (tradition, viennoise ou même du pain de mie)</p>
+    <p>2 tranches de jambon</p>
+    <p>3 échalotes</p>
+    <p>3 feuilles de salade</p>
+    <p>3 cuillères à soupe de persil</p>
+    <p>4 cuillères à soupe de mayonnaise</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher très fin le jambon, les échalotes, la salade et le persil
+    (avec un hachoir électrique c'est plus rapide!).
+    Dans un bol, incorporer ce mélange haché à la mayonnaise, saler et poivrer.
+    Etaler dans la baguette façon sandwich.
+    Pour ceux qui aiment l'originalité!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20380">
+  <titre>Riz au lait de ma maman</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>100 g de riz blanc rond</p>
+    <p>5 cuillères à soupe de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 zeste de citron, d'orange ou de clémentine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait avec le sucre, le sucre vanillé et le zeste de votre choix (attention faire un ruban assez long pour le retirer facilement en fin de cuisson). 
+    Lorsque le lait bout, jeter le riz en pluie et baisser le feu pour que l'ébullition soit très lente, le riz doit cuire très lentement. 
+    Lorque le riz affleure le lait, couper le feu et laisser refroidir ; le riz va finir de s'imbiber de lait en refroidissant. 
+    On peut servir ce dessert tiède ou froid dans des ramequins avec un zeste de citron vert pour décorer le dessus.
+    Pour plus de parfum on peut laisser infuser un bâton de cannelle dans le lait tout le long de la préparation. On peut également ajouter des fruits confits, c'est bon et c'est joli pour les enfants.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26543">
+  <titre>Quatre-quarts facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 œufs</p>
+    <p>beurre</p>
+    <p>sucre</p>
+    <p>farine</p>
+    <p>sel</p>
+    <p>extrait de vanille, zestes ou jus de citron...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pesez les œufs, et prenez ensuite le même poids en beurre, en sucre et en farine. 
+    Battez les jaunes d'œufs avec le sucre, et versez-y le beurre fondu, ensuite la farine par petites quantités et enfin les blanc des œufs battus en neige. 
+    Ajoutez une pincée de sel. 
+    Versez dans une moule à cake beurré, et enfournez pendant 45 min à 160°C (thermostat 5-6) ; bien surveiller la cuisson. 
+    Parfumez la pâte avec de l'extrait de vanille ou des zestes de citron.  
+  ]]>
+  </preparation>
+</recette>

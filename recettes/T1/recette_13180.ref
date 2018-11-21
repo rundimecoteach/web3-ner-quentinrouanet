@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13180">
+  <titre>Pain d'épice au foie gras</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>400 g de foie gras en bloc </p>
+    <p>400 g de pain d'épice</p>
+    <p>8 cl de vin blanc doux</p>
+    <p>50 g de raisins secs</p>
+    <p>40 g de noix concassées</p>
+    <p>3 cuillères à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tapisser une terrine de film étirable.
+    Imbiber le pain d'épice avec le vin plus 3 cuillères à soupe d'eau.Déposer une couche de pain d'épice au fond de la terrine . Mélanger le foie avec les raisins et les noix et déposer une couche sur le pain d'épice. Alterner jusqu'à épuisement des ingrédients.
+    Tasser le tout et placer au réfrigérateur 3h au moins.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64478">
+  <titre>Blanquette de dinde aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g à 1 kg de morceaux de blanquette de dinde</p>
+    <p>8 petits champignons frais</p>
+    <p>2 oignons</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 petit verre de vin blanc</p>
+    <p>1 tablette de bouillon de volaille</p>
+    <p>1 cuillère à soupe de persil</p>
+    <p>1 branche de thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande casserole, faire roussir les oignons et la viande.
+    Retirer la viande et, hors du feu, ajouter la farine.
+    Mélanger et mettre le vin blanc.
+    Ajouter 2 grand verres d'eau, la tablette de bouillon, le persil, le thym, poivre et bien mélanger.
+    Remettre la viande qui doit bien baigner dans la sauce, donc rajouter un peu d'eau si nécessaire. 
+    Laisser mijoter à feu doux 1 h 15.
+    15 min avant la fin de cuisson, faire suer les champignons coupés en lamelles dans un peu de beurre, sel, poivre et ajouter au plat.
+    Si les morceaux de blanquette sont plus gros, cuire 2 h afin que la viande se découpe toute seule. 
+  ]]>
+  </preparation>
+</recette>

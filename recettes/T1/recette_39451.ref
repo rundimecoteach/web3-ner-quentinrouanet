@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39451">
+  <titre>Salade de trévise aux figues</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 salade de trévise (salade rouge)</p>
+    <p>4 figues fraîches</p>
+    <p>Quelques morceaux de mozzarella</p>
+    <p>5 ou 6 oignons blancs frais (si vous les trouvez trop forts, mettez-les, 1/2 heure, dans de l'eau froide)</p>
+    <p>Huile d'olive ou de pépins de raisins, suivant votre goût</p>
+    <p>Sauce soja</p>
+    <p>Sel, poivre ou baies de poivre rose</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez votre salade.
+    Lavez, et fragmentez vos figues fraîches.
+    Coupez votre mozzarella, en morceaux.
+    Epluchez vos oignons blancs, et coupez-les en 2 ou en 4 (selon leur grosseur).
+    Préparer une vinaigrette avec : 1 cuillère à soupe de sauce soja, 3 cuillères à soupe d'huile, sel et poivre.
+     Rosé
+  ]]>
+  </preparation>
+</recette>

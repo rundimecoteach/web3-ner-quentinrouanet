@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40000">
+  <titre>P'tits bouchons fondants à la châtaigne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>380 g de crème de marron vanillée (ou de confiture de châtaigne)</p>
+    <p>2 gros oeufs</p>
+    <p>80 g de beurre fondu (surtout pas de la margarine!)</p>
+    <p>un moule en silicone pour petits-fours</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre fondu avec la crème de marrons. Puis ajouter les oeufs entiers. 
+    Bien mélanger la préparation.
+    Remplir les alvéoles du moule en silicone (presque jusqu'en haut, les bouchons ne lèvent pas trop), et faire cuire environ 25 min à 175°C (thermostat 6).
+    Laisser un peu refroidir, puis démouler. 
+    Les bouchons se conservent au frigo (ils vont durcir un peu, c'est plus facile pour les manipuler).
+    Il ne faut surtout pas battre les blancs d'oeuf en neige, car sinon vous n'obtiendrez jamais la texture fondante et légèrement "humide" de ces bouchons. Si vous n'avez pas de moule en silicone pour petits-fours, vous pouvez réaliser ces fondants dans des caissettes en papier ou alors carrément réaliser un "grand gâteau" que vous couperez en petites parts car c'est assez "riche" comme dessert !Vous pouvez aussi agrémenter vos bouchons de zestes d'orange confits ou de raisins infusés dans le rhum.
+    Ces bouchons ont été réalisés pour la 30ème rencontre Marmiton, à Reillanne. Un thé
+  ]]>
+  </preparation>
+</recette>

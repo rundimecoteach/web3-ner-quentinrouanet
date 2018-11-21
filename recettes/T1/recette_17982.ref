@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17982">
+  <titre>Moelleux au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de chocolat</p>
+    <p>175 g de beurre</p>
+    <p>125 g de sucre glace</p>
+    <p>75 g de farine</p>
+    <p>5 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    faire fondre le chocolat.
+    Ajouter le beurre en morceaux peu à peu et l'incorporer pour obtenir un crème bien lisse.
+    Mettre la farine et le sucre glace dans un saladier. Ajouter les oeufs entiers et mélanger jusqu'à obtention d'une émulsion homogène.
+    Verser le mélange chocolat-beurre sur cette préparation. Mélanger.
+    Beurrer et fariner 6 moules individuels ou un grand moule.
+    Verser la préparation et mettre à four chaud (200°C) - 10 min pour les petits gâteaux, 15 pour le grand.
+    Servir tiède avec une crème anglaise (le centre doit être coulant) ou servir froid nappé de ganache au chocolat.
+    Préparation possible à l'avance. Réchauffer avant dégustation quelques secondes à mi-puissance au  micro-ondes.
+  ]]>
+  </preparation>
+</recette>

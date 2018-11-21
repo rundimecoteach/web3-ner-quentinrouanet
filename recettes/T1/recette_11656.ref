@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11656">
+  <titre>Coq au vin jaune et aux morilles</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 coq</p>
+    <p>sel et poivre</p>
+    <p>25 g de farine</p>
+    <p>50 g de beurre</p>
+    <p>20 cl de vin jaune</p>
+    <p>20 cl de vin d'Arbois blanc</p>
+    <p>1 oignon</p>
+    <p>1 bouquet garni</p>
+    <p>50 cl de crème fraîche</p>
+    <p>500 g de morilles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le coq en morceaux, saler  et poivrer.
+    Saupoudrer de farine et faire revenir au beurre dans une cocotte en fonte.
+    Ajouter un verre de vin jaune + un verre de vin d'Arbois blanc, un oignon coupé en fines lamelles et un bouquet garni.
+    Couvrir et faire cuire 30 à 45 minutes.
+    Laver les morilles, les faire cuire en ajoutant du vin jaune (environ 1/2 verre).Faire réduire un demi litre de crème fraiche, assaisonner avec poivre et sel et le jus de cuisson du coq.
+    Ajouter les morilles.
+    Dresser le coq dans un plat et couvrir avec la sauce.
+    Servir très chaud.recette chère vin jaune
+  ]]>
+  </preparation>
+</recette>

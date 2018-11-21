@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225663">
+  <titre>Clafoutis au goût mystère</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oeuf entier</p>
+    <p>75 g de sucre</p>
+    <p>75 g de farine</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>3 cl de lait</p>
+    <p>4 cl d'huile de tournesol</p>
+    <p>2 pots de yaourt à la vanille</p>
+    <p>25 framboises</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 175°C (thermostat 5-6).Dans un saladier, battre avec un fouet l'oeuf et le sucre.
+    Ajoutez la farine, le lait, l'huile et la levure chimique. Mélangez toujours avec le fouet jusqu'à obtenir une pâte bien lisse.
+    Ajoutez les pots de yaourt à la vanille.
+    Faire chauffer les framboises au micro-ondes, les écraser pour les rendre le plus liquide possible. Les filtrer dans une passoire chinois, récupérer le jus et le mélanger avec la pâte.
+    Verser cette pâte rose dans 6 moules à muffins (ou plus si nécessaire, la pâte ne doit remplir les moules qu'aux 3/4).
+    Mettre au four et faire cuire 25 minutes.
+    Les sortir du four, les laissez refroidir, les mettre au réfrigérateur pendant 2 heures et déguster.Vous pouvez ajouter des amandes effilées, c'est très bon aussi.
+  ]]>
+  </preparation>
+</recette>

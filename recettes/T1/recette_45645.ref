@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45645">
+  <titre>Steak haché à la sicilienne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 tête d'ail</p>
+    <p>6 demi-tomates séchées conservées à l'huile, égouttées et hachées</p>
+    <p>2 cuillères à soupe de mayonnaise</p>
+    <p>680 g de filet de boeuf dégraissé et haché</p>
+    <p>4 tranches de mozzarella</p>
+    <p>feuilles de roquette et basilic frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (th 6-7). 
+    Enveloppez la tête d'ail dans du papier d'aluminium, et faites-la rôtir dans le four pendant 30 min, jusqu'à ce qu'elle soit bien tendre. 
+    Sortez et laissez tiédir, déballez et pressez la pulpe d'ail dans un saladier.
+    Ajoutez les tomates séchées et la mayonnaise dans le saladier, mélangez, puis incorporez la viande hachée, et mélangez à nouveau. 
+    Partagez cette farce en 4 portions égales, et façonnez-la en palets.
+    Chauffez une grande poêle anti-adhésive sur feu moyen, pour y faire cuire les steaks hachés 10 min, en les retournant de temps en temps (attention à ne pas les mettre en morceaux, il faut y allé doucement!).
+    Quand les steaks ont été retourné pour la dernière fois, disposez une tranche mozzarella dessus. 
+    Quand le fromage se met à fondre, retirez de la poêle et disposez-les dans les assiettes à servir. 
+    Garnissez de roquette et de basilic.
+    Recette peu calorique, par personne : 383 kcal.
+  ]]>
+  </preparation>
+</recette>

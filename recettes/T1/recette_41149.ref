@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41149">
+  <titre>Salade de betteraves aux noix (Grèce)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 betteraves cuites</p>
+    <p>1 yaourt à la Grecque</p>
+    <p>15 cerneaux de noix</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>1 cuillerée de vinaigre</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la betterave en julienne.Écraser grossièrement les cerneaux de noix.Mélanger tous les ingrédients : betteraves, noix, yaourt, ail et vinaigre.
+    Laisser reposer au frais quelques heures.
+    Mangez !J'ai découvert cette recette en Grèce cet été.
+  ]]>
+  </preparation>
+</recette>

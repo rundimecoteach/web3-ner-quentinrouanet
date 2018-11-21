@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86838">
+  <titre>Tarte aux 3 poivrons de Jojo</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poivron jaune</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>2 tomates</p>
+    <p>1 pâte à tarte feuilletée</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à café de piment moulu doux</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les 3 poivrons en dés ainsi que les tomates.
+    Les disposer dans un plat et arroser avec l'huile d'olive et le piment.
+    Saler et poivrer. Bien mélanger.
+    Laisser reposer au moins 30 minutes.
+    Etaler la pâte dans un moule à tarte et verser les légumes.
+    Préchauffer le four à 220°C (thermostat 7) et enfourner votre tarte pendant 20 minutes.
+    En entrée ou en plat accompagné d'une salade c'est un délice.
+  ]]>
+  </preparation>
+</recette>

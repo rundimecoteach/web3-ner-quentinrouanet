@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46406">
+  <titre>Salade de riz à l'orange</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de riz long grain américain</p>
+    <p>4 oranges</p>
+    <p>20 olives noires</p>
+    <p>1 botte de petits oignons nouveaux</p>
+    <p>quelques brins de coriandre fraîche</p>
+    <p>1 petit piment oiseau</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz dans 2 fois 1/2 son volume d'eau bouillante salée, jusqu'à absorption totale du liquide, puis laisser refroidir.
+    Pendant ce temps, pelez à vif les oranges, séparez chaque quartier et enlevez la membrane qui les entoure; et recueillez le jus.
+    Epluchez les oignons et détaillez-les en fines rondelles, hachez finement le petit piment et prélevez les feuilles de coriandre.
+    Placez le riz dans un grand saladier, disposez dessus les quartiers d'orange, les rondelles d'oignon et les olives noires. 
+    Salez, poivrez, versez en filet l'huile d'olive et le jus d'orange recueilli, parsemez avec le piment haché et les feuilles de coriandre. 
+    Servez aussitôt.
+    En été, vous servirez cette salade bien fraîche en accompagnement d'un poisson blanc (merlan, colin) poché.
+  ]]>
+  </preparation>
+</recette>

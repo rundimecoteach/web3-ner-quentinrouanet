@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46428">
+  <titre>Pâtes au faux pesto (pour bébé)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit pot de pâtes non cuites</p>
+    <p>1/3 d'haricots verts </p>
+    <p>2/3 de petits pois</p>
+    <p>ciboulette</p>
+    <p>1 noisette de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes pour bébé pour qu'elles soient fondantes.
+    Cuire les légumes 20 min dans un cuiseur vapeur, si ils sont surgelés. 
+    Puis, les mixer avec la ciboulette. 
+    Mélanger les pâtes avec le beurre et les légumes.
+    A partir de 10 mois (compte tenu des morceaux) !On peut aussi rajouter un peu de jambon mixé ou un peu de gruyère à la place du beurre, pour en faire un plat complet pour le midi.
+  ]]>
+  </preparation>
+</recette>

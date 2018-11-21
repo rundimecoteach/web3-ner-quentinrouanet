@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37668">
+  <titre>Bananes au four, abricots secs et noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 banane mûre</p>
+    <p>1 petit-suisses à 40%</p>
+    <p>2 abricots secs</p>
+    <p>1 cuillère café de noisettes concassées (ou amandes) grillées</p>
+    <p>1 cuillère à café de céréales souflées (riz, mélange...)</p>
+    <p>1 petite cuillère à café de miel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four 5 minutes à 180°C. 
+    Placer les bananes entières sur une grille pour 25 minutes environ. 
+    Laisser tiédir pour pouvoir les peler sans vous brûler.
+    Mélanger le petit-suisse et le miel. Disposer ce mélange dans une assiette. Placer la banane pelée dessus et rajouter sur le dessus les abricots secs coupés en petits morceaux ainsi que les cérales soufflées et les noisettes grillées.
+    Idéal pour un dessert ou un goûter équilibré pour enfants et parents accompagnateurs !
+    Attention, les bananes risquent de couler pendant leur cuisson : protégez le fond de votre four.
+  ]]>
+  </preparation>
+</recette>

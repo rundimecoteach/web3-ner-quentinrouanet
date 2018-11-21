@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25151">
+  <titre>Omelette aux clémentines</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>4 clémentines</p>
+    <p>200 g de raisins secs</p>
+    <p>50 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs et la crème fraîche avec un fouet et y ajouter les raisins secs qui auront préalablement gonflé (pour les faire gonfler, les tremper dans un bol d'eau tiède toute une nuit). 
+    Extraire le zeste sur une clémentine et l'ajouter à la préparation. 
+    Ajouter les clémentines découpées en demi-quartiers. 
+    Faire cuire à la poêle ou gratiner au four avec un peu de gruyère râpé.
+    Ce plat peut être accompagné de chips chaudes. Vins blancs de préférence d'Alsace
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69758">
+  <titre>Hachis parmenchèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de viande hâchée</p>
+    <p>2 sachets de purée individuelle</p>
+    <p>300 ml de lait</p>
+    <p>50 ml d'eau</p>
+    <p>1 noix de beurre</p>
+    <p>1 tomate</p>
+    <p>1.5 batons de chèvre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>paprika</p>
+    <p>noix de muscade en poudre</p>
+    <p>sauce soja</p>
+    <p>sel &amp; poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C
+    Faire revenir la viande hâchée dans un peu d'huile olive.
+    En fin de cuisson, ajouter 5 pincées de paprika, un filet de sauce soja, sel et poivre. 
+    Déposer la préparation dans un plat à four. Y déposer, coupés en rondelles, la tomate et le fromage de chèvre.
+    Préparer la purée comme indiqué sur le paquet en privilégiant la quantité de lait. Ajouter la muscade, le sel et le poivre.
+    Etaler la purée sur la préparation et badigeonnez d'un jaune d'oeuf.
+    Enfournez environ 30 min.
+    Servez accompagné d'une salade iceberg.
+    Le mélange du chèvre et de la viande hâchée se marient très bien!
+  ]]>
+  </preparation>
+</recette>

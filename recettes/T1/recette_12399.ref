@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12399">
+  <titre>Soupe de carottes à l'orange</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de carottes coupées en rondelles</p>
+    <p>1 grosse pomme de terre pelée et coupée en rondelles</p>
+    <p>50 cl de bouillon de volaille</p>
+    <p>25 cl de jus d'orange</p>
+    <p>1 cuillère à café de gingembre frais haché</p>
+    <p>1 cuillère à café de curry en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients. Porter à ébullition, couvrir et laisser frémir 20 min (les légumes doivent être tendres).
+    Réduire en une purée onctueuse.
+    Servir la soupe garnie de yaourt et d'aneth.
+     Côtes du rhône
+  ]]>
+  </preparation>
+</recette>

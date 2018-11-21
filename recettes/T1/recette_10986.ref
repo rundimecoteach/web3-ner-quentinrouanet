@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10986">
+  <titre>Goulash de Men Meur</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de gite de boeuf</p>
+    <p>6 oignons</p>
+    <p>6 carottes</p>
+    <p>6 tomates</p>
+    <p>60 cl de bouillon de boeuf</p>
+    <p>20 cl de vin rouge</p>
+    <p>paprika</p>
+    <p>ail, thym, romarin</p>
+    <p>1,5 kg de purée de pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande sauteuse, faire revenir les oignons émincés dans une cuillerée d'huile d'olive.Y ajouter le boeuf coupé en dés, les carottes en rondelles, les tomates en quartiers.
+    Mouiller avec le bouillon et le vin rouge, assaisonner avec une gousse d'ail, une pincée de thym et une de romarin, saler, poivrer et une cuillerée à café de paprika.
+    Couvrir et laisser mijoter 1 heure 30.Dans un grand et profond plat à four, répartir la purée en couronne.
+    Au centre, disposer la préparation.
+    Passer au grill 15 minutes.Ne sera que meilleur réchauffé. Bourgogne type CORTON
+  ]]>
+  </preparation>
+</recette>

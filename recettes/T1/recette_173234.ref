@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173234">
+  <titre>Salade de pommes de terre au jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 pommes de terre </p>
+    <p>4 tomates </p>
+    <p>2 tranches de jambon</p>
+    <p>1 avocat</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>1 oignon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les pommes de terre et mettez-les à cuire pendant 10 min.
+    Coupez le jambon en petits cubes et réservez au frais.
+    Coupez l'avocat, les tomates et préparer la sauce à l'huile d'olive.
+    Sortez les cubes de jambon et mélanger le tout dans la sauce.Réserver au frais. tariquet 
+  ]]>
+  </preparation>
+</recette>

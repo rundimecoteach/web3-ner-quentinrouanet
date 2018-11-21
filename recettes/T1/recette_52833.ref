@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52833">
+  <titre>Soupe bonne femme</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon moyen</p>
+    <p>2 petites pommes de terre</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>1 pierre de sucre : un morceau de sucre</p>
+    <p>100 g de vermicelles</p>
+    <p>sel et poivre</p>
+    <p>1 à 2 cuillères à soupe d'huile</p>
+    <p>1 à 1,5 litre d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande casserole, mettre à chauffer l'huile. 
+    Y faire revenir ensuite l'oignon émincé, et les pommes de terre coupées en dés.
+    Verser 1 à 1,5 litre d'eau, puis laisser mijoter jusqu'à ce que l'oignon et les pommes de terre soient cuits.
+    Mettre 1 pierre de sucre dans la préparation.
+    Ajouter la petite boîte de concentré de tomate, et la faire diminuer jusqu'à la consistance désirée pour la soupe.
+    Ajouter les vermicelles, laisser cuire, saler et poivrer.
+    Déguster aussitôt!
+  ]]>
+  </preparation>
+</recette>

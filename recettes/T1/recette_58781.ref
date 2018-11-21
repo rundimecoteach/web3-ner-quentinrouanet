@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58781">
+  <titre>Sauté de porc sauce soja</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de porc (sauté de porc)</p>
+    <p>10 cl de sauce soja</p>
+    <p>10 cl d'huile</p>
+    <p>4 gousses d'ail</p>
+    <p>50 g de champignons (ex : chanterelles séchées)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Il faut, d'abord, congeler le sauté pour, ensuite, le découper en fines lamelles.
+    Hacher l'ail et broyer les champignons séchés.Mélanger le tout.
+    Arroser avec de la sauce soja et de l'huile. Couvrir le plat avec un film.
+    Laisser mariner au moins une nuit dans le réfrigérateur.
+    La cuisson doit se faire doucement sans rajouter d'huile.
+    Vous pouvez accompagner ce plat de pâtes asiatiques.
+  ]]>
+  </preparation>
+</recette>

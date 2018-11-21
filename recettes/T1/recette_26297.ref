@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26297">
+  <titre>Spätzle gratinés au roquefort et lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de spätzle</p>
+    <p>75 g de lardons</p>
+    <p>200 g de roquefort</p>
+    <p>25 cl de crème fraîche</p>
+    <p>1 branche de fenouil</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les spätzle à l'eau bouillante salée.
+    Pendant ce temps, faites rissoler les lardons et les oignons émincés dans une poêle avec un peu de beurre.
+    Ajoutez la moitié de la branche de fenouil et de la crème.
+    Salez, poivrez et laissez colorer doucement.
+    Incorporez le roquefort écrasé à la fourchette, remuez, et rajoutez la crème et le fenouil restant.
+    Egouttez les pâtes, mettez-les dans un plat beurré et versez la sauce dessus.
+    Faites dorer au four à 180°C (thermostat 6) environ 10 minutes.
+  ]]>
+  </preparation>
+</recette>

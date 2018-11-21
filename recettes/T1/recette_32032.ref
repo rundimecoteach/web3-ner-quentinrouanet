@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32032">
+  <titre>Petits gratins de risotto</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de risotto tiède ou froid (n'importe quel type)</p>
+    <p>chapelure</p>
+    <p>huile</p>
+    <p>120 g de crème fraiche</p>
+    <p>75 à 100 g. de fromage (des restes qui trainent dans le frigo conviennent très bien)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Huiler 4 moules individuels et couvrir l'intérieur de chapelure.
+    Les remplir de risotto.
+    Les placer sur la tole du four, les fonds découverts en haut.
+    Couvrir les fonds de chapelure et les passer sous le grill du four jusqu'à ce que la surface devienne croustillante.
+    Retirer les gratins du four, les tourner, enlever les moules, passer les gratins sous le grill de l'autre côté, jusqu'à ce qu'ils deviennent tous croustillants.
+    Au même moment, préparer une fondue en chauffant doucement la crème et le fromage en morceaux, qui doit fondre complètement.
+    Verser un peu de fondue dans une assiette, y placer les gratins, verser encore de la fondue sur les gratins, servir.
+    Si on veut, on peut mettre au centre de chaque gratin une olive, ou un morceau de mozzarella, ou autre chose.
+    On peut jouer avec le goût du risotto et des parfums à ajouter dans la fondue (risotto au safran et fondue au safran...).
+  ]]>
+  </preparation>
+</recette>

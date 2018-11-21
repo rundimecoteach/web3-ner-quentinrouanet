@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81592">
+  <titre>Beignets aux pommes très faciles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>2 oeufs</p>
+    <p>20 cl de lait</p>
+    <p>4 pommes</p>
+    <p>sel</p>
+    <p>huile pour friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, versez la farine et la levure et creusez un puits. Mettez les deux jaunes d'oeufs et une pincée de sel. Mélangez.
+    Ajoutez le lait progressivement. Quand la pâte est homogène, ajoutez les deux blancs d'oeufs battus en neige.
+    Pelez les pommes et évidez-les. Puis coupez-les en rondelles régulières.
+    Trempez les rondelles dans la pâte et faites-les frire.
+    Servez les beignets avec du sucre !Vous pouvez remplacer les pommes par des fraises, des abricots, et des pêches. La pâte à beignet peut être aussi utilisée pour faire des beignets nature.
+  ]]>
+  </preparation>
+</recette>

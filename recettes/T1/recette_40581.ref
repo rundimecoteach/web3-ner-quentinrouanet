@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40581">
+  <titre>Tarte aux myrtilles à la crème d'amande</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de myrtilles fraîches ou décongelées</p>
+    <p>Pour la pâte sablée :</p>
+    <p>250 g de farine</p>
+    <p>125 g de sucre</p>
+    <p>125 g de beurre</p>
+    <p>1 oeuf </p>
+    <p>1 jaune d'oeuf</p>
+    <p>Pour la crème d'amandes :</p>
+    <p>75 g de poudre d'amandes</p>
+    <p>75 g de sucre</p>
+    <p>65 g de beurre fondu</p>
+    <p>2 oeufs </p>
+    <p>50 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Commencer par préparer la pâte sablée. Mettre tous les ingrédients dans un saladier et mélanger avec les doigts pour former une boule de pâte. Mélanger tant qu'il reste des morceaux de beurre.
+    Une fois la pâte ayant un joli aspect, faire une boule, la mettre dans du papier alu, et laisser reposer au moins 1h au refrigérateur.
+    Pendant ce temps, préparer la crème d'amandes : Dans un saladier, verser le sucre et les oeufs et mélanger. Rajouter les oeufs, la farine, le beurre fondu, et enfin la poudre d'amandes.
+    Lorsque la pâte sablée est prête, l'étaler au rouleau à pâtisserie, et la déposer au fond d'un moule à tarte beurré.Etaler dessus les myrtilles, et les saupoudrer de sucre. Verser ensuite la crème d'amandes (les myrtilles peuvent rester plus ou moins apparentes...) puis enfourner 1 h à four chaud (190°C - thermostat 6/7).
+  ]]>
+  </preparation>
+</recette>

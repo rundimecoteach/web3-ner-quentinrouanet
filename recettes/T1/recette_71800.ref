@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71800">
+  <titre>Cookies d'avoines et canneberges</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de sucre</p>
+    <p>200 g de beurre</p>
+    <p>3 œufs</p>
+    <p>270 g de flocons d'avoine</p>
+    <p>210 g de farine</p>
+    <p>1 cuillère à café de gingembre</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>80 g de morceaux de chocolat</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre fondu avec le sucre.
+    Ajouter les oeufs, la cannelle, le gingembre et le sel, bien battre.
+    Mettre le reste des ingrédients.
+    Sur une plaque faire des petits tas compacts.
+    Laisser cuire à 180°, thermostat 6, pendant 10 min à mi-hauteur.
+    Le chocolat est facultatif mais fait bien ressortir le goût des canneberges.
+  ]]>
+  </preparation>
+</recette>

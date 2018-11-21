@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89142">
+  <titre>Filet mignon aux pruneaux et à la crème d'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 filet mignon (480 g)</p>
+    <p>5 à 6 gousses d'ail</p>
+    <p>10 pruneaux dénoyautés</p>
+    <p>20 cl de crème fraiche épaisse </p>
+    <p>4 cuillères à soupe de Cognac ou Armagnac </p>
+    <p>8 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dégraisser le filet mignon puis l'ouvrir sur la longueur de manière à pouvoir le farcir. 
+    Mettre les pruneaux tout au long du filet. Saler, poivrer. Rabattre les deux côtés et ficeler afin que les pruneaux restent en place.
+    Faire revenir le filet dans une cocotte jusqu'à ce qu'il soit bien doré (il doit vraiment être quasiment cuit).
+    Parallèlement, hacher l'ail à l'aide d'une râpe ou d'un hachoir.
+    Lorsque le filet est prêt, incorporer le hachis d'ail dans la cocotte avec le filet mignon et le laisser dorer.
+    Dans une petite casserole, faire chauffer le cognac ou l'armagnac. Verser le mélange sur le filet et le faire flamber. 
+    Remuer une minute ou deux puis verser la crème fraiche et mélanger. 
+    Laisser mijoter impérativement au moins 30 minutes de plus à feu doux. 
+    Servir avec des tagliatelles, pommes de terres rissolées ou autres...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64655">
+  <titre>Haricots blancs sautés à l'ail et au persil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg d'haricots blancs crus (pas en boîte)</p>
+    <p>1 botte de persil</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir de l'eau salée, lavez les haricots puis cuisez-les durant 20 minutes (augmentez le temps de cuisson si d'aventure les haricots sont encore durs). Egouttez.
+    Hachez le persil et l'ail séparemment.
+    Faites fondre le beurre dans une poêle avec l'huile.
+    Ajoutez les haricots et l'ail. Faites sauter durant 10 minutes.
+    Ajoutez le persil et servez.
+    Attention, il faut prendre des haricots blancs crus et donc nouveaux et non pas des haricots secs qui nécéssitent un long trempage et une durée de cuisson nettement plus importante.
+  ]]>
+  </preparation>
+</recette>

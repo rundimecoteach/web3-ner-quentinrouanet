@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218930">
+  <titre>Croque monsieur à la raclette</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>un peu de beurre</p>
+    <p>2 cuillères à café de crème fraîche épaisse</p>
+    <p>poivre</p>
+    <p>pommes de terre sous-vide</p>
+    <p>2 tranches de fromage a raclette</p>
+    <p>2 tranches de jambon cru</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour chaque croque : Mettre de la crème fraîche sur une tranche de pain de mie.
+    Mettre du poivre sur la crème fraîche.
+    Recouvrir de rondelles de pommes de terre (rissolées dans du beurre, de l'huile d'olive, du sel, poivre et herbes de Provence)Recouvrir d'une tranche de fromage à raclette, puis d'une tranche de jambon cru (voire une et demi).Refermer le croque avec une tranche de pain de mie beurrée.Accompagné d'une salade (de la mâche) et d'une tomate, c'est parfait. 
+  ]]>
+  </preparation>
+</recette>

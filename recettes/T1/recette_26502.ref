@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26502">
+  <titre>Soupe aux petits pois</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oignons hachés</p>
+    <p>3 poireaux coupés en rondelles</p>
+    <p>3 carottes en rondelles</p>
+    <p>1 branche de céleri en tronçons</p>
+    <p>1 boîte de 450 g de petits pois</p>
+    <p>4 bouillons cubes de viande (boeuf) dégraissés</p>
+    <p>1 saucisse fumée (ou saucisse polonaise) </p>
+    <p>1 paquet de lardons dégraissés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons dans un peu de beurre. 
+    Lorsqu'ils sont transparents ajouter les légumes frais, puis les petits pois. Bien mélanger. 
+    Ajouter 2 litres d'eau et les cubes de bouillons et laisser mijoter 30 mn. 
+    Mixer la soupe. 
+    Faire revenir les lardons et la saucisse coupée en petits morceaux. 
+    Ajouter à la soupe et mixer encore légèrement. 
+    Laisser mijoter 5 mn et ajuster l'assaisonnement. 
+    Servir avec des petits morceaux de pain grillé.
+    Délicieux et roboratif en hiver : un vrai plat du nord !
+  ]]>
+  </preparation>
+</recette>

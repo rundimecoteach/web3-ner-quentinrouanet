@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24711">
+  <titre>Crêpes nappées au caramel orangé</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>15 cl de lait</p>
+    <p>15 cl de bière</p>
+    <p>2 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>30 g de beurre fondu</p>
+    <p>1 cuillère à soupe de Grand-Marnier</p>
+    <p>20 morceaux de sucre</p>
+    <p>1 cuillère à café de beurre</p>
+    <p>le jus d’une orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine avec le lait, la bière, les oeufs, le sel, le beurre fondu et la pincée de sel, pour obtenir une pâte fluide et sans grumeaux. Laisser reposer 1 h.
+    Faire cuire les crêpes à la poêle beurrée et les réserver dans un plat chaud.
+    Dans une casserole, faire fondre les morceaux de sucre avec 2 cuillères à soupe d'eau jusqu'à l'obtention d’un caramel doré.
+    Y incorporer la cuillère à café de beurre, le jus d'une orange, bien mélanger le tout puis laisser épaissir.
+    Plier les crêpes en 4 puis les napper de caramel orangé.
+    Déguster immédiatement.
+    On peut les flamber au Grand-Marnier juste avant de servir.
+  ]]>
+  </preparation>
+</recette>

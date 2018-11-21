@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31259">
+  <titre>Madeleines fruitées</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>80 g de farine</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>80 g de cassonade</p>
+    <p>80 g de beurre salé</p>
+    <p>1/2 pomme golden</p>
+    <p>1 poignée de raisins secs</p>
+    <p>abricots secs</p>
+    <p>noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le beurre puis le laissez tiédir. Dans un saladier, mélangez la farine, la levure et le sucre. Cassez les oeufs en séparant les blancs des jaunes. Ajoutez les jaunes d'oeufs au mélange. Fouettez légèrement les blancs sans les monter puis incorporez-les. Versez le beurre fondu et mélangez vivement à l'aide d'un fouet. 
+    Pelez la pomme et coupez-la en petits cubes, ajoutez-les à la pâte ainsi que les raisins, les abricots en petits morceaux et la noix de coco. 
+    Versez cette préparation dans des moules à madeleines ou dans des caissetes en papier puis enfournez environ 20 mn à four chaud.
+    Quand vous incorporerrez les blancs d'oeuf ne faites pas attention à l'aspect grumeleux et mélangez vivement en fouettant bien la pâte.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="2727">
+  <titre>Avocats en coque au carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>1 petit carré frais</p>
+    <p>100 g de thon au naturel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Partagez en 2 les avocats, ôtez le noyau.
+    Prélevez délicatement la pulpe, malaxez-la avec le thon au naturel égoutté, le carré frais, 2 cuillères à café de jus de citron, 1 cuillère à soupe de persil.
+    Salez, poivrez.
+    Garnissez les coques d'avocats à l'aide de cette préparation. Servez frais. 
+  ]]>
+  </preparation>
+</recette>

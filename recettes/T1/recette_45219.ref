@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45219">
+  <titre>Délice de saumon à la bisque de homard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 filets de saumon</p>
+    <p>1/4 de litre de vin mousseux </p>
+    <p>2 oignons </p>
+    <p>sel poivre </p>
+    <p>thym </p>
+    <p>25 cl de bisque de homard </p>
+    <p>50 cl de crème épaisse </p>
+    <p>un peu de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le saumon dans un plat, au four à 225°C (th 7-8), avec le vin mousseux, les oignons coupés en rondelles, le sel, le poivre, et le thym. 
+    Disposer quelques noisettes de beurre sur le poisson. 
+    Retirer le plat quand les oignons sont dorés (environ 25 min). 
+    Enlever la peau du saumon, s'il y en a. 
+    Passer à l'aide d'une passoire la sauce de cuisson, et l'ajouter à la bisque. Faire chauffer à feu doux. 
+    Ensuite, ajouter la crème fraîche en remuant (toujours à petit feu). 
+    Disposer dans un plat de service les filets de saumon que vous aviez garder au chaud, et napper de la sauce. Bon appétit!
+    Plat très raffiné, qui peut se servir avec du riz ou une julienne de légumes.
+  ]]>
+  </preparation>
+</recette>

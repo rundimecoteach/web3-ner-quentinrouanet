@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22234">
+  <titre>Salade de cresson aux foies de volaille</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 botte de cresson</p>
+    <p>400 g de foies de volaille (poulet ou canard)</p>
+    <p>1 grappe de raisin blanc</p>
+    <p>75 g de pignons de pin</p>
+    <p>50 g de beurre</p>
+    <p>5 cl de vinaigre</p>
+    <p>2 cuillères à soupe d’huile d’olive</p>
+    <p>1 échalote</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et effeuillez le cresson à l’eau. Hachez l'échalote.
+    Dans une poêle, faites dorer les pignons de pin à sec et réservez.
+    Faites fondre 30 g de beurre dans un poêle, dorez les foies de volaille 5 min, puis les réservez au chaud.
+    Epongez la graisse de la poêle, Faites-y suer l'échalote, puis déglacer avec le vinaigre.
+    Versez dans un bol puis faites une vinaigrette en fouettant avec l’huile d'olive, du sel et du poivre.
+    Incorporez les foies de volailles et les imbibez de sauce.
+    Juste avant de servir, mélangez le cresson, les foies tièdes mêlés à la vinaigrette, ajoutez les pignons et les grains de raisin.
+    A défaut de cresson, utiliser des jeunes feuilles d'épinards ou du pourpier.
+  ]]>
+  </preparation>
+</recette>

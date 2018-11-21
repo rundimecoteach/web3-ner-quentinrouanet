@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15154">
+  <titre>Moules parquées</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 l de moules de bouchot nettoyées et grattées</p>
+    <p>2 oignon</p>
+    <p>1 fenouil (ou 2 côtes de celeri nettoyées et coupées)</p>
+    <p>persil</p>
+    <p>15  cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser les légumes et le vin blanc dans une marmite, verser les moules par dessus.
+    Fermer et mettre à chauffer à feu très vif. Secouer la marmite pour mélanger les moules. 
+    C'est prêt dès que les coquillages sont ouverts.
+    Le terme 'moules parquées' est l'appellation belge pour les moules de bouchot.J'ai donné une recette de moules marinières toute simple.
+  ]]>
+  </preparation>
+</recette>

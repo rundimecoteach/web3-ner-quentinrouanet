@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12402">
+  <titre>Carrés aux abricots</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte:</p>
+    <p>75 g de poudre d'amandes</p>
+    <p>75 g de sucre, roux de préférence</p>
+    <p>100 g de beurre non salé, coupé en cubes </p>
+    <p>1 gros œuf</p>
+    <p>700 g d'abricots frais ou 2 x boîtes de 410g d'abricots en conserve</p>
+    <p>Pour le dessus :</p>
+    <p>3 cuillères à soupe de flocons d'avoine</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>25 g de beurre fondu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pré-chauffer le four à 180°C (thermostat 6).Pour la base, mettre les amandes, la farine, le sucre et le beurre dans un bol mixer et battre jusqu'à ce que le beurre soit bien incorporé.  Ajouter l'oeuf, bien mélanger.
+    Beurrer un moule à cake de 33 x 9 cm, y verser la préparation.
+    Aplanir le dessus avec une spatule.
+    Mettre les abricots coupés en 2 par dessus en laissant une bordure de 2,5 cm tout autour.Mélanger les flocons d'avoine, la farine, le sucre et la cannelle.  Ajouter le beurre fondu.  Bien mélanger.
+    Verser au dessus des abricots. Cuire pendant environ 50mn.
+    Couper en carrés, puis laisser refroidir légèrement dans le moule.
+    Servir tiède accompagné de crème fouettée.
+  ]]>
+  </preparation>
+</recette>

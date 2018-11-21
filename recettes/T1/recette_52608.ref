@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52608">
+  <titre>Madeleines cannelle et gingembre</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>150 g de sucre semoule</p>
+    <p>160 g de farine</p>
+    <p>125 de beurre</p>
+    <p>2 cuillères à café de cannelle</p>
+    <p>2 cuillères à café de poudre de gingembre</p>
+    <p>1 sachet de levure alsacienne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs et le sucre jusqu'à obtention d'un mélange un peu mousseux.
+     
+    Faire fondre le beurre.
+    Ajouter au mélange précédent la farine, la levure, le beurre tiédi, la cannelle et le gingembre.
+    Bien mélanger à la cuillère en bois.
+    Préchauffer le four à 210°C (thermostat 7).
+    Beurrer et fariner les alvéoles d'un moule à madeleines (opération inutile si le moule est en silicone) puis verser 1 cuillère à café de l'appareil dans chaque alvéole.
+    Enfourner pendant 10 minutes.
+    A la sortie du four, démouler les madeleines et les laisser refroidir sur du papier sulfurisé.
+     Vin blanc moelleux
+  ]]>
+  </preparation>
+</recette>

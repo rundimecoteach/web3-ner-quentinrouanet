@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32961">
+  <titre>Quiche tomate, jambon, chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>100 g de jambon</p>
+    <p>2 tomates</p>
+    <p>fromage de chèvre</p>
+    <p>2 oeufs</p>
+    <p>10 cl de de crème liquide</p>
+    <p>sel, poivre</p>
+    <p>persil</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Etaler la pâte brisée dans un moule à tarte. 
+    Disposer le jambon coupé en dés ou en morceaux, y ajouter des morceaux de fromage de chèvre et terminer par les tomates coupées en tranches. 
+    Battre avec une fourchette les oeufs, y ajouter la crème liquide, ainsi que le sel, le poivre et le persil. 
+    Verser cette préparation sur la quiche et parsemer du gruyère râpé. 
+    Il ne reste plus qu'à enfourner et laisser cuire environ 30 mn jusqu'à ce que la quiche soit bien dorée. 
+    Vous pouvez accompagner cette quiche d'une salade verte avec des cerneaux de noix. 
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39928">
+  <titre>Tagliatelles aux queues de langoustines et aux pointes d'asperges</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 à 10 queues de langoustines précuites surgelées par personne</p>
+    <p>100 g d'oignons émincés</p>
+    <p>75 g de tomates en dés (surgelé)</p>
+    <p>40 cl de crème liquide</p>
+    <p>500 g d'asperges vertes</p>
+    <p>500 g de tagliatelles fraîches</p>
+    <p>2 cl de calvados</p>
+    <p>ail</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faîtes cuire les asperges, (pour les asperges surgelées le temps de cuisson est de 8 minutes).
+    Faîtes revenir pendant 3 minutes les queues de langoustines dans un peu d'huile d'olive.
+    Eventuellement les faire flamber au calvados.
+    Les sortir du feu et les décortiquer.
+    Dans la même poéle, faites revenir les oignons et l'ail pendant 5 minutes environ, puis incorporer les tomates, la crème, et les pointes d'asperges.
+    Faites revenir le tout pendant 5 minutes.
+    Y ajouter ensuite les langoustines et le persil et laisser mijoter encore 5 bonnes minutes.
+    Poivrez, salez.
+    Faites cuire les tagliatelles avec un peu d'huile d'olive dans l'eau de cuisson.
+    Egouttez et servez avec la préparation.
+     Quincy ou Menetou-salon
+  ]]>
+  </preparation>
+</recette>

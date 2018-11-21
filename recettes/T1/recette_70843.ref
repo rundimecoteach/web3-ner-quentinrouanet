@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70843">
+  <titre>Salade de fraises au basilic</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de fraises </p>
+    <p>1 bouquet de basilic</p>
+    <p>2 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, équeuter et couper les fraises en 2 ou en 4 selon leurs tailles.
+    Les mettre dans un saladier
+    Ciseler le basilic sur les fraises et ajouter le sucre. Mélanger délicatement et mettre au frais.
+    Il est optimal de mettre la salade de fraises 2 ou 3 heures avant de la manger afin que le basilic infuse. Bandol rosé AOC
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24333">
+  <titre>Poulet à l'indonésienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>1 oignon</p>
+    <p>2 cuillère à soupe de coriandre en grain</p>
+    <p>1 cuillère à soupe de graines de cumin</p>
+    <p>1 cuillère à soupe de curcuma moulu</p>
+    <p>2 cuillères à soupe de tamari (ou sauce soja)</p>
+    <p>2 pincées de poudre de Chili</p>
+    <p>2 cuillères à soupe de sucre roux (cassonade)</p>
+    <p>25 cl de lait de coco</p>
+    <p>huile</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecrasez les graines de coriandre et de cumin.
+    Hachez l'oignon.
+    Dans une grande cocotte, mettez le poulet tous les ingrédients sauf l'huile.
+    Faites bouillir puis baissez le feu et laissez mijoter environ 20-25 min.
+    Ajoutez un peu d'huile et laissez dorer le poulet puis servez.
+  ]]>
+  </preparation>
+</recette>

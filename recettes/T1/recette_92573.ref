@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92573">
+  <titre>Tarte aux abricots Maryse Didier</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300g pâte sablée - 1,5kg abricots  - 200g sucre- 4 oeufs- 100g beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les abricots (moins 150g)coupés en deux sur le fond de pâte sablée; mixer 150g d'abricots, ajouter en battant les 200g de sucre en poudre, les 4 oeufs entiers, puis 100g de beurre fondu.
+    Mettre cette préparation sur la tarte aux abricots et faire cuire à 210 degrés environ 30 min.
+  ]]>
+  </preparation>
+</recette>

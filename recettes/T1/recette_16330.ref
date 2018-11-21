@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16330">
+  <titre>Côtelettes d'agneau et gelée de goyave</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 côtelettes d'agneau</p>
+    <p>3 cuillères à soupe de graines de sésame</p>
+    <p>poivre et sel</p>
+    <p>huile d'olive</p>
+    <p>4 cuillère à café de gelée de goyave</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les cotelettes dans l'huile d'olive avec les graines de sésame sur feu moyen (sinon les graines sautent).Servir accompagnés de riz Basmati et d'une cuiller à café de gelée de goyave.Simplissime !
+  ]]>
+  </preparation>
+</recette>

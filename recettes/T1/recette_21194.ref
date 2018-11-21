@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21194">
+  <titre>Papillotes de fromage de chèvre à l'ananas</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 crottins de Chavignol</p>
+    <p>4 tranches d'ananas</p>
+    <p>10 cl de crème liquide légère</p>
+    <p>1/2 cuillère à café de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 240°C. 
+    Découpez quatre carrés de papier aluminium (25 cm de côté). 
+    Posez au centre une rondelle d'ananas et un demi-crottin coupé dans son épaisseur. 
+    Nappez de crème et saupoudrez de muscade. 
+    Fermez hermétiquement les papillotes. 
+    Déposez-les sur une plaque de cuisson. 
+    Faites cuire 12 mn au four. 
+    Ouvrez les papillotes sur les assiettes et servez chaud.
+    Si vous n'avez pas de muscade, remplacez-la par du "quatre épices", mélange composé de girofle, muscade, poivre et cannelle.
+  ]]>
+  </preparation>
+</recette>

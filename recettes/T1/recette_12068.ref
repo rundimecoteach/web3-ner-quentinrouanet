@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12068">
+  <titre>Amadeus</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>50 g de farine</p>
+    <p>75 g de sucre</p>
+    <p>80 g de chocolat noir</p>
+    <p>95 g de beurre</p>
+    <p>6 carrés de chocolat blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre et le chocolat noir.
+    Ajouter la farine, le sucre, les jaunes. Battre les blancs en neige. Incorporer délicatement les blancs.
+    Beurrer les 6 ramequins.
+    Répartir la moitié de la préparation dans les ramequins.
+    Mettre au frigo pendant 1/4 d'heure.
+    Placer un carré de chocolat blanc dans chaque ramequin et verser le reste de la préparation.
+    Mettre au four (bien chaud) pendant 8 à 10 minutes.
+    Démouler et napper de crème anglaise.
+    Le chocolat blanc peut-être, selon les goûts, remplacé par du chocolat noir.
+  ]]>
+  </preparation>
+</recette>

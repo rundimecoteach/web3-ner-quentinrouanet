@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22964">
+  <titre>Tarte aux champignons et chèvre frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>300 g de champignons de couche</p>
+    <p>le jus d’1 citron</p>
+    <p>60 g de beurre</p>
+    <p>100 g de chèvre frais</p>
+    <p>60 g de gruyère râpé</p>
+    <p>1 œuf</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans une moule à tarte puis la précuire 10 min à blanc à 210°C (thermostat 7).
+    Laver, ôter le pied des champignons puis les émincer finement.
+    Les arroser du jus d’un citron (afin d’éviter qu’ils ne noircissent), puis les faire ensuite revenir dans une poêle beurrée pendant 10 à 15 min.
+    Dans un saladier, écraser le chèvre frais à la fourchette, puis le mélanger au gruyère râpé et l’œuf battu.
+    Incorporer le mélange de fromage aux champignons, bien mélanger, puis garnir la pâte de cette préparation.
+    Enfourner à four chaud à 200°C (thermostat 6/7) pendant 35 min.
+  ]]>
+  </preparation>
+</recette>

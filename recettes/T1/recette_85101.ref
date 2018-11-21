@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85101">
+  <titre>Saint-Jacques sautées à l'ail et à la crème fraîche</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>Noix de Saint-Jacques fraîches (3 ou 4 par personne selon la taille)</p>
+    <p>Ail frais (2 ou 3 gousses selon la taille)</p>
+    <p>Poivre gris</p>
+    <p>Sel</p>
+    <p>Crème fraiche épaisse (compter une bonne cuillère à soupe par personne)</p>
+    <p>4 noisettes de beurre (environ 30 g)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'ail.
+    Faire fondre le beurre dans une poêle déjà bien chaude. 
+    Faire revenir l'ail en le laissant légèrement "attacher" pour qu'il brunisse un peu. 
+    Saisir les Saint-Jacques des deux côtés. 
+    Incorporer la crème fraîche.
+    Mélanger et servir !
+  ]]>
+  </preparation>
+</recette>

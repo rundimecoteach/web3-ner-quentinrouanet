@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166577">
+  <titre>Tian de courgettes et parmesan</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 petites courgettes</p>
+    <p>200 gr de riz rond</p>
+    <p>2 gousses d'ail</p>
+    <p>50 cl de bouillon</p>
+    <p>3 œufs</p>
+    <p>20 cl de crème fleurette</p>
+    <p>125 gr de parmesan rapé</p>
+    <p>3 c. à S. d'huile d'olive</p>
+    <p>4 feuille de sauge</p>
+    <p>Noix de muscade</p>
+    <p>Sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les courgettes en gardant des lanières de peaux et les découper en rondelles.
+    Jeter l'ail écrasé et le riz dans une grande sauteuse avec l'huile d'olive.
+    Il faut remuer continuellement jusqu'à que le riz devienne translucide.
+    Ajouter les courgettes et les feuilles de sauge. Salez et laisser cuire quelques minutes pour que les courgettes rendent leur eau. 
+    Au bout de 15 mn rajouter le bouillon et laisser cuire 20 mn.
+    Préchauffer le four à 200°CBattre les œufs avec la crème fleurette, la noix de muscade et sel et poivre.Étaler le contenu de la sauteuse et le mélange Œufs/ crème  dans un plat à gratin et saupoudrer de parmesan.
+    Cuire au four 30mn jusqu'à qu'une belle croute dorée se forme.
+  ]]>
+  </preparation>
+</recette>

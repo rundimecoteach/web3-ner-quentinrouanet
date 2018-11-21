@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61500">
+  <titre>Tarte au cafe meringuee</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le fond de tarte :</p>
+    <p>140 g de beurre</p>
+    <p>40 g de sucre glace</p>
+    <p>40 g de poudre d'amandes</p>
+    <p>140 g de farine</p>
+    <p>Pour la garniture :</p>
+    <p>250 g de sucre glace</p>
+    <p>3 cuillères à café de café soluble</p>
+    <p>4 blancs d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la pâte :
+    Préchauffer le four thermostat 5 (150/160°).
+    Mélanger à la main le beurre ramoli avec le sucre puis la poudre d'amande puis la farine et pétrir jusqu'à l'obtention d'une pâte molle.
+    Etaler la pâte à la main ou avec un rouleau à pâtisserie dans un moule  à tarte de 25 cm à fond amovible (pour plus de facilité, fariner vos mains).
+    Faire cuire la pâte pendant 20 min.
+    Préparation de la garniture :
+    Mélanger le sucre glace avec le café et amalgamer le tout avec un blanc d'oeuf non battu.
+    Battre les 3 blancs d'oeuf en neige ferme. Mélanger le tout avec précaution.
+    Une fois la pâte cuite, répartir la garniture dessus et repasser au four pendant 25 min toujours au thermostat 5 (150/160°).
+  ]]>
+  </preparation>
+</recette>

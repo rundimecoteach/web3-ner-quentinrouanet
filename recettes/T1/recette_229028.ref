@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229028">
+  <titre>Crêpes au poulet et fromage frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pâte à crêpes :</p>
+    <p>160 g farine de sarrasin</p>
+    <p>160 g farine de blé</p>
+    <p>4 œufs</p>
+    <p>30 cl lait</p>
+    <p>20 cl eau</p>
+    <p>2 cuillère à soupe d'huile</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>Crème et poulet :</p>
+    <p>1 poulet cuit</p>
+    <p>7 portions de fromage frais</p>
+    <p>350 g crème fraiche</p>
+    <p>10 cl lait</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>2 brins de ciboulette</p>
+    <p>1 pincée d'emmental râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La pâte à crêpes :
+    Dans un saladier, mettre la farine et ajouter les œufs, le sel et le poivre. Mélanger. Délayer avec le lait petit à petit. Ajouter l'eau puis l'huile. Laisser reposer 1 h.
+    Couper le poulet en petits cubes.
+    La crème :
+    Mélanger le fromage frais avec la crème fraiche et délayer avec le lait.
+    Ajouter le sel, le poivre et la ciboulette. Puis, les morceaux de poulet. Mettre au frais.
+    Faire cuire les crêpes.
+    Les garnir de crème, mettre de l'emmental râpé par-dessus et les refermer.
+    Servir avec de la salade.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21318">
+  <titre>Pizza napolitaine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boule de pâte à pizza</p>
+    <p>800 g de tomates allongées</p>
+    <p>16 filets d'anchois à l'huile d'olive</p>
+    <p>3 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 brin de thym</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et hachez les oignons et l'ail. Pelez et épépinez les tomates, découpez-les en dés.
+    Faites chauffer 2 cuillères à soupe d'huile d'olive. Mettez-les l'ail et l'oignon, laissez-les dorer. RAjoutez les tomates, salez, poivrez et ajoutez le thym.
+    Laissez cuire 20 minutes à feu moyen, jusqu'à ce que le liquide soit évaporé.
+    Laissez refroidir.
+    Préchauffez le four à 240°C (thermostat 8). 
+    Etalez la pâte sur une plaque huilée ou farinée. Etalez la sauce tomate dessus. Répartissez les anchois et les olives.
+    Faites cuire 15 minutes environ.
+  ]]>
+  </preparation>
+</recette>

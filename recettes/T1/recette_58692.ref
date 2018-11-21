@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58692">
+  <titre>Salade Méli-Mélo</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 salade</p>
+    <p>4 tomates</p>
+    <p>250 g de gruyère</p>
+    <p>sel, poivre</p>
+    <p>ail séché</p>
+    <p>paprika</p>
+    <p>Pour la vinaigrette : </p>
+    <p>3 cuillères à soupe d'eau</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>1 cuillère à café de moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver la salade et couper les feuilles grossièrement.
+    Couper les tomates et le gruyère en carrés.
+    Puis ajouter une légère pincée d'ail séché et de paprika.
+    Mélanger le tout et arroser de la vinaigrette.
+  ]]>
+  </preparation>
+</recette>

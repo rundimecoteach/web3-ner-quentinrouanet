@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194218">
+  <titre>Gaspacho léger de concombre, pomme et avocat</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pomme</p>
+    <p>1 concombre</p>
+    <p>1 avocat (bien mûr)</p>
+    <p>crème fraîche (facultatif)</p>
+    <p>vinaigre balsamique</p>
+    <p>citron</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>1 feuille de basilic ou de persil (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher le concombre, la pomme et l'avocat puis les mixer.
+    Ajouter quelques gouttes de vinaigre balsamique, de citron, saler et poivrer à votre goût.
+    Pour les gourmands, ajouter une cuillère de crème fraîche.Décorer d'une feuille de basilic ou de persil.
+    Servir bien frais !Délicieux accompagné de bonnes tranches de pain de campagne grillées !
+  ]]>
+  </preparation>
+</recette>

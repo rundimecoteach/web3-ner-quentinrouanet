@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21254">
+  <titre>Pain d'agneau aux aubergines et aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg d'épaule d'agneau désossée par le boucher</p>
+    <p>75 cl de vin blanc sec</p>
+    <p>5 aubergines</p>
+    <p>4 oignons nouveaux</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>Pour la pâte d'épices :</p>
+    <p>1 citron jaune non traité</p>
+    <p>1 cuillère à soupe de concentré de tomate </p>
+    <p>3 cuillères à soupe de miel d'acacia</p>
+    <p>3 gousses d'ail</p>
+    <p>1 cuillère à café de coriandre moulue</p>
+    <p>2 branches d'estragon frais</p>
+    <p>1 branche de thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler l'agneau en petits dés.
+    Préchauffer votre four à 150°C (thermostat 5).
+    Peler et émincer les oignons, puis extraire le zeste du citron et le hacher avec l'ail pelé et les feuilles d'estragon lavées.
+    Effeuiller le thym, puis l'ajouter au hachis précédent en ajoutant le concentré de tomates, le miel et la coriandre.
+    Saler, poivrer, puis bien mélanger jusqu'à l'obtention d'une sorte de pâte à épices.
+    Laver ensuite les aubergines, puis les détailler en lanières dans le sens de la longueur en conservant la peau.
+    Faire chauffer l'huile d'olive dans une poêle, puis y faire dorer les aubergines côté chair sans les retourner.
+    Les essuyer sur du papier absorbant pour éliminer l'excès d'huile, puis les réserver.
+    Mettre ensuite les oignons à fondre dans une sauteuse huilée pendant 5 min, puis y ajouter les dés d'agneau et les faire dorer sur feu vif pendant 5 min en remuant.
+    Arroser de vin blanc, puis incorporer la pâte d'épices.
+    Saler, poivrer et porter à ébullition.
+    Verser la préparation dans un plat allant au four, puis recouvrir la viande de lanières d'aubergines grillées.
+    Enfourner à four chaud et laisser cuire 30 min en surveillant la cuisson.
+  ]]>
+  </preparation>
+</recette>

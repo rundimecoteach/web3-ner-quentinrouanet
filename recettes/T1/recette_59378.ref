@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59378">
+  <titre>Tarte provençale de Sebi</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 tomate</p>
+    <p>1/2 poivron rouge</p>
+    <p>1 courgette</p>
+    <p>2 oeufs</p>
+    <p>1 petite boite de tomates pelées</p>
+    <p>2 échalotes</p>
+    <p>1 cuillère à soupe de crème</p>
+    <p>1 buche de chèvre</p>
+    <p>5 tranches de mozzarella</p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>sel et poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Mélanger les tomates pelées ecrasées à deux oeufs entiers battus et 1 cuillère à soupe de crême et bien poivrer. Réserver.
+    Couper la courgette en rondelles que vous faites revenir à la poêle dans un peu d'huile d'olive, 5 minutes sur chaque face et réserver sur un papier absorbant.
+    Dans la même poêle, mettre les échalotes coupées en rondelles et le poivron rouge découpé en cubes.
+    Laisser saisir et 10 cl en ajoutant le cube de bouillon.
+    Arrêter la cuisson de ce mélange quand l'eau est évaporée et le cube fondu. Laisser refroidir.
+    En attendant, disposer la pâte dans un moule à tarte.
+     
+    Couper environ 6 tranches de chèvre et détailler les tomates en rondelles.
+    Quand le mélange poivron échalote est refroidi, l'ajouter à la préparation oeuf tomates pelées.
+    Mélangez et verser le tout dans le fond de tarte.
+     
+    Recouvrir le tout des rondelles de courgette et de tomates, puis de tranches de chèvre et de mozzarella.
+    Saupoudrer d'herbes de Provence et enfourner pour 45 minutes de cuisson.
+    S'accompagne de salade en entrée ou en plat principal avec des grillades...
+  ]]>
+  </preparation>
+</recette>

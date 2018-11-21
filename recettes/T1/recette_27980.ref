@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27980">
+  <titre>Salade épicée fraises - mangue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 barquette de 500 g de fraises</p>
+    <p>1 mangue bien mûre</p>
+    <p>1 orange</p>
+    <p>quelques feuilles de menthe</p>
+    <p>poivre</p>
+    <p>gingembre en poudre</p>
+    <p>cannelle</p>
+    <p>vanille (ou sucre vanillé) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Presser l'orange, et faire chauffer le jus en y ajoutant le poivre, le gingembre, la cannelle et la vanille. 
+    Porter à ébullition 1 min pour obtenir un sirop, laisser refroidir.
+     
+    Pendant que le jus refroidi, couper les fraises et la mangue en morceaux. 
+    Mettre dans un saladier et ajouter la menthe finement ciselée. 
+    Quand le jus est froid, verser sur les fruits, mélanger et mettre au moins 30 min au réfrigérateur... 
+    Bon appétit!
+    Pour la quantité d'épices, faites selon votre goût et selon la quantité de jus d'orange. vin rouge
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10694">
+  <titre>Moelleux aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de beurre</p>
+    <p>150 g de sucre blond</p>
+    <p>150 g d'amandes entières broyées</p>
+    <p>75 g de farine</p>
+    <p>4 œufs</p>
+    <p>2 cuillères à soupe d'eau de fleur d'oranger</p>
+    <p>extrait d'amande amère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le beurre fondu et le sucre dans une terrine. Battre.
+    Ajouter les jaunes d'œufs, les amandes, puis enfin la farine.
+    Battre les blancs en neige (avec le sel) très fermes. Incorporer délicatement.
+    Cuisson : four thermostat 4 pendant 40 minutes.
+  ]]>
+  </preparation>
+</recette>

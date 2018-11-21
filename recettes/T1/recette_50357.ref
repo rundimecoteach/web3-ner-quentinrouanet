@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50357">
+  <titre>Escalopes de volaille à la pâte de coings</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de poulet ou de dinde</p>
+    <p>1 oignon</p>
+    <p>2 nectarines ou 2 tranches d'ananas</p>
+    <p>1 pincée de piment d'Espelette</p>
+    <p>1 cube de bouillon</p>
+    <p>200 g de pâte de coings</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diluer le bouillon cube dans 50 cl d'eau, en prélever 15 cl et le verser dans un wok.
+    Faire revenir les oignons émincés dans le wok avec le bouillon.
+    Couper la pâte de coings et les nectarines en petits dés puis les ajouter aux oignons en rajoutant un peu de bouillon si nécessaire.
+    Baisser le feu et laisser cuire jusqu'à obtention d'une sauce épaisse où les morceaux de pâte de coings auront réduits de moitié.
+    Retirer et réserver la sauce à part.
+    Remettre 15 cl de bouillon dans le wok et y faire revenir les escalopes coupées en gros dés.
+    Saler, poivrer et verser la sauce dessus avant de servir avec du riz.
+    La cuisson au bouillon est faite pour alléger le plat. On peut rendre la recette plus simple en remplaçant le bouillon par de l'huile d'olive. A défaut de wok, utiliser une sauteuse. Vin rosé ou bière chinoise.
+  ]]>
+  </preparation>
+</recette>

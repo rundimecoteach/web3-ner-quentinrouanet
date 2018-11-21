@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65438">
+  <titre>Terrine de foie gras et magret aux figues, croûte en pain d'épices</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 pain d'épice de qualité</p>
+    <p>400 g de foie gras cuit/mi-cuit</p>
+    <p>1 paquet de tranches de magret de canard séché</p>
+    <p>3 figues fraiches ou surgelées</p>
+    <p>1 cuillère à café de miel d'acacia</p>
+    <p>1 moule à cake</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les figues coupées en 4 dans un peu de beurre avec le miel jusqu'à ce qu'elles soient fondantes et caramélisées.
+    Chemiser le moule à cake avec du film étirable en laissant déborder sur les côtés.
+    Tapisser le fond et les côtés du moule de tranches de pain d'épices.
+    Mettre 1/4 du foie gras dessus, puis recouvrir de tranches de magret, puis encore 1/4 du foie gras, puis les figues poélées, encore foie gras, magret et enfin le reste du foie gras.
+    Recouvrir le dessus de pain d'épice. 
+    Rabattre dessus le film étirable, mettre un poids pour tasser et placer au frais pour 24h minimum (ça peut attendre plus si nécessaire).
+    Le jour J, sortir dle foie gras du frigo 1h avant de manger. Retirer le poids, démouler, enlever le film et couper en tranches comme un paté en croûte !
+     Blanc liquoreux
+  ]]>
+  </preparation>
+</recette>

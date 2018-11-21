@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91330">
+  <titre>Blanquette de veau facile et légère</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de blanquette de veau</p>
+    <p>2 ou 3 carottes (selon les goûts)</p>
+    <p>vinaigre d'alcool ou type "Melfor"</p>
+    <p>3 clous de girofle</p>
+    <p>1 oignon</p>
+    <p>30 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grosse casserole, mettre environ 2 Litre d'eau, les carottes coupées en rondelles, les clous de girofle, l'oignon coupé grossièrement en lamelles, et environ 100 ml de vinaigre. Ajouter du gros sel. Y faire cuire la viande pendant environ 1 h (la viande doit être cuite). Écumer si nécessaire.
+    Quand la viande est cuite, faire une sauce blanche : faire fondre le beurre, incorporer la farine en mélangeant bien, puis ajouter progressivement l'eau de cuisson jusqu'à obtention de la consistance désirée. Veiller à toujours bien remuer pour éviter les grumeaux.
+    Ajouter ensuite la viande et les rondelles de carotte. Saler et laisser cuire le tout à feu très doux pendant quelques minutes.
+    Servir avec un riz blanc.
+  ]]>
+  </preparation>
+</recette>

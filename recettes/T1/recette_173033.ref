@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173033">
+  <titre>Tarte aux pommes sans farine de blé et sans oeufs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de maïzena</p>
+    <p>60 g de beurre</p>
+    <p>25 g de sucre</p>
+    <p>10 g de crème fraîche</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>100 g de compote de pommes</p>
+    <p>3 pommes</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le beurre en dés et mélangez avec la maïzena jusqu'à absorption du beurre. Ajoutez le sucre, le miel puis la crème fraiche et mélangez bien.Étalez la pâte dans un moule à tarte (attention cela colle au rouleau et aux mains...).Versez par dessus la compote de pomme puis disposez les pommes en fines lamelles. Saupoudrez de sucre vanillé.Faites cuire au four à 180°C (thermostat 6) pendant 30 min.Dessert convenant aux allergiques aux œufs et au gluten.
+  ]]>
+  </preparation>
+</recette>

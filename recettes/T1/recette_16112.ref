@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16112">
+  <titre>Flan d'endives</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>11 endives</p>
+    <p>2 échalotes</p>
+    <p>50 g de cerneaux de noix</p>
+    <p>3 oeufs (2 jaunes + 1 entier)</p>
+    <p>20 cl de crème fleurette</p>
+    <p>50 g de beurre</p>
+    <p>jus d'1/2 citron</p>
+    <p>3 petites cuillères à soupe de miel</p>
+    <p>mélange '4 épices'</p>
+    <p>noix de muscade</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire fondre les échalotes émincées dans le beurre.
+    Pendant ce temps, émincer les endives et hacher grossièrement les noix. Les ajouter dans la cocotte avec le jus de citron, sel, poivre.
+    Laisser mijoter 10 mn à couvert (pour faire fondre les endives), puis environ 20 mn sans couvrir, jusqu'à l'évaporation totale.
+    Préchauffer le four à 180°C.
+    Dans une terrine, mélanger la crème, les oeufs, le miel, la muscade, les 4 épices, sel, poivre. Mettre les endives dans un plat et verser la préparation dessus. Cuire environ 45 mn.
+    J'accompagne généralement ce plat de jambon fumé. On peut également le servir avec une salade d'endives vinaigrée, qui fait contraste avec le sucré du miel.
+  ]]>
+  </preparation>
+</recette>

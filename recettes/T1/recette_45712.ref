@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45712">
+  <titre>Paupiettes de lotte et fondue de poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 queues de lotte (200 g chacune)</p>
+    <p>4 gros poivrons (rouge, jaune, vert, orange)</p>
+    <p>4 tranches de jambon de Parme</p>
+    <p>4 gousses d'ail</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 brins de thym frais</p>
+    <p>2 cuillères à soupe de vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre les poivrons coupés en lamelles avec 2 cuillères à soupe d'huile d'olive, l'ail haché et les brins de thym. Laisser fondre à feux doux pendant 20 min.
+    Assaisonner les queues de Lotte d'un peu de poivre, puis entourer chaque morceau d'une tranche de jambon de Parme. Piquer avec un cure-dent, pour tenir la paupiette fermée.
+    Chauffer le reste d'huile d'olive dans une sauteuse, et faire cuire les paupiettes pendant 8 à 10 min, en les retournant une fois. 
+    Déglacer les poivrons avec le vinaigre balsamique pendant 5 min.
+    Retirer les pics de cure-dent, et présenter à l'assiette chaque paupiette accompagnée de fondue de poivrons.
+    Vous pouvez accompagner ce plat d'une petite timbale de riz, démoulée sur l'assiette.
+  ]]>
+  </preparation>
+</recette>

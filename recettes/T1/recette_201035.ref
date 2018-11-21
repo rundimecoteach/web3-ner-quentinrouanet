@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201035">
+  <titre>Crumble de poireaux et chèvre frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poireaux</p>
+    <p>200 g de chèvre frais</p>
+    <p>100 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>100 g de noix pilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le blanc des poireaux en fines rondelles, et les mélanger avec le fromage frais. Assaisonner avec du romarin. Préchauffer le four à 180°C (thermostat 6).Pour faire la croûte du crumble, mélanger les 3 autres ingrédients et utiliser le mélange obtenu pour recouvrir le fromage et les poireaux. Mettre au four 30 min.
+  ]]>
+  </preparation>
+</recette>

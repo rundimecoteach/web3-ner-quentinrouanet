@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24435">
+  <titre>Risotto Milanais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>huile d'olive de Toscane ou d'Italie</p>
+    <p>250 g de riz à risotto</p>
+    <p>oignon haché</p>
+    <p>safran (1 dose ou quelques filaments) </p>
+    <p>bouillon de volaille</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>parmesan (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons dans l'huile en les faisant juste blondir, ajoutez le riz, et remuez bien. 
+    Quand le riz est translucide, ajoutez du bouillon de volaille et du verre de vin blanc, de façon à juste couvrir le riz. 
+    Ajoutez le safran. 
+    Remuez, et quand le bouillon est absorbé, recommencez au moins 3 fois et recouvrir. 
+    Ajoutez sel et poivre, et servez-le quand tout le bouillon n'est pas complètement absorbé, de façon à ce qu'il soit crémeux. 
+    Vous pouvez ajouter un peu de parmesan râpé au moment de servir.
+     Chianti
+  ]]>
+  </preparation>
+</recette>

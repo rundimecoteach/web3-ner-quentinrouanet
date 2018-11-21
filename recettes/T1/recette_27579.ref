@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27579">
+  <titre>Poulet à la crème et aux carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>50 g de beurre</p>
+    <p>25 g de crème fraîche</p>
+    <p>2 carottes en rondelles</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>1 jaune d'œuf </p>
+    <p>1 bouquet garni</p>
+    <p>1 poignée d’estragon frais</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les morceaux de poulet dans le beurre pendant 20 min.
+    Couvrir d'eau et ajouter les carottes, le bouquet garni ; saler et poivrer. Couvrir et laisser mijoter 30 min.
+    Au bout de ce temps, sortir les morceaux de viande et faire réduire le jus.
+    Mélanger la crème, la farine et le jaune d'oeuf. Verser dans le jus afin de le lier et de faire une sauce onctieuse.
+    Rectifier l'assaisonnement et ajouter l'estragon finement haché.
+    Server le poulet nappé de sauce.
+  ]]>
+  </preparation>
+</recette>

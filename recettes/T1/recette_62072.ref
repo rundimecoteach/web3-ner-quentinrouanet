@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62072">
+  <titre>Curry d'espadon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'espadon</p>
+    <p>2 oignons</p>
+    <p>1 pomme</p>
+    <p>1 gousse d'ail</p>
+    <p>4 tomates</p>
+    <p>40 cl de lait de coco</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>4 cuillères à soupe de curry</p>
+    <p>1 pincée de cannelle</p>
+    <p>1 pincée de piment en poudre (pour ceux qui aiment)</p>
+    <p>sel, poivre </p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les oignons et la pomme en petits morceaux.
+    Faites-les revenir dans un wok avec un peu d'huile d'olive et l'ail écrasé.
+    Quand ils sont bien colorés, ajoutez les épices et mélangez pour que celles-ci s'imprègnent bien.
+    Coupez les tomates en petits morceaux et ajoutez-les dans le wok avec le lait de coco.
+    Laissez cuire à feu très doux une dizaine de minutes.
+    Pendant ce temps, coupez l'espadon en cubes.
+    Introduisez-le ensuite dans la sauce et laisser cuire à couvert 10 minutes à feu doux.
+    On peut ajouter un peu de crème fraîche à la fin de la cuisson pour adoucir la sauce et accompagner de riz thaï.
+  ]]>
+  </preparation>
+</recette>

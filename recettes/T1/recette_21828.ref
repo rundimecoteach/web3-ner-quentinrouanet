@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21828">
+  <titre>Filets de carrelet gratinés à la normande</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de carrelets (appelés aussi plies)</p>
+    <p>1 petite boîte de champignons</p>
+    <p>3 oeufs durs</p>
+    <p>1 sachet de court-bouillon</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>2,5 cl de calvados</p>
+    <p>75 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>2 cuillérées de crème fraîche</p>
+    <p>1 citron</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le court-bouillon selon les indications.
+    Faites-y pocher les filets de poisson 4 minutes le poisson, égouttez et disposez-les dans un plat à four.
+    Filtrez 50 cl du court-bouillon.
+    Faites chauffer 50 g de beurre, saupoudrer la farine et remuez.
+    Versez le court-bouillon en fouettant et laissez légèrement épaissir à feu doux.
+    Rajoutez le concentré de tomates, laissez chauffer 10 minutes à feu très doux.
+    Ecalez les oeufs et disposez-les coupés en deux autour des filets de poisson.
+    Egouttez les champiognons et mettez-les autour également.
+    Hors du feu, ajoutez le calvados et la crème à la sauce et versez sur le plat pour napper le tout.
+    Disposez quelques rondelles de citron, déposez des noisettes de beurre et faites gratiner 15 min au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

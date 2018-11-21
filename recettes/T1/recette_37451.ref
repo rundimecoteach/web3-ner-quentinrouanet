@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37451">
+  <titre>Gâteau fondant au citron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>115 g de beurre ou matière grasse végétale (plus facilement assimilée par l'organisme) en pommade</p>
+    <p>100 g de farine</p>
+    <p>125 g de sucre.</p>
+    <p>2 citrons (dont les zestes et le jus auront été prélevés)</p>
+    <p>1 sachet de levure chimique</p>
+    <p>150 g de sucre glace</p>
+    <p>le jus d'un citron supplémentaire</p>
+    <p>2 oeufs</p>
+    <p>1 pincée de poudre de vanille (ou de l'extrait de vanille liquide)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Presser les citrons, prélever les zestes, les couper en petits morceaux, et en garder de grands fins pour la deco du gâteau.
+    Mélanger le beurre pommade avec le sucre, bien battre, et ajouter les oeufs, bien mélanger, pour blanchir le mélange.
+    Ajouter la farine, le jus de 2 citrons, les zestes, et la levure.
+    Mettre à cuire le gâteau dans un moule rectangulaire, 30 minutes à 200°C (thermostat 6-7).
+    Préparer un glaçage, avec le dernier jus de citron, et le sucre glace, ainsi que la pincée de vanille.
+    A la sortie du four, verser la moitié du glaçage sur le gateau, et verser le reste quand le gateau a refroidi. Décorer de zestes de citron.
+    Dégustez bien frais, avec un peu de chantilly...
+    Fonctionne très bien avec des oranges, et aussi des pamplemousse (mais il ne faut qu'un seul pamplemousse...)
+  ]]>
+  </preparation>
+</recette>

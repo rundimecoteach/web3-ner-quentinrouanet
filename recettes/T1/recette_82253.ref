@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82253">
+  <titre>Verrine terre et mer</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>12 bâtonnets de crabe</p>
+    <p>30 crevettes roses (cuites)</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>3 brins de ciboulette</p>
+    <p>1 pincée de sel </p>
+    <p>1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher le concombre et le couper en dés.
+    Dans un bol, mettre la crème, le sel, le poivre et la ciboulette ciselée. Ajouter au concombre et bien mélanger.
+    Couper les bâtonnets de crabe en tronçons de 1,5cm. Éplucher les crevettes entièrement.
+    Dans les verrines, commencer par mettre dans le fond les bâtonnets de crabe, puis le concombre à la crème.
+    Finir en mettant une crevette sur le concombre et les quatre autres dans chaque coin de la verrine.
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68428">
+  <titre>Soupe carotte, patate douce et coriandre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>1 patate douce de taille moyenne</p>
+    <p>1 petit courgette</p>
+    <p>3 carottes</p>
+    <p>2 pommes de terre</p>
+    <p>1 demi cuillère à café de coriandre moulue</p>
+    <p>sel, poivre</p>
+    <p>4 portions de fromage fondu type Vache qui rit</p>
+    <p>quelques feuilles de coriandre fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer environ 1 l d'eau salée dans une casserole. Eplucher et émincer l'oignon.
+    Eplucher et couper tous les autres légumes. Jeter tous les légumes dans l'eau bouillante. Faire cuire à petit bouillon pendant environ 25 minutes.
+    Retirer la soupe du feu, mouliner puis ajouter la coriandre moulue et du poivre à volonté.
+    Pour servir : émietter une portion de vache qui rit au fond de l'assiette, verser la soupe et délayer en laissant quelques morceaux. 
+    Décorer avec de la coriandre fraîche ciselée.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23648">
+  <titre>Salade cévenole</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 salade verte</p>
+    <p>150 g de gésiers confits</p>
+    <p>150 g de foies de volailles confits</p>
+    <p>1 petite boîte de marrons au naturel</p>
+    <p>1 poignée de raisins secs</p>
+    <p>3 grosses poignées de haricots verts</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez la salade. Faites cuire les haricots verts al dente.
+    Dans une poêle, faites revenir les gésiers avec les foies de volaille et les marrons.
+    Dans chaque assiette, disposez quelques feuilles de salade, des haricots verts, des raisins et un peu de mélange gésiers-marrons.
+    Arrosez chaque assiette d'une vinaigrette à base de vinaigre balsamique, vinaigre de framboise, miel et huile d'olive.
+    Servez tiède.
+  ]]>
+  </preparation>
+</recette>

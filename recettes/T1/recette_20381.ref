@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20381">
+  <titre>Riz au boeuf et au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 blanc de poulet</p>
+    <p>100 g de boeuf haché</p>
+    <p>200 d de riz basmati (de préférence) </p>
+    <p>1/2 l d'eau</p>
+    <p>1 oignon</p>
+    <p>1 poignée de pignons</p>
+    <p>sel, poivre</p>
+    <p> cannelle</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'oignon et le faire revenir dans de l'huile d'olive sur feu moyen. Couper le blanc de poulet en dés et le faire revenir avec l'oignon et la viande hachée. 
+    Une fois que c'est cuit, rajouter les pignons et le riz et faire revenir 1 mn environ, puis arroser avec le 1/2 litre d'eau, le sel, le poivre, un peu de cannelle et couvrir. 
+    20 à 25 mn plus tard, l'eau est presque absorbée. Mettre sur feu doux et laisser couvert. Au bout de 20 à 25 mn, le riz à absorbé toute l'eau, goûter pour vérifier.
+    il est préférable de faire cuire ce plat dans une casserole non adhésive et vous pouvez également accompagner ce plat par un pot de yaourt ou une salade car il est un peu sec. vin rouge de table
+  ]]>
+  </preparation>
+</recette>

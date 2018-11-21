@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72344">
+  <titre>Crème de café</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de mascarpone</p>
+    <p>2 cuillères à soupe de café soluble (nescafé) dans 4 cuillères à soupe d'eau chaude </p>
+    <p>1 bombe de crème fouttée</p>
+    <p>3 cuillères à soupe de nutella</p>
+    <p>125 g de fromage blanc</p>
+    <p>80 g de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foutter la mascrapone avec le sucre puis y ajouter le fromage blanc. 
+    Finir avec le café puis les cuillères de nutella.
+    Dresser le tout dans des verres à dessert puis mettre au frigo 1 h.
+    Avant de servir, mettre un peu de crème fouttée du commerce par dessus.
+  ]]>
+  </preparation>
+</recette>

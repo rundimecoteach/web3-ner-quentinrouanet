@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25407">
+  <titre>Cake aux olives et jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>8 oeufs</p>
+    <p>400 g d'olives vertes dénoyautées (rincer les olives)</p>
+    <p>400 g de jambon fumé ou de jambon blanc</p>
+    <p>300 g de gruyère râpé</p>
+    <p>100 g d'huile d'olive (1/2 verre)</p>
+    <p>60 cl de vin blanc sec</p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte en commençant par mettre le jambon, les olives, le gruyère. Ajouter ensuite les oeufs, l'huile et le vin blanc.
+    Enfin verser la farine et ajouter la levure.
+    Bien mélanger et verser dans un moule à cake beurré. 
+    Mettre au four pendant 50 min à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

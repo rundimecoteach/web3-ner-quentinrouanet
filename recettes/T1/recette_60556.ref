@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60556">
+  <titre>Muffins citron gingembre confit</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>170 g de sucre</p>
+    <p>100 g de beurre ramolli</p>
+    <p>20 cl de crème liquide</p>
+    <p>2 oeufs</p>
+    <p>1 citron (zeste+jus)</p>
+    <p>3 cuillères à soupe de gingembre confit, haché grossièrement</p>
+    <p>6 g de bicarbonate de soude</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 175°C (thermostat 5-6).
+    Battre le sucre avec le beurre ramolli. Ajouter le zeste de citron, puis les oeufs un par un.
+     
+    Verser la crème et le jus de citron, et battre jusqu'à ce que le mélange devienne homogène.
+    Incorporer la farine progressivement puis le bicarbonate.
+    Terminer avec le gingembre confit coupé en petis morceaux.
+    Verser dans des moules à muffins graissés et enfourner pour 20 minutes de cuisson
+    Muffins riches et moelleux. Ils se conservent 2 ou 3 jours dans une boîte métallique fermée, et peuvent également se congeler sans problème. plutôt un thé fumé
+  ]]>
+  </preparation>
+</recette>

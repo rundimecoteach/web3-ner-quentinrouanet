@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73771">
+  <titre>Glace aux fruits de saison</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de fruits ou 1 bol </p>
+    <p>6 petits suisses </p>
+    <p>1 jus de citron</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>1 grosse ou 4 petites meringues [vendues dans le commerce]</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Melanger au robot les petits suisses, le jus de citron, le sucre et les fruits écrasés, puis concasser les meringues et les ajouter à la préparation. Bien mélanger.
+    Verser dans des sucettes en plastique ou dans une boîte hermétique et mettre au congélateur une demi-journée.
+    Déguster.
+  ]]>
+  </preparation>
+</recette>

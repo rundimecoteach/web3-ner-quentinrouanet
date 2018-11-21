@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26644">
+  <titre>Cassolettes de pétoncles aux poireaux en croûte</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>500 g de noix de pétoncles</p>
+    <p>200 g de blancs de poireaux</p>
+    <p>2 échalotes</p>
+    <p>5 cl de fumet de poisson</p>
+    <p>10 cl de crème fraîche</p>
+    <p>40 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat).
+    Emincez les échalotes et les poireaux finement. Faites-les suer dans 20 g de beurre à la poêle, jusqu'à ce qu'ils soient bien tendres.
+    Faites sauter rapidement les pétoncles à la poêle dans le reste de beurre chaud. Salez, poivrez.
+    Ajoutez la crème et le fumet dans la fondue de poireaux, mélangez bien. Répartissez le mélange dans 6 ramequins allant au four.
+    Déposez les pétoncles dessus, salez et poivrez.
+    Découpez la pâte feuilletée en 6 disques un peu plus grands que les ramequins.
+    Couvrez les ramequins avec la pâte en insérant les bords dedans. Badigeonnez de jaune d'oeuf délayé avec une cuillère d'eau.
+    Passez au four 20 minutes.
+    Cassez la croûte pour déguster.
+  ]]>
+  </preparation>
+</recette>

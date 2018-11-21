@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45586">
+  <titre>Beignets de Truite aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 filet de truite (environ 300g)</p>
+    <p>1 jaune d'oeuf</p>
+    <p>5 à 6 graines de coriandre</p>
+    <p>10 graines de cumin</p>
+    <p>1 cuillère à café de curry</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 pincée de sel</p>
+    <p>le jus d'un demi citron</p>
+    <p>de la chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever les arêtes du filet et le couper en morceaux.
+    Passer au mixer jusqu'à ce que la truite soit bien hachée.
+    Ajouter l'oeuf, la farine, les graines, le curry, le sel, le jus de citron, puis mixer pour bien mélanger le tout.
+    Avec une petite cuillère, former des boulettes et les rouler dans la chapelure.
+    Dans une poêle, chauffer de l'huile à feu vif, puis faire dorer les beignets environ 1 minute.
+    Baisser le feu et laisser cuire les beignets 10 minutes, en les retournant de temps en temps.
+    Peuvent être accompagnés de salade, crudités. blanc sec
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37255">
+  <titre>Tourte à la viande et à la menthe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 rouleaux de pâte feuilletée</p>
+    <p>100 g de boeuf haché</p>
+    <p>100 g de porc haché (ou veau selon les préférences)</p>
+    <p>1 échalote</p>
+    <p>2 gousses d'ail</p>
+    <p>1 pincée de piment (facultatif)</p>
+    <p>1 cuillère à soupe de menthe séchée</p>
+    <p>1 petite boîte de sauce tomate nature</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement l'échalote et l'ail. 
+    Incorporer les deux viandes, le piment, la menthe, et la sauce tomate.
+    Dans un moule à tarte, étaler la 1ère pâte feuilletée, verser le malénge à la viande en évitant de trop tasser, recouvrir avec la 2ème pâte feuilletée.
+    Piquer la pâte du dessus pour éviter qu'elle ne gonfle trop (éventuellement dorer au jaune d'oeuf).
+    Laisser cuire environ 30 minutes à 210°C (thermostat 7).
+    Froide ou chaude, en plat principal ou en entrée (qui reste assez copieuse) c'est comme vous voulez !!!
+  ]]>
+  </preparation>
+</recette>

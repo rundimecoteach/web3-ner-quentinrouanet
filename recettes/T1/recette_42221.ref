@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42221">
+  <titre>Fondue thaïlandaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de grosses crevettes</p>
+    <p>500 g de lotte</p>
+    <p>150 g de germes de soja</p>
+    <p>250 g de brocolis</p>
+    <p>1 bocal de soupe de poisson (850 ml)</p>
+    <p>20 cl de lait de coco</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>1 bouquet de coriandre</p>
+    <p>1 tige de citronnelle</p>
+    <p>1 gousse d'ail</p>
+    <p>1 piment rouge</p>
+    <p>1 noix de gingembre frais</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>6 épuisettes à fondue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez la lotte en cubes de 2cm.
+    Otez les queues et les têtes des crevettes et épluchez-les.
+    Emincez les brocolis.
+    Dans le wok, faites revenir dans l'huile le gingembre râpé, l'ail écrasé, le piment et la citronnelle émincée.
+    Versez la soupe de poisson, le lait de coco et le curry.
+    Portez à ébulition et maintenez à frémissement 10 min.
+    Ajoutez le bouquet de coriandre haché
+    Retirez le piment avant de placer le wok sur la table avec un réchaud.
+    Utilisez les épuisettes pour faire cuire le poisson, les crevettes et les légumes dans le bouillon.
+    Servez avec un riz thai.
+    pour cette recette il vous faut un wok éléctrique à placer sur la table, ou bien un wok placé sur une plaque éléctrique individuelle placée également sur la table.
+    Les épuisettes à fondue se trouvent dans les épiceries asiatiques.
+    Une fois cet équipement acquis il est vite amorti car cette recette est simple est fait toujours sensation!
+  ]]>
+  </preparation>
+</recette>

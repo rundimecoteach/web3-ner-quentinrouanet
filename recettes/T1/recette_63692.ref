@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63692">
+  <titre>Escalopes farcies</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escaloppes de veau ou volaille</p>
+    <p>1 boîte moyenne de champignons</p>
+    <p>2 oignons</p>
+    <p>30 g de margarine</p>
+    <p>25 g de farine </p>
+    <p>50 cl lait</p>
+    <p>parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Mixer les champignons et les oignons.
+    Farcir les escalopes avec la prépararion (poser la viande à plat et mettre la farce dessus) et les ficeler comme pour faire une paupiette.
+    Les passer à la poêle pour les faire précuire et dorées durant 10 minutes.
+    Réserver.
+    Faire une petite béchamel : faire fondre la farine dans le beurre jusqu'à ce qu'elle soit blonde puis ajouter le lait progressivement. Laisser épaissir à feu doux en remuant régulièrement.
+    Dans un plat à gratin, verser un peu de béchamel, mettre les escalopes, et le reste de farce s'il vous en reste, et finir par vider la sauce.
+    Parsemer de parmesan dessus et enfourner le temps que le gratin se forme, soit environ 20 minutes.
+    Bon appétit !
+    Très apprécié avec des tagliatelles !
+  ]]>
+  </preparation>
+</recette>

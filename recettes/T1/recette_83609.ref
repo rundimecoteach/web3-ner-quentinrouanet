@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83609">
+  <titre>Kebab d'agneau</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de gigot d'agneau désossé</p>
+    <p>1 oignon râpé</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>1 cuillère à café de cumin moulu</p>
+    <p>2 cuillère à soupe de persil plat ciselé</p>
+    <p>6 cl d'huile d'olive</p>
+    <p>Sel et poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ne dégraissez pas la viande. Coupez-la en cubes de 3 cm et mettez-la dans un récipient avec l'oignon, le paprika, le cumin, le persil et l'huile d'olive. Poivrez. Remuez la viande pour l'enrober de sauce, couvrez et laissez mariner 2 heures au réfrigérateur.
+    Piquez la viande sur des brochettes et faites la cuire environ 6 minutes au barbecue, en les retournant et en les badigeonnant de marinade.
+    Je remplace souvent le paprika par de la coriandre moulue...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28296">
+  <titre>Tarte aux pêches sur crème de noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée ou sablée</p>
+    <p>150 g de cerneaux de noix</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>1 oeuf</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1 boîte de pêches au sirop</p>
+    <p>100 g de gelée de pommes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans un moule à tarte, recouvrez-la de papier sulfurisé et de haricots secs et faites-la cuire 10 min à 200°C (thermostat 6-7).
+    Mixez les cerneaux de noix (gardez-en 8 pour décorer) avec la crème, l'oeuf et le sucre.
+    Versez sur le fond de tarte précuit et remettez au four pour 30 min.
+    Une fois cuite, garnissez la tarte de demi-pêches égouttées et coupées en lamelles.
+    Faites fondre la gelée de pommes à feu doux et nappez-en la tarte, puis décorez avec les cerneaux de noix réservés.
+  ]]>
+  </preparation>
+</recette>

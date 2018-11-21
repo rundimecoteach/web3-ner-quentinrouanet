@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64915">
+  <titre>Filet mignon de porc au reblochon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet mignon de porc</p>
+    <p>1 reblochon</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>1 oignon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le filet mignon coupé en morceaux d'environ 50 g avec l'oignon jusqu'à légère coloration.
+    Ajouter la crème liquide puis le reblochon coupé en dés. 
+    Laisser cuire 30 min en remuant régulièrement.
+    Ne pas oublier de saler et poivrer.
+  ]]>
+  </preparation>
+</recette>

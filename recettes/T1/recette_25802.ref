@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25802">
+  <titre>Chou-fleur râpé à la pomme et au curry</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 chou-fleur</p>
+    <p>1 pomme </p>
+    <p>1 pincée de curry</p>
+    <p>1 pincée de piment en poudre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper le chou-fleur et la pomme, les arroser de citron.
+    Mélanger le curry avec le piment, du sel et du poivre puis en saupoudrer les légumes.
+    Mélanger.
+    Arroser d'huile, remuer et laisser mariner au moins 1 heure avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86644">
+  <titre>Salade de fruits hivernale</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 clémentines (ou 1 orange)- 2 kiwis- 1 pomme ou 1 pomme 1/2- 2 tranches de mangues- 1 banane- 1/2 cuillère à café de poudre de cannelle- 2 oranges (pour faire du jus)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les fruits en fines lamelles ou en petits dés (selon votre choix esthétique !).
+    Ajouter le tout dans un grand saladier.
+    Presser ensuite les oranges et ajouter le jus dans la salade.
+    Enfin, prendre une toute petite cuillère de cannelle (car la cannelle apporte beaucoup de goût!) et l'ajouter dans le saladier.
+    Mettre au frais 10 min.
+  ]]>
+  </preparation>
+</recette>

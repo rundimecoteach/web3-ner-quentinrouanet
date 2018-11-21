@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95093">
+  <titre>Quiche sans pâte champignons jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs </p>
+    <p>1/2 litre de lait froid</p>
+    <p>100 gr de farine</p>
+    <p>100 gr de gruyère rapé</p>
+    <p>150 gr de dés de jambon</p>
+    <p>100 gr de champignons de Paris ou forestiers</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220 ° ou thermostat 7
+    Dans un saldier mettre la farine.
+    Casser les oeufs un à un puis mélanger.
+    Ajouter petit à petit le lait et le sel.
+    Vous pouvez utiliser un batteur éléctrique.
+    Beurrer et fariner le moule allant au four, puis disposer les dés de jambon et les champigons.
+    Verser la préparation dessus et enfourner 40 min.
+    Bon apétitLes dés de jambon et les champignons peuvent être préalablement revenus à la poêle.
+    Ils peuvent être aussi remplacés par une grosse boîte de thon au naturel.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85839">
+  <titre>Pâtes aux lardons de Marco</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes- 200 g de lardons nature- 1 petite boîte de champignons de Paris (200 g)- 1 petit oignon- 10 cl de vin blanc sec- 15 cl de crème liquide- 1/2 cuillère à café de moutarde- 1 grosse cuillère à soupe de parmesan râpé- 1 cuillère à soupe de basilic frais ou déshydraté- poivre- 1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire vos pâtes.
+    Émincez l'oignon et faites-le revenir rapidement dans une petite casserole avec de l'huile d'olive.
+    Ajoutez les lardons que vous ferez blondir 2 min.
+    Ajoutez le vin blanc et laissez réduire 5 min. 
+    Ajoutez les champignons de Paris égouttés, la crème liquide, la moutarde et le parmesan râpé. 
+    Assaisonnez avec le poivre et le basilic. 
+    Laissez cuire 10 min à feu doux en remuant, c'est prêt.
+  ]]>
+  </preparation>
+</recette>

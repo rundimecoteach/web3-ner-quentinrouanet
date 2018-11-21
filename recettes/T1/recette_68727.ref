@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68727">
+  <titre>Risotto au noix de pétoncles, poireaux et tomates confites</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de noix de pétoncles surgelées</p>
+    <p>300 g de riz arborio</p>
+    <p>1 bocal de tomates confites</p>
+    <p>1 poireau</p>
+    <p>1 échalote</p>
+    <p>2 gousses d'ail</p>
+    <p>coriandre et persil</p>
+    <p>2 cubes de bouillon de légumes </p>
+    <p>1 petite bouteille de vin blanc</p>
+    <p>parmesan</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décongeler les noix de pétoncles et les passer à la poêle avec un peu d'huile d'olive puis réserver.
+    Dans un sauteuse, faire revenir l'échalote et l'ail émincés dans du beurre.
+    Ajouter le poireau coupé en fines rondelle, puis les tomates confites préalablement égouttées.
+    Une fois le poireau fondu, ajouter les noix de pétoncles puis parsemer le tout avec de la coriandre et du persil ciselés, ainsi que le sel et le poivre.
+    Incorporer le riz.
+    Une fois le riz translucide, ajouter le vin blanc et attendre l'absorption complète tout en remuant.
+    Continuer la cuisson du riz en versant petit à petit 1 litre d'eau bouillante dans lequel on aura délayé les 2 cubes de légumes.
+    Une fois le riz bien cuit et moelleux, ajouter du parmesan à votre convenance. Mélanger.
+    C'est prêt!
+  ]]>
+  </preparation>
+</recette>

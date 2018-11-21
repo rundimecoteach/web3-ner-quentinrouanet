@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24373">
+  <titre>Tomates farcies aux légumes et à la mayonnaise</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tomates</p>
+    <p>90 g de jambon cuit</p>
+    <p>1 grosse pomme de terre cuite</p>
+    <p>350 g de petits pois</p>
+    <p>2 oeufs</p>
+    <p>sel, poivre</p>
+    <p>Pour la mayonnaise : </p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>15 cl d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper un chapeau aux tomates et les vider. Saler l'intérieur et les retourner sur un papier absorbant.
+    Détailler le jambon et la pomme de terre en dés, les mélanger avec les petits pois.
+    Réaliser la mayonnaise : fouetter le jaune d'oeuf avec la moutarde, du sel et du poivre. Ajouter l'huile en filet et fouetter jusqu'à ce que la mayonnaise soit prise puis ajouter le vinaigre.
+    Ajouter 3 cuillères à soupe de mayonnaise aux légumes et en farcir les tomates.
+    Déposer une cuillère de mayonnaise sur chaque tomate et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31563">
+  <titre>Gyoza (Ravioli Chinois à la Japonaise)</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 cuillerées de sauce de soja</p>
+    <p>4 cuillerées d'huile de sesame</p>
+    <p>4 cuillerées d'eau</p>
+    <p>10 feuilles de chou</p>
+    <p>une botte de "nira" (ciboulette chinoise) </p>
+    <p>4 cuillerées de farine de pomme de terre</p>
+    <p>un peu d'ail</p>
+    <p>50 feuilles de ravioli chinois</p>
+    <p>500 g de porc hache</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Mettre le porc dans un bol avec la sauce de soja, l'huile de sésame et l'eau et les mélanger. 
+    2) Cuire les feuilles de chou à l'eau pour 2-3 mn et les hacher et les égoutter à la main. Hacher le nira et l'ail. 
+    Mettre les légumes dans un autre bol avec la farine de pomme de terre et les mélanger. 
+    Mélanger 1 et 2. 
+    3) Mettre une cuillère de garniture sur chaque feuille de ravioli chinois et mettre un petit peu d'eau au bord des feuilles et les envelopper. 
+    Mettre de la farine de pomme de terre sur l'assiette avant d'y mettre les raviolis, sinon ils vont coller à l'assiette. 
+    4) Mettre un peu d'huile dans la poêle et y cuire les raviolis jusqu'à ce qu'ils deviennent marron clair. Mettre de l'eau jusqu'à la demi hauteur des raviolis et mettre le couvercle. Le lever quand l'eau est presque disparue, et cuire les raviolis jusqu'à ce que les feuilles des raviolis deviennent croustillantes.
+    Attention :Préparer plus de légumes (des feuilles de chou, nira) que ce que vous pensez.
+    Les légumes rapetissent quand cuits et les raviolis ne sont pas bons avec moins de légumes.
+    Cuisez les raviolis jusqu'à ce que l'eau disparaisse complètement. Les raviolis mouillés ne sont pas bons. 
+  ]]>
+  </preparation>
+</recette>

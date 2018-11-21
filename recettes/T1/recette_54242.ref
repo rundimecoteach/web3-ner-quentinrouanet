@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54242">
+  <titre>Soupe de poisson irlandaise (Seafood chowder)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>beurre</p>
+    <p>1 gros oignon émincé</p>
+    <p>1 bâton de céleri frais finement émincé</p>
+    <p>200 g de champignons frais ou en conserve</p>
+    <p>1 grosse pomme de terre coupée en gros cubes de 1 à 2 cm</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>3 tomates coupées en gros cubes (soit fraîches soit en boîte)</p>
+    <p>1 pincee de safran (optionnel)</p>
+    <p>1 l fumet de poisson</p>
+    <p>poivre noir et sel</p>
+    <p>500 g de mélange de poissons et fruits de mer au choix (saumon frais ou fume, colin, cabillaud, etc, moules, crevettes, etc....)</p>
+    <p>125 ml de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre du beurre et y faire revenir l'oignon, le céleri et les champignons en mélangeant régulièrement jusqu'à ce que tout soit bien doré.
+    Ajouter les morceaux de pomme de terre, le concentré de tomates, les tomates, le fumet de poisson et un peu de sel.
+    Faire boullir et enlever l'écume de la surface.
+    Laisser cuire 20 min jusqu'à ce que les légumes soient bien tendres.
+    Prélever la moitié de la préparation, soit environ 1/2 litre, le mixer et le rajouter à la préparation.
+    Goûter et rectifier l'assaisonnement.
+    Ajouter le poisson coupé en gros cubes et les fruits de mer, laisser cuire 15 minutes.
+    La soupe est prête à servir.
+    Il est possible de congeler la soupe à cette étape.
+    Une fois decongelée, rajouter ou non de l'eau si la soupe est trop épaisse.
+    Au moment de servir ajouter la crème fraîche, servir avec du pain complet et du beurre.
+    Cette soupe est typiquement servie dans les pubs et restaurants en tant qu'entrée mais peut être le plat principal tant elle est riche et épaisse.
+    Elle est en général cuite sans la tomate qui est bien sur optionnelle mais change un peu et donne une jolie couleur.
+  ]]>
+  </preparation>
+</recette>

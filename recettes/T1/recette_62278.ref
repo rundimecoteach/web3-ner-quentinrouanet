@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62278">
+  <titre>Salade de courgettes aux fruits de mer</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de cocktail de fruits de mer</p>
+    <p>4 petites courgettes bien fermes</p>
+    <p>6 tomates cocktail</p>
+    <p>4 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>sel, poivre</p>
+    <p>Pour la vinaigrette :</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre de vin</p>
+    <p>1/2 cuillère à café de moutarde forte</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper finement les courgettes et les tomates, les disposer dans un plat. Mettre dessus du sel et du poivre.
+    Faire revenir les fruits de mer dans un peu d'huile d'olive, saler, poivrer.
+    Hacher finement l'ail et le rajouter aux fruits de mer en fin de cuisson. Eteindre le feu.
+    Hacher finement le persil et le rajouter aux fruits de mer.
+    Mettre ce mélange sur les courgettes. Préparer la vinaigrette et la répartir dessus.
+    Recette à faire au dernier moment, car il est meilleur de servir la salade avec les fruits de mer tièdes.
+  ]]>
+  </preparation>
+</recette>

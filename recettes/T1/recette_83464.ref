@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83464">
+  <titre>Pâtes au saumon façon sarah</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500g de pâtes( tagliatelles )</p>
+    <p>150 g de lardons de saumon fumé(barquettes préparées ou cœur de filet coupé en petits dés)</p>
+    <p>50 cl de crème fraiche</p>
+    <p>1/2 verre vin blanc sec</p>
+    <p>Une gousse d'ail </p>
+    <p>Une cuillère à soupe de ciboulette séchée</p>
+    <p>Huile d'olive</p>
+    <p>Sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir l'eau pour les pâtes et versez une cuillère à soupe d'huile d'olive.
+    Émincez finement la gousse d'ail.
+    Préchauffez la poêle pour cuire le saumon et ajoutez une cuillère a café d'huile d'olive.
+    Versez les pâtes dans l'eau bouillante et ajoutez une pincée de sel.
+    Laissez entre 7 et 10 minutes. 
+    Faites revenir à feu doux les dés de saumon fumé, ajoutez l'ail. Lorsque les dés de saumon sont dorés, ajoutez le vin blanc laissez revenir moins d'une minute.
+    Ajoutez la crème fraiche au saumon et la ciboulette. Remuez délicatement pendant 2 minutes en y ajoutant une petite 
+    pincée de sel.
+    Égouttez vos pâtes. Ajoutez y vos dés de saumon.
+    Servez et bon appétit.
+     Chardonnay
+  ]]>
+  </preparation>
+</recette>

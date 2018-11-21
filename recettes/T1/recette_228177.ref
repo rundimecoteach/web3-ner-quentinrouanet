@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228177">
+  <titre>Fontainebleau aux fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de fraises</p>
+    <p>100 g de framboises</p>
+    <p>300 g de fromage blanc</p>
+    <p>30 cl de crème fraiche liquide entière</p>
+    <p>30 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, fouettez la crème liquide bien froide en chantilly, puis ajoutez le sucre glace lorsque la crème commence à prendre. Incorporez le fromage blanc et versez le mélange dans une poche à douille. Coupez les fruits en quatre. Mettre la moitié des fruits dans un ramequin ou dans des verres.
+    Versez la crème en forme de spirale et ajoutez le restant des fruits rouges. 3 heures au frigo avant de déguster.Pas de cuisson mais mise au frigo obligatoire.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14639">
+  <titre>Délice de courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes</p>
+    <p>3 portions de crème de gruyère (type Vache qui rit)</p>
+    <p>sel et poivre</p>
+    <p>persil</p>
+    <p>menthe</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un faifout, faire revenir les cougettes coupées en lamelles, avec la peau, dans de l'huile d'olive, avec un peu d'eau.
+    Dès qu'elles sont fondantes, les retirer du feu. Bien les égoutter.
+    Passer au mixer les courgettes, les portions de crème de gruyère, le persil, la menthe, sel et poivre.
+    Facultatif : piment d'Espelette et ail.
+    Vérifier l'assaisonnement, puis mettre la préparation au frais au réfrigérateur.
+    Très frais, accompagne l'agneau, les poissons et poulets. rosé de Provence
+  ]]>
+  </preparation>
+</recette>

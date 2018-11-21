@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65303">
+  <titre>Blidhas (biscuits légérs aux amandes)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>15 g de maïzena</p>
+    <p>3 blancs d'oeufs</p>
+    <p>100 g d'amandes en poudre</p>
+    <p>100 g de sucre</p>
+    <p>1 zeste d'orange (ou de citron)</p>
+    <p>quelques amandes effilées pour la décoration</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les blancs d'oeufs en neige très ferme.
+    Mélanger les amandes en poudre, le sucre, la maïzena, un zeste d’orange ; y ajouter les blancs d’oeufs.
+    Déposer de petits tas de cette pâte en faisant une forme ovale sur une tôle beurrée et farinée, à l’aide d’une cuillère à soupe ou à café.
+    Saupoudrer fortement de sucre glace. Parsemer de quelques amandes effilées et enfourner 10 à 12 minutes au four à 140°C (thermostat 4-5).
+    Très bien avec une mousse au chocolat noir ou une compote de poires...
+  ]]>
+  </preparation>
+</recette>

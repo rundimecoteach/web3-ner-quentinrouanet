@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222142">
+  <titre>Bouchées à la reine comme en Alsace</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg épaule de veau</p>
+    <p>1/2 poule</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>1 bouquet garni</p>
+    <p>200 g de quenelles de veau</p>
+    <p>200 g champignons de Paris</p>
+    <p>60 g beurre</p>
+    <p>60 g farine</p>
+    <p>25 cl de vin blanc</p>
+    <p>25 cl de lait</p>
+    <p>1 litre bouillon</p>
+    <p>sel, poivre, muscade</p>
+    <p>10 cl de crème</p>
+    <p>2 jaunes d’œuf pour la liaison</p>
+    <p>8 bouchées à la reine feuilletées (boulangerie ou supermarché)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire l'épaule, la poule, la carotte, l'oignon et le bouquet garni dans le bouillon jusqu'à ce que soit tendre (lorsqu'une fourchette piquée dans la viande se retire facilement c'est cuit) soit environ 1h-1h15. Retirer du feu, laisser refroidir un peu et passer le bouillon dans une passoire.
+    Laver, couper en cubes et cuire les champignons.
+    Dans une casserole faire fondre le beurre, ajouter la farine, laisser cuire un peu puis ajouter le bouillon, bien mélanger avec un fouet, ajouter le vin blanc et le lait, laisser cuire 10 min, mixer si nécessaire.Désosser la poule, couper la poule, l'épaule et les quenelles en cubes, mettre dans la sauce ainsi que les champignons.
+    Assaisonner de sel, poivre et muscade.
+    En dernière minute ajouter la crème et les jaunes d’œuf battus, réchauffer mais ça ne doit plus bouillir.
+    Remplir les bouchées et servir le reste à côté avec des nouilles ou des "spätzle".Autrefois ce plat était une entrée pour repas de fêtes ! Vin blanc d'Alsace : pinot blanc, tokay ou sylvaner
+  ]]>
+  </preparation>
+</recette>

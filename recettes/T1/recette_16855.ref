@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16855">
+  <titre>Salade folle</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 petites tomates </p>
+    <p>1 melon ou boules surgelés </p>
+    <p>saumon fumé (1 paquet de tranches fines)</p>
+    <p>4 oeufs durs</p>
+    <p>250 g de crevettes décortiquées </p>
+    <p>magrets de canard 1 paquet de tranches fines</p>
+    <p>8 pruneaux</p>
+    <p>salade (mélange si possible)</p>
+    <p>Pour la sauce salade :</p>
+    <p>citron</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour présenter dans les assiettes :
+    Décorer avec en pourtour de la salade puis y mettre les autres ingrédients. L' important est de mettre en évidence les couleurs. Servir très frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33907">
+  <titre>Tarte aux noix et à la confiture de lait</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte sablée :</p>
+    <p>250 g de farine  </p>
+    <p>175 g de beurre  </p>
+    <p>80 g de sucre </p>
+    <p>1 oeuf</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>200 g de confiture de lait (le moins sucré possible)  </p>
+    <p>100 g de cerneaux de noix  </p>
+    <p>2 jaunes d'oeufs  </p>
+    <p>4 blancs d'oeufs  </p>
+    <p>1 cuillère à soupe de rhum </p>
+    <p>100 g de sucre  </p>
+    <p>2 sachets de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C. Foncer un moule à tarte avec la pâte. Etaler dessus la confiture de lait. Mélanger les cerneaux de noix avec les jaunes d'oeufs, le rhum, le sucre et le sucre vanillé. 
+    Battre les blancs en neige très ferme avec une cuillère à soupe d'eau et une pincée de sel, puis y incorporer délicatement le mélange. Verser sur la confiture de lait. Enfourner 40 à 45 min. Saupoudrer de sucre glace.Si la cuisson n'est pas assez douce et longue, la confiture de lait coulera ... On peut remplacer la confiture de lait par de la gelée de framboise. Il faut alors remplacer les 100 g de cerneaux de noix par 125g d'amandes concassées.
+  ]]>
+  </preparation>
+</recette>

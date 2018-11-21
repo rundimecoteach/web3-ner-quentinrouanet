@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14407">
+  <titre>Filet mignon en croûte</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 filets mignon de porc</p>
+    <p>2 pâte feuillettée (en rouleau)</p>
+    <p>4 tranches de jambon</p>
+    <p>200 g de gruyère râpé</p>
+    <p>2 gros oignons</p>
+    <p>2 jaunes d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons et les faire revenir dans une sauteuse avec du beurre. Les retirer, et faire revenir la viande de chaque côté, laisser cuire 10 mn à feu doux et ajouter les oignons pendant 5 mn. Saler, poivrer. Réserver.
+    Dérouler les pâtes feuilletées. Dépoer sur chaque pâte deux tranches de jambon et 100 g de gruyère. Saler et poivrer.
+    Y déposer un filet dans chaque pâte, ainsi que sa sauce aux oignons. Replier la pâte autour de la viande et fermer à l'aide du jaune d'oeuf et d'un pinceau.
+    Cuire 45 mn sur 200°C.
+    Servir avec une salade.
+  ]]>
+  </preparation>
+</recette>

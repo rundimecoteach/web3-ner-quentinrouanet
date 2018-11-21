@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219865">
+  <titre>Pâtes aux tomates séchées, jambon de parme et feta</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pâtes</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>2 poivrons jaunes</p>
+    <p>8 olives noires dénoyautées</p>
+    <p>3 tomates</p>
+    <p>8 tomates séchées</p>
+    <p>lanières de jambon de parme</p>
+    <p>2 cuillères à soupe de basilic haché</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>100 g de feta</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes dans de l'eau bouillante salée, selon le temps de cuisson indiqué sur l'emballage.
+    Entre-temps, faire revenir les poivrons égrenés et coupés en lanières dans l'huile. Ajouter les olives coupées en rondelles, les tomates émincées et les tomates séchées coupées en morceaux. Porter à ébullition, puis baisser le feu et laisser mijoter 10 min. Juste à la fin, ajouter les lanières de parme. Chauffer encore 3 à 4 min.
+    Hors du feu, incorporer le basilic, saler, poivrer.Mélanger la sauce et les pâtes.
+    Ajouter la fêta émiettée et servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

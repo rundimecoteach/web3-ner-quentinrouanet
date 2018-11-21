@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17085">
+  <titre>Petits gâteaux aux cerises (moules à muffins)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de cerises</p>
+    <p>50 g de poudre d'amandes</p>
+    <p>70 g de sucre fin (ou moins, si l'on préfère)</p>
+    <p>2 blancs d'oeuf</p>
+    <p>1/2 cuillère à soupe de maïzéna</p>
+    <p>beurre </p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enduire de beurre 6 petits moules à muffins. 
+    Laver les cerises et retirer les noyaux. Les faire sécher sur du papier absorbant. 
+    Mettre votre four à préchauffer à thermomstat 5/6 (170°C).
+    Tamiser la fécule et la mélanger avec 25 g de poudre d'amandes. 
+    Mettre les blancs dans un saladier, ajouter le sel et les monter en neige très ferme. 
+    En continuant de fouetter, ajouter le sucre fin, puis le mélange fécule + poudre d'amandes.
+    Ajouter le reste de poudre d'amandes à ce mélange en remuant de bas en haut avec une cuillère de bois. 
+    Incorporer les cerises dans la pâte et la répartir dans les moules beurrés. 
+    Enfourner à température moyenne 20 mn environ (surveiller). 
+    A la sortie du four, attendre 10 mn avant de démouler. Servir chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

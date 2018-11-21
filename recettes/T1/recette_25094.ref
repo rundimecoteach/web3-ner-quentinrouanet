@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25094">
+  <titre>Lapin aux olives noires et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1  lapin de Garenne</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>2 gros oignons</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de concentré de tomates</p>
+    <p>1 bouquet garni</p>
+    <p>1 branche de sarriette</p>
+    <p>1 cuillère à soupe de basilic haché</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>30-35 olives noires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir le lapin coupé en morceaux dans l'huile chaude puis ajoutez l'oignon et l'ail hachés. 
+    Retirez le lapin lorsqu'il est bien doré.
+    Déglacez la casserole avec le vin blanc, porter à ébullition et remettez le lapin. Ajoutez le concentré de tomates, le bouquet garni et la sarriette. Faites cuire à feu doux à couvert durant 30 min.
+    Incorporez les olives et poursuivez la cuisson 20 min. Parsemer de persil et basilic.
+  ]]>
+  </preparation>
+</recette>

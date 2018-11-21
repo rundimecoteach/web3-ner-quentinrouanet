@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41301">
+  <titre>Filet mignon de porc aux pommes et au cidre brut</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet mignon de porc</p>
+    <p>4 gros oignons jaunes</p>
+    <p>50 g de lard fumé</p>
+    <p>200 g de champignons de Paris frais</p>
+    <p>6 belles pommes sucrées</p>
+    <p>20 cl de crème</p>
+    <p>150 g de tomates confites</p>
+    <p>75 cl de cidre brut</p>
+    <p>200 g de moutarde forte</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>mélange 5 baies du moulin</p>
+    <p>25 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le filet mignon en tronçons de 7 cm d'épaisseur et les enrober de moutarde. Réserver.
+    Émincer les oignons et les champignons.
+    Hacher le lard.
+    Dans une cocotte, faire chauffer le beurre et l'huile, y faire revenir les oignons, les champignons et le lard. Poivrer mais ne pas saler.
+    Sortir la réduction de la cocotte et faire revenir la viande sur toutes ses faces. 
+    Remettre le mélange oignons, champignons, lard ainsi que la moitié du cidre. 
+    Faire mijoter à petits bouillon pendant 30 minutes à couvert.
+    Peler et couper les pommes en cubes.
+    Les rajouter à la préparation avec le reste du cidre. Saler. Laisser de nouveaux cuire 30 minutes.
+    Finir le plat en y ajoutant la crème et les tomates confites.  
+    Laisser bouillotter 5 minutes à découvert. Rectifier l’assaisonnement et servir avec du riz parfumé.
+  ]]>
+  </preparation>
+</recette>

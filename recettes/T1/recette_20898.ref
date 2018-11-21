@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20898">
+  <titre>Pizza tartiflette</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>pâte à pizza</p>
+    <p>2 grosses pommes de terre</p>
+    <p>200 g de lardons</p>
+    <p>1 oignon</p>
+    <p>1 petite boîte de champignons de Paris</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1/2 reblochon</p>
+    <p>sel, poivre, persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à la vapeur. 
+    Faire revenir les lardons. 
+    Une fois cuits, faire revenir dans le jus des lardons l'oignon et les champignons. 
+    Mélanger le tout et assaisonner avec le sel le poivre et le persil. 
+    Etaler la pâte à pizza, puis napper le fond avec la crème fraîche. 
+    Eplucher les pommes de terre et les disposer sur la crème, recouvrir de la préparation et de cubes de reblochon. 
+    Faire cuire à four chaud (180°C/th 6).
+    Cette pizza s'accompagne très bien avec une salade verte . Vin blanc de Savoie
+  ]]>
+  </preparation>
+</recette>

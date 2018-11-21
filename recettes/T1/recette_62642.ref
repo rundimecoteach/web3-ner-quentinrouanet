@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62642">
+  <titre>Gâteau aux prunes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>80 g de farine</p>
+    <p>60 g de maizena</p>
+    <p>80 g de sucre (si les fruits sont très acides, ajouter 20 g de sucre)</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 œufs</p>
+    <p>120 g de margarine</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>500 g de prunes, par exemple des quetsches (de préférence fermes)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer et fariner un moule à manqué. Mélanger les œufs entiers avec les sucres jusqu'à obtenir une consistance mousseuse blanche. Ajouter le beurre ramolli, la farine, la maizena, la levure et le sel.
+    Verser la pâte dans le moule. Veiller à ce que tout le fond du moule soit recouvert avec la pâte.
+    Laver les prunes, les couper en deux et retirer le noyau. Disposer les moitiés de prunes (face dénoyautée visible) sur la pâte en enfonçant un peu chaque moitié.Laisser cuire 40 min à 150°C (thermostat 5).Le gâteau doit être légèrement doré. Démouler à la sortie du four et saupoudrer de sucre glace avant de servir.Ce gâteau est réalisable avec d'autres sortes de fruits comme les abricots ou les poires. Avec les poires, je remplace la farine par de la poudre d'amande.  Un gaillac perlé
+  ]]>
+  </preparation>
+</recette>

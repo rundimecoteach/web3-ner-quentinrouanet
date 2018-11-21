@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15752">
+  <titre>Petits pains farcis aux légumes et au saumon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petits pains ordinaires</p>
+    <p>2 carottes</p>
+    <p>2 courgettes</p>
+    <p>1 oignon</p>
+    <p>2 poireaux</p>
+    <p>250 g de champignons frais</p>
+    <p>1 petit filet de saumon</p>
+    <p>1 tête d'ail</p>
+    <p>basilic frais</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez un petit chapeau à chaque petit pain et videz-les de leur mie.
+    Pressez l'ail et mélangez-le avec de l'huile d'olive, le basilic frais haché et du sel. Nappez l'intérieur des petits pains de cette sauce.
+    Coupez tous les légumes et le saumon en petits dés. Dans une poêle, faites blondir l'oignon avec un peu d'huile.
+    Ajoutez-y les poireaux et laissez revenir 5 minutes. Ajoutez alors les carottes, les courgettes et enfin les champignons. Laissez mijoter 10 minutes environ.
+    Dans une autre poêle, faites revenir le saumon jusqu'à coloration, puis ajoutez-le aux légumes.
+    Remplissez les petits pains de cette préparation, puis remettez le chapeau dessus.
+    Disposez les petits pains dans un plat puis enfournez entre 5 et 10 minutes pour donner un léger croustillant aux pains.Vous pouvez ajouter une cuillère à café de crème fraîche à la sortie du four et redisposer le chapeau des petits pains. vin blanc
+  ]]>
+  </preparation>
+</recette>

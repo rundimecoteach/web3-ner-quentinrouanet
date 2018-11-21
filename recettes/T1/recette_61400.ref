@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61400">
+  <titre>Moules au roquefort sans vin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 l de moules</p>
+    <p>200 g de roquefort</p>
+    <p>20 cl de crème semi-epaisse</p>
+    <p>1 oignon</p>
+    <p>1 bouquet garni</p>
+    <p>poivre</p>
+    <p>20 g de margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les moules. Couper le roquefort en dés.
+    Eplucher et émincer l'oignon.
+    Faire fondre la margarine et y faire suer l'oignon. Ajouter les moules avec le bouquet garni et le poivre.
+    Cuire de 10 à 15 minutes jusqu'à ouverture des moules.
+    Ajouter les dés de roquefort, les laisser fondre et ajouter la crème.
+    Servir aussitôt.
+    Bon appétit !
+    Servir avec quelques frites ou bien des pâtes type tagliatelles. Muscadet
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48371">
+  <titre>Tarte pomme-poire chocolatée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée ronde</p>
+    <p>150 g de chocolat (en tablette)</p>
+    <p>250 g de noisettes en poudre</p>
+    <p>2 pommes</p>
+    <p>2 boîtes de poires au sirop</p>
+    <p>jus de citron</p>
+    <p>sucre en poudre</p>
+    <p>20 g de beurre</p>
+    <p>un peu de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la pâte dans un moule à tarte assez profond (environ 5 cm).
+    Préparer la farce en mélangeant la poudre de noisette, du sucre (plus ou moins selon préférence), un peu de jus de citron et d'eau pour donner un aspect pâteux.
+    En mettre une bonne couche sur tout le fond de la tarte.
+    Couper les poires en lamelles (ni trop fines ni trop épaisses) et couvrir la farce avec.
+    Remettre une couche de farce (moins épaisse cette fois), puis une couche de pomme une fois les avoir elles aussi coupées en lamelles.
+    Faire fondre le chocolat avec un peu de lait et un peu de beurre au micro-onde et bien mélanger.
+    Verser sur la tarte pour couvrir totalement la couche de pomme.
+    Mettre au four préchauffé à 180°C (thermostat 6)  pendant 20 minutes.
+    Laisser refroidir la tarte au moins 10 à 15 minutes avant de servir.
+    Si vous voulez varier la recette vous pouvez tout aussi bien utiliser des pêches et des abricots à la place des pommes et des poires. Vous pouvez notamment supprimer la couche de farce intermédiaire pour avoir une tarte un peu plus légère.
+  ]]>
+  </preparation>
+</recette>

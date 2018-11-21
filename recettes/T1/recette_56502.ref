@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56502">
+  <titre>Tiramisu au carambar</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la crème mascarpone :</p>
+    <p>250 g de mascarpone</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>100 g de sucre</p>
+    <p>10 cl de crème fraîche liquide entière</p>
+    <p>Pour la crème au carambar :</p>
+    <p>175 g de carambar</p>
+    <p>30 cl de crème fraiche liquide entière</p>
+    <p>2 œufs</p>
+    <p>1 pincée de sel</p>
+    <p>4 palets breton</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Crème mascarpone :Dans un saladier, mélangez au fouet le mascarpone avec les jaunes d'oeufs et le sucre semoule.
+    Ajoutez la crème liquide montée en chantilly bien ferme.
+    Réservez au frais.
+    Crème au carambar :Dans une casserole, mettez les carambars et 10 cl de crème fraiche et faite fondre les carambars à feu doux.
+    Une fois le mélange homogène et lisse, ajoutez les jaunes d'oeuf hors du feu et mélanger, réservez.
+    Montez le reste de la crème liquide en chantilly bien ferme.
+    Puis, montez les blanc en neige avec une pincée de sel.
+    Ajoutez le carambar fondu à la chantilly, et mettez ensuite les blancs d'oeufs en neige dans le mélange, réservez au frais.Émiettez grossièrement les palets breton.
+    Assemblage des éléments :Dans le fond des verrines, mettez une quantité égale de palets émiettés, et mouillez avec un peu du mélange au carambar.
+    Recouvrir de crème de mascarpone jusqu'à la moitié de la verrine.
+    Finir en recouvrant de la crème carambar.Réservez au frais pendant 24h.Décorer à votre guise, on peut accompagner chaque verrine avec deux ou trois minis carambars tendres (goût caramel bien sûr).
+  ]]>
+  </preparation>
+</recette>

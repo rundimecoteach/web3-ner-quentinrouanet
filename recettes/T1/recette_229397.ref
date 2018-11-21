@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229397">
+  <titre>Pains burger maison</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine </p>
+    <p>2 jaunes d’œuf</p>
+    <p>150 g de lait </p>
+    <p>1 sachet de levure boulangère</p>
+    <p>5 g de sel</p>
+    <p>5 g de sucre</p>
+    <p>50 g de beurre mou		</p>
+    <p>graines de lin, de tournesol, de sésame (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir un temps de repos pour cette recette.Délayer la levure avec le lait tiède.Mélanger la farine, le sel, le sucre dans le bol du robot.
+    Ajouter le lait et la levure.
+    Ajouter 1 jaune d’œuf et le beurre mou (pas fondu !)
+    Pétrir 8 à 10 minutes.Découper la pâte en pâtons de 60 g et les bouler (avec le creux de la main).Dorer les pains avec un mélange jaune d’œuf + lait (10 g de lait). Saupoudrer chaque pain de graines variées.
+    Laisser reposer à température ambiante 1h.
+    Cuire 10 minutes à 180°C (thermostat 6).
+    J'ai testé, cette recette est réalisable sans robot !
+  ]]>
+  </preparation>
+</recette>

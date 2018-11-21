@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15585">
+  <titre>Charlotte au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 tranches de pain de mie</p>
+    <p>300 g de chèvre frais</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>1 bouquet de basilic</p>
+    <p>2 gousses d'ail</p>
+    <p>1/4 de poivron rouge et 1/4 de vert</p>
+    <p>huile d'olive</p>
+    <p>30 g de beurre</p>
+    <p>4 feuilles de gélatine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecroutez le pain de mie et coupez les tranches en 2 pour former des triangles.
+    Faites fondre le beurre dans une poêle et faites dorer les triangles d'un seul côté. Egouttez sur du papier absorbant.
+    Pelez l'ail, ciselez le basilic. 
+    Mélangez au mixer le chèvre, la crème et l'ail. Versez dan un saladier. Ajoutez 2 cuillères à soupe de basilic ciselé et 2 cuillères à soupe d'huile d'olive. Salez, poivrez et mélangez.
+    Faites ramollir la gélatine dans de l'eau froide. Essorez-la et faites-la fondre dans 5cl d'eau bouillante. Remuez puis incorporez-la dans la préparation au chèvre et mélangez longuement. Rectifiez l'assaisonnement. 
+    Disposez les triangles dans un moule à charlotte, côté doré à l'extérieur. Versez la préparation dans le moule et tassez-la en tapant le fond du moule sur le plan de travail.
+    Mettez 6h au frigo. Avant de servir frais, démoulez en trempant le fond du moule quelques secondes dans de l'eau chaude. Décorez de petits dés de poivrons et de basilic.
+    On peut incorporer une  pincée de piment ou quelques gouttes de Tabasco pour le relever.
+  ]]>
+  </preparation>
+</recette>

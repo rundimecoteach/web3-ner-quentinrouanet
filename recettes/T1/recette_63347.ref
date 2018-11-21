@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63347">
+  <titre>Quiche aux tomates, poireaux et jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>50 cl de lait</p>
+    <p>1 oignon</p>
+    <p>2 tomates</p>
+    <p>3 tranches de jambon</p>
+    <p>3 blancs de poireaux</p>
+    <p>100 g de gruyère</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 pâte brisée ou feuilletée</p>
+    <p>sel, poivre</p>
+    <p>25 cl de crème fraîche liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Couper les blancs de poireaux en lamelles. 
+    Faire dorer l'oignon coupé grossièrement avec l'huile d'olive dans une cocotte puis y ajouter les poireaux. 
+    Laisser cuire 30 min en remuant de temps en temps et ajouter la crème fraîche.
+    Déposer votre pâte dans un moule à tarte puis recouvrir de la fondue de poireaux. Disposer le jambon sur la fondue. Couper les tomates en fines tranches et recouvrir entièrement.
+    Fouetter les oeufs, le lait, le sel et le poivre puis recouvrir la tarte et ajouter le gruyère.
+    Mettre à four chaud pour 30 min environ.
+     Rosé Côtes de Provence
+  ]]>
+  </preparation>
+</recette>

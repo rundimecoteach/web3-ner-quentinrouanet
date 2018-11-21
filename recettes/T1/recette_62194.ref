@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62194">
+  <titre>Arroz a la cubana ( riz)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2,5 poignées de riz par personne</p>
+    <p>4 oeufs</p>
+    <p>1 banane (facultatif)</p>
+    <p>20 cl de sauce de tomate</p>
+    <p>huile d'olive</p>
+    <p>beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bien chauffer l'eau pour le riz en y ajoutant une grande cuillère de sel.
+    Verser le riz et le cuire au petit feu avec le couvercle pendant 17 minutes en remuant toutes les 3 minutes.
+    Pendant la cuisson du riz, couper la banane et la faire revenir avec du beurre jusqu'à ce qu'elle soit caramélisée.
+    Une fois la banane préparée, casser les oeufs et les frire.
+    Les déposer sur l'assiette avec les rondelles de banane.
+    Egoutter le riz et le mettre dans un verre pour faire des petits tas sur l'assiette afin que ça soit plus joli. Verser la tomate et voila.
+    Bon appétit !
+    Faire attention quand on sera en train de préparer les oeufs par ce que le riz sera prêt en même temps, tout se passe très vite.C'est un plat qui se fait beaucoup en Espagne, le pays où j'habite. Mais je ne sais pas pourquoi il porte le nom de riz à la cubaine.
+  ]]>
+  </preparation>
+</recette>

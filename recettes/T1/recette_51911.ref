@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51911">
+  <titre>Soupe de poisson au blé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de blé (type ébly)</p>
+    <p>400 g de filet de poisson blanc (sans arrêtes)</p>
+    <p>1 boîte et demi de tomates concassées</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, piment d'espelette en poudre</p>
+    <p>1 dose de safran</p>
+    <p>1 cuillère à soupe de ciboulette ciselée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le blé 10 min et l'égoutter.
+    Hacher l'oignon et le faire revenir 2 min dans une cocotte, avec 2 cuillères d'huile dolive. Ajouter l'ail haché, et remuer 1 min.
+    Ajouter ensuite la boîte de tomates, le zeste de citron râpé, le poisson coupé en petits cubes, le sel, le safran et le piment.
+    Mouiller avec environ 3/4 de litre d'eau chaude, et laisser cuire environ 5 min.
+    Ajouter le blé cuit et la ciboulette, laisser cuire encore 2 min.
+    Servir très chaud.
+    Attention à doser le piment selon son goût. C'est une recette très simple, qui change de la bouillabaisse.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38727">
+  <titre>Régal d'épinards aux pois chiches</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de pois chiches</p>
+    <p>600 g d'épinards</p>
+    <p>1 oignon</p>
+    <p>1 gousse d’ail</p>
+    <p>sel, huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les épinards à bouillir dans un peu d’eau salée. Egoutter et réserver.
+    Dans une poêle mettre de l’huile, faire frire l’oignon, la gousse d’ail écrasée et ensuite les pois chiches (rincés et égouttés) et 2 petits verres d’eau. Couvrir. Laisser cuire 15 min.
+    Dans un faitout, faire revenir les épinards et ajouter le mélange de pois chiches.
+    Laisser sur feu doux 5 min, couvrir et servir chaud en accompagnement de morue par exemple.
+  ]]>
+  </preparation>
+</recette>

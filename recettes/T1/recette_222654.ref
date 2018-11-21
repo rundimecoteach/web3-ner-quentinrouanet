@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222654">
+  <titre>Glace au mascarpone</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de mascarpone</p>
+    <p>3 œufs</p>
+    <p>3 cuillères à soupe de sucre- facultatif : cacao, chantilly...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes, battre les jaunes avec le sucre jusqu'à ce qu'il blanchissent, y ajouter le mascarpone.
+    Battre les blancs en neige ferme avec un peu de sel. Ajouter le mascarpone délicatement. Mettre le tout dans des petits pots et au congélateur pendant 12 h. Sortir au moment de servir, ajouter par dessus un peu de cacao ou bien de la chantilly.
+    Voilà une glace délicieuse sans cristaux !Cette glace est d'une facilité enfantine et de plus elle est délicieuse et sans sorbetière. 
+  ]]>
+  </preparation>
+</recette>

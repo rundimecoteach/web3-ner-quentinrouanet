@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14346">
+  <titre>Roti de Porc farci aux pruneaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de palette de porc désossée.</p>
+    <p>200 g de pruneaux</p>
+    <p>1/2 botte de cerfeuil</p>
+    <p>1 pincée de cannelle</p>
+    <p>2 oignons rouges</p>
+    <p>30 g de beurre</p>
+    <p>1 verre de vin blanc</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les pruneaux dans l'eau tiède (10 mn). En garder quelques uns pour la cuisson.
+    Hacher grossièrement les autres.
+    Faire fondre les oignons émincés dans le beurre.
+    Répartir les oignons et pruneaux (hachés) sur la viande. Rouler et ficeler le roti, saler et poivrer.
+    Faire revenir le rôti sous toutes ses faces puis baisser le feu et moullier avec le verre de vin blanc.
+    Laisser mijoter à couvert 45 mn avec les pruneaux entiers mis de coté.
+    Servir le rôti en tranches et saupoudré de cerfeuil ciselé.
+    J'accompagne ce plat de petites pommes de terres vapeur. Rouge
+  ]]>
+  </preparation>
+</recette>

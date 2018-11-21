@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27064">
+  <titre>Yaourt Indien</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de yaourt nature au lait entier</p>
+    <p>25 cl de lait entier</p>
+    <p>200 g de sucre </p>
+    <p>1 dose de safran</p>
+    <p>3 cosses de cardamome</p>
+    <p>1 cuillère à café d'amandes effilées </p>
+    <p>1 cuillère à café de pistaches concassées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Égoutter le yaourt plusieurs heures, ou mieux, toute la nuit en récupérant le liquide. Mesurer le liquide obtenu, puis le jeter. Mesurer en lait entier l'équivalent du liquide que l'on a jeté et le faire chauffer. Ajouter au lait des filaments de safran, du sucre à volonté (environ 200 g) et 3 cosses de cardamome écrasées.
+    Laisser infuser jusqu'à ce que le lait soit froid et le passer au chinois. Mélanger le lait aromatisé au yaourt, qui retrouvera sa consistance originale. A servir dans des coupes parsemées d'amandes effilées, grillées ou non, ou de pistaches concassées.Accompagne à merveille des Gulab Jamun ou tout autre dessert très sucré.
+  ]]>
+  </preparation>
+</recette>

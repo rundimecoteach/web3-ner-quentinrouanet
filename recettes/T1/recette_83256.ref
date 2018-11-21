@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83256">
+  <titre>Escalope de dinde au vin de noix</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 escalopes de dinde</p>
+    <p>20 cl de crème fraîche liquide (allégée ou pas)</p>
+    <p>1 tasse à café de vin de noix</p>
+    <p>2 cuillères à café de moutarde</p>
+    <p>1 cuillère à café d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Encore crues, badigeonnez vos escalopes de moutarde.
+    Faites les revenir dans une poêle huilée jusqu'à ce qu'elles soient dorées puis réservez.
+    Dans la même poêle (sans l'avoir rincée), ajoutez la crème fraîche puis le vin de noix.
+    Quand la sauce commence à frémir, ajoutez les escalopes. 
+    Laissez sur le feu juqu'à ce que les escalopes soient bien chaudes.
+    C'est prêt!
+    A servir avec des pâtes, des pommes de terre à l'eau ou encore des légumes verts.
+  ]]>
+  </preparation>
+</recette>

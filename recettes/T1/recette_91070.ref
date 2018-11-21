@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91070">
+  <titre>Délice de pommes et spéculoos</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de Spéculoos (environ 30 biscuits)</p>
+    <p>3 pommes</p>
+    <p>100 g de beurre</p>
+    <p>30 g de sucre</p>
+    <p>5 cl de Calvados</p>
+    <p>250 g de fromage blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et découper les pommes en petits cubes. Faire revenir à la poêle avec le beurre, le sucre et un peu d'eau à feu doux. Il faut que les pommes cuisent et caramélisent un peu.
+    Tapisser le fond des ramequins avec des spéculoos (plus ou moins découpés) trempés dans un mélange Calvados-eau pour les ramolir. 
+    Ne pas hésiter à les découper et à mettre les miettes : ça ne se verra pas.
+    Déposer une couche de pommes caramélisées dans chaque ramequin.
+    Mettre une nouvelle couche de spéculoos imbibés.
+    Ajouter avec une couche de fromage blanc.
+    Terminer avec des miettes de spéculoos.
+    A déguster bien frais.
+  ]]>
+  </preparation>
+</recette>

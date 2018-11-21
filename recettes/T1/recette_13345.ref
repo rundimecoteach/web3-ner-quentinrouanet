@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13345">
+  <titre>Ramequins de tomates-cerises</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de tomates-cerises</p>
+    <p>20g de sucre en poudre</p>
+    <p>6 cuillères a soupe de crème fraîche</p>
+    <p>sel et poivre</p>
+    <p>1 bouquet de basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les tomates-cerises dans une grande casserole d´eau bouillante pendant 15 secondes.
+    Les rafraichir dans une bassine d´eau froide, puis retirer leur peau.
+    Repartir les tomates dans 6 ramequins.
+    Saupoudrer chacun d´une demi-cuillerée a café de sucre en poudre, puis mélanger.
+    Ajouter dans chaque une grosse cuillerée à soupe de crème fraîche, sel et poivre, puis faire cuire a four chaud (thermostat 6/7-200°C) pendant 20 mn.
+    Retirer les ramequins du four et les saupoudrer de basilic frais et prealablement haché, avant de servir chaud.
+    A noter : ce plat se sert en entree ou comme légume d´accompagnement d´un poisson,d´une volaille ou d´une omelette.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72386">
+  <titre>Far breton de anna</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>175 g de sucre</p>
+    <p>1 sachet de sucre vanillé </p>
+    <p>un bouchon de rhum</p>
+    <p>100 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>1 L de lait</p>
+    <p>pruneaux ou raisins</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 120°, thermostat 4.
+    Dans une terrine, mélanger le sel la farine, incorporer les oeufs en mélangeant pour avoir une pâte homogène. Ajouter le sucre, le rhum et le lait. Remuer le tout.
+    Verser la préparation dans un plat beurré. 
+    Mettre des pruneaux ou des raisins. 
+    Ajouter quelques morceaux de beurre coupé en lamelles mais pas trop...
+    Cuire au four 1 h 30 à 2 h 30 environ; il doit cuire à une température pas trop forte afin que le fond ne brûle pas et que la consistance soit ferme; tout le secret est là.
+  ]]>
+  </preparation>
+</recette>

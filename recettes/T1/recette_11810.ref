@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11810">
+  <titre>Jambon de magret de canard</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 magret </p>
+    <p>3 cuillères à soupe de gros sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recouvrir un magret de gros sel.
+    Placer le magret 48h au frigo.Débarasser du gros sel. Poivrez.
+    Rouler le magret, peau à l'extérieur.
+    Oublier 21 jours le magret enveloppé dans un torchon au frigo.
+    Le déguster en tranches à la manière d'un jambon de pays.c'est très bon rioja
+  ]]>
+  </preparation>
+</recette>

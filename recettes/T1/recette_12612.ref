@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12612">
+  <titre>Sorbet à la menthe</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 ml de sirop de menthe</p>
+    <p>200 de sucre gélifiant</p>
+    <p>500 ml d'eau</p>
+    <p>quelques feuilles de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un sirop avec le sucre, l'eau et les feuilles de menthe.
+    Laisser refroidir, filtrer, puis ajouter le sirop de menthe.
+    Verser en sorbetière, puis faire prendre au congélateur.
+  ]]>
+  </preparation>
+</recette>

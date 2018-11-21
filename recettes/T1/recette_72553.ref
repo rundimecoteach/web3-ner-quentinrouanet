@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72553">
+  <titre>Galette au brie</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>150 g de brie</p>
+    <p>200 g de lardons</p>
+    <p>30 g de beurre</p>
+    <p>1 gros oignon</p>
+    <p>2 oeufs entiers</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à la vapeur puis épluchez-les.
+    Faites revenir les lardons.
+    Epluchez et hachez l'oignon. Faites-le blondir.
+    Ecrasez les pommes de terre et le brie avec une fourchette.
+    Ajoutez les oeufs, l'oignon et les lardons.
+    Salez et poivrez.
+    Versez cette préparation dans un moule à tarte beurré.
+    Saupoudrez de chapelure.
+    Ajoutez quelques noisettes de beurre et mettez à gratiner sous le grill pendant 10 min.
+    Pour accompagner une salade.
+  ]]>
+  </preparation>
+</recette>

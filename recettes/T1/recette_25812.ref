@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25812">
+  <titre>Mangue au jus d'agrumes épicé</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 mangue</p>
+    <p>1 orange</p>
+    <p>1 pamplemousse</p>
+    <p>1 citron, vert de préférence</p>
+    <p>1 cuillère à soupe de miel, liquide de préférence</p>
+    <p>Pour agrémenter, selon disponibilité :</p>
+    <p>quelques feuilles de menthe hachées</p>
+    <p>2 ou 3 gousse de cardamome verte ouvertes</p>
+    <p>1 étoile de badiane</p>
+    <p>quelques baies roses pilées</p>
+    <p>quelques grains de coriandre grillés et pilés</p>
+    <p>1 petit morceau de bois de cannelle</p>
+    <p>1 petite tranche de gingembre frais ou une 1/2 cuillerée à café de gingembre moulu</p>
+    <p>graines d'anis</p>
+    <p>1/4 d'un gousse de vanille ouverte dans le sens de la longueur</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Presser l'orange, le pamplemousse et le citron. Verser le jus dans une petite casserole. Y faire dissoudre le miel. 
+    2) Ajouter la menthe et les épices. Porter doucement à ébullition. Laisser quelques minutes à ébullition, éteindre le feu et laisser infuser les épices dans le jus d'agrumes pendant au moins 1/4 d'heure. 
+    3) Détailler la mangue en dés dans un saladier. Filtrer le jus d'agrume au chinois (si on ne dispose pas d'un chinois), on peut mettre les épices dans une gaze avant de les mettre dans le jus d'agrume) et le verser sur les dés de mangue. Faire mariner au frais pendant quelques heures avant de servir. 
+    4) On peut servir tel quel, ou saupoudré d'amandes effilées grillées à la poêle et/ou accompagné d'une boule de glace à la vanille.
+  ]]>
+  </preparation>
+</recette>

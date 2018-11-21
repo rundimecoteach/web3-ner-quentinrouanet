@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23597">
+  <titre>Epinards soufflés</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>900 g d'épinards cuits</p>
+    <p>sel et poivre</p>
+    <p>1 pincée de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déssécher les épinards sur feu doux jusqu'à ce qu'ils aient rendu un maximum d'eau puis les laisser refroidir dans une passoire.
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Hachez les épinards et assaisonner de sel, de poivre et de noix de muscade. Incorporer les jaunes puis les blancs battus en neige ferme. 
+    Verser la préparation dans un moule à soufflé beurré et enfourner pour 20 minutes de cuisson.
+    Les épinards soufflés ne gonflent pas autant qu'un soufflé à base de fromage et de béchamel en raison du poids des légumes.
+  ]]>
+  </preparation>
+</recette>

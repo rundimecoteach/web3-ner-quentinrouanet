@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22800">
+  <titre>Bouchées de poisson</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de colin surgelées ou fraîches</p>
+    <p>2 gros oignons</p>
+    <p>1 petit bouquet de persil</p>
+    <p>5 cuillerées à café de fumet de poisson en poudre</p>
+    <p>2 blancs d'oeufs</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faites dégeler vos tranches de poisson si elles sont surgelées. 
+    2) Lavez, équeutez et hachez le persil. 
+    3) Epluchez et hachez finement les oignons. 
+    4) Faites-les dorer dans une poêle huilée et bien chaude. 
+    5) Dans le bol du mixer, mixez le poisson, les blancs d'oeufs, le persil, les oignons et une cuillerée à soupe d'huile. Façonnez des boulettes. 
+    6) Portez à ébullition 500 ml d'eau avec le fumet de poisson et faites cuire les boulettes 5 mn environ.
+  ]]>
+  </preparation>
+</recette>

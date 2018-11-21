@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24207">
+  <titre>Salade d'oignons aux poivrons rouges</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g d'oignons</p>
+    <p>400 g de poivrons rouges</p>
+    <p>4 gousses d'ail</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>ciboulette</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans du papier aluminium, mettre et emballer séparement les oignons pelés et les poivrons.
+    Enfourner à 240°C (thermostat 8) pendant 45 min, et laisser ensuite refroidir. Nettoyer les poivrons, et les couper en lanières. Couper les oignons en rondelles et hacher l'ail. Disposer poivrons, ail et oignons dans un saladier, puis verser le jus de citron et l'huile d'olive. Salez, poivrez et parsemer de ciboulette ciselée. 
+  ]]>
+  </preparation>
+</recette>

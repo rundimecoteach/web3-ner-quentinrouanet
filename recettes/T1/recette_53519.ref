@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53519">
+  <titre>Tiramisu crème de liqueur et speculoos</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de mascarpone</p>
+    <p>4 œufs (4 jaunes et 3 blancs)</p>
+    <p>6 cuillères à soupe de sucre</p>
+    <p>2 tasses de liqueur de crème (Bailey's)</p>
+    <p>1 gros paquet de speculoos</p>
+    <p>poudre de cacao</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les jaunes d'œufs avec 3 cuillières à soupe de sucre.
+    Battre les 3 blancs d'œufs avec le reste de sucre pour obtenir une masse ferme.
+    Mélanger les blancs et les jaunes.
+    Y ajouter le mascarpone.
+    Tremper les speculoos dans le Bailey's et les ranger dans un plat creux.
+    Alterner les couches de biscuits et les couches de crème.
+    Veillez à ce que la dernière couche soit de la crème.
+    Saupoudrez de poudre de cacao.
+    Laisser au réfrégérateur environ 12 heures.
+    Plus consistant qu'un tiramisu ordinaire.
+  ]]>
+  </preparation>
+</recette>

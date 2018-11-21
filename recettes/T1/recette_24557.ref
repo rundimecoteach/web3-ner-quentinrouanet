@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24557">
+  <titre>Strudel aux mirabelles</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g farine</p>
+    <p>2 jaunes d'oeuf (le deuxième sert à dorer le Strudel) </p>
+    <p>sel</p>
+    <p>1/8 l eau chaude</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>Pour la garniture :</p>
+    <p>1,5 kg mirabelles</p>
+    <p>80 g sucre</p>
+    <p>80 g chapelure</p>
+    <p>80 g noix hachées</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine sur le plan de travail, y creuser un puits. Verser au milieu, le jaune d'oeuf, le sel, l'huile et l'eau. Mélanger en prenant petit à petit la farine sur les bords. Travailler la pâte pour former une boule, ajouter éventuellement un peu de farine jusqu'à obtention d'une boule lisse qui ne colle plus (attention, elle ne doit pas être sèche). La laisser reposer avec le saladier posé à l'envers par-dessus, 30 mn. 
+    Pendant ce temps, dénoyauter les mirabelles, ajouter tous les autres ingrédients et mélanger sans écraser les mirabelles. 
+    Placer un torchon humide sur le plan de travail, un sec par-desssus. Enfariner. Abaisser la pâte sur le torchon, puis l'étirer avec les mains sans déchirer la pâte (elle doit atteindre 60 x 40 cm). L'enduire de blanc d'oeuf ou de beurre fondu pour qu'elle reste souple. 
+    Etaler le mélange par-dessus en laissant une bordure tout autour. Enrouler la pâte en soulevant le torchon. Placer le Strudel sur une plaque à pâtisserie recouverte d'un papier sulfurisé. Dorer à l'oeuf. 
+    Enfourner à four préchauffé (225°C) de 25 à 35 mn.
+    La pâte à Strudel n'est pas facile à réussir. Il faut qu'elle reste souple et élastique.C'est un dessert typiquement autrichien qui se fait habituellement aux pommes (remplacer les mirabelles par des pommes, mettre 150 g de sucre, et 80 g de raisins secs gonflés dans du rhum).
+  ]]>
+  </preparation>
+</recette>

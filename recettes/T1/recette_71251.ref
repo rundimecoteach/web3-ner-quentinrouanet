@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71251">
+  <titre>Gateau Maquis</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de spéculoos</p>
+    <p>20 g de cassonade</p>
+    <p>60 g de beurre</p>
+    <p>450 g de fromage blanc ou petits suisses</p>
+    <p>25 cl de crème fraîche</p>
+    <p>50 g de sucre en poudre</p>
+    <p>8 g de gélatine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Mixer les spéculoos, les mélanger à la cassonade et au beurre fondu.
+    Tapisser un fond de moule à manqué de papier aluminium et du mélange, bien appuyer avec le fond d'un verre par exemple.
+    Mettre au réfrigérateur le temps de la préparation du fromage blanc.
+    Battre la crème fraîche en chantilly.
+    Mélanger délicatement le fromage blanc avec la chantilly et le sucre.
+    Ramollir la gélatine dans une peu d'eau froide. Faire fondre sur le gaz et ajouter au mélange rapidement.
+    Introduire dans le moule au dessus du mélange de spéculoos et laisser reposer au minimum 3h au réfrigérateur...
+  ]]>
+  </preparation>
+</recette>

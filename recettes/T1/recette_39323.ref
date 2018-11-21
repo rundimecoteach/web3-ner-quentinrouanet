@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39323">
+  <titre>Tarte poireaux, crevettes et saumon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée </p>
+    <p>4 poireaux </p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>20 cl de crème liquide</p>
+    <p>3 oeufs</p>
+    <p>20 cl de vin blanc</p>
+    <p>Ciboulette</p>
+    <p>350 g de filets de saumon (frais)</p>
+    <p>15 crevettes moyennes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les blancs de poireaux, en tronçons, les rincer, et les faire sécher. Faire fondre dans le beurre, pendant 10 min, puis encore 10 min avec le vin blanc, à couvert.
+    Retirer les arrêtes, et la peau des filets de saumon. Hacher grossièrement.
+    Battre les oeufs, la crème et la ciboulette ciselée. Assaisonner.
+    Abaisser la pâte dans un moule. Verser les poireaux, puis la chair de saumon, et enfin disposer les crevettes décortiquées.
+    Verser la préparation crème/oeufs.
+    Cuire environ 25 min à 200°c (thermostat 7).
+    Servir chaud, en entrée. Vin blanc d'alsace ou Savoie
+  ]]>
+  </preparation>
+</recette>

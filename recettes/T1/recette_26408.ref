@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26408">
+  <titre>St jacques sur lit d'endives</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 kg d'endives minimum</p>
+    <p>noix de St jacques (4 par personne) </p>
+    <p>sel, poivre</p>
+    <p>beurre</p>
+    <p>sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre les endives dans une poêle bien beurrée. Cela peut prendre un peu de temps pour qu'elles soient complètement fondues. Tout doucement pendant la cuisson, saupoudrez de sucre pour les caraméliser. 
+    Pendant ce temps, faites revenir les noix de st Jacques dans du beurre. Quand les deux préparations sont cuites, les faire mijoter quelques minutes ensemble pour que les noix prennent le goût légèrement sucré des endives.
+    Avec quelques herbes pour les amateurs c'est excellent. vin blanc c'est idéal!
+  ]]>
+  </preparation>
+</recette>

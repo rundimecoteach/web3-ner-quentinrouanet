@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38450">
+  <titre>Salade de poulet au curry estival</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de filet de poulet</p>
+    <p>1 petite boîte d'ananas sans sucre ajouté</p>
+    <p>beurre</p>
+    <p>une laitue</p>
+    <p>2 cuillères à soupe de mayonnaise</p>
+    <p>1 cuillère à café de sauce curry en pot</p>
+    <p>lait</p>
+    <p>sel, poivre </p>
+    <p>curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le poulet en lanières, faire revenir dans une poêle avec un peu de beurre jusqu'à ce qu'ils soient bien dorés.
+    Assaisonner de sel, poivre et curry.
+    Découper les ananas en petits morceaux et les faire revenir dans une poêle avec un peu de beurre pour les faire griller, conserver le jus à part.
+    Nettoyer la salade.
+    Dans un bol, mélanger les 2 cuillères à soupe de mayonnaise, la cuillère à café de curry, la moitié du jus d'ananas et du lait (selon votre goût).
+    Rjouter du curry et du poivre pour relever le goût de la sauce.
+    Dressage des assiettes:
+    recouvrir chaque assiette d'un lit de salade
+    y déposer au centre les lanières de poulet et les morceaux d'ananas
+    proposer la sauce à part
+    à servir avec du riz ou de la baguette
+    Le poulet et les ananas peuvent aussi bien se servir chauds que froids, selon votre envie. Boutari blanc (vin grec)
+  ]]>
+  </preparation>
+</recette>

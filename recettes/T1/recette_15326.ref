@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15326">
+  <titre>Cari de thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de thon à l'huile</p>
+    <p>2 oignons (rouges si possible)</p>
+    <p>3 ou 4 tomates</p>
+    <p>thym</p>
+    <p>2 gousses d'ail</p>
+    <p>une pincée de curcuma</p>
+    <p>et du 'gros piment' (piment pas très fort), si vous en trouvez</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les oignons dans une marmite avec 2 cuillères d'huile, puis rajouter l'ail, le curcuma, le thym et enfin les tomates.
+    Laisser croûter un peu au fond de la marmite.
+    Ajouter le thon et les gros piments coupés en long, ainsi qu'un demi-verre d'eau pour déglacer.
+    Laisser mijoter à feux doux et à découvert jusqu'à ce que le cari soit un peu sec.
+    A consommer avec du riz et un petit peu de piment.
+    La nouriture de l'île de la  Réunionest souvent accompagnée de légumes en grains tels que des lentilles ou encore des gros-pois. le vin n'est pas conseillé avec le pimment
+  ]]>
+  </preparation>
+</recette>

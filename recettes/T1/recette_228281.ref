@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228281">
+  <titre>Courgettes farcies au thon et fromage de chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes rondes</p>
+    <p>400 g de thon en boite au naturel</p>
+    <p>1 bûche de chèvre</p>
+    <p>3 échalotes</p>
+    <p>140 g de concentré de tomate</p>
+    <p>100 g de crème fraiche (environ)</p>
+    <p>Ciboulette (quelques brins)</p>
+    <p>1 cuillère à café d'aneth</p>
+    <p>Sel</p>
+    <p>Poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Laver les courgettes, leur couper la "tête" puis les évider.
+    Dans un saladier, mélanger le thon émietté, les échalotes émincées, la bûche de chèvre coupée en petits cubes, le concentré de tomate, la crème fraiche, la ciboulette ciselée et l’aneth. Saler et poivrer.
+    Saler légèrement les fond des courgettes avant de les remplir de la farce. Remettre le "chapeau" sur chaque courgette et enfourner pour 30 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73555">
+  <titre>Risotto au chèvre et son lard grillé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tasses (contenance 20 cl) de riz pour risotto, type Vialone</p>
+    <p>1,5 L de bouillon de poule</p>
+    <p>150 g de chèvre corsé à pâte dure</p>
+    <p>12 tranches de lard à griller, type bacon</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le beurre dans une casserole, verser le riz, ajouter 1/2 cuillère à café de sel, poivrer, couvrir de bouillon et bien remuer.
+    Laisser cuire environ 25 min (se référer au temps de cuisson noté sur l'emballage) et ne pas hésiter à ajouter du bouillon dès évaporation. 
+    En effet, un bon risotto ne doit jamais rester sans liquide.
+    Râper le fomage de chèvre, en réserver une petite partie (pour saupoudrer sur l'assiette à la fin) et à 5 min de la fin de cuisson du riz, ajouter et bien remuer.
+    Dans une poêle, faire revenir les tranches de lard sans ajouter de matière grasse.
+    Dresser le risotto sur assiette creuse, parsemer du restant du fromage de chèvre, poivrer et terminer en croisant 2 tranches de lard grillées au dessus.
+    Divin, bon appétit !
+    Ce plat a du caractère! Assurez-vous que vos convives apprécient le corsé! rouge corsé, rosé
+  ]]>
+  </preparation>
+</recette>

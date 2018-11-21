@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18357">
+  <titre>Mini-pizza</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 pains à Hamburger </p>
+    <p>1 boîte de purée de tomates</p>
+    <p>200g  de mozzarella</p>
+    <p>du chorizo coupé en cubes</p>
+    <p>champignons frais de Paris</p>
+    <p>poivron coupé en fines lamelles</p>
+    <p>oignons rissolés</p>
+    <p>12 oeufs de caille</p>
+    <p>crème fraîche, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 220°.
+    Séparer les pains à Hamburger en deux (enlever le chapeau du corps), déposez-les sur la plaque.
+    Etalez une cuillérée de purée de tomate sur les moitiés de pain, mais pas sur les bords, pour qu'ils forment une croûte.
+    Puis disposez à votre convenance, mozzarella, champigons coupés en petits morceaux, chorizo, oignons grillés, poivrons, et au centre du pain: l'oeuf de caille.
+    Mettez la plaque au four et laissez cuir jusqu'à ce que le fromage soit fondu et que les bords soient dorés, soit environ 3 min.
+     blanc
+  ]]>
+  </preparation>
+</recette>

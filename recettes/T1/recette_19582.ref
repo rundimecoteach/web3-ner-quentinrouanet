@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19582">
+  <titre>Mauricettes ou petits pains salés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>500 g de farine</p>
+    <p>8 g de sel fin</p>
+    <p>11 g de levure sèche de boulanger</p>
+    <p>15 cl d'eau</p>
+    <p>15 cl de lait tiède</p>
+    <p>30 g de margarine ramollie</p>
+    <p>Pour le bain :</p>
+    <p>1 L d'eau</p>
+    <p>80 g de bicarbonate</p>
+    <p>2 cuillères à café de sel</p>
+    <p>Pour la finition :</p>
+    <p>1 œuf</p>
+    <p>du gros sel</p>
+    <p>carvi ou cumin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine et la levure. 
+    Ajouter le sel, puis l'eau et le lait. 
+    Travailler un peu la pâte et ajouter la margarine.
+    Travailler le tout 5 min et laisser lever environ 1h00 (doublement de volume). Préchauffer le four à 200°C (Th 6/7 ). Dans une casserole, mélanger l'eau, le sel et le bicarbonate. 
+    Faîtes chauffer 5 min. Diviser la pâte en 12 portions d'environ 70 g. Bouler et rouler ces portions pour former des petits pains longs. Les baigner dans le bain préparé et posez-les sur une plaque beurrée. 
+    Strier le dessus de chaque petit pain. 
+    Badigeonner à l'oeuf ou crème fraîche. Saupoudrer de cumin, gros sel ou carvi.
+    Mettre au four 15 min.Spécialité alsacienne.
+    On fourre ses petits pains de beurre + salami danois ou poulet froid mayonnaise, bâtons de crabe, avocats etc...
+    Pour un super plateau repas, buffet ou pique-nique.
+  ]]>
+  </preparation>
+</recette>

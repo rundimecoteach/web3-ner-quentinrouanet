@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19944">
+  <titre>Veau à la catalane</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de veau en cubes</p>
+    <p>2 oignons</p>
+    <p>4 à 5 tomates</p>
+    <p>1 verre de vin blanc</p>
+    <p>1 cuillere à soupe de farine</p>
+    <p>ail, sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire roussir les 2 oignons en rondelles et le veau.ajouter la farine. Laisser cuire 2 mn.
+    Ajouter le vin, les tomates concassées, l'ail, le sel et le poivre. Laisser mijoter 30 mn.
+    Servir avec du riz ou des pâtes.
+  ]]>
+  </preparation>
+</recette>

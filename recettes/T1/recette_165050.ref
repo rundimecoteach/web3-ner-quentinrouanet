@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165050">
+  <titre>Poulet farci au chorizo</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de poulet bien épaisses</p>
+    <p>1 Chorizo</p>
+    <p>8 tomates séchées</p>
+    <p>Sel et poivre</p>
+    <p>1 filet d'huile d'olive (pour la cuisson)Pour la sauce : Sauce tomate à la crème de chorizo- 400 g de pulpe de tomate</p>
+    <p>70 g de concentré de tomate</p>
+    <p>40 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>50 g de chorizo</p>
+    <p>3 gousse d'ail</p>
+    <p>1 cuillère et demie à soupe de crème</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la sauce :Mixez l'ail, le chorizo coupé en morceaux et la crème. Reservez.
+    Dans une casserole faites fondre le beurre, incorporez la farine hors du feu en remuant généreusement, ajoutez le concentré et la pulpe de tomate et remettez sur le feu.
+    Quand votre sauce tomate est cuite ajoutez votre crème de chorizo et laissez sur feu très doux a couvert pendant 15 minutes (le temps de faire les escalopes) en remuant de temps en temps et en ajoutant un peu d'eau si nécessaire.
+    Pendant ce temps :Coupez les escalopes de poulet sur leurs tranches pour pouvoir les ouvrir comme un sandwich.Découpez des rondelles de chorizo moyennes et insérez les dans les escalopes. Ajoutez-y deux tomates séchées par escalopes.
+    Refermez les escalopes en appuyant bien fort. Salez et poivrez les deux cotés.
+    Faites cuire 6-8 minutes de chaque cotés dans une poêle chaude. (plus ou moins longtemps suivant la taille de vos escalopes)Nappez vos escalopes de sauce et servez très chaud.Vous pouvez accompagner ce plat d'un riz blanc.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29216">
+  <titre>Tarte soufflée au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de pâte brisée</p>
+    <p>25 cl de lait </p>
+    <p>20 g de Maïzena </p>
+    <p>3 oeufs</p>
+    <p>50 g de gruyère râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Etalez la pâte dans un moule à tarte à fond mobile. 
+    Dans une casserole, mélangez la Maïzena au lait en le versant en un mince filet. Salez, poivrez légèrement et placez sur feu doux en remuant. Retirez du feu après 2 ou 3 secondes d'ébullition.
+    Ajoutez le gruyère rapé et les jaunes d'oeufs un à un. Incorporez délicatement les blancs battus en neige ferme. 
+    Versez sur le fond de pâte et faites cuire 30 minutes. Servez aussitôt.   
+  ]]>
+  </preparation>
+</recette>

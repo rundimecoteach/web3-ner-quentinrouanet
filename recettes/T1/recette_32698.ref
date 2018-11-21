@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32698">
+  <titre>Boulettes grecques de poulet</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de blanc de poulet</p>
+    <p>50 g de feta</p>
+    <p>1 oeuf</p>
+    <p>1 oignon moyen</p>
+    <p>2 cuillères à soupe de chapelure</p>
+    <p>un fond d'assiette de farine</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>le jus d'un citron</p>
+    <p>coriandre, cumin</p>
+    <p>ail, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les blancs coupés en cubes, puis ajouter la feta, l'oeuf, la chapelure et les épices. Si la préparation est trop fluide, rajouter un peu de chapelure. 
+    Façonner en boulettes de la grosseur d'une noix en les roulant dans la farine. 
+    Faire chauffer l'huile dans la poêle, puis ajouter les boulettes en les faisant rouler pour dorer de tous les côtés. Les retirer et réserver au chaud. 
+    Déglacer la poêle avec le citron, puis servir le jus sur les boulettes.
+  ]]>
+  </preparation>
+</recette>

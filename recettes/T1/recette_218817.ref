@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218817">
+  <titre>Tartine basilic chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 dizaine de feuilles de basilic</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>8 morceaux de chèvre frais en bûche </p>
+    <p>4 tranches de pain fines (ou pain de mie)</p>
+    <p>gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un mixeur, mettre les feuilles de basilic, les mixer, puis ajouter l'huile d'olive. Étaler le tout sur les 4 tranches de pain posées sur une plaque qui va au four.
+    Disposer le chèvres sur le pain imbibé de basilic et huile d'olive (mettre 1 a 2 tranches de chèvre selon la taille de la tranche).Pour finir, mettre une pincée de gruyère sur le chèvre.
+    Mettre le tout au four à 110°C pendant 10 min, le temps que le gruyère fonde. Il nous doit pas être doré.
+  ]]>
+  </preparation>
+</recette>

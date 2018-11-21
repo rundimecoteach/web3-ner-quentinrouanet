@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73893">
+  <titre>Gâteau de domitille (sans beurre)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>250 g de chocolat</p>
+    <p>250 g de sucre</p>
+    <p>3 œufs</p>
+    <p>1 sachet de levure</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°, thermostat 6.
+     
+    Mélangez la farine, le chocolat et le sucre dans un saladier puis ajoutez la levure. 
+    Ajoutez les œufs, puis la crème fraîche jusqu'à que la pâte soit lisse.
+    Versez la préparation dans un plat tapissé de papier cuisson puis enfourner pour environ 20 min, jusqu'à ce que la pointe d'un couteau ressorte propre quand vous la plantez dedans.
+  ]]>
+  </preparation>
+</recette>

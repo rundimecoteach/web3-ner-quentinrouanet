@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65392">
+  <titre>Croque-monsieur jambon de pays, tomate, fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>un peu de beurre</p>
+    <p>2 tranches de jambon de pays</p>
+    <p>1 petite tomate</p>
+    <p>4 tranches de fromage à croque monsieur (fromage en plaque) ou 2 tranches de fromage à croque monsieur et 4 tranches de fromage de chèvre</p>
+    <p>herbe de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez toutes les tranches de pain de mie sur une face.
+    Coupez la tomate en rondelles.
+    Mettez une tranche pain de mie, face beurrée sur l'extérieur, une tranche de jambon de pays, une tranche de tomate, une pincée d'herbe de provence, 2 tranches de fromage de chèvre ou une tranche de fromage à croque-monsieur, la deuxième tranche de pain de mie (face beurée vers l'extérieur).
+    Vous pouvez faire cuire ces croque-monsieur dans un gauffrier (avec des plaques adaptées) ou 10 minutes au four à 180°C (thermostat 6).
+    Je vous recommande de servir ces croque-monsieur avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

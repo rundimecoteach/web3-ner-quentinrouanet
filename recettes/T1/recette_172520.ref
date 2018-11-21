@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172520">
+  <titre>Rôti de veau au vinaigre de xérès et au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de veau de 1,2kg</p>
+    <p>5 oranges</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>15 g de beurre</p>
+    <p>1 cuillères à soupe de miel</p>
+    <p>1 cuillères à soupe de vinaigre de xérès</p>
+    <p>persil</p>
+    <p>sel </p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Dans une cocotte, chauffer l'huile avec l'ail écrasé et faites dorer le rôti salé et poivré 10 min de chaque côté, réserver et faire fondre l'oignon.
+    Remettre le rôti avec le jus de 2 oranges et couvrir la cocotte et enfourner pour 1h15.Faire fondre le beurre, dans une poêle, ajouter le miel, laisser caraméliser, faire revenir les zestes blanchis et les quartiers de 3 oranges.A la fin de la cuisson, filtrer le jus et réduire 5 min et relever avec le vinaigre.
+    Servir chaud parsemé de persil.je sers ce plat avec des pommes de terre rissolées vin rouge 
+  ]]>
+  </preparation>
+</recette>

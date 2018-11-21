@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36574">
+  <titre>Agneau au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 épaule d'agneau</p>
+    <p>40 cL de lait de coco</p>
+    <p>estragon</p>
+    <p>2 gousses d'ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, mélanger lait de coco, estragon, sel, poivre et quelques gousses d'ail coupées en 2.Recouvrir l'épaule d'agneau du mélange (bardez l'épaule d'ail selon les goûts).Mettre le tout au réfrigérateur, dans un récipient hermétique de préférence. Faire mariner pendant 24h.
+    Faire cuire l'épaule au four, à thermostat 8 (240°C) pendant 1h environ (selon la taille de l'épaule et selon qu'on aime l'agneau rose ou non).Servir accompagné de haricots verts ou de flageolets.
+  ]]>
+  </preparation>
+</recette>

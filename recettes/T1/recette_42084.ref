@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42084">
+  <titre>Dos de cabillaud pané au caramel de vinaigre balsamique</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 dos de cabillaud</p>
+    <p>50 g de beurre</p>
+    <p>50 de panure (chapelure)</p>
+    <p>2 cuillères à soupe de vinaigre balsamique</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe d'eau</p>
+    <p>50 g de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Mélangez le beurre et la chapelure afin d'obtenir une pâte. 
+    Dans un plat huilé, mettez les deux dos de cabillaud et répartissez le mélange par dessus pour obtenir une croûte.
+    Enfournez pour 30 minutes environ.
+    Dans un poêle, mélangez le sucre, l'huile d'olive, l'eau et le vinaigre. Faites réduire lentement et surveillez. 
+    Le caramel est prêt lorsque le mélange fait des bulles. Goutez pour vérifier...
+    Servez en répartissant la sauce autour des cabillauds individuellement dans chaque assiette.
+    Pour les dîners en amoureux ou de grande occasion, cette recette a beaucoup d'effet.A accompagner de flans de légumes !
+  ]]>
+  </preparation>
+</recette>

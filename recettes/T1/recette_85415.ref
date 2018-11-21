@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85415">
+  <titre>Trio de la mer au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 gambas- 8 noix de saint-Jacques- 4 filets de perche (environ 600 g)- 1 oignon- 200 g de sauce tomate- 1 poivron vert- 1 poivron rouge- 20 cl de crème fraîche épaisse- 2 cuillères à soupe d'huile d'olive- 2 cuillères à café de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez les poivrons en fines lanières et hachez l'oignon finement.
+    Dans un wok, faites revenir les gambas dans de l'huile.
+    Otez-les et réservez.
+    Dans cette huile, ajoutez les poivrons et l'oignon.
+    Faites revenir 5 min, en saupoudrant de curry.
+    Ajoutez la sauce tomate, salez et poivrez.
+    Portez à ébullition. 
+    Ajoutez tous les poissons, et laissez cuire, jusqu'à ce que la sauce réduise au maximum (environ 20 min).
+    Lorsque la tomate a réduit, ajoutez la crème fraiche et encore du curry.
+    Salez et poivrez.Servir avec du riz basmati.
+  ]]>
+  </preparation>
+</recette>

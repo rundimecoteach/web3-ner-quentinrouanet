@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60566">
+  <titre>Papillote de fruits et épices</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bananes</p>
+    <p>1 pomme</p>
+    <p>1 poire</p>
+    <p>8 abricots secs</p>
+    <p>4 figues sèchées</p>
+    <p>4 cuillères à soupe de miel</p>
+    <p>4 épices</p>
+    <p>cannelle</p>
+    <p>papier sulfurisé pour faire les papillotes...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Couper les fruits en petits morceaux. Les répartir au centre des carrés de papier sulfurisé.
+    Rajouter les fruits secs coupés en 2.
+    Mettre 1 cuillère à soupe de miel par papillote (mettre sur les fruits) puis ajouter 1 pincée de 4 épices et 1 pincée de cannelle par papillote.
+    Mettre au four pendant 15 minutes environ. Servir aussitôt.
+    Pour la présentation, je sers avec le papier sulfurisé et glisse une boule de glace à la vanille au moment de servir.
+  ]]>
+  </preparation>
+</recette>

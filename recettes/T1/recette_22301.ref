@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22301">
+  <titre>Soupe au concombre très simple</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 concombres (pelés en laissant des zébrures vert foncé) ...on garde les pépins</p>
+    <p>une tranche de pain de mie sans la croûte (pour la consistance) </p>
+    <p>2 cuillères à soupe huile d'olive</p>
+    <p>quelques gouttes de Tabasco</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tout mettre dans le blender/mixer. 
+    Mixer 2 mn. 
+    Mettre au frigo une heure. 
+    Déguster.
+    très simple - très rapide - pas d'ingrédients bizarres - belle consistance grâce au pain de mie pastis :o)
+  ]]>
+  </preparation>
+</recette>

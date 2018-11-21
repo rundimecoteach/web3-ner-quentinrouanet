@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27923">
+  <titre>Marmelade de poire aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 poires</p>
+    <p>1 clou de girofle</p>
+    <p>1 bâton de cannelle</p>
+    <p>5 grains de poivre</p>
+    <p>1 gousse de vanille</p>
+    <p>1 citron</p>
+    <p>200 g de sucre</p>
+    <p>2 tranches de brioche rassie</p>
+    <p>miel et beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans 75 cl d'eau, mettre le citron en tranches fines, les épices et le sucre. Porter à ébullition, éteindre le feu et laisser infuser. 
+    Peler les poires coupées en quatre. 
+    Filtrer le buillon, y plonger les poires et porter à ébullition. Eteindre et laisser refroidir. 
+    Mixer les poires. Couper la brioche en dés, la passer dans une poêle dans laquelle on aura auparavant fait fondre le beurre et le miel. 
+    Faire dorer la brioche. La servir à part ou bien sur la marmelade bien froide.
+  ]]>
+  </preparation>
+</recette>

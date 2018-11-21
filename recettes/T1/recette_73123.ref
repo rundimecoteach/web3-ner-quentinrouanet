@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73123">
+  <titre>Délicieuse tarte au citron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte brisée (vous pouvez la faire vous-même ou l'acheter)</p>
+    <p>2 œufs entiers</p>
+    <p>125 g de sucre</p>
+    <p>3 citrons</p>
+    <p>1 verre et demi de canadou</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220 degrés.
+    Battre les œufs avec le sucre.
+    Râper un citron puis le presser, ajouter les zestes, puis le jus du citron dans le mélange œufs/sucre.
+    Incorporer le beurre ramolli et mélanger, placer la pâte brisée dans un moule à tarte et verser la garniture dessus.
+    Faire cuire environ 30 min à 220°C (thermostat 7).
+    Après cuisson, faire revenir deux citrons coupés en rondelles (sans les éplucher) dans le canadou (et dans une casserole :) ), jusqu'à ce qu'ils deviennent transparents.
+    Les disposer sur la tarte et arroser avec le canadou.
+    Un peu sucrée, mais pas écœurante...
+    Vous pouvez doser le canadou selon vos goûts. Par contre, je ne suis pas sûre du temps de cuisson.
+  ]]>
+  </preparation>
+</recette>

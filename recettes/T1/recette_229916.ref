@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229916">
+  <titre>Courgettes au parmesan au micro-ondes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de courgettes</p>
+    <p>1 petit oignon</p>
+    <p>30 g de parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes et l'oignon (préalablement épluchés) en fines rondelles.
+    Disposer dans un plat à micro-ondes les courgettes et l'oignon.
+    Parsemer avec le parmesan.
+    Fermer le plat ou recouvrir d'un film plastique alimentaire percé de trous avec une pointe de couteau.
+    Cuire 15 min au micro-ondes puissance max.
+    C'est prêt !
+  ]]>
+  </preparation>
+</recette>

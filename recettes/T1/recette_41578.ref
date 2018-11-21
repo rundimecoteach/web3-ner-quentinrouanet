@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41578">
+  <titre>Truites farcies aux crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 truites saumonnées vidées et nettoyées</p>
+    <p>1 boîte de crevettes décortiquées</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>1 bouquet de persil frais</p>
+    <p>1 gousse d'ail (ou ail en poudre: 1 cuillère à café)</p>
+    <p>1 citron</p>
+    <p>1 noix de beurre</p>
+    <p>sariette ou aneth</p>
+    <p>sel et poivre</p>
+    <p>papier aluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (Thermostat 7).
+    Egoutter les crevettes.
+    Les faire revenir à la poèle à feu vif 3 minutes (avec du beurre).
+    Hors du feu ajouter la crème fraiche, le persil, l'ail, les herbes, saler poivrer.
+    Bien mélanger.
+    Citronner l'intérieur des truites (pour faire fondre les petites arêtes)
+    Remplir chaque truite avec la farce. Les mettre en papillotes.
+    Les disposer dans un plat allant au four en prenant garde de les "installer" sur le dos pour que la farce ne s'écoule pas.
+    Laisser cuire 30 minutes.
+    Accompagner de pâtes ou de riz.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50608">
+  <titre>Pudding aux raisins</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pain rassis</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>150 g de sucre</p>
+    <p>100 g de raisins secs</p>
+    <p>2 paquets de levure alsacienne</p>
+    <p>3 oeufs</p>
+    <p>1 l de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille faire tremper le pain avec le lait.
+    Le jour même, préchauffer le four à 180°C (thermostat 6) puis égoutter le pain soigneusement.
+    Passer le pain au moulin à légumes puis lui ajouter les jaunes d'oeufs, les sucres, les raisins secs et la levure.
+    Lorsque le mélange est homogène, incorporer délicatement les blancs d'oeufs battus en neige.
+    Verser la préparation dans un plat à four beurré et cuire au four 35 à 45 minutes en vérifiant la cuisson avec la lame d'un couteau.
+  ]]>
+  </preparation>
+</recette>

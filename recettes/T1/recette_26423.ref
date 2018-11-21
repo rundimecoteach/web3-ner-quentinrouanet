@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26423">
+  <titre>Crumble à la rhubarbe et aux flocons d'avoine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de rhubarbe</p>
+    <p>300 g de cassonade</p>
+    <p>Pour le crumble :</p>
+    <p>125 g de farine</p>
+    <p>125 g de beurre demi-sel</p>
+    <p>60 g de flocons d'avoine</p>
+    <p>125 g de sucre en poudre</p>
+    <p>facultatif : cannelle ou gingembre moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et coupez la rhubarbe en tronçons. Déposez-les dans un plat à four beurré. Saupoudrez de cassonade et mélangez bien. Laissez reposez au moins 30 min.
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Coupez le beurre froid en morceaux, mélangez-le du bout des doigts avec la farine, les flocons d'avoine et le sucre. Ajoutez éventuellement un peu de cannelle ou de gingembre. Emiettez la pâte qui doit être sableuse, puis répartissez-la sur la rhubarbe.
+    Enfournez le crumble et laissez cuire 40 minutes. Baissez le four à 180°C (thermostat 6), et laissez cuire encore 10 min. avant de servir tiède.
+  ]]>
+  </preparation>
+</recette>

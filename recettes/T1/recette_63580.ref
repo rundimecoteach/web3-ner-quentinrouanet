@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63580">
+  <titre>Salade originale aux oranges, oignons et olives</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 belles oranges à jus</p>
+    <p>1 oignon doux</p>
+    <p>10 olives noires dénoyautées</p>
+    <p>1 cuillère à soupe de vinaigre de framboise</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer l'oignon. Disposer les tranches fines sur du papier absorbant et les saler.
+    Peler les oranges à vif en prenant soin de bien enveler la peau blanche, les découper en tranches fines et les réserver dans un saladier.
+    Rincer les oignons et mélanger les avec les oranges. Ajouter les olives, l'huile et les vinaigres.
+    Assaisonner à votre goût et laisser au frais pendant 1 heure avant de servir.
+    C'est surprenant mais délicieux!Essayez, c'est peu coûteux et cela plaira à tout le monde!
+  ]]>
+  </preparation>
+</recette>

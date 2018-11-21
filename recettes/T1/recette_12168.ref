@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12168">
+  <titre>Craquelins au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>160 g de sucre</p>
+    <p>quelques gouttes d'arôme naturel d'amande amère (facultatif)</p>
+    <p>85 g de chocolat râpé (environ 3 barres)</p>
+    <p>225 g d'amandes moulues (ou de noisettes)</p>
+    <p>70 g de farine</p>
+    <p>30 g de chapelure</p>
+    <p>50 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tourner en mousse les oeufs et le sucre. Ajouter l'arôme d'amande amère, le chocolat râpé, les amandes moulues, la chapelure puis la farine.
+    Former des petites boules, les rouler dans le sucre glace, et les déposer sur une tôle garnie d'une feuille de papier sulfurisé.Cuire à feu doux (thermostat 175° ou allure 5-6) pendant 15 à 25 minutes.
+    Après cuisson, les décoller à chaud.Les boules se fendent joliment à la cuisson, d'où leur nom. Elle sont délicieuses, et réussissent toujours.
+  ]]>
+  </preparation>
+</recette>

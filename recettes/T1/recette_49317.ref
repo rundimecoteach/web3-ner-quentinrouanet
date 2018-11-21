@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49317">
+  <titre>Salade d'ananas au maïs</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petite boîte d'ananas coupé en dés ou ananas frais</p>
+    <p>1 boîte de maïs</p>
+    <p>1 paquet de dés de jambon</p>
+    <p>quelques dés de gruyère</p>
+    <p>mayonnaise (au minimum 3 à 4 cuillères à soupe)</p>
+    <p>1 à 2 cuillères à soupe de curry (selon le goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les dés d'ananas, et mettre ensuite tous les ingrédients dans un saladier.
+    Rajouter la mayonnaise mélangée au curry, de sorte qu'elle recouvre tous les ingrédients.
+    Bien mélanger l'ensemble, afin que la sauce soit homogène, et laisser quelques heures au réfrigérateur avant de servir.
+    Cette salade doit être servie bien fraîche et sera très appréciée par les amateurs de sucré-salé.
+  ]]>
+  </preparation>
+</recette>

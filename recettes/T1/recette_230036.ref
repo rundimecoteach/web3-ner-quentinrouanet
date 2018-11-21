@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230036">
+  <titre>Kougelhopf alsacien</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine </p>
+    <p>75 g de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>100 g de beurre mou</p>
+    <p>2 œufs</p>
+    <p>150 g de raisins secs</p>
+    <p>25 cl de lait</p>
+    <p>20 g de levure de boulanger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettait le four à préchauffer à 180°C (thermostat 6).
+    Pour préparer le levain : 
+    Faire chauffer le lait 40 secondes, mettre la levure dans le lait et laisser fondre.
+    Pour la pâte:
+    Faire un volcan dans la farine et mettre les œufs.
+    Puis mettre le beurre mou, le sucre, les raisins secs, la pincée de sel et le levain. Et obtenir une pâte élastique.
+    Lever la pâte dans un endroit chaud pendant 1 h.
+    Beurrer le plat à kougelhopf.
+    Mettre la pâte dans le moule puis laisser reposer encore 1 heure.
+    Cuire au four pendant 1 h.
+    Servir tel qu'il est.
+  ]]>
+  </preparation>
+</recette>

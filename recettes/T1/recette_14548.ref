@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14548">
+  <titre>Côtelettes à la sauce suédoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses côtelettes de porc (ou de veau)</p>
+    <p>1 pincée de sel et de poivre</p>
+    <p>3 échalotes</p>
+    <p>1 pincée d'ail</p>
+    <p>25 cl de vin blanc demi-sec</p>
+    <p>25 cl d'orange fraîchement pressée</p>
+    <p>une pincée de persil</p>
+    <p>2 cuillères à soupe de ketchup</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez à cuire la viande à feu doux dans une grande poêle pendant que vous préparez le reste des ingrédients : pressez le jus d'orange, épluchez les échalotes et coupez-les finement.
+    Une fois vos ingrédients prêts et la viande cuite, sortez-la du feu, mais laissez la sauce ajoutez y le vin pour déglacer, puis le jus d'orange.
+    Tout en remuant la sauce, ajoutez les échalotes, le ketchup pour faire légèrement épaissir la sauce, sel, poivre, ail, persil, puis laissez mijoter quelques minutes avec la viande afin que la sauce épaississe et que les échalotes cuisent un peu (pour donner du goût à la sauce qui ne dois pas être trop épaisse).
+    Servir avec une salade et des frites.
+    Attention de à ne pas trop laisser la sauce épaissir! vin blanc demi sec de votre choix
+  ]]>
+  </preparation>
+</recette>

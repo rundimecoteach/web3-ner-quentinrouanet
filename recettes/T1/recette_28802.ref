@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28802">
+  <titre>Poulet à la sauge</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un gros poulet de ferme coupé en morceaux</p>
+    <p>2 dl de vin blanc</p>
+    <p>huile et farine</p>
+    <p>échalotes</p>
+    <p>poivre, sel</p>
+    <p>sauge fraîche</p>
+    <p>200 ml crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer les morceaux de poulet dans la farine et les faire rissoler dans l'huile avec sel et poivre. 
+    Y ajouter les échalotes coupées, le vin blanc, la sauge et laisser mijoter jusqu'à réduction de moitié. 
+    Avant de servir, lier avec la crème.
+  ]]>
+  </preparation>
+</recette>

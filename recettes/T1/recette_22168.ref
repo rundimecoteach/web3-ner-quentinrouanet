@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22168">
+  <titre>Papillotes de fruits au barbecue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poire</p>
+    <p>2 pêches</p>
+    <p>150 g de framboises</p>
+    <p>3 cuillères à soupe de miel d'acacia</p>
+    <p>zestes d'1 citron jaune</p>
+    <p>8 feuilles de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler la poire et les pêche en fines tranches.
+    Les répartir sur 4 feuilles d'aluminium.
+    Ajouter les framboises et le zeste de citron.
+    Arroser de miel, joindre la menthe et refermer les papillotes.
+    Faire cuire 8 minutes au barbecue et servir.
+  ]]>
+  </preparation>
+</recette>

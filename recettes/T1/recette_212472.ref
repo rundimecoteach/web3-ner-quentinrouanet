@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212472">
+  <titre>Sorbet au romarin</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 l d'eau</p>
+    <p>250 g de sucre en poudre </p>
+    <p>1/2 jus de citron</p>
+    <p>3 branches de romarin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir 1/2 l d'eau avec 250 g de sucre en poudre et le 1/2 jus de citron.
+    Hors du feu, mettre 3 branches de romarin (attention au bois de romarin un peu sec cueilli dans votre jardin).Laisser infuser jusqu'à ce que l'eau soit froide.
+    Mettre la préparation avec une passoire (pour enlever les branches et les feuilles du romarin) dans une sorbetière.Je sers ce sorbet en accompagnement de plusieurs desserts, mais surtout en tant que "trou normand" lors d'un repas festif, ainsi tous peuvent en profiter puisqu'il est sans alcool. eau
+  ]]>
+  </preparation>
+</recette>

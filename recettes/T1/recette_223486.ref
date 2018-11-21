@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223486">
+  <titre>Trianon au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le biscuit :</p>
+    <p>2 oeufs</p>
+    <p>60 g de sucre</p>
+    <p>40 g de poudre d'amandes</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>2 cuillère à soupe de farine</p>
+    <p>40 g de beurre fondu</p>
+    <p>Pour le praliné :</p>
+    <p>200 g de pralinoise</p>
+    <p>3/4 d'un paquet de crêpes dentelles</p>
+    <p>40 g de pralin</p>
+    <p>Pour la mousse :</p>
+    <p>1 bombe de chantilly</p>
+    <p>300 g de chocolat au lait "Dessert"</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (Th.6)
+    Le biscuit : 
+    Blanchir les oeufs avec le sucre.
+    Ajouter la poudre d'amandes, la farine, la levure et en dernier lieu, le beurre fondu. Mixer le tout.
+    Mettre du papier sulfurisé dans le fond du moule.
+    Napper le papier de cette mixture.
+    Mettre au four 180°C (Th.6) pendant 10 min
+    Le praliné : 
+    Faire fondre la pralinoise dans une casserole ou au bain-marie.
+    Émietter les crêpes, ajouter le pralin puis la pralinoise fondue.
+    Mélanger le tout et réserver.
+    La mousse : 
+    Faire fondre le chocolat à la casserole ou au bain-marie. Une fois fondu, ajouter la chantilly petit à petit.Démouler le biscuit, enlever le papier sulfurisé et remettre le biscuit dans le moule en le retournant.
+    Étaler le praliné sur ce biscuit, puis ajouter la mousse.
+    Conserver le tout au frigo.
+    Servir frais.
+  ]]>
+  </preparation>
+</recette>

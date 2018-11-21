@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68089">
+  <titre>Tarte à la menthe meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>4 cuillères à soupe de sucre</p>
+    <p>35 cl de lait</p>
+    <p>5 à 8 brins de menthe</p>
+    <p>4 oeufs</p>
+    <p>le jus d'un citron</p>
+    <p>150 g de sucre</p>
+    <p>1/2 cuillère à café de levure chimique</p>
+    <p>10 à 15 gouttes de colorant alimentaire vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foncer un moule à tarte avec la pâte brisée, garnir de papier sulfurisé et de haricots secs. Faire cuire à blanc 25 min à 180°C (thermostat 6). 
+    Délayer la Maïzena dans un peu de lait froid, puis ajouter la farine.
+    Faire chauffer le reste du lait avec les feuilles de menthe en veillant qu'elles restent bien immergées. Retirer du feu à l'ébullition. Mettre un couvercle et laisser infuser 15 minutes.
+    Retirer la menthe et verser doucement sur le mélange Maïzena-farine. Remettre dans la casserole et porter à ébullition tout en remuant.
+    Séparer les blancs des jaunes d'oeuf (réserver les blancs). Battre les jaunes avec le sucre et le jus de citron. Ajouter le mélange précédent progressivement. Ajouter le colorant alimentaire vert.
+    Bien mélanger et remettre dans la casserole. Porter tout doucement à frémissement et laisser cuire encore 2 minutes. Verser dans un récipient propre.
+    Quand la crème est froide, la verser sur le fond de pâte.
+    Préparer la meringue : monter les blancs en neige avec une pincée de sel. Quand ils commencent à être fermes, ajouter le sucre et la levure. Mixer jusqu'à ce que la neige soit ferme.
+    Recouvrir la tarte avec les blancs en neige. Cuire au four à 120°C pendant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

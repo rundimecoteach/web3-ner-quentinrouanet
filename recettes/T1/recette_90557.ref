@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90557">
+  <titre>Gâteau à la farine de châtaigne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 œufs</p>
+    <p>6 c. à soupe de sucre en poudre</p>
+    <p>6 c. à soupe de farine de châtaignes</p>
+    <p>1/2 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes.
+    Blanchir les jaunes avec le sucre.
+    Y ajouter, cuillère par cuillère, la farine de châtaigne tamisée avec la levure.
+    Battre les blancs en neige avec une pincée de sel et les incorporer très délicatement à la préparation précédente.
+    Verser le mélange dans un moule à manquer et faite cuire environ 40 minutes dans un four à 180°C (thermostat 6).
+    Pour les plus gourmands, on peut ajouter, dans la préparation, environ 80g de cerneaux de noix. On peut aussi, après la cuisson, napper le gâteau de chocolat noir pâtissier fondu. C'est trop bon...
+  ]]>
+  </preparation>
+</recette>

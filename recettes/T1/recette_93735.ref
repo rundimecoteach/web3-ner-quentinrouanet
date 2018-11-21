@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93735">
+  <titre>Cheese cake della Franca</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la base de la tarte :</p>
+    <p>180g Biscuit petit Beukelaer</p>
+    <p>100g Beurre</p>
+    <p>80g Sucre</p>
+    <p>250g mascarpone</p>
+    <p>250g ricotta</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère de farine</p>
+    <p>1 sachet de vanilline</p>
+    <p>Pour la décoration :</p>
+    <p>confiture (de framboise, ou autre)</p>
+    <p>1 demi citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser les biscuits pour qu'il soit en poudre, et ajouter le beurre fondu. Mettre le mélange dans un moule et le tasser afin qu'il devienne très compact.Mélanger les jaunes d'oeufs, le sucre, la mascarpone, la ricotta, la farine et la vanilline. Incorporer ensuite les blancs montés en neige délicatement afin de ne pas la démonter. Rajouter ensuite ce mélange dans le moule.
+    Mettre le moule au four préchauffé à 180°C durant environ 30 minutes. Laisser ensuite refroidir la tarte. Lorsqu'elle est bien fraiche, la garnir avec un mélange de confiture et du jus d'un demi citron, ou de fruits entiers style framboises.
+  ]]>
+  </preparation>
+</recette>

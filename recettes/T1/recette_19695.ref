@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19695">
+  <titre>Filets de limande aux noisettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 filets de limande</p>
+    <p>40 g de farine</p>
+    <p>2 oeufs</p>
+    <p>40 g de chapelure</p>
+    <p>40 g de noisettes en poudre</p>
+    <p>1 citron</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Farinez légèrement les filets de limande. Battez les oeufs à la fourchette dans une assiette creuse, avec 1 cuillère à soupe d'huile, sel et poivre. Passez les filets dans ce mélange. 
+    Mélangez la chapelure et les noisettes en poudre dans une deuxième assiette creuse. Passez les filets dans ce deuxième mélange. 
+    Faites chauffer 2 cuillères à soupe d'huile dans une poêle et y faire dorer les filets panés 2 à 3 mn sur chaque face. 
+    Egouttez-les sur un papier absorbant. 
+    Disposez les filets deux par deux sur des assiettes. Garnissez de rondelles de citron.
+    VOus pouvez servir avec des épinards frais au beurre, ou du riz.
+  ]]>
+  </preparation>
+</recette>

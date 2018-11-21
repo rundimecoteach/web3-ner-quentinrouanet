@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28300">
+  <titre>Coupe de yaourt et mascarpone aux fruits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 yaourts au lait entier</p>
+    <p>200 g de Mascarpone</p>
+    <p>60 g de sucre semoule</p>
+    <p>1/2 cuillère à café d'essence de vanille</p>
+    <p>1 kiwi</p>
+    <p>1 pomme granny</p>
+    <p>1 banane</p>
+    <p>1 citron (pour son jus)</p>
+    <p>1 cuillère à soupe de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez les yaourts avec le Mascarpone, le sucre, l'essence de vanille dans un saladier. Travaillez au fouet électrique de façon à avoir une préparation onctueuse. Répartissez cette crème dans de beaux verres évasés ou dans des coupes. Mettez-les au réfrigérateur. Pelez le kiwi, coupez-le en petits morceaux. Pelez la pomme et taillez-la en petits dés. Epluchez la banane et découpez-la en fines rondelles. Mélangez les fruits dans une jatte, arrosez-les de jus de citron, saupoudrez de sucre glace et remuez délicatement. Mettez-les au frais. Juste au moment de servir, répartissez la salade de fruits dans les coupes.
+  ]]>
+  </preparation>
+</recette>

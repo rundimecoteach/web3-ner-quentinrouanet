@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80931">
+  <titre>Tarte aux 3 poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte toute faite</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron jaune</p>
+    <p>1 poivron vert</p>
+    <p>2 courgettes</p>
+    <p>2 tomates</p>
+    <p>200 g de féta</p>
+    <p>2 oeufs</p>
+    <p>1 poignée de fromage râpé</p>
+    <p>3 cuillères à soupe de fromage blanc</p>
+    <p>un peu de farine</p>
+    <p>sel, poivre, basilic, chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les courgettes et les poivrons, saler et poivrer dans une poêle, puis les mettre à réduire avec un peu d'huile d'olive pendant 30 min en remuant de temps en temps. 
+    Etaler la pâte dans une tourtière et piquer le fond à l'aide d'une fourchette.
+    Recouvrir d'une fine couche de farine et disposer les rondelles de tomates crues. La farine absorbera le jus des tomates et le fond de tarte pourra cuire plus facilement.
+    Battre les 2 oeufs entiers avec le fromage blanc et le râpé dans un bol et réserver.
+    Mettre les légumes réduits sur les tomates crues, verser le contenu du bol et disposer la féta tranchée en lamelles par-dessus.
+    Saupoudrer de basilic et chapelure et mettre au fourà 180°C (thermostat 6) pendant 30 min environ.
+  ]]>
+  </preparation>
+</recette>

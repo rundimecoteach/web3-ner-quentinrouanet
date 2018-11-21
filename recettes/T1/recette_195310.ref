@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195310">
+  <titre>Compote de pommes et figues séchées</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 pommes</p>
+    <p>150 g de figues séchées</p>
+    <p>3 morceaux de sucre (facultatif)</p>
+    <p>1 bol de thé ou infusion</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les figues à réhydrater dans le thé (j'avais fait avec infusion tilleul/menthe) pendant une heure si vous avez le temps.
+    Peler les pommes, enlever les pépins et couper en grossiers morceaux.
+    Mettre à cuire à feu doux et à couvert l'ensemble des ingrédients (y compris le liquide) une trentaine de minutes.
+    Mixer.Vous pouvez évidemment rajouter des épices , à votre guise : cannelle, gingembre, cardamome... Comme bon vous semble
+  ]]>
+  </preparation>
+</recette>

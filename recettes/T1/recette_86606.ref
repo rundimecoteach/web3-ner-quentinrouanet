@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86606">
+  <titre>Vinaigrette maison</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petite échalote</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1.5 cuillère à soupe de vinaigre</p>
+    <p>1/2 cuillère à soupe de moutarde</p>
+    <p>sauce maggi</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tout d'abord, commencer par couper très finement l'échalote.
+    Ensuite dans un saladier, verser l'huile et le vinaigre. 
+    Puis ajouter la moutarde. Remuer afin d'obtenir un mélange quasiment homogène.
+    Ajouter le sel, le poivre et le Maggi à votre convenance, puis mélanger de nouveau.
+    Il ne reste plus qu'à ajouter l'échalote et à mélanger une nouvelle fois.
+    J'utilise cette vinaigrette en général avec de la salade verte, des carottes, ... Par contre, pour la salade de pommes de terre et celle de concombre, je vous conseille de ne pas mettre de Maggi.
+  ]]>
+  </preparation>
+</recette>

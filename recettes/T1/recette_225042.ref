@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225042">
+  <titre>Gigot de sept heures à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gigot d'agneau de 2,5 kg environ</p>
+    <p>3 carottes</p>
+    <p>10 échalotes</p>
+    <p>1 branche de céleri</p>
+    <p>1 cuillère à soupe rase de graines de fenouil</p>
+    <p>1 bouquet garni</p>
+    <p>50 cl de vin blanc (Bourgogne aligoté)</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>10 g de sucre</p>
+    <p>sel et poivre</p>
+    <p>50 g de beurre froid</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pocher le gigot 5 min dans de l'eau à ébullition, le sortir et le sécher.
+    Faire dorer le gigot dans une cocotte en fonte avec l'huile d'olive. 
+    Verser le rhum et flamber.
+    Ajouter les carottes en rondelles épaisses, les échalotes, la branche de céleri, les graines de fenouil, le bouquet garni, sel et poivre en grains. Couvrez la cocotte et laisser mijoter 1/2 heure.
+    Verser 25 cl de vin blanc dans la cocotte, couvrir et poursuivre la cuisson à feu doux pendant encore 4 heures 1/2. Vérifier la quantité de liquide, au besoin rajouter un peu d'eau.
+    Et toutes les heures retourner le gigot dans la cocotte.
+    Au bout des 5 heures arrêter le feu et laisser jusqu'au lendemain.
+    Le lendemain mettre au four à 120°C (thermostat 4) pendant 2 heures.
+    Avant de servir, faire réduire 25 cl de vin blanc avec le sucre. Récupérer les légumes et les écraser dans un tamis. Détendre les légumes passés avec un peu de sauce du gigot, puis rajouter la réduction de vin blanc. A feu très doux ajouter petit à petit en fouettant du beurre froid.
+    Servir
+  ]]>
+  </preparation>
+</recette>

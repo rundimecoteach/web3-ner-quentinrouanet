@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46213">
+  <titre>Spaghetti aux légumes primeurs et dinde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de spaghetti</p>
+    <p>1 avocat coupé en morceaux</p>
+    <p>pâte d'ail</p>
+    <p>2 dl de crème à 33%</p>
+    <p>6 tomates en grappes coupées en morceaux</p>
+    <p>2 cuillères à soupe d'olives émincées</p>
+    <p>huile d'olive</p>
+    <p>2 cuillères à soupe de basilic grossièrement haché</p>
+    <p>jus de citron</p>
+    <p>400 g de filet de poulet (ou de dinde) coupé en lamelles</p>
+    <p>sel et poivre</p>
+    <p>2 cuillères à soupe de tapenade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le spaghetti suivant les instructions de l'emballage.
+    Cuisez la dinde avec la pâte d'ail dans de l'huile d'olive, et ajoutez la tapenade, les tomates, l'avocat et la crème.
+    Faites revenir le tout pendant 1 minute, et mélangez avec les pâtes.
+    Ajoutez le jus de citron, l'huile d'olive, les olives en tranche et le basilic frais.
+    Assaisonnez avec le poivre et le sel.
+     Sangiovese villa Giulia 04 - 75 cl
+  ]]>
+  </preparation>
+</recette>

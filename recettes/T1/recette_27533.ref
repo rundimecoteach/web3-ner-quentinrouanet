@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27533">
+  <titre>Filets de merlan au four et sa julienne de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 beaux filets de merlan</p>
+    <p>beurre</p>
+    <p>2 carottes</p>
+    <p>1 blanc de poireaux</p>
+    <p>1 petite branche de céleri</p>
+    <p>100 g de petits champignons de couche</p>
+    <p>2 échalotes</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les carottes, puis nettoyer le poireau, les champignons et la branche de céleri.
+    Détailler les légumes en fine julienne, puis les faire fondre dans une poêle avec le beurre.
+    Peler puis hacher les échalotes et les faire revenir dans une sauteuse beurrée. Les mouiller de vin banc et d'eau, puis laisser chauffer jusqu’à ce que le jus de cuisson réduise de moitié.
+    Y ajouter les légumes et laisser mijoter encore quelques minutes à feu doux.
+    Pendant ce temps, déposer les filets de merlan dans un plat beurré, allant au four, puis les recouvrir de la poêlée de légumes. Les saupoudrer de chapelure, parsemer de noisettes de beurre puis enfourner au four à 200°C (thermostat 6-7).
+    Laisser cuire 20 min, puis déguster dès la sortie du four.
+  ]]>
+  </preparation>
+</recette>

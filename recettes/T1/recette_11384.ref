@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11384">
+  <titre>Rillettes au deux saumons (fumé et frais)</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le court bouillon :</p>
+    <p>3 l d'eau</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>2 carottes</p>
+    <p>1 oignon</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+    <p>Pour le reste de la recette :</p>
+    <p>400 g de saumon frais ou surgelé</p>
+    <p>300 g de saumon fumé</p>
+    <p>100 g d'oeufs de saumon ou 400 g de saumon fumé en tout</p>
+    <p>200 g de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>Pour servir : </p>
+    <p>citron</p>
+    <p>ciboulette (ou persil haché à volonté)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le court bouillon avec les ingrédients indiqués et laissez cuire 20 min. Plongez-y le saumon et laissez cuire 12 min.
+    Laissez-le refroidir dans le court bouillon, puis égouttez-le, retirez la peau et les arêtes, puis émiettez la chair avec une fourchette.
+    Passez le saumon fumé au mixer avec les oeufs de
+    saumon, ajoutez le beurre ramolli en pommade, puis les jaunes oeufs et l'huile.
+    Incorporez au saumon cuit et mettez le tout dans une terrine.Un peu cher mais délicieux. On peut servir aussi en canapés garnis de citron ou d'herbes hachées.
+  ]]>
+  </preparation>
+</recette>

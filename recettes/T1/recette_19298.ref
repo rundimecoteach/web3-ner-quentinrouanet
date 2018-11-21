@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19298">
+  <titre>Jambon au porto</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de jambon braisé</p>
+    <p>1 verre de Porto</p>
+    <p>30 g de farine</p>
+    <p>30 g de beurre</p>
+    <p>de l'eau</p>
+    <p>1 cuillère à café de concentré de tomate</p>
+    <p>1 petite boîte de champignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole mettre le beurre à fondre, ajouter la farine, faire blondir légèrement la farine en remuant. Retirer du feu, ajouter le jus de la boîte de champignons puis le Porto en remuant avec un fouet. Ajouter un peu d'eau et remettre sur le feu jusqu'à frémissement. Compléter avec de l'eau jusqu'à obtenir l'onctuosité souhaitée. Ajouter le concentré de tomate, les champignons. Remuer, puis mettre le jambon coupé en demi tranches ; dès frémissement laisser cuire 15 à 20 mn. Saler et poivrer.
+  ]]>
+  </preparation>
+</recette>

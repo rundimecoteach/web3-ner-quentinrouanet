@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48899">
+  <titre>Gâteau d'épinards de caro</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g d'épinards frais</p>
+    <p>300 g de poitrine fumée coupée en gros lardons</p>
+    <p>20 cl de crème liquide</p>
+    <p>3 cuillères à soupe de maïzena</p>
+    <p>5 oeufs</p>
+    <p>gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Equeutter les épinards.
+    Les blanchir à l'eau bouillante quelques minutes.
+    Bien les égoutter (au besoin, les presser entre ses mains).
+    Mettre les lardons crus et les épinards bien égoutté dans un grand plat à four.
+    Bien mélanger les oeufs et la maïzena et ajouter la crème liquide, du sel (pas trop, les lardons sont déjà salés) et du poivre (si la préparation est un peu épaisse, ajouter un peu d'eau fraiche).
+    Ajouter la préparation aux oeufs sur les lardons et les épinards. Parsemer de gruyère râpé.
+    Faire cuire 30 min à 180-200°C (thermostat 6-7).
+    Servir tiède ou froid.
+    Servi avec une salade de tomates au vinaigre balsamique et à l'huile d'olive, c'est délicieux...
+  ]]>
+  </preparation>
+</recette>

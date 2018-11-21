@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25869">
+  <titre>Pain de lotte à la bisque de homard</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1,5 kg de lotte (une queue si possible) </p>
+    <p>6 oeufs</p>
+    <p>1 petite boîte de bisque de homard</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>1 cuillère à soupe de Cognac</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer la veille.
+    Faire frémir la lotte 20 min dans un court bouillon (eau, 1 poignée de gros sel, 2 jus de citron). 
+    Egoutter, enlever l'arrête centrale et couper en 2 dans le sens de la longueur. 
+    Poser les 2 morceaux tête bêche dans un plat à cake beurré. 
+    Mélanger les oeufs, la bisque, le concentré de tomate, la crème fraîche, Cognac et assaisonnement. 
+    Verser cette préparation sur la lotte, en soulevant pour que la préparation passe dessous. 
+    Mettre au four Th 7 pendant 30 à 40 mn. 
+    Laisser au frigo pendant 1 journée (ou une nuit). 
+    Servir avec une mousseline aux câpres (mousseline : 1 oeuf, séparer le blanc du jaune. Avec le jaune faire une mayonnaise. Battre le blanc en neige. Mélanger avec la mayonnaise et ajouter une cuillère à soupe de câpres)
+    Ca marche très bien avec de la lotte surgelée et ça en jette. Parfait pour une entrée de fête !
+  ]]>
+  </preparation>
+</recette>

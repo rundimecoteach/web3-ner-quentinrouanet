@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26435">
+  <titre>Salade complète au saucisson</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 oignons doux</p>
+    <p>1/2 céléri-rave</p>
+    <p>2 pommes de terre</p>
+    <p>1 saucisson à l'ail ou cervelas</p>
+    <p>4 oeufs durs</p>
+    <p>75 g de gruyère râpé</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>2 cuillères à soupe de ciboulette ciselée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'eau bouillante salée 25 minutes.
+    Coupez les oignons et le saucisson en rondelles. Ecalez et coupez les oeufs durs en quartiers. Râpez le céléri.
+    Préparez la sauce avec la moutarde, l'huile, le vinaigre, du sel et du poivre.
+    Pelez et coupez les pommes de terre en dés. Ajoutez les légumes, le saucisson, les oeufs et le gruyère.
+    Versez la sauce et mélangez délicatement. Saupoudrez de ciboulette.
+    Réservez au frais jusqu'au service.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71874">
+  <titre>Gâteau salé aux crevettes et au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de fromage blanc</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>1 cuillère à soupe de lait</p>
+    <p>200 g de thon au naturel</p>
+    <p>100 g de crevettes décortiquées</p>
+    <p>1 bouquet de ciboulette ciselée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le fromage blanc avec les oeufs battus, la maïzena délayée dans le lait, du sel, du poivre.
+    Incorporer le de thon au naturel égoutté et émietté, les crevettes décortiquées et la bouquet de ciboulette ciselée.
+    Verser dans un moule à cake beurré, enfourner 30 min à 210°C (thermostat 7).
+    Servir tiéde, nappé d'un coulis de tomates et d'une salade verte, ce gâteau fera un repas léger ou une entrée délicieuse.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173050">
+  <titre>La Ciambella (gâteau italien)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 œufs</p>
+    <p>300 g de sucre</p>
+    <p>300 g de farine</p>
+    <p>250 g de ricotta (1 pot entier généralement)</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>quelques amandes effilées pour la décoration</p>
+    <p>quelques gouttes de fleur d'oranger (en option)</p>
+    <p>1 noisette de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Dans un saladier, mélanger les œufs avec le sucre jusqu'à ce qu'ils blanchissent.
+    Ajouter ensuite la ricotta, la levure, le sucre vanillé et en dernier, la farine.
+    Mélanger le tout depuis avec une spatule en bois afin d'obtenir un mélange relativement crémeux. Verser quelques gouttes de fleur d'oranger selon vos goûts.
+    Verser ensuite cette préparation dans un moule à savarin (moule avec un trou au milieu) préalablement beurré et fariné afin que le gâteau ne colle pas au démoulage.
+    Avant d'enfourner, parsemer sur la préparation un peu de sucre et les amandes effilées (cet ordre est important car le sucre va légèrement caraméliser au four et va faire coller les amandes).Enfourner pendant 30-35 min à 180°C (thermostat 6). Bien surveiller la cuisson en plantant de temps en temps un couteau dedans. Si le couteau ressort sec, c'est que le gâteau est cuit.
+    Bonne préparation !Un gâteau rapide et très simple qui réussi à coup sûr... Très apprécié des enfants aussi pour son moelleux.
+  ]]>
+  </preparation>
+</recette>

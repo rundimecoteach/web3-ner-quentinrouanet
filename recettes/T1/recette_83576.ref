@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83576">
+  <titre>Fricassée de dinde à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde épaisses</p>
+    <p>25 cl de crème semi-épaisse </p>
+    <p>1 jaune d'œuf</p>
+    <p>20 g de beurre</p>
+    <p>20 g de farine</p>
+    <p>1 oignon</p>
+    <p>2 bouillons de cubes de volaille</p>
+    <p>1/2 bouquet Persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un bouillon avec 1 litre d'eau et les 2 cubes de poule et porter à ébullition dans une sauteuse.
+    Ajouter ensuite les escalopes dans le bouillon et reporter à ébullition et couper le feu ensuite et couvrir.
+    Laisser pocher la viande pendant 10 min environ (il faut que la viande soit cuite).
+    Pendant ce temps, émincer l'oignon et le persil ; mélanger la crème et le jaune d'œuf ensemble, saler et poivrer et ajouter le persil.
+    Retirer ensuite la viande et la couper en gros cubes et réserver le bouillon.
+    Faire fondre le beurre dans la sauteuse et ajouter l'oignon émincé et faire revenir 5 min sans coloration.
+    Ajouter la viande et faire revenir encore 2 min ; saupoudrer ensuite de la farine et mélanger.
+    Verser ensuite dessus 1/4 litre de bouillon et mélanger.
+    Porter ensuite à ébullition et baisser le feu et faire épaissir 5 min.
+    Ajouter ensuite hors du feu, le mélange crème et bien mélanger.
+    Remettre ensuite 2 à 3 min sur feu doux pour lier la sauce en mélangeant pour éviter que la crème ne tourne.
+    Servir aussitôt avec du riz.
+    Je garde le reste de bouillon pour faire cuire le riz.
+  ]]>
+  </preparation>
+</recette>

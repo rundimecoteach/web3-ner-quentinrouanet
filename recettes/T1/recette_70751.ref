@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70751">
+  <titre>Shortbreads au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>85 g de sucre + un petit peu pour la décoration</p>
+    <p>25 g de cacao amer en poudre</p>
+    <p>300 g de farine</p>
+    <p>250 g de beurre salé très frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Couper le beurre en petit morceaux. Mélanger le sucre, le cacao et le beurre. Puis ajouter la farine, continuer de mélanger jusqu'à obtention d'une pâte sableuse (toujours mélanger à la main).
+    Etaler la pâte dans un moule carré, et mettre à cuire 35 minutes dans le four.
+    Sortir le gâteau du four, et le laisser reposer 5 minutes. Le découper en petits rectangles. Les saupoudrer de sucre cristal.
+  ]]>
+  </preparation>
+</recette>

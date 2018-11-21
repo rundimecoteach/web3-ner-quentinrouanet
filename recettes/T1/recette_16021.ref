@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16021">
+  <titre>Champignons farcis à l'ail et au persil</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 très gros champignons de Paris</p>
+    <p>Pour le beurre à escargot : </p>
+    <p>ail</p>
+    <p>persil</p>
+    <p>beurre</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Équeuter les champignons et les évider.
+    Préparer le beurre à escargot en mélangeant le beurre, l'ail et le persil.Mélanger le beurre à escargot avec les queues de champignons finement tranchées, puis en garnir les têtes des champignons.
+    Mettre dans un plat à four, en saupoudrant d'un peu de chapelure.
+    Faire cuire approximativement 10 à 15 mn, jusqu'à ce que le beurre soit fondu et les champignons cuits.La chapelure permet d'absorber l'excès de graisse qui suinte à la cuisson.
+  ]]>
+  </preparation>
+</recette>

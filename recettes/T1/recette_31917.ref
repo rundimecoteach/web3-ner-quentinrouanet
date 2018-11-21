@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31917">
+  <titre>Poulet farci à la polonaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>200 g de foie volaille</p>
+    <p>60 g de riz</p>
+    <p>100 g de champignons de Paris</p>
+    <p>un peu de beurre</p>
+    <p>un peu d'huile</p>
+    <p>1 branche de céleri</p>
+    <p>1 carotte</p>
+    <p>1 verre de vin blanc</p>
+    <p>persil</p>
+    <p>laurier</p>
+    <p>poivre, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la farce : 
+    Couper les champignons de Paris et les faire revenir dans une poêle légèrement huilée. 
+    Hacher les foies de volaille, puis les ajouter aux champignons. 
+    Faire cuire le riz, et l'ajouter au mélange foies / champignons. 
+    Assaisonner avec sel et poivre. 
+    Farcir le poulet avec cette préparation (coudre la peau pour une bonne fermeture). 
+    Beurrer légèrement et saler le poulet. 
+    Le déposer dans une cocotte. 
+    Ajouter les légumes coupés en petits morceaux, et un peu de laurier. 
+    Poivrer et ajouter de l'eau. 
+    Faire mijoter à feu doux (le temps dépend de la grosseur... 1h15 à 1h30 pour un poulet "normal"). 
+    Lorsque le poulet est cuit, le dresser sur un plat de service. 
+    Mixer la sauce, ajouter le vin blanc, faire chauffer, puis verser dans une saucière. 
+    Servez le poulet.
+    Cette recette est d'origine polonaise.
+    Je l'accompagne de pommes de terres (tout simplement cuites vapeur). rouge
+  ]]>
+  </preparation>
+</recette>

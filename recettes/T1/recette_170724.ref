@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170724">
+  <titre>Burger Provençal Maison à la Pulpe d'Olive</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 muffins complets </p>
+    <p>1 cuillère à café d’huile d’olive « fruité noir » Le Mas de l’Ange</p>
+    <p>2 blancs de poulet fermier</p>
+    <p>2 cuillères à soupe de pulpe d’olive noire au thym et à la sarriette : la grossane</p>
+    <p>8 noisettes décortiquées</p>
+    <p>2 gousses d’ail</p>
+    <p>2 tranches d’aubergine nappées d’huile d’olive et de thym</p>
+    <p>quelques feuilles de cresson ou d’épinard</p>
+    <p>4 pétales de tomate mi-séchée de Provence</p>
+    <p>fleur de sel</p>
+    <p>poivre noir Ceylan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enfourner les tranches d’aubergine huilées sous le grill du four quelques minutes. Mixer la pulpe d’olive avec une gousse d’ail et les noisettes.
+    Enrober les filets de poulet de cette préparation et les faire dorer délicatement à la poêle dans l’huile d’olive. Toaster les muffins coupés en deux.
+    Imbiber d’une goutte d’huile d’olive les tranches de pain, les frotter avec une gousse d’ail fendue.
+    Recouvrir de pétales de tomate séchées, ajouter la viande poivrée et salée, une tranche d’aubergine, une feuille de cresson, une pointe de pulpe d’olive crémeuse et refermer le sandwich.
+    Et voilà un bon hamburger façon méridionale ! A tenter avec d’autres pulpes d’olive, du canard, des légumes sautés… Dans ce cas, plutôt une bière américaine type " Bud "
+  ]]>
+  </preparation>
+</recette>

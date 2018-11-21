@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23048">
+  <titre>Boudin au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>22 petits beurre </p>
+    <p>200 g de chocolat noir </p>
+    <p>100 g de beurre</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Casser en petits morceaux tous les biscuits. 
+    Faire fondre le beurre au bain-marie et y ajouter l'oeuf entier hors du feu. Bien remuer. 
+    Mélanger le beurre fondu et l'oeuf aux biscuits. Les biscuits doivent boire toute la sauce. 
+    Faire fondre le chocolat (avec un peu d'eau). Une fois fondu, le mélanger aux biscuits. 
+    Bien mélanger. 
+    Mettre la pâte dans un papier aluminium en lui donnant une forme allongée de boudin. Mettre au frais quelques heures.
+    Accompagne le café ou le thé.Amuse gueule à Noël peut-être un blanc sucré
+  ]]>
+  </preparation>
+</recette>

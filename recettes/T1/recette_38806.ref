@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38806">
+  <titre>Petits gâteaux noix de coco et pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>250 g de farine</p>
+    <p>250 g de sucre</p>
+    <p>250 g de beurre</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>250 g de noix de coco</p>
+    <p>250 g de pépites de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, verser la farine, le sucre et les oeufs. Battre le tout au fouet électrique, jusqu'à ce que la pâte soit bien lisse.
+    Préchauffer le four à 180°C (thermostat 6).
+    Ensuite, faire fondre le beurre.
+    Quand la pâte est lisse, ajouter le beurre et mélanger le tout. Ensuite, ajouter le sucre vanillé et la levure, mélanger. Puis, ajouter la noix de coco, mélanger et pour finir ajouter les pépites de chocolat, mélanger.
+    Répartir la pâte dans des moules à muffins, remplir au 3/4 et enfourner 30 min à 180°C.
+  ]]>
+  </preparation>
+</recette>

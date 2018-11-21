@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167307">
+  <titre>Goulasch</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de paleron de boeuf coupé en cubes de 80g environ (ou viande a bourguignon)</p>
+    <p>3 oignons</p>
+    <p>3 à 4 c. à soupe d'huile d'olive</p>
+    <p>2 c. à soupe de farine</p>
+    <p>2 c. à soupe de paprika</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>2 gousses d'ail</p>
+    <p>1/2 litre de bouillon</p>
+    <p>2 c. à soupe de concentré de tomates</p>
+    <p>1 sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte posée sur feu doux, faire blondir les oignons hachés avec 2 c. à s de graisse, sans les laisser se colorer.
+    Pendant ce temps, saupoudrer la viande de farine, et la faire dorer à part avec le reste de la graisse avant de l'ajouter dans la cocotte (attention , il faut bien remuer pour ne pas que la viande accroche)
+    Saupoudrer de paprika, de sel ; incorporer l'ail écrasé, bien mélanger et laisser mijoter pour que la viande s'imprègne bien du paprika.
+    Arroser avec le bouillon chaud dans lequel aura été dilué le concentré de tomates et le sucre ; couvrir et laisser mijoter 3 h.rajouter de l'eau en fonction de la texture de sauce désirée.
+  ]]>
+  </preparation>
+</recette>

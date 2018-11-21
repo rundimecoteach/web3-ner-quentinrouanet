@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16201">
+  <titre>Tiramisu (Italie)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de mascarpone</p>
+    <p>5 œufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>200 g de biscuits italiens « Pavesini »</p>
+    <p>30 cl de café très fort tiède</p>
+    <p>30 g de cacao en poudre non sucré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cassez les oeufs, séparez les blancs des jaunes dans deux saladiers. Ajoutez le sucre aux jaunes et fouettez jusqu'à ce que le mélange blanchisse et fasse un ruban quand on soulève le fouet.
+    Incorporez le mascarpone en petits morceaux, et fouettez pour rendre la préparation homogène. Fouettez les blancs d'oeufs en neige très fermement, avec une pincée de sel.
+    Incorporez-les délicatement à la préparation précédente, avec la spatule, en mélangeant du bas vers le haut, pour ne pas faire retomber les blancs.
+    Versez 1/4 de la crème ainsi obtenue dans le fond d’un plat creux rectangulaire de 30x20 cm. Versez le café dans une assiette creuse. Trempez rapidement 1/3 des biscuits et disposez les côte à côte sur la crème. Recouvrez les d’un second quart de crème, puis de biscuits trempés, etc... jusqu'à ce que vous ayez réalisé 4 couches de crème et 3 couches de biscuits. Terminez par une couche de crème et placez au frais au moins 4 heures.
+    Juste avant de servir, saupoudrez de cacao tamisé à travers une passoire fine.Si vous n'arrivez pas à trouver les pavesinis chez votre traiteur italien préféré, prenez des biscuits à la cuiller, mais c'est dommage car c'est vraiment ce qui fait la différence. Vin blanc sirupeux
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95671">
+  <titre>Omelette aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>6 cuillères à soupe de sucre </p>
+    <p>6 cuillères à soupe de crème fraiche</p>
+    <p>3 pommes </p>
+    <p>cassonade blonde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    eplucher les pommes les coupés en lamelles fines 
+    Faire sauter les pommes dans une poele et les saupoudrer de cassonnade blonde. reservez
+    Battre les oeufs en ommelette, ajoutez la creme, bien mélangez, puis ajoutez le sucre, bien mélanger le toutdans un plat a grattin versez les pommes sautés puis incorporez l ommelette au dessus des pommesmettre au four 1 heure 
+    manger tiédeLes enfants adorent!!!
+  ]]>
+  </preparation>
+</recette>

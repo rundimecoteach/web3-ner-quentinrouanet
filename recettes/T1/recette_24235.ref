@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24235">
+  <titre>Oeufs brouillés aux crevettes à la Kaniass</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs très frais</p>
+    <p>100 g de petites crevettes roses cuites</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>40 g de beurre</p>
+    <p>2 brins d'aneth ou persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer et coupez les crevettes en petits tronçons. 
+    Coupez un chapeau aux oeufs à l'aide d'un coupe-oeuf (un couteau et un bon coup de main peuvent faire l'affaire). 
+    Rincez et séchez les coquilles. 
+    Battez les oueufs en omelette, salez, poivrez. 
+    Faites fondre la moitié du beurre dans une sauteuse. 
+    Ajoutez les oeufs. 
+    Mettre sur feu très doux et remuez sans cesse jusqu'à ce que les oeufs prennent une consistance bien crémeuse. 
+    Hors du feu, incorporez petit à petit le reste de beurre coupé en petits cubes, la crème fraîche puis les crevettes. 
+    Remplir les coquilles et mangez avec des mouillettes de pain grillé.
+    Certaines personnes peuvent trouver cette entrée un peu lourde. Vous pouvez donc mettre de la crème allégée et un peu moins de beurre.
+  ]]>
+  </preparation>
+</recette>

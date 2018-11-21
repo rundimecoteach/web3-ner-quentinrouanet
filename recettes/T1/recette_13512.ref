@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13512">
+  <titre>Confit de canard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 cuisses de canard</p>
+    <p>1 kg de graisse de canard</p>
+    <p>gros sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, frotter les cuisses de canard avec du gros sel, puis les mettre dans une terrine et les laisser au frais pendant une nuit.
+    Le lendemain, enlever le maximum de sel. Rincer rapidement, essuyer, puis mettre à cuire dans la graisse à feu doux pendant trois heures.
+    On peut les conserver dans un bocal plein de graisse pendans un mois.
+     Cahors
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26489">
+  <titre>Terrine de poisson lardée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de poisson blanc (sabre, merlan, lieu...)</p>
+    <p>300 g de truite ou saumon fumé</p>
+    <p>10 bardes de lard fines</p>
+    <p>2 oeufs durs</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron jaune</p>
+    <p>3 tranches de pain de mie</p>
+    <p>20 cl de lait</p>
+    <p>5 cl de vin blanc</p>
+    <p>2-3 cuillères à soupe d'armagnac</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 cuillères à soupe de ciboulette ciselée</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper la mie de pain dans du lait.
+    Hacher grossièrement les filets de poisson et la truite fumée avec les oeufs durs, les poivrons épépinés, le persil, la ciboulette, la mie de pain essorée.
+    Saler, poivrer et rajouter le vin blanc et l'armagnac.
+    Recouvrir une terrine ou un moule à cake de bardes de lard.
+    Y verser la farce.
+    Recouvrir de bardes de lard puis d'aluminium.
+    Faire cuire 1 h 30 au four à 170°C (thermostat 5-6).
+    On peut rajouter un peu de crème fraîche dans la préparation de la garniture.
+    Accompagnez d'une vinaigrette aux câpres ou sauce béarnaise.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22911">
+  <titre>Poulet forestier</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet de 1,3 kg coupé en morceaux</p>
+    <p>6 cèpes</p>
+    <p>100 g de lard fumé</p>
+    <p>1 gousse d'ail</p>
+    <p>3 échalotes</p>
+    <p>120 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>80 g de bouillon de volaille</p>
+    <p>50 g de crème fraîche</p>
+    <p>70 g de concentré de tomate</p>
+    <p>1 cuillère à soupe de farine bombée</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet de persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le lard coupé en lardons dans une cocotte puis le retirer et mettre à dorer le poulet avec 30 g de beurre. Couvrir et laisser cuire 45 mn, avec la gousse d'ail. Faire fondre 40 g de beurre sur feu doux et ajouter la farine. Mélanger. Ajouter 1/4 de bouillon et le concentré de tomate. Remuer jusqu'à la reprise de l'ébullition. Couvrir et laisser mijoter cette sauce pendant la préparation des cèpes. Faire revenir dans le reste de beurre et l'huile les cèpes coupés en tranche, le persil et les échalotes hachées. Saler, poiver et laisser cuire 15 mn. Incorporer dans la sauce, la crème fraîche, les lardons, les champignons. Laisser cuire 3 mn et ajouter au poulet.Le poulet doit être recouvert de sauce.
+    Peut se faire avec des champignons de Paris
+  ]]>
+  </preparation>
+</recette>

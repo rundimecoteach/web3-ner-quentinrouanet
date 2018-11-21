@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85161">
+  <titre>Mes crevettes style indien</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de crevettes roses décortiquées (les grosses sont meilleures)- 20 cl de crème fraîche- 50 g de noix de cajou- 1 cuillère à café de curry en poudre- 2 cuillères à café d'huile d'olive- sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes et les mettre dans un bol. 
+    Ajouter l'huile d'olive, saler, poivrer et ajouter le curry.
+    Laisser mariner au moins 30 min.
+    Dans une poêle ou une sauteuse bien chaude, faire griller à sec les noix de cajou. 
+    Ajouter les crevettes marinées, et laisser griller.
+    Ajouter la crème fraîche petit à petit. 
+    Quand la sauce est bien colorée, servir avec des nouilles chinoises aux œufs.
+  ]]>
+  </preparation>
+</recette>

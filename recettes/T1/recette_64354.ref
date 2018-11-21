@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64354">
+  <titre>Roulé de dinde façon Cathy</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>4 tranches fines de jambon cru</p>
+    <p>4 tranches de fromage à Hamburger</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>Sel, poivre, curry, curcuma</p>
+    <p>Pour la sauce :</p>
+    <p>sauce soja</p>
+    <p>sirop d'érable</p>
+    <p>sucre de canne liquide</p>
+    <p>crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Applatir les escalopes de dinde, les saler, poivrer, les épicer sur une face avec le curry et le curcuma, les laisser reposer 10 min.
+    Les retourner et y déposer une fine tranche de jambon cru, une tranche de fromage à hamburger coupée en deux pour qu'il y en ait sur toute la longueur, rouler les escalopes et les piquer avec des bâtonnets assez longs, que l'on enlèvera après la cuisson.
+    Préparer la sauce :
+    Mélanger une cuillère à soupe de sauce soja avec 3 cuillères à soupe de sirop d'érable et 3 cuillères à soupe de sucre de canne.
+    Laisser bien caraméliser plusieurs minutes pour que la sauce épaississe, puis mettre 4 ou 5 cuillères à  soupe de crème liquide.
+    Faire revenir l'oignon émincé, ajouter les escalopes, mettre la sauce, et faire cuire 10 à 15 min. Enlever les batonnêts pour servir.
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

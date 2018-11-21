@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82947">
+  <titre>Mafé original avec des gombos</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 à 4 cuillères à soupe d’huile d’olive</p>
+    <p>500 g de viande d’agneau (collier de préférence)</p>
+    <p>1 gros oignon</p>
+    <p>1  boîte de concentré de tomate (140 g)</p>
+    <p>200 g de pâte d'arachide (Tiguédégué)</p>
+    <p>2 ou 3 carottes</p>
+    <p>150 g de gombos frais coupés en petits morceaux</p>
+    <p>2 cubes de bouillon</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la viande coupée en morceau dans l’huile.
+    Ajoutez le concentré de tomate et l’oignon émincé.
+    Mouillez avec environ 1 l d’eau puis ajoutez les cubes. Incorporez les gombos et les carottes et laissez cuire 35 à 45 min.
+    Ajoutez la pâte d’arachide et laissez cuire 20 à 25 min, salez et poivrez à votre convenance.
+    Servez avec du riz blanc nature ou du riz parfumé type riz thaï ou basmati.
+    Bon appétit !
+    Les carottes peuvent être remplacée par d'autres légumes tel que des patates douces. Si ce sont des légumes qui cuisent plus vite les rajouter plus tard en cours de cuisson.
+  ]]>
+  </preparation>
+</recette>

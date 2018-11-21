@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73534">
+  <titre>Crêpes bretonnes complètes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 galettes au sarrasin</p>
+    <p>4 tranches de jambon</p>
+    <p>4 œufs</p>
+    <p>250 g de gruyère râpé</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortez les crêpes de leur emballage et mettez un peu d'huile au fond de la poêle.
+    Mettez une crêpe dans la poêle, ajouter dessus une tranche de jambon en petits morceaux, casser l'œuf et mettez-le au centre de la crêpe.
+    Entourez vite l'œuf avec du gruyère. Ne laissez pas l'œuf couler sur la poêle ou vous obtiendrez une omelette.
+    Repliez la crêpe de façon à la fermer.Dégustez.
+  ]]>
+  </preparation>
+</recette>

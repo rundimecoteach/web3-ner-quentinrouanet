@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30494">
+  <titre>Anguilles aux tomates et au persil</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 anguille de 1 kg</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>40 cl de purée ou coulis de tomates</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à soupe de zeste de citron haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Si cela n'a pas été fait par le poissonnier, retirez la peau : entourez la tête d'un linge pour l'empêcher de glisser, tenez-la fermement et de l'autre main tirez la peau vers la queue.
+    Découpez l'anguille en tronçons de 8 cm de long environ.
+    Hachez l'oignon, l'ail et le persil. Dans une poêle, faites raidir les morceaux de poisson à l'huile. Ajoutez les herbes finement hachées avec 1 cuillère à soupe de zeste de citron. Salez et poivrez.
+    Versez la sauce tomate. Couvrez et laissez mijoter 20 minutes.
+    Servez avec du riz.
+    On peut faire la même recette avec de la lotte, du cabillaud, du congre ou du colin.
+  ]]>
+  </preparation>
+</recette>

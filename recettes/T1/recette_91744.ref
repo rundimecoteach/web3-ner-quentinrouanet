@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91744">
+  <titre>Mousse au chocolat inrattable</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir ou au lait selon les gouts(1 tablette de chocolat patissier ou 2 tablette de cocolat classique)- 5 oeufs- une pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat dans une casserole avec une cuillere à soupe d'eau. Surveiller le chocolat ne doit pas cuire. Laisser refroidir un peu.
+    Battre les blancs en neige bien ferme avec une pincée de sel(garder les jaunes de coté).
+    Incorporer les jaunes d'oeufs au chocolat un peu refroidi pour ne pas les cuire. Puis ajouter la preparation de chocolat aux blancs montés en neige. Melanger delicatement.
+    Laisser au refrigerateur au moins 3 h.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28931">
+  <titre>Quiche aux carottes et gruyère</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée </p>
+    <p>1 kg de carottes</p>
+    <p>3 oeufs</p>
+    <p>15 cl de crème fraîche</p>
+    <p>150 g de gruyère râpé</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>persil haché</p>
+    <p>sel, poivre de Cayenne </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et mettre les carottes à cuire dans l'eau bouillante salée jusqu’à ce qu’elles soient bien tendres.
+    Les égoutter, les détailler en rondelles et les réserver pour garnir la tarte.
+    Recouvrir le fond du moule à tarte de papier sulfurisé, puis étaler la pâte. La piquer au fond à la fourchette et réserver.
+    Préchauffer le four à 210°C (thermostat 7).
+    Dans un saladier, battre les oeufs avec la crème, 100 g de gruyère râpé, la noix de muscade, le sel et le poivre.
+    Tapisser la pâte de rondelles de carottes, verser ensuite la préparation aux oeufs, puis saupoudrer de persil haché et du reste de fromage râpé.
+    Enfourner à four chaud pendant 30 à 40 min.
+    Déguster la quiche chaude avec une salade verte au persil et aux échalotes.
+  ]]>
+  </preparation>
+</recette>

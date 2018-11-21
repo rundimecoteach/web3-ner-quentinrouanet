@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44505">
+  <titre>Riz au maigre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 cuillerées de riz</p>
+    <p>1 jaune d'oeuf</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir 1 litre d'eau, puis versez le riz en pluie. 
+    Remuez avec une cuillère en bois. 
+    Laissez cuire 15 min, salez, puis ajoutez le beurre.
+    Au moment de servir, liez le potage avec 1 jaune d'oeuf.
+    C'est ma soupe préférée... La boire tiède. non
+  ]]>
+  </preparation>
+</recette>

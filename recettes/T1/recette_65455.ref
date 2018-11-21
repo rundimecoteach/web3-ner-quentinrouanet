@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65455">
+  <titre>Poisson en sauce à l'orientale (hlaïmi)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de poisson de type bar, sole ou perche du Nil</p>
+    <p>1 cuillère à soupe de concentrée de tomate</p>
+    <p>1 cuillère à soupe de paprika</p>
+    <p>1 piment</p>
+    <p>3 gousse d'ail</p>
+    <p>1/2 citron</p>
+    <p>1/2 cas de harissa</p>
+    <p>sel, poivre</p>
+    <p>1 verre d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole chauffer un peu plus qu'un fond d'huile.
+    Y rajouter à feu doux 1 cuillère à soupe de tomate concentrée et 1/2 cuillère à soupe de paprika.
+    Mettre 1 piment coupé en 2 et 3 gousses d'ail haché. Couvrir.
+    Verser en remuant 1 verre d'eau petit à petit pendant 15 min. 
+    Couper 1 pomme de terre en 4, ajouter 1 verre d'eau dans la casserole, puis mettre les pommes de terre. Couvrir.
+    Au bout de 12 min (les pommes de terre sont presque cuites) mettre le poisson, du sel, du poivre et le jus d'1/2 citron.
+    Laisser mijoter 5 min puis mettre un peu de harissa.
+    Laisser cuire pendant 10 min sans oublier de retourner le poisson au milieu.
+    Servir 2 filets et deux morceaux de pommes de terre par personne + la sauce évidemment....
+    On peut remplacer le piment par du piment en poudre. On peut préalablement délayer la harissa dans le citron avant de le verser.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40720">
+  <titre>Salade chinoise au poulet</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>3 carotte</p>
+    <p>1 salade verte</p>
+    <p>200 g de poulet déjà cuit et froid</p>
+    <p>Pour la sauce chinoise sucrée :</p>
+    <p>2 volumes de miel liquide</p>
+    <p>1 volume de jus de citron</p>
+    <p>1 volume de sauce soja</p>
+    <p>3 volumes d'huile végétale neutre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la sauce : Dans un saladier, versez 2 volumes de miel liquide, 1 volume de jus de citron, et 1 volume de sauce soja. Mélangez rigoureusement au fouet pour dissoudre le miel. Ajoutez les 3 volumes d'huile neutre (colza, tournesol, ...), et fouettez. Vous obtenez une sauce assez épaisse (le jus du concombre va la liquéfier).Pelez le concombre. Coupez-le en tranches assez épaisses (environ 1 cm), puis faites des bâtonnets. Mettez-les dans le saladier.
+    Pelez les carottes. Râpez-les assez gros, au dessus du saladier (il faut qu'on sente les morceaux de carotte et non pas que ça fasse "purée").Prenez une bonne poignée de salade dans la main. Faites un boudin et coupez des "tranches" au dessus du saladier. Vous obtenez ainsi des lanières de salade.
+    Coupez en morceaux le poulet bien froid (reste de poulet rôti ou bien blanc de poulet cuit à la vapeur, c'est bien plus tendre). Ajoutez-le aux crudités.Mélangez bien et dégustez immédiatement.Si vous servez cette salade plus tard, préparez la sauce à part, et mélangez au dernier moment (ainsi, vous ne cuirez pas la salade!).
+  ]]>
+  </preparation>
+</recette>

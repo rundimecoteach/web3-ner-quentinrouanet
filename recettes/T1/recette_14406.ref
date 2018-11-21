@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14406">
+  <titre>Pavés de biche</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 pavés de biche</p>
+    <p>1/2 litre de bon vin rouge</p>
+    <p>2 cuillères à soupe de cognac (ou calvados)</p>
+    <p>laurier</p>
+    <p>carottes</p>
+    <p>thym</p>
+    <p>poivre du moulin</p>
+    <p>2 cuillères à soupe de confiture d'airelles (ou de gelée de framboises)</p>
+    <p>40 g de beurre</p>
+    <p>40 g de farine (pour la sauce)</p>
+    <p>50 g de beurre (ou huile pour la poêle)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les pavés dans la marinade préparée avec le vin, l'alcool et les aromates au moins 12 heures à l'avance, au frais.
+    Une heure avant, égoutter les pavés, faire bouillir la marinade et la laisser un peu réduire. Préparer la sauce en faisant un roux avec le beurre et la farine et en mouillant avec la marinade tamisée. Ajouter éventuellement un peu d'eau si la sauce est trop épaisse.
+    Faire chauffer la poele et saisir les pavés, cuire selon le goût, saler en fin de cuisson.
+    Ajouter la confiture dans la sauce et servir les pavés avec la sauce.
+    Vous pouvez accompagner ce plat d'une purée de céleri et de pommes allumettes. un bon bourgogne
+  ]]>
+  </preparation>
+</recette>

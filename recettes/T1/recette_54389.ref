@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54389">
+  <titre>Huitres chaudes au Champagne gratinées</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>40 g de beurre</p>
+    <p>2 cuillères à soupe de farine (de préference fluide)</p>
+    <p>36 huîtres + l'eau rendue</p>
+    <p>25 cl de champagne</p>
+    <p>gruyère râpé</p>
+    <p>sel, poivre, une pincée de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir les huîtres et réserver l'eau rendue.
+    Faire fondre le beurre dans une casserole, sur feu moyen, ajouter la farine.
+    Bien mélanger, cela doit être épais.
+    Verser le verre de champagne, en mélangeant bien, puis baisser le feu.
+    Ajouter à la sauce un peu de jus des huîtres afin de rendre la sauce un peu plus liquide, du sel, du poivre et le sucre.
+    Faire pocher les huîtres dans la sauce pendant 5 minutes sur feu moyen.
+    Préchauffer le gril du four.
+    Pendant ce temps, bien laver les coquilles d'huîtres et les placer sur un plat allant au four.
+    Remettre une huître dans chaque coquille et répartir la sauce.
+    Parsemer de gruyère rapé et enfourner 5 à 10 min, mode gril, afin qu'elles gratinent.
+    Servir chaud.
+    Idéal en période de fêtes. On peut tout à fait remplacer le Champagne par du vin blanc. Vin blanc sec
+  ]]>
+  </preparation>
+</recette>

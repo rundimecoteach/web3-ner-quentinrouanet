@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60367">
+  <titre>Cannellonis au thon faciles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 cannellonis</p>
+    <p>400 g de thon au naturel</p>
+    <p>20 cl de sauce tomate</p>
+    <p>1 courgette</p>
+    <p>2 oignons</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>1 piquillo (petit piment long et doux)</p>
+    <p>thym, laurier </p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Dans huile d'olive, faire revenir les oignons puis ajouter le thon, le piquillos, les câpres et la moitié de la tomate (diluer avec un peu d'eau).Tapisser un plat huilé de rondelles de courgettes. Farcir les cannellonis avec la farce au thon puis déposer ceux-ci sur les courgettes.
+    Recouvrir du reste de sauce tomate diluée avec de l'eau, poivrer, mettre thym + laurier.
+    Enfourner pour 30 minutes de cuisson.Cela change des cannellonis classiques.
+  ]]>
+  </preparation>
+</recette>

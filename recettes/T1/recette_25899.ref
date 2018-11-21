@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25899">
+  <titre>Gambas flambées au whisky</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de gambas</p>
+    <p>ail</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>whisky ou cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Adapter les quantités en fonction de la grosseur des gambas et du nombre de personnes.... Dans un plat allant au four, pas trop grand, poser les gambas, arroser d'huile d'olive, pressez de l'ail, salez et poivrez. Laisser cuire à four chaud environ 25 min. Faire chauffer du whisky (en petite quantité sinon trop amer) dans une casserole, le flamber et arrosez les gambas. Servir immédiatement. Accompagnez d'un bon pain frais, quelques frites bien croustillantes ou du riz, et une salade verte.Cette préparation est typique des cafés portugais. un rosé ou un blanc très léger type portugais, avec moderation
+  ]]>
+  </preparation>
+</recette>

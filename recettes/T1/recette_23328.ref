@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23328">
+  <titre>Gâteau de pâtes au jambon et à l'oignon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de pâtes (nouilles, papillons, tortis)</p>
+    <p>4 oeufs</p>
+    <p>4 tranches de jambon cuit</p>
+    <p>50 g d'oignons</p>
+    <p>20 à 30 cl de crème</p>
+    <p>75 g de beurre</p>
+    <p>1 citron</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Faites cuire les pâtes al dente, égouttez-les.
+    Pelez et émincez les oignons, faites-les suer dans la moitié du beurre.
+    Ajoutez les pâtes et un morceau de beurre, mélangez et laissez revenir 5 minutes à feu moyen.
+    Fouettez la crème avec le jus du citron, ajoutez les oeufs, un à un, en fouettant.
+    Salez, poivrez et incorporez le jambon détaillé en petits morceaux.
+    Beurrez un moule à koughelopf ou à charlotte, saupoudrez-le de chapelure.
+    Mélangez les pâtes et la crème au jambon, versez le tout dans le moule.
+    Faites cuire au four 45 minutes environ.
+    Servez accompagné de salade.
+  ]]>
+  </preparation>
+</recette>

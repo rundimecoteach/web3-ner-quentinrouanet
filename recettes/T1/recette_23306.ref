@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23306">
+  <titre>Ramequins de melon et fraises à l'anisette</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 melons</p>
+    <p>4 cuillères à soupe d'anisette</p>
+    <p>200 g de sucre</p>
+    <p>150 g de fraises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Oter la peau des melons, les égrainer, puis réduire la chair en purée avec le sucre et l'anisette.
+    Verser le coulis de melon dans des ramequins.
+    Laver et détailler les fraises en dés très fins puis les déposer sur le coulis frais de melon.
+    Réserver au frais et déguster dès la sortie du réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

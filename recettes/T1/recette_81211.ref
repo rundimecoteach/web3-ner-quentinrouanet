@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81211">
+  <titre>Gâteau sablé à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de sucre en poudre</p>
+    <p>3 oeufs entiers</p>
+    <p>1 boîte d'ananas</p>
+    <p>120 g de farine</p>
+    <p>1 paquet de levure</p>
+    <p>kirsch</p>
+    <p>15 morceaux de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir la boîte d'ananas et mettre le jus dans une casserole avec le kirsh et faire un sirop.
+    Pendant ce temps, bien mélanger le sucre, les oeufs, puis la farine et la levure.
+    Faire un caramel avec 15 sucres dans un moule à bord haut. Ne pas roussir le caramel.
+    Tapisser le fond du moule avec les tranches d'ananas coupées en deux, puis verser la pâte dessus et faire cuire à four thermostat 5 (150°C) pendant 1/2 heure.
+    Démouler chaud.
+    Puis, verser le sirop ananas et kirsch sur le gâteau.
+    Gâteau rapide à faire et très délicieux.
+  ]]>
+  </preparation>
+</recette>

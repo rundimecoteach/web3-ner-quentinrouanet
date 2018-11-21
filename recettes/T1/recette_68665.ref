@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68665">
+  <titre>Filet mignon à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet mignon</p>
+    <p>2 pommes Golden</p>
+    <p>1 cuillère à café de cumin</p>
+    <p>150 g de lardons fumés</p>
+    <p>4 canettes de bière blonde (1,3 litre)</p>
+    <p>100 g de carottes</p>
+    <p>100 g d'oignons</p>
+    <p>30 g  de farine</p>
+    <p>persil frais</p>
+    <p>gelée de groseille</p>
+    <p>margarine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les filets en médaillon de 1 cm.
+    Emincer carottes et oignons (comme des râpées). Les faire revenir dans de la margarine sur feu doux. 
+    Quand c'est fondu, ajouter les lardons. Quand le tout est doré, saupoudrer de farine puis mouiller avec la bière petit à petit.
+    Saler et poivrer, ajouter le cumin et laisser le tout mijoter.
+    Poêler les médaillons de viande (qui seront au préalable bien salés et poivrés des 2 côtés) dans la margarine. Enlever les médaillons de la poêle.
+    Déglacer la poêle avec un peu de sauce au cumin.
+    Remettre la sauce des médaillons dans le plat de sauce à la bière et cumin. Remettre les médaillons dans la sauce. Ajouter le persil frais et laisser cuire environ 2 h sur feu doux.
+    Peler les pommes, les couper en deux en enlevant le coeur. Les faire revenir dans du beurre doux.
+    Servir avec un nid de tagliatelles fraîches décoré de persil. Mettre de la gelée de groseille au milieu des demi-pommes.
+    C'est excellent et servi à l'assiette, ça fait un "effet boeuf" !
+    Attention, si vous goûtez la sauce au début de cuisson, elle n'est pas bonne au goût mais ne vous inquiétez pas, au final, c'est excellent !Vous pouvez préparer ce plat de la veille. Bourgogne
+  ]]>
+  </preparation>
+</recette>

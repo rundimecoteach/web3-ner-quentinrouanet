@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63337">
+  <titre>Sandwichs de concombre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de pain de mie complet</p>
+    <p>1/2 concombre (assez gros)</p>
+    <p>8 cuillères à soupe de crème fraîche épaisse</p>
+    <p>quelques brins de ciboulette</p>
+    <p>sel et du poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    On prévoit 2 sandwichs par personne.
+    Couper les tranches de pain de mie complet en diagonale, puis les tartiner de crème.
+    Trancher le concombre puis le disposer sur les tranches de pain avec la ciboulette ciselée. Recouvrir de l'autre moitié de la tranche de pain.
+    Saler, poivrer.Cela peut faire aussi des amuses-gueules lorsqu'ils sont découpés en morceaux. plutot une boisson sans alccol
+  ]]>
+  </preparation>
+</recette>

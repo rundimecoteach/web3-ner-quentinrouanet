@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15759">
+  <titre>Filet mignon de porc au maroilles</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet mignon </p>
+    <p>1 Maroilles</p>
+    <p>20 cl de crème liquide</p>
+    <p>1 oignon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir le filet mignon coupé en morceaux (de 50 g environ) avec un oignon jusqu'à légère coloration.
+    Ajoutez la crème liquide, puis le Maroilles coupé en dés. Laissez cuire 30 mn en remuant régulièrement. N'oubliez pas de saler et de poivrer.
+    Accompagnez ce plat de pommes de terre sautées. Bière
+  ]]>
+  </preparation>
+</recette>

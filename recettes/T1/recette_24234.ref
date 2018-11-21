@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24234">
+  <titre>Chausson de chèvre aux poires</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>4 petits chèvre secs</p>
+    <p>1 poire</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte feuilletée et coupez-la en 2 . 
+    Ecrasez 2 chèvres sur chaque morceau de pâte et ceci sur la "moitié de chaque moitié". 
+    Pelez la poire, coupez-la en 2 et enlevez les pépins. 
+    Coupez-la en tranches sur le chèvre : 1 moitié de poire par chausson. 
+    Rabattez la partie où il n'y à pas d'aliment et fermez le chausson. 
+    Badigeonner d'un jaune d'oeuf et mettez au four à 200°C  jusqu'à ce que cela dore !
+    Assez copieux pour une entrée. Servir avec de la salade, avec un peu d'huile de noix !
+  ]]>
+  </preparation>
+</recette>

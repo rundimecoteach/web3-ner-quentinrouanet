@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50596">
+  <titre>Pommes de terre farcies aux miettes de thon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses pommes de terre</p>
+    <p>150 g de miettes de thon</p>
+    <p>80 g beurre</p>
+    <p>1 cuillère à café de fumet de poisson</p>
+    <p>20 cl d'eau</p>
+    <p>3 cuillère à soupe de farine</p>
+    <p>chapelure fine</p>
+    <p>sel ,poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les pommes de terre et les couper en deux dans le sens de la longueur.
+    Les cuire à la vapeur pendant 10 minutes.
+    Pendant la cuisson des pommes de terre, préparer un roux léger :
+    mélanger la farine dans le beurre fondu puis lorsque le mélange est blond, verser l'eau, mélanger puis ajouter le fumet de poisson, le sel et le poivre.
+    Remuer jusqu'à ce que le mélange s'épaississe puis rajouter les miettes de thon.
+    Préchauffer le four à 180°C (thermostat 6).
+    Creuser les pommes de terre en leur centre et les placer dans un plat allant au four.
+    Farcir les pommes de terre de la préparation au thon, saupoudrer de chapelure puis enfourner pour 15 minutes de cuisson.
+    Servir chaud avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

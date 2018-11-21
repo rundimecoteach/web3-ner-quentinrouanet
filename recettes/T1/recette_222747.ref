@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222747">
+  <titre>Rôti de porc au beurre d'escargot</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de rôti de porc</p>
+    <p>170 g de beurre</p>
+    <p>2 cuillères à café de persil</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).Mélangez le beurre avec le persil, sel et poivre. Enlevez la ficelle. Coupez le rôti en 2.Mettez la préparation de beurre au milieu puis remettez l'autre moitié de rôti par dessus.
+    Ficelez le rôti.
+    Badigeonnez le dessus avec du beurre persillé.Mettez au four environ 1h30.Servir avec du riz, par exemple.
+  ]]>
+  </preparation>
+</recette>

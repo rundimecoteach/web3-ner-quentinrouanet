@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48920">
+  <titre>Tartelettes aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>500 g de fraises</p>
+    <p>2 citrons jaunes</p>
+    <p>4 œufs</p>
+    <p>80 g de beurre</p>
+    <p>50 g de sucre glace</p>
+    <p>1 cuillère à soupe de gelée de fruits rouges</p>
+    <p>papier cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Découpez 4 ronds de papier cuisson, et disposez-les dans les moules à tartelettes; ou beurrez-les.
+    Découpez 4 ronds dans la pâte à l'aide d'un bol.
+    Couvrez de papier cuisson, puis d'haricots secs, et enfournez à blanc 15  min.
+    Laissez refroidir.
+    Râpez le zeste d'un citron, et pressez les 2 fruits.
+    Battez les œufs en omelette.
+    Dans un saucier, faites chauffer le beurre en morceaux avec le sucre.
+    Ajoutez le zeste de citron et le jus.
+    Versez progressivement les œufs.
+    Quand la crème est épaissie, laissez refroidir, puis disposez-la sur les tartelettes.
+    Lavez les fraises, coupez-les en 2, puis disposez-les sur les tartelettes.
+    Badigeonner la gelée fondue sur les fraises.
+    Dégustez.
+     Un gaillac rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69228">
+  <titre>Tarte au fromage blanc et speculoos</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>250 g fromage blanc</p>
+    <p>125 g crème fraîche</p>
+    <p>125 g sucre glace</p>
+    <p>4 feuilles de gélatine</p>
+    <p>1/2 citron</p>
+    <p>4 cuillères à soupe de lait</p>
+    <p>125 g de spéculos</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans un moule et piquer le fond avec une fourchette. La cuire à blanc au four à 180°C (thermostat 6) environ 15-20 min.
+    Dans un saladier, fouetter le fromage blanc, la crème fraîche, et ajouter le sucre.
+    Dans une casserole, faire fondre la gélatine avec le lait et le jus du 1/2 citron, puis verser sur la préparation dans le saladier. Battre les blancs en neige et les incorporer délicatement au mélange.
+    Verser la préparation sur le fond de la tarte et y ajouter les spéculos émiettés.
+    Mettre au frais 3 à 4 h.
+  ]]>
+  </preparation>
+</recette>

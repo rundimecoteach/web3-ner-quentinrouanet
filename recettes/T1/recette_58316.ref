@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58316">
+  <titre>Gratin de viande hachée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de viande hachée</p>
+    <p>2 aubergines</p>
+    <p>3 courgettes</p>
+    <p>3 tomates</p>
+    <p>1 oignon frais</p>
+    <p>1 gousse d'ail</p>
+    <p>thym et romarin</p>
+    <p>150 g de parmesan</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à thermostat 7 (210°C).
+    Faites revenir à feu doux la viande hachée et l'oignon taillé en dés avec une cuillère à soupe d'huile d'olive, du romarin et du thym.
+    Pressez l'ail, mélangez-le à la viande hachée puis, incorporez les aubergines, la moitié des courgettes et des tomates.
+    Etalez ce mélange dans un plat à gratin et recouvrez avec la courgette et la tomate restante detaillées en tranches.
+    Terminez en parsemant de copeaux de parmesan.
+    Mettez au four et laissez cuire 20 mn.
+  ]]>
+  </preparation>
+</recette>

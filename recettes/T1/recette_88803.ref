@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88803">
+  <titre>Key Lime Pie (le vrai)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de petits-beurres</p>
+    <p>5 citrons verts</p>
+    <p>75 g de beurre</p>
+    <p>1 boite de lait concentré sucré</p>
+    <p>3 oeufs</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Émietter les petits beurre puis ajouter le beurre fondu et mélanger.
+    Disposer cette préparation dans un plat. Faire cuire environ 10 minutes à 180°C (thermostat 6) jusqu'à ce que la croûte ait une couleur dorée.
+    Pendant ce temps, préparer la garniture : battre les jaunes d'oeufs avec le lait concentré sucré, ajouter le jus de citron et mélanger afin d'obtenir une consistance crémeuse. Verser la garniture sur la préparation de biscuits et laisser cuire environ 20 minutes à 180°C (thermostat 6) jusqu'à ce que la crème de citron soit bien prise.
+    Battre les blancs d'oeufs avec une pincée de sel et le sucre, jusqu'à ce qu'ils soit bien fermes et brillants.Étaler sur le gâteau et remettre au four à 180°C (thermostat 6) environ 5 minutes pour que la meringue soit dorée.
+    Servir bien frais.
+  ]]>
+  </preparation>
+</recette>

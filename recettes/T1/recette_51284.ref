@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51284">
+  <titre>Clafoutis aux quetsches</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de quetsches dénoyautées</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>lait</p>
+    <p>1 cuillère à soupe de kirsch</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>20 cl de crème entière fluide</p>
+    <p>sel</p>
+    <p>beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 240°C (thermostat 8).
+    Mélanger les oeufs battus avec la farine et du lait afin d'obtenir une pâte à beignets.
+    Ajouter du sel, le kirsch et le sucre.
+    Incorporer la crème et les quetsches.
+    Mettre dans le plat beurré, suffisament haut (moule à manquer) et cuire 45 minutes.
+    Cette recette peut être réalisée dans un moule en silicone, dans ce cas inutile de beurrer.
+     Cidre.
+  ]]>
+  </preparation>
+</recette>

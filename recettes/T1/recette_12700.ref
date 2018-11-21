@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12700">
+  <titre>Terrine de saumon aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de saumon</p>
+    <p>1 boîte de grosses crevettes</p>
+    <p>4 oeuf</p>
+    <p>2 cuillères à soupe de ketchup</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 verre à liqueur de cognac</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs en omelette avec sel, poivre, muscade, ketchup, crème fraiche et cognac.
+    Emietter le saumon avec une fourchette.Mélanger saumon + crevettes avec la préparation.
+    Beurrer une terrine et faire cuire au bain-marie à four moyen pendant 1h à 1h30 (la dernière demi-heure, découvrir pour faire dorer).Servir froid avec mayonnaise, câpres, cornichons, persil, cerfeuil, thym et ciboulette.
+  ]]>
+  </preparation>
+</recette>

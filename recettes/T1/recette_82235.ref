@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82235">
+  <titre>Pain de thon sauce échalote tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le pain :</p>
+    <p>300 g de thon en boîte</p>
+    <p>150 g de gruyère râpé</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>3 oeufs</p>
+    <p>10 cl de lait </p>
+    <p>10 cl d'huile d'olive</p>
+    <p>1 sachet de levure chimique</p>
+    <p>sel et poivre</p>
+    <p>Pour la sauce:</p>
+    <p>1 noix de beurre</p>
+    <p>3 échalotes</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillière à soupe de maïzena</p>
+    <p>140 g de concentré de tomate</p>
+    <p>eau/vin blanc (selon la quantité désirée)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour le pain : préchauffer le four à 200°C (thermostat 6-7). Egoutter le thon. 
+    Dans une terrine mélanger la farine et les oeufs entiers. 
+    Puis le lait, l'huile, le thon émietté, le gruyère, le sel et le poivre. 
+    Verser le mélange dans un moule à cake beurré. 
+    Mettre à cuire pendant 40 minutes.
+    Pour la sauce : faire revenir avec un peu de beurre, les échalotes et l'ail en petit dès. 
+    Dans une terrine, délayer la maïzena avec un peu d'eau tiède, pour éviter les grumeaux. 
+    Ajouter le mélange ail/échalottes et le concentré de tomate, mélanger. 
+    Enfin, ajouter de l'eau et du vin blanc, selon la quantité et le goût désiré.
+     Blanc
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28568">
+  <titre>Médaillons de porc à l'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filet mignon de porc</p>
+    <p>1 morceau de céleri branche</p>
+    <p>1 botte de petites asperges vertes</p>
+    <p>16 oignons nouveaux</p>
+    <p>1 bouquet garni</p>
+    <p>2 gousses d'ail</p>
+    <p>4 oranges à jus</p>
+    <p>1 cuillère à café de gingembre frais râpé</p>
+    <p>1 cuillère à café de sauce de soja</p>
+    <p>2 pincées de 4 épices</p>
+    <p>1 cuillère à café d'huile de pépins de raisin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dégraissez le filet mignon et coupez-le en médaillon de 10 mm d'épaisseur. Pelez l'ail. 
+    Mélangez le jus de 2 oranges avec l'ail émincé, le gingembre, la sauce soja et le 4 épices. 
+    Versez cette préparation sur les morceaux de porc et laissez mariner 30 mn en les retournant au bout de 15 mn. Egouttez-les. 
+    Epluchez les oignons nouveaux et lavez le céleri et les asperges. 
+    Faites-les cuire 7 mn dans de l'eau bouillante salée avec le bouquet garni. 
+    Pelez à vif les 2 autres oranges et détachez-les en quartiers. 
+    Versez l'huile dans une poêle anti-adhésive bien chaude, saississez la viande, 2 à 3 mn de chaque côté. 
+    Couvrez et laissez 4 mn. 
+    Disposez les légumes et les tranches d'oranges sur un plat, ajoutez la viande et servez de suite.
+  ]]>
+  </preparation>
+</recette>

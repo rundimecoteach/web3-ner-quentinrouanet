@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14470">
+  <titre>Petite soupe crémeuse au kiwi gold</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 kiwis gold (peut se réaliser avec des kiwis classiques)</p>
+    <p>6 feuilles de menthe ciselées</p>
+    <p>4 sommités de menthe</p>
+    <p>4 cuillères à soupe de jus d'ananas</p>
+    <p>1 cuillères à soupe de jus de citron vert</p>
+    <p>1/2 cuillères à café de poivre de Cayenne</p>
+    <p>1 pincée de sel</p>
+    <p>100 ml de crème de soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler 5 kiwis gold et les détailler en morceaux.
+    Faire une purée avec les morceaux de kiwi en y mélangeant tous les autres ingrédients.
+    Peler le dernier kiwi et le détailler en petits morceaux.
+    Servir la soupe dans un bol et garnir avec les petits morceaux de kiwi gold et les sommités de menthe.A essayer également avec des kiwis ordinaires.
+    Le kiwi gold ressemble au kiwi ordinaire, mais sa forme est quelque peu différente, elle est ovoïde surmontée d'une petite pointe. Son goût est un mélange de pêche, mangue et melon avec une pointe de citron.
+  ]]>
+  </preparation>
+</recette>

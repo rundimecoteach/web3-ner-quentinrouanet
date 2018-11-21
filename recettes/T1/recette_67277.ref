@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67277">
+  <titre>Tartines chaudes express au poulet</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la "farce":</p>
+    <p>des restes de poulet (1 pâte et 1 aile dans mon cas)</p>
+    <p>1 oeuf</p>
+    <p>1 petite cuillère à soupe de crème fraiche épaisse</p>
+    <p>1 très grosse cuillère à soupe de fromage frais</p>
+    <p>1 cuillère à soupe de chapelure (ou de la farine de pain azyme, etc...)</p>
+    <p>un peu de persil haché</p>
+    <p>fromage râpé</p>
+    <p>poivre, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Les tartines:
+    Le plus simple reste un pain pré tranché type poilâne. Mes tartines faisaient environ 5cm par 12, et j'en ai fait huit avec les quantités ci-dessus, en garnissant généreusement.
+    Récupérez vos restes de poulet et émincez-les. Pas la peine de les faire trop petits, vous les versez ensuite dans le bol du mixeur.
+    Ajoutez-y l'oeuf entier, ainsi que tout les autres ingrédients à l'exception du fromage râpé (vous pouvez tout de même en mettre un peu dedans si vous voulez, mais gardez-en pour après).
+    Mixez, pas besoin que ce soit de la bouillie complète, mais plutôt que la consistance se rapproche de rillettes. Si c'est trop liquide, rajoutez un peu de chapelure, si c'est l'inverse, mettez un peu de crème.
+    Faites griller un peu à l'avance vos tranches de pain, afin qu'elles soient plus facilement tartinables, puis garnissez-les généreusement de votre préparation.
+    Saupoudrez le tout d'un peu de fromage râpé, et enfournez à four chaud en position grill (le thermostat 7 convient parfaitement). Laissez dorer un petit quart d'heure en surveillant, et dégustez !
+    Suivant la tailles de vos tartines et l'accompagnement, ce plat conviendra parfaitement en amuse-gueule, entrée, ou plat de résistance, N'hésitez donc pas, c'est rapide et succulent !
+  ]]>
+  </preparation>
+</recette>

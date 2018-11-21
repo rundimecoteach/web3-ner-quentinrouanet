@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25914">
+  <titre>Bananes en chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat</p>
+    <p>1/2 verre d'eau</p>
+    <p>100 g de sucre glace</p>
+    <p>6 bananes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat dans l'eau. 
+    Ajouter le sucre. 
+    Couper les bananes en deux, sur la longueur et retirer la chair sans abimer la peau. 
+    Dans le mélangeur, réduire en purée les bananes avec le mélange au chocolat. 
+    Remplir les 12 demi-peaux de bananes avec le mélange et mettre au congélateur environ 15-20 mn. 
+    "réassembler" les bananes et les maintenir ensemble avec du papier d'aluminium. 
+    Mettre au frigo environ 2 heures. 
+    Vous aurez alors des bananes ayant la forme et la texture des vraie bananes, mais avec le goût et la couleur du chocolat :)
+    Super amusant à faire, surtout avec les enfants! Mais attention, l'étape du "réassemblage" n'est pas toujours facile, la purée a tendance parfois à déborder, mais on rigole et on se lèche les doigts :)
+  ]]>
+  </preparation>
+</recette>

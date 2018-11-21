@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49859">
+  <titre>Gratin de gnocchis au lardons et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de gnocchis Lustucru</p>
+    <p>champignons en boîte</p>
+    <p>lardons </p>
+    <p>1 petit oignon</p>
+    <p>parmesan</p>
+    <p>sel, poivre</p>
+    <p>gruyère</p>
+    <p>sauce béchamel (maison ou prête à l'emploi)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer les gnocchis dans un plat à gratin, avec les lardons, les champignons émincés et l'oignon découpé en très petits morceaux.
+    Ajouter un peu de parmesan, puis recouvrir de sauce béchamel (mais pas trop, car c'est un plat assez lourd), puis parsemer de gruyère.
+    Placer au four pendant une vingtaine de minutes, jusqu'à ce que le dessus soit bien doré.
+    Bon appétit !!
+  ]]>
+  </preparation>
+</recette>

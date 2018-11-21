@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81854">
+  <titre>Tarte aux pommes et aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pâte sablée maison</p>
+    <p>4 belles pommes</p>
+    <p>1 sachet de poudre de noisette</p>
+    <p>3 oeufs</p>
+    <p>100 g de sucre en poudre (ou cassonade)</p>
+    <p>20 cl de crème liquide</p>
+    <p>20 cl de lait</p>
+    <p>1 poignée de noisettes décortiquées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°
+    Etaler la pâte dans le moule et placer au réfrigérateur quelques instants.
+    Dans un saladier, faire blanchir les oeufs + le sucre.
+    Ajouter le lait + la crème et la poudre de noisettes.
+    Peler et éplucher les pommes en lamelles et les disposer sur la pâte sablée.
+    Verser le tout sur les pommes, parsemer de noisettes décortiquées et concassées grossièrement.
+    Enfournerb environ 40 min à 180°C (thermostat 6). Surveiller la cuisson, il faut que la tarte dore.
+    Vous pouvez rajouter à l'appareil quelques gouttes de calvados selon votre goût. cidre bien frais
+  ]]>
+  </preparation>
+</recette>

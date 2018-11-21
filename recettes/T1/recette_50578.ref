@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50578">
+  <titre>Crème caramel à l'orange</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le caramel :</p>
+    <p>200 g de sucre</p>
+    <p>jus d'1 orange</p>
+    <p>Pour la crème :</p>
+    <p>4 oeufs + 2 jaunes d'oeufs</p>
+    <p>150 g de sucre</p>
+    <p>80 cl de lait</p>
+    <p>3 cl de Cointreau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Préparez la crème en battant les oeufs comme pour une omelette.
+    Mettez sur feu très doux et ajoutez le sucre, puis le lait petit à petit.
+    Lorsque le mélange est homogène, mettez-le en bouteille et secouez-le pendant 2 bonnes minutes.
+    Ajoutez le cointreau à la crème, secouez de nouveau 30 secondes.
+    Faites un caramel avec le sucre et le jus d'orange. 
+    Versez le caramel au fond de ramequins en une couche d'1/2cm d'épaisseur puis recouvrez de crème.
+    Faites cuire au bain-marie pendant 55 minutes.
+  ]]>
+  </preparation>
+</recette>

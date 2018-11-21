@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168304">
+  <titre>Emincés de poulet aux fines herbes de Nini</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 grammes de blancs de poulet</p>
+    <p>2 cubes knor secret d'arôme ail et fines herbes</p>
+    <p>50cl de crème fraîche épaisse</p>
+    <p>1 oignon</p>
+    <p>-100gr d'amandes effilée</p>
+    <p>sel et poivre</p>
+    <p>-une noix de beurre ou un filet d'huile d'olives</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer le poulet en fines lanières et le faire revenir dans une poêle chaude avec la noix de beurre ou l'huile d'olives. 
+    Avant qu'il ne dore, ajouter l'oignon préalablement émincé puis les deux cubes Knor.
+    Le laisser dorer (10minutes environ).
+    En fin de cuisson, ajouter la crème fraîche et laisser mijoter 2minutes à feu doux.
+    Faire griller les amandes dans une poêle avec un peu de beurre.
+    Parsemer le poulet avec les amandesServir avec du riz ou des pommes de terre sautées avec lesquels la sauce s'accommode parfaitement. Vin rouge tannique
+  ]]>
+  </preparation>
+</recette>

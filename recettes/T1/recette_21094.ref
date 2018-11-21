@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21094">
+  <titre>Tarte à la crème fraîche</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de pâte brisée</p>
+    <p>75 g de sucre</p>
+    <p>125 g de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>30 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Etalez la pâte dans un moule à tarte beurré et fariné en la laissant dépasser du bord largement. Roulez les bords sur eux-même pour former un bourrelet.
+    Saupoudrez le fond de tarde de sucre.
+    Battez la crème avec le jaune d'oeuf et versez sur le sucre.
+    Parsemez de noisettes de beurre.
+    Enfournez pour 30 minutes de cuisson.
+    Servez tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

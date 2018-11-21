@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17985">
+  <titre>Tarte au citron meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>150 g de beurre</p>
+    <p>50 g de poudre d'amandes</p>
+    <p>100 g de sucre glace</p>
+    <p>1 pincée de sel</p>
+    <p>1 oeuf</p>
+    <p>250 g de farine</p>
+    <p>Pour la crème citron:</p>
+    <p>4 oeufs</p>
+    <p>200 g de sucre semoule</p>
+    <p>190 g de jus de citron</p>
+    <p>300 g de beurre</p>
+    <p>Pour la meringue:</p>
+    <p>6 blancs d'oeufs</p>
+    <p>150 g de sucre glace</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réaliser la crème au citron la veille.Mélanger dans l'ordre les oeufs, le sucre et le jus de citron.
+    Faire pocher au bain-marie jusqu'à ce que la crème épaississe. Filtrer. Laisser refroidir un peu et incorporer le beurrre. Mixer 5 mn. Réserver la nuit au frais.
+    Préparation de la pâte : mélanger dans l'ordre beurre, poudre d'amandes, sucre glace, sel, oeuf et farine sans trop travailler le mélange.
+    Réserver au frais au moins 1/2 heure.
+    Foncer un moule à tarte beurré avec la pâte.
+    Cuire à blanc 15 min à 180°C (th.6)Préparation de la meringue:
+    Faire monter les blancs en neige avec une pincée de sel. A mi-temps, ajouter le sucre glace. Mixer jusqu'à ce que la neige soit ferme.
+    Verser la crème au citron sur le fond de tarte. Recouvrir avec les blancs en neige et napper.
+    Cuire à four doux (80-100°C) 20 min puis 5 min à 200°C pour dorer.
+  ]]>
+  </preparation>
+</recette>

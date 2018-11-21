@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35204">
+  <titre>Côtes de porc à la gelée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 côtes de porc</p>
+    <p>1 carotte</p>
+    <p>1 tomate</p>
+    <p>1 citron</p>
+    <p>1 litre de gelée</p>
+    <p>2 cuillère à soupe d'huile d'olive</p>
+    <p>quelques feuilles de menthe</p>
+    <p>persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les côtes de porc dans une poêle avec l'huile d'olive chaude 4 à 5 mn de chaque côté. Laisser refroidir.
+    Préparer la gelée selon les indications du sachet.
+    Eplucher et couper la carotte en rondelles. Laver la tomate et la ciseler (couper la peau en forme de rose).
+    Arroser plusieurs fois la viande avec la gelée, en laissant prendre entre chaque couche. Veser le reste de liquide sur un plat. Y poser les côtes de porc, décorer avec les rondelles de carotte, la tomate ciselée, les feuilles de menthe et de la gelée du plat coupée en dés.
+  ]]>
+  </preparation>
+</recette>

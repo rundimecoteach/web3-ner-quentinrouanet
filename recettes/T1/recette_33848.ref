@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33848">
+  <titre>Duo glacé chocolat et amaretti</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la mousse au chocolat :</p>
+    <p>80 g de chocolat noir ou au lait</p>
+    <p>3 cuillères à soupe de café fort</p>
+    <p>4 oeufs</p>
+    <p>Pour la crème amaretti :</p>
+    <p>40 cl de crème fraîche</p>
+    <p>150 g de biscuit amaretti</p>
+    <p>60 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fondre le chocolat au micro-onde ou à défaut au bain-marie. 
+    Ajouter le café et les jaunes d'oeufs. 
+    Battre les blancs en neige ferme et la mélanger délicatement à la préparation précédente. 
+    Verser dans un moule à manqué ou un moule à cake flexible ou dans des ramequins individuels. 
+    Mettre une demi-heure au congélateur. 
+    Battre la crème fraîche au 3/4 avec le sucre glace. 
+    Ecraser finement les amarettis ou les moudre au mixer et les ajouter délicatement à la crème fraîche. Laisser reposer quelques minutes pour que les amarettis parfument bien la crème. 
+    Etaler ce mélange sur la mousse au chocolat. Remettre au congélateur.
+    Servir avec une crème anglaise (voir recette au micro-ondes) et des amandes grillées.
+  ]]>
+  </preparation>
+</recette>

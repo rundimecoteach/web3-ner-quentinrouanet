@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80254">
+  <titre>Escalopes de dinde aux raisins secs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 escalopes de dinde</p>
+    <p>20 cl de crème liquide</p>
+    <p>1 gros oignon</p>
+    <p>100 g de raisins secs</p>
+    <p>1 kg de tagliatelles</p>
+    <p>1 filet d'huile d'olive</p>
+    <p>lait écrémé (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez votre oignon en fines lamelles. Faites-le revenir dans de l'huile d'olive.
+    Dans votre poêle, faites revenir les escalopes coupées en petits cubes, avec l'oignon déjà prêt.
+    Une fois les escalopes bien blanches, ajoutez les raisins secs avec un petit peu de crème liquide. Pour que ce soit plus léger, vous pouvez couper votre crème avec du lait écrémé.Salez, poivrez.
+    Faites cuire vos tagliatelles dans un grand volume d'eau bouillante salée le temps indiqué sur le paquet.
+    Servez chaud soit à l'assiette, soit dans 2 plats différents.
+  ]]>
+  </preparation>
+</recette>

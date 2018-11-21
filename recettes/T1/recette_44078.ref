@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44078">
+  <titre>Gambas à la grecque</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>gambas</p>
+    <p>noix de st jacques (facultatif)</p>
+    <p>vin blanc sec</p>
+    <p>crème fraîche épaisse</p>
+    <p>4 tomates</p>
+    <p>300 g de feta</p>
+    <p>queues de persil</p>
+    <p>sel, poivre</p>
+    <p>facultatif : ouzo </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les gambas en gardant les têtes, peler, et couper en dés les tomates.
+    Disposer les gambas et les noix de St jacques dans un plat allant au four. Etalez les tomates, et recouvrir à moitié avec le vin blanc.
+    Poser 4 cuillères de crème fraîche épaisse, et poser les tranches de feta dessus.
+    Saler, poivrer, et disposer les queues de persil en petites bottes autour du plat.
+    Mettre au four, 30 à 40 min, à 200°C (th 6-7).A la fin, arroser avec du ouzo et flamber! (facultatif)Quantités variables en fonction de la taille du plat, peut se servir aussi-bien en entrée.
+    Servir avec du riz, arrosé de sauce, ou une pomme de terre au four.
+  ]]>
+  </preparation>
+</recette>

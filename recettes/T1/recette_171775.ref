@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171775">
+  <titre>Croustillants à la banane</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>2 grosses bananes</p>
+    <p>1 grosse noix de beurre</p>
+    <p>50 g de sucre semoule</p>
+    <p>crème chantilly</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C (thermostat 6).Épluchez les bananes, coupez les en 2 dans le sens de la largeur puis en 2 dans le sens de la longueur.
+    Vous obtenez ainsi 8 morceaux.
+    Placez les morceaux dans une assiette, saupoudrez-les de sucre semoule et ajoutez par dessus une petite noisette de beurre. 
+    Passez au micro-ondes pendant 2 min pour les ramollir un peu.
+    Faites fondre le restant de beurre au micro-ondes dans un ramequin.
+    Pendant ce temps, préparez les feuilles de brick.  Si elles sont rondes, coupez les bords pour en faire des feuilles rectangulaires.
+    Une fois le beurre fondu, badigeonnez les feuilles avec. Disposez les bananes comme vous le souhaitez sur les feuilles, puis refermez-les en enroulant les feuilles sur les bananes. Vous obtenez une sorte de nem.
+    Faites cuire vos croustillants pendant 10 min à 180°C (thermostat 6). Vérifiez bien la cuisson : les croustillants doivent être légèrement dorés.
+    Disposez sur une assiette, avec un peu de crème chantilly.Vous pouvez accompagner ces croustillants d'un sorbet aux fruits de la passion. Vous pouvez également remplacer les bananes par de la pomme, de la pêche...
+  ]]>
+  </preparation>
+</recette>

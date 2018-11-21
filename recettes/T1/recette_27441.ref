@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27441">
+  <titre>Saumonette façon blanquette</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700 g de saumonette</p>
+    <p>1 sachet de court bouillon</p>
+    <p>2 l d'eau</p>
+    <p>150 g de champignons de Paris</p>
+    <p>2 cuillères à café de margarine</p>
+    <p>2 cuillères à café de farine</p>
+    <p>1 jaune d'oeuf</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la saumonette en darnes d'épaisseur égale. 
+    Plonger dans le court-bouillon froid et porter à ébullition pendant 10 mn. Réserver au chaud. 
+    Faire fondre la margarine et ajouter la farine puis 2 louches de jus de cuisson du poisson. Ajouter les champignons et laisser mijoter 10 mn. Ajouter le jaune d'oeuf à la sauce.
+    Napper le poisson avec la sauce et servir avec du riz. 
+    Touche finale : le persil pour donner de la couleur et du parfum.
+  ]]>
+  </preparation>
+</recette>

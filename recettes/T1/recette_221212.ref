@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221212">
+  <titre>Lasagnes aux épinards et noix de Saint-Jacques</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g d'épinard en branche</p>
+    <p>250 g de noix de Saint-Jacques</p>
+    <p>20 cl de crème semi-épaisse</p>
+    <p>20 cl de crème liquide</p>
+    <p>lasagne (en fonction de votre plat)</p>
+    <p>2 oignons</p>
+    <p>ail</p>
+    <p>poivre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Faire revenir les oignons dans une poêle, une fois dorés, ajouter les épinards préalablement blanchis puis la crème liquide. Laisser cuire 3 min. Ajouter du poivre selon votre goût.
+    Dans une autre poêle, faire cuire les noix de Saint-Jacques. Puis, ajouter la crème semi-épaisse et l'ail et du poivre.
+    Graisser le plat à lasagne. Placer les couches successives : lasagnes, épinards, lasagnes, noix de saint-Jacques, lasagnes, épinards, lasagnes, un petit peu de crème semi-épaisse et recouvrir de gruyère râpé.Mettre au four 45 min à température moyenne et déguster ! vin blanc sec
+  ]]>
+  </preparation>
+</recette>

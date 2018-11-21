@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57214">
+  <titre>Gratin d'endives et pommes de terre au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 endives</p>
+    <p>6 pommes de terre</p>
+    <p>4 tranches de jambon</p>
+    <p>fromage frais</p>
+    <p>bûche de chèvre</p>
+    <p>crème fraîche</p>
+    <p>lait</p>
+    <p>beurre</p>
+    <p>sel </p>
+    <p>poivre</p>
+    <p>ciboulette</p>
+    <p>fromage râpé (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les endives et les pommes de terres pelées à l'autocuiseur.
+    Lorsque les endives sont cuites, ouvrez-les en deux dans le sens de la longueur et faites-les revenir dans une poêle avec un peu de beurre pour les faire légèrement dorer.
+    Dans un plat à gratin, tapissez le fond de rondelles de pommes de terre.
+    Ajoutez dessus le jambon coupé en lamelles.
+    Terminez par les endives.
+    Dans une terrine, mélangez la crème fraîche, le lait et le fromage frais.
+    Battez pour obtenir un mélange homogène.
+    Salez et poivrez.
+    Versez ce mélange crémeux sur le gratin puis ajoutez des rondelles de buches de chèvres... bien serrées (ne soyez pas économe sur la quantité.
+    Parsemez le tout de ciboulette et passer au four pour une quinzaine de minutes, le temps que le chèvre dore...
+    Vous pouvez rajouter du fromage rapé.
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

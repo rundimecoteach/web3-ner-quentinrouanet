@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14216">
+  <titre>Blanquette de dinde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de morceaux de dinde</p>
+    <p>1 boîte 4/4 de tomates pelées</p>
+    <p>1 boîte de concentré de tomates</p>
+    <p>-2 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>1 petit verre de cognac</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>25 cl de crème fraîche</p>
+    <p>beurre ou margarine</p>
+    <p>maïzena </p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites dorer les morceaux de dinde, salez, poivrez et réservez. 
+    Hachez les oignons et faites-les revenir dans du beurre ou de la margarine puis ajoutez l'ail pilé,
+    les morceaux de dinde, le cognac et flambez.
+    Ajoutez les tomates pelées, le concentré de tomates, le cube de bouillon, le vin blanc.
+    Couvrez et laissez mijoter 45 minutes en remuant de temps en temps.
+    En fin de cuisson, ajoutez la crème fraîche et délayez un peu de Maïzena pour épaissir la sauce.
+    Servez avec du riz blanc ou des pommes de terre sautées.
+  ]]>
+  </preparation>
+</recette>

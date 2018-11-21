@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11744">
+  <titre>Hrira (Maroc)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de viande d'agneau</p>
+    <p>200 g de pois chiches prétrempés</p>
+    <p>1 oignon coupé en dés</p>
+    <p>1 bouquet de coriandre hachée</p>
+    <p>1 pointe de curcuma</p>
+    <p>gingembre frais haché</p>
+    <p>poivre</p>
+    <p>1,5 tablette de bouillon cube</p>
+    <p>15 cl de pulpe de tomate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ce plat est la soupe marocaine du Ramadan.
+    Jeter la viande coupée en petits morceaux dans une grande casserole ou faitout, ajouter les pois chiches (trempés de la veille).Couvrir d'eau (environ 1l). Ajouter l'oignon coupé en dés, coriandre, curcuma, poivre, gingembre, bouillon de cube et le verre de tomate. Mélanger le tout.
+    Vous aurez au préalable préparé dans un bol : 5 cuillères à soupe de farine, 10g de levure de boulanger et 2 verres d'eau.Mélanger énergiquement cette mixture au reste au bout de 10 mn de cuisson.
+    Temps total de cuisson : 30 mn à feu moyen.Accompagnée de dattes, elle n'en sera que meilleure. un verre de lait
+  ]]>
+  </preparation>
+</recette>

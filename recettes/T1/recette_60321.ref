@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60321">
+  <titre>Gratin de spaghettis au quinoa-ail-persil</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâtes au quinoa, ail et persil (environ 300 g cuites)</p>
+    <p>4 courgettes jaunes</p>
+    <p>3 gousses d'ail</p>
+    <p>2 oignons moyens</p>
+    <p>3 ou 4 tomates bien mûres</p>
+    <p>200 g de champignons de paris</p>
+    <p>1 poignée de pignons</p>
+    <p>basilic</p>
+    <p>parmesan râpé</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes et réserver.Découper les légumes en morceaux grossiers.
+    Dans une poêle, faire chauffer l'huile d'olive et y verser l'oignon. Faire revenir à feu moyen, puis ajouter les pignons de pin, laisser légèrement dorer.
+    Ajouter les champignons, et une fois qu'ils ont rendu leur eau et que que ça s'est un peu évaporé, ajouter l'ail, faire revenir 2 min, ajouter les courgettes, baisser le feu et couvrir.
+    Au bout de 15 min, normalement tout est cuit, découvrir et ajouter les tomates et le basilic, le sel et le poivre. Laisser mijoter 20 min, puis verser dans un grand saladier et mixer.
+    Préchauffer le four à thermostat 6-7 (200°C).Dans un plat à gratin, mettre de l'huile d'olive dans le fond, étaler. Mettre une partie des spaghettis, saler et poivrer légèrement. Saupoudrer légèrement (1 ou 2 cuillères à café) de parmesan râpé. Etaler la mixture de légumes. Mettre le reste des spaghettis par-dessus, saler et poivrer légèrement.
+    Mettre le parmesan râpé (2 ou 3 cuillères à soupe) et au four pendant 20 à 25 min.Pour relever le goût on peut ajouter un peu de piment de cayenne dans la sauce à spaghettis
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221714">
+  <titre>Oeufs pochés à la bourguignonne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>80 g de lardons fumés</p>
+    <p>80 g de champignons de Paris</p>
+    <p>1 oignon jaune</p>
+    <p>4 œufs</p>
+    <p>4 tranches de pain de mie</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>facultatif : sauce bourguignonne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rissoler les lardons.
+    Émincer l'oignon et les champignons et les ajouter aux lardons.
+    Versez le vinaigre dans l'eau bouillante.
+    Casser un œuf dans une tasse et le verser délicatement dans l'eau.
+    Procéder de la même manière pour les autres œufs. Laisser cuire 5 minutes environ.
+    Toaster le pain et déposer 1 tranche par assiette. Recouvrir avec le mélange oignon/lardons/champignons, poser un œuf poché, napper de sauce bourguignonne et servir seul ou avec des épinards.
+  ]]>
+  </preparation>
+</recette>

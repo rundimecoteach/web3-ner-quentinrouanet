@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34463">
+  <titre>Poulet fangourin (au gingembre)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 escalopes de poulet</p>
+    <p>3 cuisses de poulet</p>
+    <p>250 g de farine</p>
+    <p>250 g de gingembre</p>
+    <p>1 gousse d'ail</p>
+    <p>sel</p>
+    <p>1/2 litre de rhum brun</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>huile (pour friture) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les escalopes en deux et les cuisses en quatre. 
+    Piler l'ail avec le gingembre et le sel. 
+    Faire tremper les morceaux de poulet dans le rhum et bien mélanger pour imprégner la chair. 
+    Y ajouter la pâte d'ail et de gingembre et bien malaxer le tout. 
+    Ajouter la sauce soja et malaxer à nouveau. 
+    Laisser macérer deux heures minimum. 
+    Faire chauffer le bain d'huile. 
+    Rouler les morceaux de poulet égouttés dans la farine. 
+    Mettre les morceaux à frire ; les retirer bien dorés. 
+    Servir chaud (réchauffer au four si nécessaire) avec des haricots verts ou du riz blanc, parfumé basmati, de préférence cuit à la vapeur.
+    Recette de l'Ile Maurice sortie des valises de Nicole Lombard... Un rouge léger.
+  ]]>
+  </preparation>
+</recette>

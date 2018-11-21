@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81252">
+  <titre>Yaourts aux noix et miel</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 yaourts brassés nature</p>
+    <p>125 g de cerneaux de noix</p>
+    <p>miel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez dans un plat les 6 yaourts.
+    Mélangez-y 6 cuillères à soupe de miel.
+    Ajoutez les cerneaux de noix, puis mettez au frigidaire le temps du repas, afin de servir frais.
+    A chacun(e) de mettre plus ou moins de miel et plus ou moins de noix selon les goûts...
+  ]]>
+  </preparation>
+</recette>

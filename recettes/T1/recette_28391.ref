@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28391">
+  <titre>Sorbet ananas fruits confits</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 ananas bien mûr</p>
+    <p>20 cl d'eau</p>
+    <p>200 g de sucre</p>
+    <p>1/2 citron</p>
+    <p>100 g de fruits confits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer un sirop de sucre en faisant bouillir le sucre et l'eau durant 10 minutes. Laisser refroidir.
+    Eplucher l'ananas, retirer la partie centrale de la chair qui est ligneuse, passer le reste au mixeur et ajouter le sirop de sucre. 
+    Incorporer le jus de citron et les fruits confits hachés.
+    Faire prendre en sorbetière ou, à défaut, au congélateur en prenant soin de mixer toutes les 30 minutes pendant les 3 premières heures.
+    Conserver l'écorce de l'ananas pour présenter le sorbet.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33456">
+  <titre>Potage aux lentilles et aux pâtes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un oignon</p>
+    <p>une carotte</p>
+    <p>100 g de lentilles brunes</p>
+    <p>100 à 150 g de pâtes à potages</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans un faitout 2 cuillères à soupe d’huile d’olive, y ajouter l’oignon et la carotte hachés. Faire revenir 5 mn. 
+    Ajouter les lentilles, couvrir d’un litre d’eau froide. Saler, poivrer. 
+    Porter à ébullition, laisser cuire à feu doux 45 mn. 
+    Mixer finement. 
+    Ajouter un bon morceau de beurre et remettre sur le feu très doux. 
+    Faire cuire les pâtes à potage dans de l’eau salée. 
+    Ajouter les pâtes au potage de lentilles. 
+    Déguster.
+  ]]>
+  </preparation>
+</recette>

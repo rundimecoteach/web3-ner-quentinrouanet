@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56527">
+  <titre>Brownie qui épatera vos amis</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de chocolat noir</p>
+    <p>200 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>50 g d'amande en poudre</p>
+    <p>50 g de noisette en poudre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>1 cuillère à café de crème liquide</p>
+    <p>4 oeufs</p>
+    <p>4 noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat et le beurre dans une casserole avec une    cuillère à soupe d'eau au fond (bien surveiller tout en remuant régulièrement).
+    Puis ajouter le lait et la crème.
+    Monter les blancs d'oeufs en neige (jusqu'à qu'ils soient bien fermes).
+    Puis ajouter y le sucre, le sucre vanillé, la farine, tout en continuant de mélanger avec le chocolat et le beurre.
+    Ajouter la poudre d'amande et de noisettes.
+    Pour les noix : les couper en morceaux et les mélanger au reste.
+    Mettre dans un moule, faire cuire pendant 15 minutes thermostat 5-6 (160°C).
+    Surveiller la cuisson.
+    Vous constaterez par vous même : il est vraiment délicieux, léger et moelleux !!! un bon champagne ou une clairette (et jus de fruits pour les enfants) !!
+  ]]>
+  </preparation>
+</recette>

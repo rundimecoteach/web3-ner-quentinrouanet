@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29947">
+  <titre>Pâtes sauce napolitaine aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de pâtes</p>
+    <p>1 cube de bouillon</p>
+    <p>200 g de champignons</p>
+    <p>100 g d'olives vertes dénoyautées</p>
+    <p>50 g de parmesan râpé</p>
+    <p>10 cl de madère</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>1 oignon</p>
+    <p>1 feuille de laurier</p>
+    <p>1 branche de persil</p>
+    <p>thym ou basilic</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pâtes al dente avec 1 cube de bouillon.
+    Hachez l'oignon, faites-le revenir dans l'huile avec le concentré de tomate, le laurier, l'ail écras, le persil, sel, poivre, thym ou basilic.
+    Mouillez de 25 cl d'eau, laissez à petit feu 30 minutes.
+    Emincez les champignons, faites-les revenir dans un peu de beurre pendant 10 min.
+    Retirez la sauce tomate du feu, ajoutez le madère.
+    Mélangez les pâtes avec la sauce, les champignons et les olives, saupoudrez de parmesan et servez.
+  ]]>
+  </preparation>
+</recette>

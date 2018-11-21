@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33891">
+  <titre>Potage égyptien</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 l de bouillon</p>
+    <p>1 oignon</p>
+    <p>1 grosse pomme de terre</p>
+    <p>1 courgette</p>
+    <p>1 verre de lentilles oranges (on peut mettre des vertes) </p>
+    <p>beurre</p>
+    <p>1 cuillère à café de cumin en poudre</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon dans le beurre. Ajouter les légumes, le bouillon, puis faire cuire environ 1/2 heure.
+    Mixer le tout. 
+    Ajouter le cumin et la crème. 
+    Servir très chaud, avec des croûtons.
+  ]]>
+  </preparation>
+</recette>

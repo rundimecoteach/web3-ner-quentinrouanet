@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212121">
+  <titre>Salade de mangue et poivrons rouges</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 mangues (mûres à point bien sûr)</p>
+    <p>2 poivrons rouges </p>
+    <p>1 oignons rouges</p>
+    <p>1 citron (vert de préférence)</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>3 pincées de curry</p>
+    <p>1 pincée de piment d'Espelette</p>
+    <p>de la coriandre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites préchauffez votre four à 200°C (thermostat 6-7).
+    Lavez les poivrons, coupez-les en 2 dans le sens de la longueur et évidez-les. Posez-les sur une plaque recouverte de papier sulfurisé côté peau vers le haut.
+    Enfournez une quinzaine de minutes.
+    Retirez du four lorsque la peau s'est craquelée et est un peu brûlée.
+    Laissez tiédir un peu pour pouvoir les manipuler. Puis, retirez la peau délicatement
+    Pelez et coupez les mangues en lamelles.
+    Faites de même avec les oignons et les poivrons.
+    Ajoutez un à un tous les ingrédients restants (la coriandre selon votre goût), peut importe l'ordre et laissez mariner au réfrigérateur. 
+    Servir bien frais. Côtes de Provence rosé
+  ]]>
+  </preparation>
+</recette>

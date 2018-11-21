@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25990">
+  <titre>Pavés de Bison sauce Stroganov</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pavés de bison</p>
+    <p>2 échalotes (émincées) </p>
+    <p>20 ml de crème fraîche épaisse</p>
+    <p>1 cuillère à soupe de moutarde forte de Dijon</p>
+    <p>20 g de beurre salé</p>
+    <p>sel fin de Guérande, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 240°C (fonction rôtisserie). 
+    Faites revenir dans une casserole les échalotes avec le beurre jusqu'à ce qu'elles soient dorées. 
+    Ajoutez ensuite la crème fraîche puis la moutarde et laissez réduire 10 mn environ à feu vif. La sauce Stroganov est prête. Versez la sauce dans une saucière et maintenir au chaud. 
+    Déposez dans un plat allant au four les pavés de bison. Salez et poivrez les. Les mettre au four juste le temps de saisir d'un côté puis retournez-les et de nouveau laissez-les saisir à votre convenance. 
+    Le bison se cuit comme le boeuf (saignant ou à point).
+    Vous pouvez accompagner les pavés de bison de pommes Dauphine ou Duchesse.
+    Les servir dans des assiettes chaudes. Côte du Rhone
+  ]]>
+  </preparation>
+</recette>

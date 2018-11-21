@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16684">
+  <titre>Rochers au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de beurre fondu </p>
+    <p>100 g de sucre fin </p>
+    <p>150 g de farine </p>
+    <p>100 g de fécule </p>
+    <p>2 oeufs </p>
+    <p>2 sachets de sucre vanillé </p>
+    <p>150 g de noisettes moulues </p>
+    <p>200 g de chocolat noir coupé en copeaux</p>
+    <p>1 pincée de sel </p>
+    <p>1 sachet de levure chimique </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs, le sucre fin, le sucre vanillé, le sel et les autres ingrédients.
+    Faire des petits tas et cuire à four moyen 10 à 15 min environ.
+  ]]>
+  </preparation>
+</recette>

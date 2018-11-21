@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81303">
+  <titre>Dinde et légumes au four à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>2 oignons</p>
+    <p>5 pommes de terre</p>
+    <p>5 carottes</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C (thermostat 6).
+    Coupez les escalopes de dindes en morceaux.
+    Pelez et coupez les légumes (pas en trop gros morceaux), faites une fente sur chaque bout de légumes (pour que lors de la cuisson l'huile puisse bien les imbiber).
+    Placez le tout dans un plat, salez, poivrez et versez l'huile d'olive.
+    Mettre au four, surveillez la cuisson et veillez à mélanger les légumes de temps en temps, de façon à ce que ces derniers cuisent uniformément.
+  ]]>
+  </preparation>
+</recette>

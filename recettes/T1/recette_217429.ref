@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217429">
+  <titre>Gâteau et glaçage tout banane</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine </p>
+    <p>150 g de sucre </p>
+    <p>100 g de beurre </p>
+    <p>4 œufs </p>
+    <p>1 yaourt </p>
+    <p>4 bananes </p>
+    <p>1 citron </p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 demi verre de sucre glace </p>
+    <p>1 demi sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la farine, le sucre, et la levure. Puis casser les œufs dans le saladier en les incorporant délicatement.
+    Mixer trois bananes avec le yaourt, presser le citron et ajouter le tout dans le saladier. Bien remuer. Beurrer un grand moule rond, puis y déposer la pâte. Enfourner le moule dans le four à 180°C (thermostat 6), pendant une demi-heure. Pendant ce temps, mixer un quart de la dernière banane et le mélanger avec un demi verre de sucre glace . Reposer le glaçage au frigo, et le napper sur le haut du gâteau quand celui ci est refroidi. Servir froid.
+  ]]>
+  </preparation>
+</recette>

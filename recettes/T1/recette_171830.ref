@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171830">
+  <titre>Bricks au saumon fumé et aux pommes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>4 tranches de saumon fumé</p>
+    <p>2 pommes </p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à café d'aneth hachée</p>
+    <p>1/2 citron</p>
+    <p>1 noisette de beurre</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et éplucher les pommes, puis les découper en petits cubes.
+    Faire fondre le beurre dans une poêle et y faire dorer les morceaux de pommes.
+    Dans un bol, mélanger la crème fraîche, l'aneth et le jus du demi citron. Poser une tranche de saumon fumé au centre d'une feuille de brick, étaler un peu du mélange de crème fraîche, puis déposer les morceaux de pommes. 
+    Poivrer (surtout ne pas saler, le saumon l'est déjà assez).
+    Fermer la feuille de brick.Répéter l'opération pour chaque feuille de brick.
+    Les bricks sont prêtes à être cuites à la poêle 5 min de chaque côté. Accompagnées d'une salade, c'est excellent!Pour un soir de flemme, un lendemain de fête ou une envie de dîner léger.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30576">
+  <titre>Poêlée de fonds d'artichaut au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 petits fonds d'artichaut</p>
+    <p>2 tomates</p>
+    <p>3 gousses d'ail</p>
+    <p>2 cuillère à café de mascarpone</p>
+    <p>2 tranches (50 g environ) de chèvre frais (ou chavroux ou autre...)</p>
+    <p>sel et poivre</p>
+    <p>basilic, origan, huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les fonds d'artichaut quelques minutes à l'eau bouillante.
+    Ebouillanter les tomates pour pouvoir les peler.
+    Faire chauffer l'huile d'olive dans une sauteuse, ajouter les gousses d'ail écrasées, les tomates coupées en dés, les fonds d'artichauts coupés en dés. Laisser cuire une dizaine de minutes à feu doux.
+    Avant de servir, ajouter le mascarpone pour rendre la préparation plus crémeuse, faire revenir.
+    Ajouter le chèvre frais, bien mélanger et servir avec une salade ou comme garniture pour pâtes.
+  ]]>
+  </preparation>
+</recette>

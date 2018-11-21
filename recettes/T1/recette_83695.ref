@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83695">
+  <titre>Velouté de bolets roux (pible)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de bolets roux </p>
+    <p>1 litre de bouillon</p>
+    <p>1 échalote</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 noix de beurre</p>
+    <p>10 cl de crème fraîche</p>
+    <p>50 g de gruyère (facultatif)</p>
+    <p>4 tranches de pain grillé ou quelques croutons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faites revenir les champignons coupés en petites lamelles dans l'huile jusqu'à évaporation de l'eau (20mn environ).
+    Ajoutez la noix de beurre et l'échalote hachée, laissez cuire 10 min en remuant de temps en temps. Versez le bouillon, couvrez et laissez cuire 1/2 heure. Passez le tout au mixeur, ajoutez la crème fraîche, assaisonnez remuez et servez sur le pain grillé (ou croutons).
+    Vous pouvez mettre un peu de fromage râpé.
+    Ce type de plat s'applique aussi au bolet baie ou cèpe Buzet
+  ]]>
+  </preparation>
+</recette>

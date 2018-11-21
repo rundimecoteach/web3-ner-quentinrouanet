@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10980">
+  <titre>Gâteau aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte brisée sucrée : </p>
+    <p>300 g de farine</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillerée à soupe de sucre en poudre</p>
+    <p>1 pincée de sel</p>
+    <p>50g de beurre.</p>
+    <p>Pour la garniture : </p>
+    <p>150 g de poudre d'amandes</p>
+    <p>125 g de sucre en poudre</p>
+    <p>75 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>1/2 sachet de levure</p>
+    <p>2 cuillerées à soupe de miel</p>
+    <p>amandes effilées (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte brisée.Mélanger dans un saladier le sucre, 1 oeuf entier et 2 jaunes d'oeuf. Puis rajouter successivement (en mélangeant bien):
+    la poudre d'amandes, le beurre fondu, les 2 blancs battus en neige et la levure.
+    Faire précuire la pâte à blanc pendant quelques minutes, puis tartiner le fond de la pâte de miel, et verser la garniture.
+    Faire cuire environ 25 min, et saupoudrer d'amandes effilées à mi-cuisson.
+  ]]>
+  </preparation>
+</recette>

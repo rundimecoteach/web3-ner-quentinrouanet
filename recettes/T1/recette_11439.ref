@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11439">
+  <titre>Cannelés bordelais</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>2 œufs entiers</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1/2 gousse de vanille</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>100 g de farine</p>
+    <p>250 g de sucre en poudre</p>
+    <p>50 g de beurre (+ 50 g pour beurrer les moules)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait avec la vanille et le beurre.
+    Pendant ce temps, mélanger la farine, le sucre puis incorporer les œufs d'un seul coup, verser ensuite le lait bouillant.Mélanger doucement afin d'obtenir une pâte fluide comme une pâte à crêpes, laisser refroidir, puis ajouter le rhum. Placer au réfrigérateur une heure.
+    Préchauffer le four à thermostat 10 (270°C) avec la tôle sur laquelle cuiront les cannelés.
+    Verser la pâte bien refroidie dans les moules bien beurrés, en ne les remplissant qu'à moitié; rapidement, disposer les cannelés sur la tôle du four chaud th10 pendant 5 minutes, puis baisser le thermostat à 6 (180°C) et continuer la cuisson pendant 1 heure : le cannelé doit avoir une croûte brune et un intérieur bien moelleux.Démouler encore chaud.Le point le plus délicat est la cuisson : veiller à beurrer très généreusement les moules. Laisser éventuellement prendre une première couche de beurre au réfrigérateur et recommencer. S'ils se colorent trop rapidement, baisser le four à thermostat 5 (150°C).Il est indispensable d'avoir des moules à cannelés pour réussir cette recette... Ils s'achètent dans des magasins spécialisés.
+  ]]>
+  </preparation>
+</recette>

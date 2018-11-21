@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229454">
+  <titre>Flan-terrine aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>450 g de macédoine surgelée</p>
+    <p>4 œufs battus en omelette</p>
+    <p>75 g de crème fraîche</p>
+    <p>75 g de gruyère râpé</p>
+    <p>1 branche de persil haché</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les légumes 10 min à l'eau bouillante salée puis égouttez-les.Mélangez dans une terrine, les œufs, la crème, le gruyère, le persil, sel et poivre.
+    Ajoutez les légumes, mélangez bien.
+    Versez dans un plat à cake en silicone et faites cuire
+    à 200°C (thermostat 6) pendant environ 35 min.Démoulez froid sur le plat de service, réservez au réfrigérateur.
+    Servez-le froid avec une sauce mayonnaise.
+  ]]>
+  </preparation>
+</recette>

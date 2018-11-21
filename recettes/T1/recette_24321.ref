@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24321">
+  <titre>Ma salade de pâtes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâtes torsades semi-complètes</p>
+    <p>dés de gruyère</p>
+    <p>dés de tomates</p>
+    <p>basilic hachè</p>
+    <p>ail haché</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes semi-complètes 7 mn. Les égoutter et les remettre dans la casserole. Y ajouter de l'huile d'olive, du basilic et de l'ail haché selon vos goûts (je mets surtout beaucoup de basilic). 
+    Laisser refroidir. 
+    Dans un saladier, mettre les tomates coupées en dés, le gruyère en dés, une pincée de sel. Ajouter les pâtes au basilic et à l'ail. 
+    Réserver au frigo avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84068">
+  <titre>Riz cantonais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>4 saucisses chinoises ou 1 part de lardons fumés</p>
+    <p>1 gros ou 2 petits  oeufs</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>3 bols de riz</p>
+    <p>2 poignées de petits pois</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le riz dans un autocuiseur(3 portions).
+    Faire cuire petits pois (surgelés par exemple) dans une casserole.
+    Dans une pelle faire cuire l'oignon tranché en lamelles avec lardon/saucisse puis réserver.
+    Battre les œufs puis les faire cuire brouillés puis réserver.
+    Mélanger petits pois/oignon/saucisse/œuf et ajouter la sauce soja en la laissant s'évaporer un peu.
+    Une fois le riz cuit, le saler et le mettre dans un grand fait tout ou mieux un wok le faire chauffer en le "cassant".
+    Ajouter le mélange petits pois/oignon/saucisse/œuf/sauce soja dans le wok, mélanger avec le riz à feu doux.
+     
+    Servir chaud.
+    N'oubliez pas que le riz cantonnais est un riz agrémenté des "restes" de la cuisine, il n'y a donc pas de recette exacte, on y ajoute ce qu'on veut en fonction de ce qu'on a (crevettes, jambon, pousse de soja, champignons, etc...)
+  ]]>
+  </preparation>
+</recette>

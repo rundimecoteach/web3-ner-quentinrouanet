@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26189">
+  <titre>Friand facile au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>2 tranches de jambon de Paris</p>
+    <p>3 grosses cuillères à soupe de crème fraîche</p>
+    <p>fromage râpé</p>
+    <p>poivre sel</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte feuilletée sur une des moitiés, et placer le jambon.
+     
+    Recouvrir de crème fraîche et de fromage râpé. 
+    Assaisonner, et refermer le friand avec la moitié de la pâte non recouverte par les ingrédients. 
+    Etaler le jaune d'oeuf sur le dessus du friand. 
+    Mettre au four, à 150°C (thermostat 5), pendant 20 min environ.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164708">
+  <titre>Verrine "Douceur croustillante"</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>160 g de confiture de lait ou sauce caramel</p>
+    <p>400 g de fromage blanc vanillé</p>
+    <p>80 g de Muesli Kellogs Extra Pépites</p>
+    <p>4 dattes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rien de plus simple !Déposer dans chaque verrine les ingrédients dans cet ordre : - 40 g de confiture de lait (ou sauce caramel)
+    100 g de fromage blanc vanillé
+    20 g de Muesli Kellogs Extra pépites
+    1 datte découpée en petits morceaux
+    On peut préparer les verrines à l'avance, en ajoutant Muesli et dates à la sortie du frigo.
+  ]]>
+  </preparation>
+</recette>

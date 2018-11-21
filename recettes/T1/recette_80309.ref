@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80309">
+  <titre>Gâteau au yaourt chocolat vanille</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de yaourt (le pot sert ensuite de mesure)</p>
+    <p>1.5  pot de yaourt de farine </p>
+    <p>1.5 pot de yaourt de maïzena </p>
+    <p>2 œufs</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1/2 pot de yaourt d'huile</p>
+    <p>200 g de chocolat noir pâtissier </p>
+    <p>1 cuillère à café d'arôme de vanille liquide( facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 200°C, thermostat 6/7, et beurrez votre moule.
+    Dans une terrine, mélangez les oeufs, les sucres, le yaourt, la farine, la maïzena et la levure. A l'aide d'un batteur électrique, battez les ingrédients jusqu'à obtenir une pâte bien lisse.
+    Faites fondre le chocolat au bain-marie pendant 5 min. Ajoutez le chocolat à la pâte, puis mélangez. 
+    Ajoutez l'huile et l'arôme de vanille liquide.
+    Versez la pâte dans un moule et laissez cuire votre gâteau pendant 25 min.
+  ]]>
+  </preparation>
+</recette>

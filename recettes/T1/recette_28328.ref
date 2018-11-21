@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28328">
+  <titre>Choucroute alsacienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour les légumes :</p>
+    <p>1 kg de choucroute crue</p>
+    <p>2 gros oignons piqué d'1 clou de girofle chacun</p>
+    <p>2 carottes</p>
+    <p>35 g de haies de genièvre </p>
+    <p>1 bouquet garni</p>
+    <p>75 g de beurre</p>
+    <p>Pour les viandes :</p>
+    <p>750 g de palette de porc fumée </p>
+    <p>4 fines tranches de jambon blanc</p>
+    <p>200 g de lard de poitrine salé </p>
+    <p>4 saucisses de Strasbourg</p>
+    <p>couennes de jambon ou de lard</p>
+    <p>25 cl de vin blanc sec </p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le lard à dessaler 1 heure dans l’eau froide.
+    Placer les baies de genièvre dans des petites mousselines bien hermétiques.
+    Travailler le beurre avec une spatule en bois pour le ramollir, puis l'étaler sur les bords d’une grande cocotte à fond épais.
+    Recouvrir le fond de la cocotte de la moitié des couennes, côté gras tourné vers le fond de la cocotte.
+    Mettre la moitié de la choucroute dans la cocotte avec les oignons, les carottes en rondelles et le bouquet garni.
+    Remuer pour répartir les ingrédients puis ajouter les baies de genièvre, la palette, le jambon blanc et le lard, puis recouvrir du reste de choucroute.
+    Mouiller de vin blanc avec un peu d’eau jusqu’à mi-hauteur, tapisser du reste de couenne et faire bouillir.
+    Laisser mijoter à feu très doux pendant 3 ou 4 heures.
+    Ajouter les saucisses à la choucroute 20 minutes avant la fin de la cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81021">
+  <titre>Soupe aux lentilles du Liban (shorbat addas)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petite boîte de lentilles (poids net égoutté 130 g)</p>
+    <p>1 petit oignon</p>
+    <p>1 grosse poignée de riz</p>
+    <p>persil</p>
+    <p>cumin</p>
+    <p>sel</p>
+    <p>le jus d’½ citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincer les lentilles, les verser dans le bol du mixeur. Ajouter un peu d’eau. Mixer grossièrement, il doit rester des morceaux, ne pas mixer jusqu'à l’état liquide. 
+    Faire frire l’oignon à l’huile d’olive.
+    Mettre les lentilles dans une casserole, ajouter l’oignon frit, une grosse poignée de riz, du persil haché, du cumin, une pincée de sel.
+    Ajouter assez d’eau pour bien recouvrir le tout. Mettre sur le feu jusqu'à la cuisson complète du riz. 
+    Ajouter le jus de citron et laisser mijoter sur feu doux pendant encore 5 minutes.
+    Servir bien chaud, accompagnée d’une salade, de mini-pizzas, etc…
+    Cette soupe se consomme traditionnellement pendant le mois de Ramadan.
+  ]]>
+  </preparation>
+</recette>

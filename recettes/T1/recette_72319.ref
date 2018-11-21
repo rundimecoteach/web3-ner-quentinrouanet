@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72319">
+  <titre>Quiche tomate persil</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée </p>
+    <p>6 tomates</p>
+    <p>6 oeufs</p>
+    <p>4 gousse d'ail</p>
+    <p>1 bouquet de persil plat</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>4 portions de vache-qui-rit</p>
+    <p>chapelure </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Dans un saladier hachez les tomates (sans les graines), coupez l'ail finement ainsi que le persil plat. Mélangez et ajoutez les oeufs, la crème fraîche et les portions de fromage coupées en dés.
+    Salez, poivrez et mélangez le tout à l'aide d'un fouet.
+    Etalez la pâte dans un moule à tarte, à l'aide d'une fourchette piquez le fond et saupoudrez le fond avec un peu de chapelure.
+    Versez la préparation et enfournez pendant 30 min.
+    Servez la quiche tiède avec une salade. Bon appétit !
+    Vous pouvez décorez la quiche avec des olives noires. Elle est riche en oeufs, mais pauvre en crème. C'est un plat bien complet qui rassasie.
+  ]]>
+  </preparation>
+</recette>

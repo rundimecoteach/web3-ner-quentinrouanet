@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170331">
+  <titre>Cake au maïs et au parmesan</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>3 œufs</p>
+    <p>150 g de mais (poids égoutté)</p>
+    <p>100 g de parmesan râpé</p>
+    <p>100 g de beurre</p>
+    <p>12 cl de lait</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>ciboulette</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four thermostat 6 ou 180°C.Dans un saladier, mélanger la farine, la levure et le parmesan.
+    Ajouter les œufs battus puis mélanger.
+    Ajouter le beurre fondu puis mélanger.
+    Ajouter le lait puis mélanger à nouveau. Saler et poivrer.
+    Ajouter le maïs égoutté et de la ciboulette ciselée.
+    Verser la pâte dans un moule à cake anti-adhésif ou en silicone.
+    Enfourner et cuire environ 45 min.
+    Laisser tiédir avant de démouler.
+    Laisser refroidir et servir.Un cake surprenant par son originalité ! Vin blanc
+  ]]>
+  </preparation>
+</recette>

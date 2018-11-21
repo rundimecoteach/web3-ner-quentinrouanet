@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57500">
+  <titre>Magret de canard au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 beau magret de canard</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le magret en fines tranches égales et faites tremper dans le vin blanc 10 minutes.
+    Saisissez les tranches de magret dans une poêle grill très chaude 1 minute de chaque côté.
+    Salez, poivrez et servez très chaud.
+     un vin blanc sec
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28974">
+  <titre>Crème glacée à la groseille nappée de gelée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de groseilles rouges</p>
+    <p>125 g de sucre glace</p>
+    <p>30 cl de crème fraîche</p>
+    <p>1 cuillère à soupe de kirsch (facultatif)</p>
+    <p>1 pot de gelée de groseille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et concasser les groseilles puis les passer au tamis pour les égrener.
+    Mélanger cette pulpe avec le sucre, la crème fraîche et le kirsch.
+    Faire glacer en sorbetière.
+  ]]>
+  </preparation>
+</recette>

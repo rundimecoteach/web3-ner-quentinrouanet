@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52728">
+  <titre>Flan à la cannelle (recette espagnole)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>30 cl de lait</p>
+    <p>1/2 sachet de vanille</p>
+    <p>1 cuillère à café de cannelle en poudre</p>
+    <p>1 cuillère à café de liqueur de cannelle</p>
+    <p>4 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le lait avec la vanille.
+    Mélanger les jaunes d'oeufs avec le sucre puis verser le lait chaud, la liqueur et la cannelle en poudre.
+    Mélanger le tout.
+    Verser le mélange dans un moule ou dans 4 moules individuels.
+    Cuire au bain-marie jusqu'à que la crème se solidifie.
+    Servir les flans froids.
+    La liqueur de cannelle est parfois difficile à trouver. Il faut aller voir dans les boutiques de produits étrangers. Certaines grandes surfaces en proposent.
+  ]]>
+  </preparation>
+</recette>

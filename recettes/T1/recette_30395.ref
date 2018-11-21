@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30395">
+  <titre>Rôti de porc farci aux pistaches et à l'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de porc de 1,5 kg</p>
+    <p>2 tranches de jambon de pays</p>
+    <p>125 g de pistaches mondées non salées </p>
+    <p>1 petite orange non traitée</p>
+    <p>sel, poivre</p>
+    <p>thym, romarin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincez le jambon en lanières.
+    Prélevez le zeste de l'orange et détaillez-le en fines lanières.
+    Farcissez le rôti de jambon avec les pistaches et zestes d'oranges à l'aide d'une lardoire.
+    Si vous n'en possédez pas, ouvrez le rôti, mettez la garniture au centre sur toute la longueur, "reroulez-le" et ficelez.
+    Déposez le rôti dans un plat, salez, poivrez et saupoudrez de thym et romarin émiettés.
+    Mouillez d'un verre d'eau et faites cuire 1 h 30 à 2 h au four à 210°C (thermostat 7), en arrosant de temps en temps le rôti avec le jus de cuisson.
+    Servez chaud ou froid.
+    Si vous le dégustez froid, laissez-le refroidir sur une grille et dégraissez alors le jus pris en gelée.
+  ]]>
+  </preparation>
+</recette>

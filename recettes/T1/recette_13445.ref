@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13445">
+  <titre>Porc à la sauce barbecue</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuillerées à soupe d'huile d'olive</p>
+    <p>6 poivrons de différentes couleurs</p>
+    <p>oignons (quantité selon votre goût)</p>
+    <p>1,5 kg de porc coupé en petits morceaux</p>
+    <p>95 g de sauce tomate</p>
+    <p>120 ml de vinaigre</p>
+    <p>100 g de sucre en poudre</p>
+    <p>2 cuillerées a soupe de moutarde</p>
+    <p>1 cuillerée a soupe de sauce worcestershire</p>
+    <p>2 cuillerées a café de sel</p>
+    <p>25 cl d'eau</p>
+    <p>3 cuillères à soupe de chili en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sauter les poivrons + les oignons dans l'huile. Ajouter le chili et remuer pendant 1 mn. Ajouter le porc en morceaux, la sauce tomate, le vinagire, le sucre, la moutarde, la sauce Worchester, le sel et l'eau.
+    Laisser mijoter a feu doux pendant 2 heures en mélangeant le tout de temps en temps.A servir accompagné de pates ou de riz.
+  ]]>
+  </preparation>
+</recette>

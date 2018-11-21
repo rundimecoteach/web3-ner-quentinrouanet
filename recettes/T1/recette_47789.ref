@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47789">
+  <titre>Salade aux lardons et kiri panés</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 salade frisée</p>
+    <p>200 g de lardons</p>
+    <p>4 Kiris</p>
+    <p>chapelure</p>
+    <p>1 oeuf</p>
+    <p>origan</p>
+    <p>sel poivre</p>
+    <p>huile, vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et préparer la salade.
+    Faire bouillir les lardons et les mélanger dans la salade.
+    Casser l'oeuf dans un bol.
+    Dans une assiette, mélanger la chapelure et l'origan.
+    tremper les kiris un par un, dans l'oeuf, puis dans la chapelure.
+    Faire dorer les kiris (1 min de chaque côté), dans une poêle, avec de l'huile de friture; intégrer les Kiris dans la salade.
+    Préparer une vinaigrette, et c'est prêt!
+     vin blanc
+  ]]>
+  </preparation>
+</recette>

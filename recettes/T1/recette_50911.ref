@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50911">
+  <titre>Avocat farci au surimi et aux câpres</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 avocat</p>
+    <p>4 bâtonnets de surimi</p>
+    <p>1 cuillère à soupe de vinaigre de cidre</p>
+    <p>5 feuilles de basilic frais</p>
+    <p>10 à 12 câpres</p>
+    <p>1/4 de citron</p>
+    <p>2 cuillères à soupe d'huile d'olives</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'avocat en 2 et le dénoyauter.
+    Prélever un peu de chair en creusant légèrement les demi-avocats.
+    Mettre la chair d'avocat prélevée et tous les autres ingrédients dans un hachoir et mixer jusqu'à obtention d'une farce homogène.
+    Remplir les demi-avocats de cette farce.
+    Décorer avec une feuille de basilic et servez.
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

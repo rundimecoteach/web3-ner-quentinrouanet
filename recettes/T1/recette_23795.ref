@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23795">
+  <titre>Omelette au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de champignons de Paris</p>
+    <p>10 cl de crème fraîche</p>
+    <p>75 g de fromage râpé</p>
+    <p>200 g de saumon fumé</p>
+    <p>6 oeufs</p>
+    <p>sel, poivre, persil, citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs dans un bol. Ajouter tous les autres ingrédients.
+    Cuire dans une poêle bien chaude.
+    Attention, la cuisson est délicate: bien surveiller pour que ça ne brûle pas... rosé bien frais
+  ]]>
+  </preparation>
+</recette>

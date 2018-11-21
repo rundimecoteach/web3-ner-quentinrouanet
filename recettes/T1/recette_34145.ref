@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34145">
+  <titre>Crème glacée aux speculoos</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de crème fraîche fouettable à 40% mg</p>
+    <p>300 g de sucre fin</p>
+    <p>175 g de speculoos</p>
+    <p>6 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fouetter la crème fraîche. 
+    Ajouter les jaunes d'oeufs puis le sucre. 
+    Écraser les speculoos. 
+    Mélanger les speculoos à l'appareil. 
+    Congeler quelques heures.
+     Tout vin blanc moelleux de type Monbazillac, Loupiac, etc...
+  ]]>
+  </preparation>
+</recette>

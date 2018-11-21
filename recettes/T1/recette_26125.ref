@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26125">
+  <titre>Poivrons au chorizo</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poivron rouge, 1 vert et 1 jaune</p>
+    <p>1 gros oignon</p>
+    <p>200 g de chorizo fort</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poivrons en gros dés. 
+    Couper l'oignon et le chorizo en rondelles. 
+    Faire dorer l'oignon dans une poêle huilée. 
+    Rajouter le chorizo. Laisser mijoter un court moment.... 
+    Rajouter les poivrons et laisser mijoter (les poivrons doivent être mous, selon le goût de chacun...). 
+    Servir avec du riz.
+    Parfait pour les petits porte-monnaie. Rouge corsé
+  ]]>
+  </preparation>
+</recette>

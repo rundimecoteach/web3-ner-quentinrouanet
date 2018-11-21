@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23349">
+  <titre>Côtes de porc sauce vinaigrée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>1/3 de verre de vinaigre (soit 8 cl)</p>
+    <p>2 tomates</p>
+    <p>2 échalotes hachées</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>8 cornichons</p>
+    <p>4 oignons blancs</p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez et poivrez les côtes de porc. Passez à la poêle pour les faire dorer. Réservez.
+    Coupez les oignons blancs, émincez les échalotes, l'ail, les tomates et les cornichons.
+    Faites sauter ces légumes 1 min dans la poêle où ont cuit les côtes de porc et gratez bien les sucs;
+    Déglacez avec le vinaigre, salez, poivrez et laissez mijoter 2 min.
+    Remettez la viande et laissez encore cuire 20 min.
+    Au bout de ce temps, retirer la viande et liez la sauce en ajoutant la crème fraîche.
+  ]]>
+  </preparation>
+</recette>

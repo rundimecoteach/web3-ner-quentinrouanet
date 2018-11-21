@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68118">
+  <titre>Farfalles sauce carotte</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 oignon</p>
+    <p>400 g de farfalles (ou autre pâtes)</p>
+    <p>4 belles carottes</p>
+    <p>1 verre d'eau (15-20 cl)</p>
+    <p>1 noisette de beurre</p>
+    <p>1 boîte de concentré de tomate (140 g ou moins)</p>
+    <p>1 cuillère à soupe de crème fraîche épaisse</p>
+    <p>1/2 verre de lait (10 cl)</p>
+    <p>gruyère rapé (selon vos goûts)</p>
+    <p>sel, poivre</p>
+    <p>facultatif : thym, origan, basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les carottes à l'aide d'un économe et coupez-les en fines rondelles.
+    Faites cuire les pâtes selon le temps indiqué, égouttez et réservez les pâtes.
+    Emincez l'oignon et faites-le revenir dans du beurre, ajoutez les rondelles de carottes et le verre d'eau. Assaisonnez et couvrez. 
+    Faites cuire jusqu'à ce que les carottes deviennent tendres, ajoutez de l'eau si besoin.
+    Pendant ce temps préparez la sauce en mélangeant le concentré de tomate et le lait.
+    Une fois les carottes "cuites" ajoutez la sauce, la crème fraîche, mélangez et ajoutez les pâtes ainsi que le gruyère râpé. Laissez quelques instant sur le feu, assaisonnez si besoin.
+    Plat light si l'on met de la crème fraîche allégée.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28380">
+  <titre>Bar au court-bouillon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 bar de 1,2 kg</p>
+    <p>10 cl de vinaigre</p>
+    <p>1 belle carotte</p>
+    <p>1 gros poireau</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>1 échalote hachée</p>
+    <p>1 cuillère à café de baies de genièvre</p>
+    <p>2 brins de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>150 g de beurre</p>
+    <p>zestes d'un citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir de l'eau dans une poissonnière avec le vinaigre, les légumes détaillés en cubes, le thym, le laurier, l'ail et l'échalote.
+    Déposez le poisson dans la poissonnière et laissez cuire à frémissement 25-30 minutes. Laissez le poisson refroidir dans le bouillon.
+    Faites fondre le beurre avec les zestes en fouettant jusqu'à l'obtention d'une sauce onctueuse.
+    Servez le poisson avec la sauce.
+  ]]>
+  </preparation>
+</recette>

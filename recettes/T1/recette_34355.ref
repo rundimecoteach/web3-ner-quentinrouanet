@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34355">
+  <titre>Feuilletés spéciaux Cheddar-Bacon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cercles de pâte feuilletée</p>
+    <p>4 tranches de bacon fumé</p>
+    <p>16 tranches de fromage cheddar coupées en carré ou triangle (type toastinette) </p>
+    <p>ciboulette</p>
+    <p>1 grosse tomate</p>
+    <p>cumin</p>
+    <p>1 jaune d'oeuf pour dorer</p>
+    <p>PAS de sel !</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C. 
+    Découper chaque cercle de pâte en 4 quarts et les disposer dans une plaque de cuisson garnie de papier sulfurisé. 
+    Couper les tranches de bacon en morceaux de 2 et les poêler 5 mn sans matière grasse. 
+    Disposer sur chaque quart de pâte : 
+    1 tranche de cheddar. 
+    1/2 tranche de bacon. 
+    1 tranche de cheddar. 
+    1 rondelle de tomate. 
+    Au besoin, ajuster les ingrédients pour qu'ils ne débordent pas du feuilleté. 
+    Parsemer de ciboulette hachée et de cumin selon votre goût, puis refermer les feuilletés en croissant. 
+    Badigeonner de jaune d'oeuf et enfourner 25 mn jusqu'à ce que toute la surface des feuilletés soit bien dorée. 
+    Servir en entrée accompagné de salade, ou en apéritif.
+    On peut bien sûr décliner cette recette en différentes versions plus classiques (lardons-chèvre, jambon-emmental ou saumon-Boursin).
+  ]]>
+  </preparation>
+</recette>

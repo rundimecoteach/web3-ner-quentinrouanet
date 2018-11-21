@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10660">
+  <titre>Poulet à la vésulienne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 jeune poulet</p>
+    <p>1 foie haché</p>
+    <p>2 tranches de lard fumé</p>
+    <p>mie de pain</p>
+    <p>lait</p>
+    <p>sel, poivre</p>
+    <p>1 pâte brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Farcir un jeune poulet d'un mélange de lard fumé et de son foie hachés
+    avec un peu de mie de pain trempée de lait, sel et poivre.
+    Envelopper la volaille d'une pâte brisée et mettre au four.
+    Envelopper la pâte, une fois dorée, d'un papier beurré pour qu'elle ne
+    brûle pas et continuer la cuisson. Trente minutes suffisent.
+    Ouvrir la pâte et servir le poulet arrosé d'un bourre légèrement fondu
+    enrichi d'herbes hachées et d'un jus de citron avec sel et poivre.
+    La pâte sert d'accompagnement.
+  ]]>
+  </preparation>
+</recette>

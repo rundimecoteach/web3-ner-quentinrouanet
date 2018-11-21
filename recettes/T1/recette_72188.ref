@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72188">
+  <titre>Chausson au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilleté</p>
+    <p>1 chèvre (voire 2 pour les gourmands)</p>
+    <p>250 g de dés de jambon (ou lardons)</p>
+    <p>1 gros oignon</p>
+    <p>2 tomates</p>
+    <p>1 jaune d'œuf (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'oignon en fines lamelles.
+    Dans une poêle, faire dorer l'oignon et les dés de jambon à feu doux.
+    S'il y a du jus lorsque l'oignon est doré, le retirer et laisser cuire 2 min.
+    Couper les tomates et le chèvre en lamelles. 
+    Préchauffer le four à 180°, thermostat 6.
+    Placer la pâte feuilleté dans un plat à four plat. 
+    Au milieu de la pâte, poser la mixture (oignon et jambon). Puis placer les lamelles de tomate et de chèvre.
+    Refermer le chausson. Badigeronner le chausson avec le jaune d'œuf.
+    Faire cuire 20 min au four.
+     un rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29566">
+  <titre>Risotto thon-tomate de Valérie (6ème rencontre Marmiton)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de riz (1 verre plein)</p>
+    <p>2 grosses boîtes de thon au naturel</p>
+    <p>1 brick de coulis de tomates</p>
+    <p>100 g de gruyère </p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à café de farine</p>
+    <p>1 yaourt</p>
+    <p>thym</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz dans l’eau bouillante salée avec une branche de thym. Egoutter le riz, enlever le thym, réserver. 
+    Egoutter le thon et conserver le jus. Emietter le thon. Râper le gruyère. 
+    Faire fondre le beurre dans une casserole et ajouter la farine. Ajouter le jus du thon et le coulis de tomates, mélanger. Hors du feu, ajouter le yaourt et 70 g de gruyère râpé. 
+    Mélanger le riz avec le thon et la sauce, saler, poivrer si nécessaire. 
+    Mettre cette préparation dans un plat à four, disperser le reste du gruyère. 
+    Mettre au four et laisser gratiner, jusqu’à ce que le dessus soit bien doré (environ 10 mn).
+    C'est un plat rapide, complet, et qui 'cale' bien !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29752">
+  <titre>Soupe de vermicelle aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de crevettes (queues et grosse de préférence)</p>
+    <p>1/2 litre de bouillon de volaille</p>
+    <p>2 ciboules</p>
+    <p>de la ciboulette ciselée</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe de nuoc mam</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>un paquet de vermicelles chinois (250 à 300 g)</p>
+    <p>1 brique de lait de coco (20 cl)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition le bouillon, la ciboule coupée en morceau, le nuoc mam, la sauce soja et le citron pressé.
+    Après 4 mn, rajouter les crevettes et le lait de coco, puiq laisser cuire encore 4 mn.
+    2 mn avant la fin, rajouter les vermicelles (les vermicelles doivent avoir trempé dans de l'eau chaude pendant 5 mn avant d'intégrer le potage, avant d'être égouttés et ajoutés).
+    Servir sans attendre, car sinon les vermicelles absorbent tout le bouillon.
+  ]]>
+  </preparation>
+</recette>

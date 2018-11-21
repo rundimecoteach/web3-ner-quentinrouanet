@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26214">
+  <titre>Poulet à la moutarde violette</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 cuisses de poulet</p>
+    <p>2 échalotes</p>
+    <p>3 cuillères à soupe de moutarde violette (épicerie fine) </p>
+    <p>pruneaux (3 par pers) </p>
+    <p>câpres</p>
+    <p>6 courgettes</p>
+    <p>vin blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les cuisses de poulet dans un faitout, avec de l'huile d'olive et les échalotes. 
+    Ensuite ajouter en même temps, la moutarde, les pruneaux, les câpres et les courgettes coupées en dés. 
+    Ajouter un peu de vin blanc, mais pas d'eau, les courgettes jouant leur rôle. 
+    Bien sûr, sel et poivre. 
+    Couvrir et cuire 45 mn.
+    Je vous souhaite un bon appétit.
+     Ce mélange acide et sucré est sublime. 
+  ]]>
+  </preparation>
+</recette>

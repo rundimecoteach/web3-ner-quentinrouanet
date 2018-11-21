@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166385">
+  <titre>Muffins très simples</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>280g de farine</p>
+    <p>2 oeufs</p>
+    <p>100g de sucre</p>
+    <p>150ml de lait</p>
+    <p>80g de beurre (ou 8cc soupe d'huile)</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 pincée de sel ( possibilité de rajouter canelle, extrait de vanille, eau de vie, etc..)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un premier saladier : mélanger la farine, le sucre, le sel, le sucre vanillé et la levure.  Dans un deuxième saladier : mélanger le lait, l'huile(ou beurre fondu) et les oeufs.  Verser le contenu du second saladier dans le premier et remuer jusqu'à obtenir une pate plutôt lisse. Laissez tout de même quelques petits grumeaux.
+      
+      Mettre au four 15mn à 150-200°C.
+  ]]>
+  </preparation>
+</recette>

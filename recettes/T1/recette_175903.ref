@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175903">
+  <titre>Schinoise a la morue</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 piment rouge frais </p>
+    <p>1 échalote</p>
+    <p>1/2 poivron vert</p>
+    <p>2 petits poireaux</p>
+    <p>4 tiges de ciboulette</p>
+    <p>2 champignons noirs chinois</p>
+    <p>200 g de pousse de soja fraîche</p>
+    <p>100 g de nouilles chinoises</p>
+    <p>1 filet de morue fraiche </p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>10 grains de cardamome</p>
+    <p>1.5 cuillère à soupe de pâte de soja (type blanche) </p>
+    <p>4 cuillères à soupe de parmesan râpé</p>
+    <p>1 cuillère à café de gingembre râpé</p>
+    <p>purée de piment chinoise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer l'échalote, le poivron, le piment et le poireau. Les faire frire dans une poêle avec l'huile et les graines de cardamome écrasées. Réserver quand les légumes sont cuits.
+    Faire tremper les champignons noirs dans de l'eau bouillante jusqu'à ce qu ils soient ramollis puis les émincer.
+    Préparer le bouillon avec l'eau, la pâte de soja et le gingembre. Porter à ébullition. Y plonger les légumes, les champignons émincés et continuer à feu doux.
+    Cuire 3 min dans l'eau bouillante les nouilles chinoises.
+    Faire frire dans la poêle la morue préalablement coupée en lamelles.
+    Dans deux bols disposer la morue, les nouilles et verser le bouillon avec les légumes.
+    Couper la ciboulette dedans et parsemer avec le parmesan.
+    Ajuster avec la purée de piment au goût et servir tout de suite.
+  ]]>
+  </preparation>
+</recette>

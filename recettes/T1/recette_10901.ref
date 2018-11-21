@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10901">
+  <titre>Knödels farcis aux prunes (quenelles aux quetsches)</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>700 g de pommes de terre</p>
+    <p>250 g de farine</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>sel</p>
+    <p>Pour la farce :</p>
+    <p>750 g de quetsches</p>
+    <p>100 g de sucre en poudre</p>
+    <p>2 cuillères de cannelle</p>
+    <p>4 cuillères à soupe de beurre pour arroser les quenelles</p>
+    <p>3 cuillères à soupe de chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes de terre, faites-les cuire et refroidir, malaxer-les.
+    Salez-les et incorporez-y la crème fraiche, le beurre l'oeuf et ajoutez la farine tant que les pommes de terre l'absorbent.Dénoyauter les quetsches, fourrez-les de sucre et de cannelle.
+    Etalez la pâte à 5mm d'épaisseur, coupez-la en carrés de 8 cm.
+    Au milieu de chaque carré disposez une quetsche et dormez une quenelle ronde. Faites - les cuire dans l'eau bouillante salée.
+    Quand les quenelles remontent à la surface, retirez-les avec précaution.
+    Faites dorer la chapelure dans du beurre fondu. Roulez-y les quenelles.
+    Mettez dans un plat et saupoudrer de sucre mélangé à la cannelle.
+  ]]>
+  </preparation>
+</recette>

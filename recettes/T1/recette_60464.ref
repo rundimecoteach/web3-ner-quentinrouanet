@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60464">
+  <titre>Pâtes polyglottes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes (serpentini de préférence)</p>
+    <p>1 chorizo</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 gros oignon</p>
+    <p>100 g de lardons</p>
+    <p>100 g de comté</p>
+    <p>1 pincée d'herbes de Provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes "al dente".
+    Pendant ce temps, éplucher et couper les oignons, les faire revenir dans une poêle avec les lardons. Couper le chorizo en rondelles et les ajouter quand les oignons ont commencé à colorer.
+    Laisser cuire 3 min, puis ajouter la crème fraîche et les herbes de Provence. Saler et poivrer.
+    Lorsque les pâtes sont cuites, les égoutter, y ajouter le comté rapé ainsi que la préparation.
+    Il ne vous reste plus qu'à déguster, bon appétit!
+     Côtes de Provence
+  ]]>
+  </preparation>
+</recette>

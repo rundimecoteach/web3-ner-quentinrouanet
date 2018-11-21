@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38082">
+  <titre>Cake du dimanche sans beurre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>115 g de cassonade</p>
+    <p>150 g farine et maïzena (dans 1 verre doseur mesurer 100g de farine puis compléter jusqu'à 150g avec de la maïzena)</p>
+    <p>100 g de fromage blanc</p>
+    <p>1/3 sachet de levure</p>
+    <p>1 cuiller à café de cannelle en poudre</p>
+    <p>1 cuiller à café d'extrait de vanille liquide</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C.
+    Casser les oeufs et séparer les blancs des jaunes.
+    Dans un  saladier, mélanger les jaunes avec la cassonade. Bien remuer jusqu'à ce que le mélange blanchisse.
+    Ajouter le fromage blanc et mélanger, puis ajouter la farine et la levure. Bien mélanger jusqu'à obtenir une pâte lisse. Ajouter la cannelle et la vanille. Mélanger à nouveau.
+    Monter les blancs en neige avec 1 pincée de sel.
+    Incorporer délicatement les blancs en soulevant la pâte. Bien mélanger.
+    Verser la pâte dans un moule à cake  beurré et fariné.
+    Enfourner à 160°C pendant 10 min. Verser le sachet de sucre vanillé, puis remettre au four pendant 25 min.
+    Recette inventée un dimanche alors que je voulais un cake et que je n'avais pas de beurre ...
+  ]]>
+  </preparation>
+</recette>

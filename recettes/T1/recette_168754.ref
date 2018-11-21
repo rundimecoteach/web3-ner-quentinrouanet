@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168754">
+  <titre>Salade verte colorée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pamplemousse rose</p>
+    <p>1 avocat</p>
+    <p>1 citron jaune</p>
+    <p>160 g de salade verte ( roquette, feuille de chêne )</p>
+    <p>1 cuillère à soupe d'huile, moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez l'avocat et coupez le en cubes.
+    Pelez le pamplemousse à vif et coupez le en morceaux.
+    Pressez le citron et mélanger son jus avec la moutarde puis incorporez l'huile.
+    Ajouter la salade verte, l'avocat et le pamplemousse. Mélangez.
+  ]]>
+  </preparation>
+</recette>

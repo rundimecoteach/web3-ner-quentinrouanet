@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37135">
+  <titre>Boeuf marengo</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de boeuf</p>
+    <p>beurre</p>
+    <p>1 grosse boîte de concentré de tomate</p>
+    <p>1/2 bouteille de vin d'orange ou de vin blanc</p>
+    <p>aïl, oignons</p>
+    <p>thym </p>
+    <p>laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le boeuf dans une cocotte avec un peu de beurre, saler poivrer. 
+    Y ajouter l'ail et l'oignon émincés. Laisser revenir 5 min. 
+    Mélanger le concentré de tomate avec le vin et l'incorporer en y ajoutant le thym et le laurier. 
+    Laisser mijoter pendant 2 heures.
+  ]]>
+  </preparation>
+</recette>

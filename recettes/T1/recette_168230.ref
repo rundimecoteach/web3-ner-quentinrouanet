@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168230">
+  <titre>Gâteau moelleux aux marrons, chocolat et rhum</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit pot de creme de marrons</p>
+    <p>100 g de chocolat</p>
+    <p>80 g de beurre 80g de farine 1 cuillere à soupe de rhum ,3 jaunes et 4 blancs d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    fondre le chocolat et le beurre Ajouter les 3 jaunes;la creme de marrons,la farine et le rhum;melanger,monter les blancs en neige et melanger delicatement le tout beurrer et fariner un moule et cuire à 190 c 15min puis descendre la temperature à 175c pendant 15min
+  ]]>
+  </preparation>
+</recette>

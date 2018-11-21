@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11710">
+  <titre>Salade de chou blanc</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 chou blanc</p>
+    <p>1 pomme granny</p>
+    <p>100 g de raisins secs</p>
+    <p>Pour la vinaigrette :</p>
+    <p>huile d'olive</p>
+    <p>vinaigre balsamique</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirer les premières feuilles du chou.
+    Le couper en morceaux et le trancher au mixer pour obtenir des lanières.
+    Le mettre dans un grand saladier avec du gros sel pour le faire dégorger pendant au moins 2 h.
+    Ensuite bien le rincer et ajouter la vinaigrette, la pomme détaillée en cubes et les raisins
+    Mettre au réfrigérateur pendant 1/2 h et servir bien frais.
+  ]]>
+  </preparation>
+</recette>

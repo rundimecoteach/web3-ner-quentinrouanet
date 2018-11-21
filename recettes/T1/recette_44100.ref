@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44100">
+  <titre>Salade polonaise d'hiver</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>1 saucisson sec</p>
+    <p>6 cornichons russes</p>
+    <p>4 oeufs durs</p>
+    <p>3 endives</p>
+    <p>2 cuillères de mayonnaise</p>
+    <p>15 cl de vinaigrette toute faite</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pommes de terre à la vapeur.
+    Dans un grand saladier, couper le saucisson sec, les cornichons, les endives, et les oeufs durs en morceaux.
+    Rajouter les pommes de terre coupées en dés, encore tièdes.
+    Mélanger la vinaigrette et la mayonnaise, et l'incorporer dans le saladier.
+  ]]>
+  </preparation>
+</recette>

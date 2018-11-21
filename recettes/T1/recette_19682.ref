@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19682">
+  <titre>Cookies au beurre de cacahuètes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>225 g beurre, ramolli</p>
+    <p>200 g sucre blanc</p>
+    <p>220 g sucre brun</p>
+    <p>2 oeufs</p>
+    <p>1 jaune d'oeuf</p>
+    <p>10 ml la vanille liquide</p>
+    <p>455 g de beurre de cacahuète</p>
+    <p>250 g farine</p>
+    <p>5 g levure</p>
+    <p>3 g sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand saladier, mélangez le beurre, le sucre blanc et le sucre brun jusqu'à obtention d’une pâte lisse. 
+    Ajoutez les oeufs, des jaunes et la vanille ; mélangez jusqu'à ce que ce soit mousseux. 
+    Tamisez ensemble la farine, la levure et le sel ; ajoutez les dans le beurre de cacahuète et mélangez. 
+    Mettez au réfrigérateur la pâte pour au moins 2 heures. 
+    Préchauffer le four à 175°C. 
+    Graissez légèrement la plaque du four. 
+    Faites de petite boules. Les placez sur la plaque préparée et aplanissez légèrement avec une fourchette. 
+    Cuire 12 à 15 mn dans le four préchauffé. 
+    Les cookies doivent sembler secs sur le sommet. 
+    Laissez refroidir et dégustez.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224996">
+  <titre>Cake aux canneberges et miel</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de beurre doux</p>
+    <p>225 g de farine de préférence fine </p>
+    <p>200 g de sucre</p>
+    <p>4 œufs</p>
+    <p>3/4 d'un sachet de levure</p>
+    <p>125 g de canneberges séchées</p>
+    <p>3 à 4 cuillère à café de miel (tout type de miel conviendra)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6), versez le sucre dans un saladier et ajoutez-y les œufs, mélangez bien jusqu'à l'apparition d'une mousse en surface.
+    Faites fondre le beurre et ajoutez-le au mélange, remuez et ajoutez pour finir la farine et la levure.
+    Tamisez un moule à cake.
+    Dernière étape, ajoutez les canneberges et le miel à la pâte.
+    Enfourner pendant 45 min (Attention ! Comptez 15 à 20 minute de cuisson en plus en fonction de votre four, enfoncez une lame de couteau au milieu du cake, elle doit ressortir sèche.Délicieux pour le 4h, accompagné d'un thé, ou au petit déjeuner.
+  ]]>
+  </preparation>
+</recette>

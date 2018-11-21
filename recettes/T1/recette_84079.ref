@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84079">
+  <titre>Poulet au lait de coco à l'indonésienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>20 cl de lait de coco ou de crème de coco</p>
+    <p>2 cuillères à café de curcuma en poudre</p>
+    <p>1 cuillère à soupe de coriandre en poudre</p>
+    <p>3 gousses d'ail</p>
+    <p>3 échalotes</p>
+    <p>Poivre et sel</p>
+    <p>1 cuillère à café de gingembre en poudre</p>
+    <p>Huile</p>
+    <p>4 cuisses de poulet</p>
+    <p>1 cube de bouillon de poulet</p>
+    <p>1 tige de citronnelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les gousses d'ail et les échalotes. Dans un bol ou au hachoir, moudre l'ail, l'échalote, le coriandre, le curcuma, le gingembre, un peu de sel et de poivre.
+    Dans une grande casserole, mettre un peu d'huile et faire revenir la préparation à feu moyen. Au bout de cinq minutes, mettre le poulet et le faire cuire 15 minutes en le couvrant et en le retournant de temps en temps de manière à ce qu'il soit enrobé de la préparation.
+    Pendant ce temps, casser une tige de citronnelle et l'ouvrir.
+    Quand le poulet est bien imprégné de la sauce (il va prendre une couleur jaune ocre), mettre le lait de coco ainsi qu'un bol de bouillon de poulet et la tige de citronnelle préalablement ouverte.
+    Couvrir et laisser mijoter à feu moyen le temps nécessaire(entre 30 minutes et une heure) jusqu'à ce que le poulet soit bien cuit et fondant.
+    A servir avec du riz.
+     Bordeaux Malesan
+  ]]>
+  </preparation>
+</recette>

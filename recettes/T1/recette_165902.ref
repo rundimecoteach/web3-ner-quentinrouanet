@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165902">
+  <titre>Fenouil au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 bulbes de fenouil</p>
+    <p>jus d'un 1/2 citron</p>
+    <p>1 cuillère à café de pâte de curry </p>
+    <p>2 cuillères à soupe de crème fraîche (ou un yaourt nature pour une version allégée)</p>
+    <p>un verre d'eau</p>
+    <p>huile d'olive, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Couper les fenouils en petits cubes
+    Préparer le jus d'un 1/2 citron
+    dans une sauteuse, faire chauffer un filet d'huile d'olive. Mettre le fenouil, assaisonner avec le sel et le poivre. Ajouter le verre d'eau. Couvrir et faire cuire à feu moyen duranr 15 min. Remuer de temps en temps.
+    Dans un bol, mettre la cuillère de pâte à curry et la crème fraîche (ou le yaourt). Bien mélanger.
+    Quand les fenouils sont cuits, ajouter le jus de citron. Remuer.
+    Ajouter la préparation curry/crème (ou yaourt)aux fenouilsLa pâte de curry se trouve dans les rayons spécialités étrangères des supermarchés. Il existe des curry plus ou poins forts, il faut donc savoir quelle dose on accepte ou pas !Pour cette recette, le goût du curry sera relativement doux.
+  ]]>
+  </preparation>
+</recette>

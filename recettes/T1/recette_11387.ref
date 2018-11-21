@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11387">
+  <titre>Charlotte choco-poires</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de chocolat noir</p>
+    <p>80 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>200 g de fromage blanc</p>
+    <p>1 pincée de sel</p>
+    <p>2 grandes boîtes de poires (en quartiers)</p>
+    <p>1 boîte de 36 biscuits à la cuiller</p>
+    <p>5 cuillères à soupe de Grand-Marnier (ou kirsch)</p>
+    <p>125 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Attention, à préparer au moins 4 heures à l'avance.
+    Faire fondre le chocolat et le beurre, avec 3 c à s d'eau au bain-marie (ou au micro-ondes).
+    Ajouter les jaunes d'oeufs et le fromage blanc en bien mélanger.
+    Battre les blancs (avec un peu de sel) en neige très ferme. Les ajouter délicatement au mélange chocolat.
+    Faire chauffer 75 cl d'eau avec le sucre et le sucre vanillé. Lorsqu'elle bout, y jeter les poires et les laisser cuire à feu doux pendant 15 minutes. Laisser refroidir les poires dans le sirop ainsi obtenu.
+    Couper les poires en petits morceaux et les incorporer au mélange chocolat.
+    Ajouter l'alcool au sirop ; en imbiber les biscuits. 
+    Disposer les biscuits dans un moule à charlotte.
+    Verser le mélange choco-poires. Recouvrir de biscuits également trempés dans l'alcool.
+    Mettre la charlotte au frigo au moins 4 heures.
+  ]]>
+  </preparation>
+</recette>

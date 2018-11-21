@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58453">
+  <titre>Calamars au chorizo</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de calamars</p>
+    <p>1 oignon</p>
+    <p>150 g de chorizo tranché</p>
+    <p>2 gousses d'ail</p>
+    <p>20 cl de vin blanc</p>
+    <p>poudre de piments doux</p>
+    <p>6 tomates pelées en boite</p>
+    <p>persil</p>
+    <p>sel et poivre</p>
+    <p>huile d olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les calmars en lamelles, bien les sécher et les faire revenir dans un peu d'huile d'olive avec les tranches de chorizo dans une sauteuse.
+    Dans une poêle, faire revenir pendant 5 min l'oignon émincé et l'ail dans un fond d'huile d'olive. Rajouter le vin blanc au bout des 5 min et laisser réduire 15 min.
+    Ajouter l'oignon, l'ail et les tomates dans la sauteuse. Laisser mijoter à couvert pendant 20 min et rajouter le persil, le piment doux, sel et poivre. C'est prêt !
+    Excellent avec du riz sauvage. Gran Corpas rouge
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39970">
+  <titre>Tarte au chocolat blanc et aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée </p>
+    <p>2 tablettes de chocolat blanc </p>
+    <p>50 cl de crème fraîche épaisse</p>
+    <p>500 g de fraises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte à blanc 15 à 20 minutes.
+     
+    Faire chauffer la crème fraîche dans une casserole SANS la faire bouillir.
+    Mettre, dans un saladier, les carrés de chocolat blanc.
+     
+    Quand la crème fraiche est chaude, la verser sur les carrés de chocolat blanc et remuer pour le faire fondre. 
+    Quand tout est bien mélangé, verser la préparation dans la pâte cuite et mettre au frigo MINIMUM 5 heures. 
+    Au moment de servir, couper les fraises en lamelles et les disposer sur la tarte.
+    Bien sûr, cette recette peut servir de bases à tous les fruits et tous les chocolats!Exemple: bananes/chocolat au lait.
+  ]]>
+  </preparation>
+</recette>

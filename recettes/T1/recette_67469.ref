@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67469">
+  <titre>Gâteau au yaourt à la banane et aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de yaourt à la vanille</p>
+    <p>2 pots de sucre + 1 sachet de sucre vanillé</p>
+    <p>3 oeufs</p>
+    <p>3 pots de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>3/4 de pot d'huile</p>
+    <p>3 bananes moyennes</p>
+    <p>125 g de cerneaux de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le pot de yaourt sert de mesure.
+    Préchauffer le four à 180°C (thermostat 6).
+    Mélanger le yaourt, les sucres et les oeufs. Ajouter la farine et la levure tamisées. Bien mélanger jusqu'à obtention d'une pâte sans grumeaux. Ajouter l'huile, bien mélanger.
+    Couper chaque banane en 2 dans le sens de la longueur, puis encore chaque moitié en deux. Découper chaque partie en petits cubes. Les ajouter à la pâte.
+    Mixer les noix ou les hacher grossièrement et les ajouter à la pâte.
+    Beurrer un moule à manqué, y verser la préparation, et mettre à cuire pour 40 min.
+  ]]>
+  </preparation>
+</recette>

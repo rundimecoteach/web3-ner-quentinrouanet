@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18744">
+  <titre>Tarte poires-amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de poires</p>
+    <p>1 pâte brisée</p>
+    <p>1/2 paquet d'amandes en poudre</p>
+    <p>3/4 cuillère à soupes de sucre</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1 petit pot de crème fraîche</p>
+    <p>3 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la crème fraîche, les oeufs, la poudre d'amandes, le sucre (diminuer ou augmenter la dose selon le goût), la cannelle.... 
+    Déposer le mélange sur la pâte, étaler les poires épluchées ou non, saupoudrer légérement de sucre. 
+    Mettre au four 30 mn Th 7
+  ]]>
+  </preparation>
+</recette>

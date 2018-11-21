@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21229">
+  <titre>Pâtes carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de pâtes</p>
+    <p>90 g de lardons</p>
+    <p>1 oeuf</p>
+    <p>15 cl de crème fraîche</p>
+    <p>50 g de gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes.
+    Pendant ce temps, faire dorer les lardons dans une poêle à sec.
+    Lorsqu'ils sont dorés, ajouter la crème et laisser mijoter durant 10 minutes.
+    Egoutter les pâtes, les verser dans la sauce, ajouter l'oeuf battu, mélanger et servir saupoudrer de fromage.
+  ]]>
+  </preparation>
+</recette>

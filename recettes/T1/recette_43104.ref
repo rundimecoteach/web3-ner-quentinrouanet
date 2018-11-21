@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43104">
+  <titre>Suprême de saumon au four</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 plat à gratin</p>
+    <p>4 pavés de saumon (surgelés ou frais)</p>
+    <p>2 oignons</p>
+    <p>25 cl de crème fraîche semi épaisse</p>
+    <p>amandes effilés</p>
+    <p>4 cuillères à café de fumet de poisson</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Disposer les pavés (même s'il sont encore surgelés) dans le plat à gratin.
+    Couper les oignons en rondelles et les disposer sur les pavés.
+    Ajouter les amandes effilées.
+    Mélanger énergiquement à froid la crème frâiche et le fumet de poisson.
+    Verser enfin le mélange sur les pavés.
+    Mettre au four 20 minutes (en surveillant la cuisson évidemment...)
+    On est proche d'un plat gastronomique. Accompagné tout simplement de riz que l'on arrose du jus de cuisson, c'est succulent !Le vin qui va bien avec : un Sancerre Blanc.
+  ]]>
+  </preparation>
+</recette>

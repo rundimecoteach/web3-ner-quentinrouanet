@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14698">
+  <titre>Pizza sur pain Poilâne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pain poilâne tranché (2 demi-tranches par personne)</p>
+    <p>un bocal de ratatouille cuisinée (ou surgelée)</p>
+    <p>1 oeuf par demi-tranche</p>
+    <p>gruyère râpé</p>
+    <p>huile d'olive</p>
+    <p>ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller dans un toaster les demi-tranches de pain. Une fois qu'elles ont refroidi, les frotter avec de l'ail.
+    Déposer un peu d'huile d'olive sur chaque tranche, puis napper de ratatouille cuisinée
+    et recouvrir de gruyère râpé.
+    Faire cuire les oeufs sur le plat et, pendant qu'ils cuisent, réchauffer les tranches de pain garnies au micro ondes (1 mn 30 par tranche).
+    Avant de servir, déposer sur chaque tranche un oeuf.
+    Ce petit plat rapide se marie très bien avec une salade verte. Cette recette me vient d'une petite mamie très sympathique de Saint-Cloud qui se reconnaîtra. un rosé
+  ]]>
+  </preparation>
+</recette>

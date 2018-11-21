@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34709">
+  <titre>Feuilletés aux grenouilles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>36 cuisses de grenouilles</p>
+    <p>6 bouchées en pâte feuilletée à garnir</p>
+    <p>100 g de beurre d'escargots</p>
+    <p>1/2 litre de crème</p>
+    <p>2,5 cl de pastis</p>
+    <p>jus d'1/2 citron</p>
+    <p>400 g de julienne de légumes (carottes, poireaux, champignons, céléri)</p>
+    <p>1 jaune d'oeuf</p>
+    <p>10 g de beurre manié (beurre + farine)</p>
+    <p>60 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 6 (180°C).
+    Cuire la julienne de légumes un peu ferme au beurre à l'étuvé.
+    Réduire la crème d'un quart, lier avec le beurre manié, ajouter le beurre d'escargots en fouettant, le pastis et le jus de citron.
+    Cuire les grenouilles à la vapeur quelques minutes.
+    Réchauffer les feuilletés 5 à 10 min au four.
+    Décalotter les feuilletés, poser sur un plat, mettre la julienne de légumes à l'intérieur puis les cuisses de grenouilles, napper de sauce et coiffer avec les calottes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82880">
+  <titre>Soupe de châtaigne et coquille saint-jacques</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de châtaignes</p>
+    <p>1 oignon</p>
+    <p>1 l de bouillon de poule</p>
+    <p>poivre,sel</p>
+    <p>1 peu de piment</p>
+    <p>5 à 6 saint-jacques</p>
+    <p>crème fraiche</p>
+    <p>2 cuillèrs à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les châtaignes, faire revenir l'oignon dans du beurre, ajouter les châtaignes puis faire revenir le tout.
+    Ajouter le bouillon de poule, assaisoner et faire cuire pendant 20 minutes, mixer assez finement le tout.
+    Avant de servir, ajoutez 4 à 5 cuillères de crème fraiche, couper les saint-jacques et les faire revenir dans l'huile d'olive 2 à 3 minutes.
+    Répartir les saint-jacques dans les assiettes puis verser la soupe chaude par dessus.
+  ]]>
+  </preparation>
+</recette>

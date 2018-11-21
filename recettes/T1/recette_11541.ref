@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11541">
+  <titre>Lapin laqué au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin (demandez à votre boucher de le découper en morceaux)</p>
+    <p>1 barquette de tagliatelles fraîches</p>
+    <p>1 bouquet de basilic frais</p>
+    <p>1/2 pot de miel liquide</p>
+    <p>1/2 pot de poivre vert déshydraté</p>
+    <p>2 cuillères à soupe d’huile d’olive</p>
+    <p>1 pot de crème fraîche (soit 20 cl environ)</p>
+    <p>jus de citron (achetez le jus de citron pressé vendu dans les petits citrons en plastique, c’est bien pratique)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la marinade : placer dans un bol le miel liquide, l’huile, le citron, le poivre vert et le basilic finement haché. Saler et poivrer la marinade.
+    Dresser le lapin dans un plat allant au four, saler et poivrer les morceaux de lapin, et napper avec la marinade.
+    Enfourner et faire cuire à feu moyen pendant maximum 1 heure. Quand les morceaux de lapin sont joliment caramélisés, c’est cuit.
+    Faire cuire les pâtes fraîches. Quand elles sont cuites, retirer les morceaux de lapin du plat et les réserver dans le plat de service (couvert de papier alu pour garder au chaud). Laisser la marinade au four.
+    Dans le plat de cuisson qui est au four, ajouter un pot de crème fraiche et faire réduire pendant environ 5 minutes. Retirer du four et mélanger si la crème fraîche n’est pas complètement fondue.
+    Napper le lapin de sauce et en réserver une partie pour napper les pâtes fraiches.
+  ]]>
+  </preparation>
+</recette>

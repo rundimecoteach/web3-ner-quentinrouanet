@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223979">
+  <titre>Poulet au bleu</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 belles escalopes de poulet (épaisses)</p>
+    <p>3 belles échalotes (indispensables)</p>
+    <p>50 g de bleu </p>
+    <p>3 grosses cuillères à soupe de crème fraîche entière</p>
+    <p>10 g de beurre</p>
+    <p>1 cuillère à café de farine fluide</p>
+    <p>sel</p>
+    <p>poivre (mélange des 5 baies du moulin)</p>
+    <p>persil (même lyophilisé)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Épluchez et émincez les échalotes.
+    Coupez les escalopes en gros dés.
+    Faites revenir les morceaux d’escalopes dans le beurre à feu vif et ajoutez les échalotes hachées.
+    Quand l’ensemble est doré, ajoutez 1 cuillère à soupe d’eau et baissez le feu.
+    Ajoutez le bleu en morceaux et mélangez pour le faire fondre.
+    Ajoutez ensuite la crème fraîche, du persil, du sel, du poivre, couvrez et laissez mijoter quelques minutes à feu très doux.
+    Comme le bleu a tendance à liquéfier la crème fraîche, même entière, ajoutez une petite cuillère à café de farine pour épaissir la sauce.
+    Vous pouvez préparer ce plat à l’avance et le faire réchauffer avant de servir, il n’en sera que meilleur ! On peut préparer à part 250 g de champignons (à émincer et faire étuver dans le beurre) et les ajouter à la fin, c'est délicieux également. Un vin blanc d'Alsace
+  ]]>
+  </preparation>
+</recette>

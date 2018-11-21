@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170778">
+  <titre>Cuisses de poulet sauce camembert</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>1 camembert</p>
+    <p>50 cl de cidre brut</p>
+    <p>1 oignon</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>2 cuillères à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les cuisses de poulet dans l'huile d'olive.
+    Retirer la viande et faire revenir l'oignon émincé.Ajouter les cuisses, saler, poivrer, saupoudrer avec la farine, arroser avec le cidre.
+    Laisser mijoter à feu doux et à couvert pendant environ 30 min.
+    Pendant ce temps, couper le camembert en quartiers et en retirer toute la croûte.
+    Retirer le poulet du faitout, ajouter les quartiers de camembert puis mixer le tout.
+    Remettre la viande dans la sauce et laisser cuire encore 10 à 15 min à couvert.Personnellement, je retire les oignons avant la cuisson et je les remets dans la cocotte après avoir mixé la sauce pour qu'ils restent en morceaux. Si la sauce est trop épaisse, vous pouvez rajouter au choix un peu d'eau ou de cidre.
+  ]]>
+  </preparation>
+</recette>

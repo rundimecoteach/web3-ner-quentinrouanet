@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19500">
+  <titre>Soupe de courgettes épicée au curry</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>– 1 kg de courgettes</p>
+    <p>– 6 brins de coriandre</p>
+    <p>– 2 échalotes</p>
+    <p>– 20 cl de crème fraîche (légère) </p>
+    <p>– 25 g de beurre</p>
+    <p>– 1 cuillère à soupe de Maïzena</p>
+    <p>– 1 cuillère à soupe rase de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes en gros dés.
+    Dans une cocotte, faire suer les échalotes dans le beurre. Ajouter le curry et remuer une minute. 
+    Rajouter les courgettes + 75 cl d’eau + sel et poivre. 
+    Couvrir et laisser cuire 20 min à petit bouillon. Ajouter la crème fraîche et mixer le tout. 
+    Ajouter la Maïzena et faire épaissir à feu doux. Rajouter la coriandre et remixer. 
+    Servir frais.Ne pas trop forcer sur le curry pour ne pas tuer le goût des courgettes.
+  ]]>
+  </preparation>
+</recette>

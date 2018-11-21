@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72545">
+  <titre>Poule au pot citronnée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une poule</p>
+    <p>2 carottes</p>
+    <p>1 citron</p>
+    <p>beurre</p>
+    <p>bouquet garni</p>
+    <p>oignon</p>
+    <p>Pour la sauce</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>champignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Frotter la poule avec un citron.
+    Dans une cocotte, faire fondre un peu de beurre et y faire revenir la poule pour qu'elle soit dorée partout.
+    Ajouter de l'eau très chaude (pour recouvrir la poule), des carottes, un oignon, un petit bouquet garni; amener à ébullition puis laisser cuire à feu doux (environ 3 h mais ca dépend de l'âge de la poule: plus elle est vieille plus elle doit cuire longtemps). 
+    Vers la fin de la cuisson, ajouter quelques rondelles de citron.
+    Puis découper la poule et la remettre dans le bouillon pour la garder au chaud.
+    Pour la sauce:
+    Dans une casserole, faites fondre du beurre (eh oui encore...) et ajouter de la farine pour faire un roux (comme la sauce blanche), puis mettre du bouillon (environ 3 louches). 
+    Laisser bouillir en remuant bien puis laisser cuire (toujours en remuant) jusqu'à épaississement. 
+    Rajouter ensuite un mélange de 2 jaunes d'oeufs et d'un peu de crème (une cuillère à soupe). Vous pouvez également rajouter des champignons 
+    (j'avais mis des morilles et des mousserons, c'est super bon). 
+    Goûtez la sauce et assaisonner si besoin (sel).
+    Bon appétit!
+    Et la petite astuce: filtrer le bouillon restant et le congeler dans des bacs à glaçon. Cela fait des "bouillons cube" pas cher à utiliser pour d'autres recettes ou pour mettre dans l'eau des pâtes. 
+    Par contre il faut bien le laisser refroidir au frigo avant de le congeler: le gras se fige à la surface et il n'y a plus qu'à l'enlever!
+  ]]>
+  </preparation>
+</recette>

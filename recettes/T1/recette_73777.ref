@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73777">
+  <titre>Sandwich tunisien</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 baguettes de pain</p>
+    <p>1 poivron rouge et 1 poivron vert</p>
+    <p>1 belle tomate</p>
+    <p>2 pommes de terres moyennes bouillies</p>
+    <p>300 g de thon en boîte</p>
+    <p>1 oignon moyen selon le goût</p>
+    <p>1/2 blanc de poulet</p>
+    <p>vinaigrette</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, éplucher et épépiner tous les légumes puis les couper en petits dés.
+    Les disposer dans un saladier.
+    Rajouter l'oignon râpé, et le poulet et le thon émiettés.
+    Assaisonner avec la vinaigrette, le sel et le poivre.
+    Pour la vinaigrette, mélanger 1 cuillère à café de moutarde avec 1 cuillère à soupe de vinaigre de vin et 3 cuillères à soupe d'huile d'olive.
+    Mélanger le tout pour que les légumes d'imprègnent de la vinaigrette.
+    Couper les baguettes en 2 dans le sens de la longueur et les remplir du mélange du saladier; rajouter de la mayonnaise au choix.
+    Bon appétit!
+    Vous pouvez agrémenter à volonté les sandwichs avec des olives, des câpres, des herbes ou du fromage frais.
+  ]]>
+  </preparation>
+</recette>

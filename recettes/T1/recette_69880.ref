@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69880">
+  <titre>Tatin de poireaux et cabillaud</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>2 poireaux</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>20 g de beurre</p>
+    <p>400 g de cabillaud</p>
+    <p>4 pommes de terre de calibre moyen</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les poireaux. Les couper en petits morceaux.
+    Les faire revenir dans une poêle avec l'huile d'olive pendant 5 min : ils doivent être "fondus" (tendres) et à la fois colorés.
+    Saler, poivrer.
+    Eplucher les pommes de terre et les couper en lamelles comme pour un gratin dauphinois (donc assez fines).
+    Dans un plat à tarte faire fondre le beurre en le posant sur la plaque de cuisson ou dans le four.
+    Disposer les lamelles de PDT sur le beurre fondu comme pour une tarte aux pommes mais en commençant par le centre (une fois démoulée, elles seront dans le bon sens).
+    Saler, poivrer.
+    Remettre le plat sur la plaque de cuisson (cela permet de faire colorer les pommes de terre) environ 5 min, elles cuiront après.
+    Poser des tranches assez fines de cabillaud sur les pommes de terre sans les coller aux parois (il y aura un peu de pâte feuilleté).
+    Saler, poivrer.
+    Etaler dessus la fondue de poireaux. Poser la pâte feuilletée comme pour une tarte tatin, en rentrant les bords. Piquer de quelques trous la pâte pour laisser échapper la vapeur.
+    Faire cuire dans le four à 180°C (thermostat 6) pendant 20 min. 
+    Démouler en fin de cuisson en retournant la tarte.
+    Vous pouvez aussi la servir avec une salade verte en entrée. Vin blanc sec 
+  ]]>
+  </preparation>
+</recette>

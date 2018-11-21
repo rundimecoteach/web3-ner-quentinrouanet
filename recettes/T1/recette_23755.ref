@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23755">
+  <titre>Potage aux amandes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>250 g d'amandes mondées</p>
+    <p>1 litre de bouillon de volaille dégraissé</p>
+    <p>1 dl de crème fraîche</p>
+    <p>1/2 l de lait</p>
+    <p>sel et poivre</p>
+    <p>cerfeuil à volonté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les oeufs durs.  Ecalez-les et garder les jaunes.
+    Passez-les au mixer avec les amandes.
+    Faites chauffer le bouillon et incorporez-le peu à peu au mélange amandes-oeufs. Ajoutez la crème et le lait.
+    Si vous obtenez un potage trop épais, ajoutez du bouillon.
+    Faitez chauffer doucement en évitant soigneusement l'ébullition.
+    Rectifiez l'assaisonnement et servez avec des pluches de cerfeuil à volonté.
+  ]]>
+  </preparation>
+</recette>

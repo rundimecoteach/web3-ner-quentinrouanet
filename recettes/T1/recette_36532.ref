@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36532">
+  <titre>Filets de merlu sauce aux câpres</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de merlu blanc (frais ou surgelés)</p>
+    <p>2 litres de court-bouillon (peut se faire avec 2 litres d'eau et un court-bouillon en sachet!)Pour la sauce :</p>
+    <p>40 g de beurre</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>4 cuillères à café de câpres</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le court-bouillon. Quand l'eau bout, y plonger les filets de merlu et laisser cuire 15 minutes environ.
+    Préparer la sauce: faire fondre le beurre dans une casserole, y verser lentement la farine jusqu'à obtenir des petites boulettes. 
+    Y verser l'équivalent de 80 cl de l'eau du court bouillon, fouetter le mélange et laisser à feu doux jusqu'à obtenir une sauce homogène et onctueuse. Saler, poivrer et ajouter les câpres.
+    Napper les filets de sauce et servir avec du riz.
+     un vin blanc sec
+  ]]>
+  </preparation>
+</recette>

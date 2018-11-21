@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29936">
+  <titre>Tarte chèvre et jambon de bayonne</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée (pour un diamètre de 28 cm)</p>
+    <p>4 petits fromage de chèvre </p>
+    <p>4 tranches de jambon cru (Bayonne)</p>
+    <p>40 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>60 cl de lait</p>
+    <p>2 oeufs</p>
+    <p>2 ou 3 cuillères à soupe de parmesan râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Béchamel : faire un roux avec le beurre et la farine, ajouter le lait et laisser juste épaissir sur le feu.
+    Découper les fromages de chèvre en tranches et le jambon en fines lanières.
+    Préchauffer le four à 210°C (thermostat 7).
+    Garnir un moule à tarte avec la pâte brisée. Piquer le fond (on peut la faire cuire à blanc 8 mn mais ce n'est pas obligatoire).
+    Déposez le fromage et le jambon cru sur la pâte. Ajouter l'oeuf battu et le parmesan à la béchamel, puis saler et poivrer.
+    Verser la sauce sur la tarte et enfournez pour 35 min.
+    Déguster chaud avec une salade.
+    Variante : moitié chèvre / moitié gorgonzola.
+    Diviser les quantités par 2 pour un moule de 22 cm de diamètre. un Régnier
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30628">
+  <titre>Sauté de veau au paprika aux poivrons et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de viande de veau</p>
+    <p>70 g de beurre</p>
+    <p>5 oignons</p>
+    <p>20 g de paprika</p>
+    <p>3 poivrons rouges</p>
+    <p>5 tomates</p>
+    <p>15 cl de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire revenir les oignons émincés dans le beurre. Saupoudrer de paprika. 
+    Rajouter le veau détaillé en cubes. Laisser mijoter une dizaine de minutes, puis arroser d'eau, saler et poivrer. 
+    Laisser mijoter une heure environ.
+    Au bout d'une heure, rajouter les tomates coupées en dés, ainsi que les poivrons nettoyés et coupés en fines lamelles.
+    Terminer la cuisson sur feu doux (la viandre doit être bien cuite) 10 à 15 min.
+    Lier la sauce à l'aide de la crème fraîche, laisser chauffer quelques instants puis servir.
+  ]]>
+  </preparation>
+</recette>

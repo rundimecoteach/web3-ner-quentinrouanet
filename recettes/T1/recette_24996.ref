@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24996">
+  <titre>Champignon Coulemelle Panées</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses coulemelles moyennes</p>
+    <p>chapelure</p>
+    <p>oeuf</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Conserver le chapeau le débarrassez de sa peau et le divisez selon sa grosseur en 4 6 8 parts. 
+    Casser un oeuf dans une assiette creuse, le battre. 
+    Y tremper les morceaux de coulemelle nettoyés, les recouvrir de chapelure fine, et les passer dans un bain d'huile très chaud (dans une poêle). 
+    Dès qu'ils ont bruni de chaque côté, les retirer, et les manger tièdes.
+    La coulemelle est facilement périssable, il est donc conseillé de la consommer rapidement (dans les quelques heures suivant sa cueillette). selon son goût
+  ]]>
+  </preparation>
+</recette>

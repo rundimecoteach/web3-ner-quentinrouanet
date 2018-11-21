@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25386">
+  <titre>Chouquettes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>25 cl d'eau</p>
+    <p>15 g de sucre en poudre</p>
+    <p>1 pincée de sel</p>
+    <p>150 g de sucre perlé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition l'eau avec le beurre, le sucre et le sel dans une casserole.
+    Retirer du feu et ajouter la farine d'un sel coup, mélanger énergiquement pour obtenir un mélange homogène.
+    Remettre la pâte sur le feu pour l'assécher, elle doit se décoller des bords de la casserole.
+    Incorporer alors les oeufs un à un en remuant bien entre chaque.Déposer des petits tas de pâte espacés sur la plaque à pâtisserie beurrée à l'aide d'une poche à douille ou de 2 cuillères.
+    Saupoudrer de sucre perlé et secouer la plaque pour retirer l'excédent de sucre.
+    Recommencer l'opération, et laisser de côté le sucre qui n'a pas accroché aux choux.
+    Faire cuire les chouquettes environ 30 min dans le four à 210°C (thermostat 7), dans le bas du four.
+    Laissez-les refroidir dans le four éteint et déguster.On peut congeler ces petits choux une fois cuits, ou les garnir pour en faire des profiteroles.
+  ]]>
+  </preparation>
+</recette>

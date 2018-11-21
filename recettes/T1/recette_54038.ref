@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54038">
+  <titre>Gaufres quatre-quarts</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de beurre</p>
+    <p>200 g de sucre semoule</p>
+    <p>3 oeufs</p>
+    <p>200 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de vanille en poudre</p>
+    <p>Pour la cuisson : 100 g de farine, 100 g de sucre, huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez le beurre en crème avec le sucre. Ajoutez les jaunes d'oeuf un à un, la farine, le sel et la vanille. 
+    Battez bien la pâte, puis incorporez délicatement les blancs battus en neige, la pâte doit être mollette. Si elle est trop liquide, ajoutez un peu de farine.
+    Laissez reposer au frais 30 min. 
+    Formez des boulettes de la grosseur d'une noix, roulez-les dans le mélange farine-sucre.
+    Faites cuire ces boulettes, une à une, dans le gaufrier chauffé et huilé (3 min environ par gaufre).
+  ]]>
+  </preparation>
+</recette>

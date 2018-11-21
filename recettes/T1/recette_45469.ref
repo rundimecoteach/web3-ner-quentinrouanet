@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45469">
+  <titre>Salade exotique Mimi</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 pommes</p>
+    <p>2 bananes</p>
+    <p>2 oranges</p>
+    <p>12 arbouses en boîte (conserver le jus!)</p>
+    <p>2 cm de racines de gingembre râpées finement</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>1 citron</p>
+    <p>1 orange</p>
+    <p>1 feuille de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pommes en dés et les bananes en rondelles; et placer le tout dans un saladier. 
+    Verser 1 cuillère à soupe de jus de citron.
+    Ajouter la dizaine d'arbouses et les quartiers d'oranges.
+    Saupoudrer la préparation de sucre et de gingembre fraîchement râpé.
+    Préparer le jus : 
+    Verser dans un bol le jus d'1 orange et d'1/2 citron. 
+    Ajouter le jus d'arbouses (assez sucré), à votre goût; verser sur la salade de fruits et décorer d'une feuille de menthe.
+    Salade très fraîche, idéale pour cloturer un bon repas exotique chinois ou thaïlandais.
+    Le jus précédemment cité peut, additionné de Gin, faire un apéro très sympa!
+  ]]>
+  </preparation>
+</recette>

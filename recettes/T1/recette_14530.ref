@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14530">
+  <titre>Pâte pour les croissants</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>50 g de sucre semoule</p>
+    <p>125 g de beurre tempéré</p>
+    <p>20 g de levure de boulanger</p>
+    <p>12 cl d'eau tiède</p>
+    <p>1/2 cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez la farine dans l'eau tiède.
+    Tamisez la farine dans un saladier, ajoutez le sel, le sucre et la levure délayée.
+    Travaillez la pâte longuement jusqu'à son homogénéité. Si elle est ferme, ajoutez un peu d'eau et retravaillez-la.
+    Couvrez le saladier d'un torchon puis laissez monter la pâte pendant 1h30 dans un endroit chaud (22-25°C). La pâte doit au minimum doubler de volume.
+    Ecrasez la pâte pour chasser le gaz carbonique contenu puis disposez à nouveau un torchon, entreposez au réfrigérateur et laissez gonfler durant 1h00.
+    Crevez à nouveau la pâte, couvrez d'un torchon, disposez 30 mn au congélateur.
+    Abaissez la pâte en un rectangle 3 fois plus long que large. Etalez le beurre tempéré sur la moitié de la surface puis rabattez la moitié non beurrée sur l'autre moitié.
+    Abaissez la pâte en un rectangle trois fois plus long que large. Rabattez les 2 extrémités vers le centre. Disposez 30 mn au réfrigérateur.
+    Recommencez l'opération précédente. Disposez au réfrigérateur 30 mn.
+    A l'utilisation, abaissez la pâte en un rectangle de 15 cm de largeur sur 5 mm d'épaisseur.
+    Détaillez des triangles isocèles de 10 cm de base sur 15 cm de hauteur.
+    Roulez les croissants en partant de la base. Cintrez-les (cintrer = courber) et disposez les sur une plaque à pâtisserie en les espaçant de 5 cm.
+    Dorez les au jaune d'oeuf (1 jaune d'oeuf + 5 cl d'eau), laissez gonfler à l'abri des courants d'air dans un endroit chaud (22 à 25°C) pendant 45 mn à 1 heure.
+    Enfournez à four très chaud (220 à 250°C) pendant 20 à 25 mn.
+  ]]>
+  </preparation>
+</recette>

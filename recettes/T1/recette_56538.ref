@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56538">
+  <titre>Potage aux carottes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 oignons</p>
+    <p>1 kg de carottes</p>
+    <p>1 bouillon KUB</p>
+    <p>1 bouillon de volaille</p>
+    <p>1 grosse poignée de riz</p>
+    <p>poivre</p>
+    <p>crème fraîche : 1 pot de 20 cl</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons en rondelles et également les carottes en rondelles.
+    Couvrir de 2 litres d'eau.
+    Ajouter le bouillon Kub et le bouillon de volaille, le riz.
+    Poivrer.
+    Cuire 30 min.
+    Passer au mixeur.
+    Ajouter de la crème au moment de servir.
+  ]]>
+  </preparation>
+</recette>

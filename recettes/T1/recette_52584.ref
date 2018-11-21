@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52584">
+  <titre>Légumes du soleil farcis</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 poivrons ou 2 belles aubergines ou 2 belles courgettes ou 4 tomates à farcir ou bien encore un de chaque selon les goûts et les envies</p>
+    <p>Pour la farce :</p>
+    <p>600 g boeuf haché</p>
+    <p>4 tranches de jambon cru</p>
+    <p>500 g de champignons de Paris</p>
+    <p>2 oignons</p>
+    <p>2 à 4 gousses d'ail</p>
+    <p>3 brins de persil ou de basilic, thym</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les légumes en deux, les évider et les précuire 10 min au micro-ondes, puissance maximale.
+    Pendant ce temps, préparer la farce : hacher au robot les 2 oignons, les gousses d'ail et le persil. 
+    Ajouter les champignons préalablement pelés et coupés en morceaux, puis les tranches de jambon cru par petits morceaux.
+    Dans un saladier, mélanger ce hachis avec le boeuf et assaisonner: sel, poivre, thym.
+    Remplir généreusement les légumes avec cette farce (elle réduit beaucoup à la cuisson) et les placer dans un plat allant au four, à chaleur tournante 200°C (th 6-7), pendant 45 min.
+    Servir avec du riz.
+     Côteaux d'Aix 
+  ]]>
+  </preparation>
+</recette>

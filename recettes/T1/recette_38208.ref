@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38208">
+  <titre>Noix de Saint Jacques au cidre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 noix de Saint Jacques</p>
+    <p>1 cuillère à soupe de vinaigre de cidre</p>
+    <p>10 cl de cidre</p>
+    <p>50 g de beurre demi-sel</p>
+    <p>10 cl de crème</p>
+    <p>2 pommes</p>
+    <p>4 brins de cerfeuil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes, les épépiner et les couper en dés.
+    Les faire revenir 5 min à la poêle dans 25g de beurre demi-sel. Arroser avec le vinaigre de cidre et réserver.
+    Essuyer la poêle, y faire fondre le reste de beurre demi-sel et faire dorer les noix de Saint Jacques 1 à 2 min sur chaque face. Saler, poivrer et réserver au chaud.
+    Dans la poêle vide mais non lavée, faire bouillir le cidre 3 à 4 min afin qu'il réduise un peu.
+    Ajouter la crème, puis remettre les noix de Saint Jacques dans cette sauce et y ajouter les pommes réservées.
+    Parsemer de brins de cerfeuil et servir aussitôt.
+    C'est un régal pour les papilles !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27807">
+  <titre>Oeufs brouillés aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>3 cuillères à soupe de coriandre</p>
+    <p>gingembre râpé (valeur d'une noisette) </p>
+    <p>1 oignon frais</p>
+    <p>cumin, curry</p>
+    <p>1 pointe d'ail</p>
+    <p>sel poivre</p>
+    <p>beurre</p>
+    <p>1 cuillère à soupe de crème</p>
+    <p>grandes tartines de pain grillées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle faire fondre le beurre, faire revenir rapidement le gingembre et l'oignon frais, ajouter la coriandre et les oeufs battus. sur feu doux remuer sans cesse le mélange en ajoutant petit à petit la crème. Cuire jusqu'à ce que les oeufs soient pris. 
+    Étaler un peu de mélange sur chaque tartine et saupoudrer d'épice au choix : cumin ou curry.
+    Servir avec crudités. On peut servir avec  des tranches de pains tartinées de confiture d'oranges-oignons de Lili.
+  ]]>
+  </preparation>
+</recette>

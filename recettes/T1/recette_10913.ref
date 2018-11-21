@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10913">
+  <titre>Salade croquante au carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>salade mesclun</p>
+    <p>8 tranches de pain complet</p>
+    <p>4 carre frais</p>
+    <p>1 pot de miel</p>
+    <p>1 branche de romarin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper 8 tranches de pain complet ou le prendre déjà tranché.
+    Mettre le carré frais sur le pain avec un peu de miel et de romarin, le passer au four chaud à 180°C (thermostat 6).
+     
+    Déposer les tartines sur un lit de salade assaissonée et servir chaud.
+  ]]>
+  </preparation>
+</recette>

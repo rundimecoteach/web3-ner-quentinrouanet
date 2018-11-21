@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20050">
+  <titre>Délices pomme banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>250 ml de lait</p>
+    <p>150 ml d'huile</p>
+    <p>3 pommes</p>
+    <p>2 bananes</p>
+    <p>un peu de beurre pour le moule</p>
+    <p>1 cuillère à soupe de farine pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine avec le sucre puis les oeufs. 
+    Mélanger en insérant le lait et ensuite l'huile. 
+    Quand la pâte est prête... préparons les fruits.... pelez les pommes et éplucher les bananes... les couper en petits morceaux. 
+    Ensuite préparer le moule.... bien le beurrer et ne pas oublier de la fariner légèrement.... 
+    Enfourner et laisser cuire 45 mn.
+    c'est un homme qui vous donne cette recette.......éventuellement pour les maris désireux de faire plaisir à leur femme ou à leurs enfants. montbazillac
+  ]]>
+  </preparation>
+</recette>

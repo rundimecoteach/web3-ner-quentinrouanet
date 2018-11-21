@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63869">
+  <titre>Tourin blanchi du Périgord</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros oignons</p>
+    <p>2 têtes d'ail</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 oeufs</p>
+    <p>3 cuillères à soupe de graisse de canard gras</p>
+    <p>3 poignées de vermicelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les oignons et l'ail et les couper très fin.
+    Les faire blondir dans la graisse dans une sauteuse ou autre ustensile de cuisson à bords hauts, puis ajouter la farine jusqu'à absorption de la graisse.
+    Mouiller d'un litre d'eau et assaisonner.
+    Laissez cuire 15 minutes à feu doux.
+    Passer au mixeur.
+    Ajouter le vermicelle et laisser cuire 10 minutes.
+    Pendant ce temps, mélanger les jaunes d'oeufs et le vinaigre dans un bol à ajouter en fin de la cuisson. 
+    Bien mélanger.
+    Incorporer délicatement les blancs d'oeufs et remuez doucement afin de ne pas trop les séparer.
+    Servir.
+    Cette soupe campagnarde doit être très épaisse. 
+  ]]>
+  </preparation>
+</recette>

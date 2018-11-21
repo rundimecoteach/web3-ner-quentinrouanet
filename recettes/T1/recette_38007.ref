@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38007">
+  <titre>Pain de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>10 cl de jus de pomme biologique</p>
+    <p>2 barres de chocolat</p>
+    <p>1 cuillère à soupe de liqueur de bière</p>
+    <p>100 g de cerneaux de noix</p>
+    <p>20 cl de crème épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réaliser une pâte brisée avec 200 g de farine, mais en remplaçant l’eau par le jus de pomme et la liqueur de bière. La laisser reposer 45 mine.
+    Etaler la pâte à l’aide d’un rouleau et la couper en rectangles de 30cm sur 20cm.Déposer 2 barres de chocolat comme s’il s’agissait d’un pain au chocolat classique et replier la pâte en appuyant bien pour la souder.
+    Mixer les noix avec la crème pour obtenir une crème de noix onctueuse.
+    L’étaler en une couche de 1cm d’épaisseur sur le pain pour former une croûte ferme et amère.
+    Envelopper le pain dans du papier d’aluminium telle une papillote et le faire cuire pendant 15 min à basse température (150°C).Déguster dès la sortie du four avec une boule de glace au chocolat.C'est un pain qui se déguste au petit-déjeuner ou au goûter.
+  ]]>
+  </preparation>
+</recette>

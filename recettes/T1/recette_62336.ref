@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62336">
+  <titre>Lasagnes aux légumes de Provence, chèvre et lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 grandes feuilles de lasagne fraîches</p>
+    <p>1 aubergine</p>
+    <p>1 courgette</p>
+    <p>3 poivrons (vert, jaune et rouge)</p>
+    <p>1 kg de tomates</p>
+    <p>1 gros oignon</p>
+    <p>3 gousses d'ail</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre, paprika, piment d'Espelette</p>
+    <p>15 cl de crème fraîche allégée</p>
+    <p>15 cl de lait</p>
+    <p>1 bûchette de chèvre (120 g)</p>
+    <p>100 g de lardons de bacon</p>
+    <p>parmesan et emmenthal râpés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C (thermostat 7-8).
+    Couper les poivrons en 2, enlever les graines et poser ces 1/2 poivrons (côté peau vers le haut) sur une plaque huilée. Laisser cuire au four jusqu'à ce que la peau des poivrons noircisse. Laisser refroidir, puis éplucher et couper en lamelles.
+    Faire revenir l'oignon haché dans l'huile, ajouter les tomates en morceaux. Saler, poivrer, ajouter le paprika.
+    Laisser cuire 15 minutes puis mixer. Ajouter les herbes, l'ail et le piment d'Espelette. Laisser mijoter encore 10 minutes.
+    Couper les aubergines et les courgettes en tranches. Faire dégorger les aubergines (les saupoudrer de sel et les mettre dans une passoire pour les laisser perdre leur eau).
+    Cuire les courgettes à la vapeur environ 10 minutes (elles doivent devenir fondantes). Saler et poivrer puis faire de même avec les aubergines.
+    Cuire les lardons et couper le chèvre en petits dés.
+    Mélanger la crème et le lait.
+    Dans un plat à four, verser un peu de mélange crème/lait, poser une feuille de lasagne.
+    Couvrir d'une couche d'aubergines (bien épicer !), ajouter un peu de chèvre et de lardons, verser un peu de sauce tomate et de lait.
+    Mettre une couche de courgettes, des lanières de poivron (en alternant les couleurs), épicer, saupoudrer de parmesan, verser de la sauce tomate et du lait. Alterner 4 couches de cette façon.
+    Sur la dernière feuille de lasagne, verser le reste de sauce et de lait. Couvrir d'emmenthal râpé.
+    Couvrir le plat d'aluminium et cuire au four pendant 20 minutes.
+    Ôter ensuite la feuille d'aluminium et laisser gratiner pendant 10 minutes.
+    Ne pas hésiter à bien saler et poivrer les aubergines et les courgettes, sinon le plat serait trop fade. J'ai cuit ces légumes à la vapeur pour éviter d'avoir une recette trop grasse. Mais on peut aussi les griller bien sûr !! Dans une prochaine version, je pense remplacer les lardons par du saumon frais.
+  ]]>
+  </preparation>
+</recette>

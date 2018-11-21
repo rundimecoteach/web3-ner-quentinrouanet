@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220103">
+  <titre>Courge butternut farcie au riz et aux noisettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse courge butternut (ou plusieurs petites selon la taille)</p>
+    <p>1 oignon</p>
+    <p>100 g de riz</p>
+    <p>30 g de noisettes concassées</p>
+    <p>1 pincée de curry</p>
+    <p>quelques brins de ciboulette </p>
+    <p>sauce soja (ou sel)</p>
+    <p>10 cl de crème liquide (crème de soja ou non)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les courges à la vapeur douce ou à l'eau pendant 25 min. Quand la pointe du couteau entre sans peine dans la chair, c'est cuit.
+    Pendant ce temps, faire cuire le riz le temps indiqué sur le paquet.
+    Couper les courges en deux, retirer les pépins et creuser la pulpe délicatement.
+    Faire revenir l'oignon émincé finement pendant 5 min puis ajouter la pulpe de la courge 5 min de plus.
+    Saler avec la sauce soja, poivrer et ajouter le curry.
+    Hors du feu, mélanger avec le riz cuit, la ciboulette émincée, la crème liquide et les noisettes concassées.
+    Farcir les courges de ce mélange et servir sans attendre.Une petite courge par personne fait beaucoup d'effet dans l'assiette !
+  ]]>
+  </preparation>
+</recette>

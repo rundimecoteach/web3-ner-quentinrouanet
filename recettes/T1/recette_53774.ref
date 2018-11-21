@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53774">
+  <titre>Poulet à l'orange et ananas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet en morceaux</p>
+    <p>2 boîtes d'ananas en tranches (4 tranches par boîte) avec le jus </p>
+    <p>50 g de raisins secs ou pruneaux</p>
+    <p>1 gros oignon</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>3/4 litre de jus d'orange</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à café de gingembre moulu ou frais</p>
+    <p>3 morceaux de sucre</p>
+    <p>farine (ou maïzena)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, verser l'huile d'olive et y faire revenir les oignons émincés. Retirer les oignons de la cocotte et y faire dorer brièvement le poulet.
+    Rajouter les oignons et tous les autres ingrédients, à l'exception du liant. Laisser mijoter jusqu'à ce que le poulet soit bien cuit (1 h ou plus si necessaire, la chaire doit se détacher des os!!).Oter la viande et les fruits de la cocotte, puis les présenter dans un plat. Lier la sauce avec la maïzéna ou la farine, rectifier l'assaisonnement et ajouter un peu de sucre si nécessaire.
+    Napper la viande, et servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25362">
+  <titre>Poivrons farcis au riz et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 poivrons rouges</p>
+    <p>125 g de riz</p>
+    <p>100 g d'olives vertes dénoyautées</p>
+    <p>1 tomate</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à café d'estragon haché</p>
+    <p>huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le riz 15 minutes à l'eau bouillante salée, il ne doit pas être complètement cuit.
+    Lavez et évidez les poivrons;
+    Hachez les olives, pelez et concassez la tomate.
+    Mélangez le riz précuit avec les olives et la tomate.
+    Salez et poivrez, ajoutez l'ail haché, l'estragon et une cuillérée d'huile.
+    Farcissez les poivrons.
+    Disposez-les dans un plat à four huilé et faites cuire 45 minutes à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64523">
+  <titre>Pomme de terre jour de pluie</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosse pommes de terre</p>
+    <p>2 beaux oignons</p>
+    <p>200 g de steak haché (surgelé ou frais)</p>
+    <p>1 fromage camembert ou brie</p>
+    <p>4 cuillère à café de concentré de tomate</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>curry</p>
+    <p>4 noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez vos pommes de terre et faites-les cuire dans l'eau. Une fois cuites, égouttez-les.
+    Mettez vos oignons au four, sans les éplucher, thermostat 7 (210 degrés) pendant 20 bonnes minutes.
+    Pendant que les oignons cuisent, prenez les pommes de terre une par une, décalottez-les, et creusez-les à l'aide d'une petite cuillère.
+    Il faut tout de même garder une certaine épaisseur (2 mm environ) et faire attention que la peau ne se crève pas.
+    Récupérez tout ce que vous retirez dans un saladier et écrasez en purée.
+    Une fois les quatres pommes de terre vidées, disposez-les dans un plat.
+    Versez dans chacune, une cuillère à café de concentré de tomate et saupoudrez de curry.
+    Malaxez vos steaks, et faites-en 4 boulettes.
+    Disposez-les sans les écraser dans les pommes de terre et comblez avec la purée.
+    Posez sur le dessus de la boulette une noix de beurre.
+    Découpez ensuite une bande longue de camembert sur le dessus.
+    Mettez l'ensemble en compagnie des oignons déjà dans le four et
+    laissez cuire un petit quart d'heure.
+    C'est prêt !
+    Un plat idéal en hiver, qui réchauffe sans être bourratif... Bordeaux blanc
+  ]]>
+  </preparation>
+</recette>

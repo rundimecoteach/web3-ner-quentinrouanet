@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224952">
+  <titre>Poulet au cognac et aux raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 cuisses de poulet</p>
+    <p>100 g de raisins secs</p>
+    <p>10 cl de cognac</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une sauteuse faire revenir les cuisses dans le beurre.
+    Quand elles sont dorées, mettre 3 cm d eau, le cognac et laisser cuire une heure à couvert.
+    Ajouter les raisins et poursuivre la cuisson 5 minutes. Sympa avec de la semoule.
+  ]]>
+  </preparation>
+</recette>

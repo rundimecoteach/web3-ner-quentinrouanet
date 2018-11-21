@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12203">
+  <titre>Crêpes suzettes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>50 cl de lait</p>
+    <p>3 oeufs</p>
+    <p>3 clémentines</p>
+    <p>150 g + 50 g de beurre</p>
+    <p>100 g de sucre glace</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>2 cuillères à soupe de curaçao</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râpez le zeste des clémentines, puis pressez-les et filtrez leur jus.
+    Tamisez la farine avec le sel. Creusez la farine en fontaine. Battez les oeufs en omelette et versez-les au centre. Mélangez peu à peu avec le fouet.
+    Incorporez le lait, la moitié du jus de clémentine, 50 g de beurre fondu et une cuillère à soupe de curaçao.
+    Laissez reposer 2h.
+    Mélangez 100g de beurre ramolli avec le sucre glace, le reste du jus de clémentine, les zestes et une cuillère à soupe de Curaçao.
+    Faites cuire 18 crêpes fines dans une poêle beurrée. Empilez-les ensuite sur un plat posé sur une casserole remplie d'eau chaude.
+    Tartinez les crêpes, une à une, de beurre de clémentine.
+    Pliez-les en 4. Réchauffez-les rapidement dans la poêle. Servez aussitôt.
+     Mandarine inpériale ou Mont- louis demi-sec
+  ]]>
+  </preparation>
+</recette>

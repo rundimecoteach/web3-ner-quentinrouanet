@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18260">
+  <titre>Spaghettis complets</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de spaghetti complets</p>
+    <p>1 gousse d'ail</p>
+    <p>1 piment oiseau (rouge)</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement l'ail. Laver, épépiner le piment, le couper en tous petits morceaux (attention, ne vous frottez pas les yeux...)
+    Mettre les pâtes à cuire huit minutes dans de l'eau bouillante salée. Faire, pendant le même temps, revenir à feu très doux l'ail et le piment dans l'huile d'olive.
+    Egoutter les pâtes, les disposer dans un plat, ajouter l'huile avec le piment et l'ail. Bien mélanger, servir immédiatement avec une salade verte. Chianti, Bardolino, Barbera : un italien qui a du 
+  ]]>
+  </preparation>
+</recette>

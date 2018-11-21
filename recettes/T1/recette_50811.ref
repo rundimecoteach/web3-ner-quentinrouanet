@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50811">
+  <titre>Gâteau au yaourt et pâte d'amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de beurre mou</p>
+    <p>125 g de sucre en poudre</p>
+    <p>125 g de poudre d'amandes</p>
+    <p>125 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>150 g de yaourt (au choix : nature, noisette, vanille, citron...)</p>
+    <p>3 oeufs (4, s'ils sont petits)</p>
+    <p>125 g de pâte d'amandes en cubes</p>
+    <p>1 cuillère à cafe de vanille liquide</p>
+    <p>quelques cuilllères de lait</p>
+    <p>1 poignée d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 160°C (thermostat 6). 
+    Beurrer un moule à cake, le fariner, puis ôter l'excedent de farine en tapotant le moule au dessus de l'évier. 
+    Battre le beurre en pommade avec le sucre, jusqu'à ce que le mélange blanchisse.
+    Puis, ajouter les oeufs un à un, en battant bien après chaque addition; ajouter la poudre d'amandes et le yaourt.
+    Ajouter la farine tamisée avec la levure, bien mélanger. Si le mélange parait trop épais, ajouter quelques cuillères de lait. 
+    Ajouter la pâte d'amandes en dés.
+    Verser dans le moule, parsemer d'amandes effilées (ou concassées), et enfourner pendant 1 h; vérifier la cuisson avec un couteau.
+    Vous pouvez ajouter 1 petite boîte de poires au jus (pas au sirop), égouttées et coupées en cubes. qu'importe le flacon, pourvu qu'on ait l'ivresse!
+  ]]>
+  </preparation>
+</recette>

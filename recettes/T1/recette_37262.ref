@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37262">
+  <titre>Chili con merguez</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 merguez</p>
+    <p>2 boîtes haricots rouges</p>
+    <p>2 à 4 carottes hachées</p>
+    <p>2 boites tomates pelées</p>
+    <p>1 ou 2 oignons</p>
+    <p>piment</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les merguez à la poêle.
+    Les retirez et faire revenir les oignons et carottes.
+    Ajouter les tomates pelées et les haricots rouges.
+    Assaisonner selon le goût.
+    Laisser mijoter jusqu à cuisson des carottes et haricots.
+  ]]>
+  </preparation>
+</recette>

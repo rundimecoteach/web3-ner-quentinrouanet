@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36067">
+  <titre>Poulet au comté à la cocotte-minute</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet (de 1,2 kg)</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe d’huile</p>
+    <p>20 cl de vin blanc du Jura</p>
+    <p>150 g de comté râpé</p>
+    <p>20 cL de crème épaisse </p>
+    <p>sel, poivre</p>
+    <p>paprika</p>
+    <p>3 cuillères à soupe de chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le poulet en 8 morceaux. Dans la cocotte, mettre l’huile et le beurre. Faire dorer les morceaux de poulet. Ajouter sel, poivre, paprika. Verser le vin blanc. Fermer la cocotte. Dès que la vapeur s’échappe, baisser le feu et laisser cuire 12 minutes.
+    Ouvrir la cocotte. Retirer les morceaux de poulet. Mettre le comté dans la sauce, le faire fondre en remuant sur feu doux. Verser la crème.
+    Mettre les morceaux de poulet dans un plat, les napper de sauce. 
+    Saupoudrer de chapelure. Faire légèrement gratiner et servir.
+    Un délice pour petits et grands !!
+  ]]>
+  </preparation>
+</recette>

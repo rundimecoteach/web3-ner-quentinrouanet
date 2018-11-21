@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20006">
+  <titre>Coquilles saint jacques à la bretonne</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 coquilles saint jacques surgelées</p>
+    <p>5 grosses échalotes</p>
+    <p>250 g de champignons de Paris frais</p>
+    <p>ciboulette en poudre</p>
+    <p>thym, laurier</p>
+    <p>sel poivre</p>
+    <p>chapelure fine</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole mettre 50 cl d'eau et 50 cl de vin blanc sec, une poignée de gros sel, thym et laurier. Faire bouillir et plonger les coquilles dégelées pendant 3-4 mn. Les ôter. Filtrer le jus, le récupérer dans un récipient et mettre le jus d'un citron. 
+    Faire cuire les échalotes hachés 5 mn au micro onde avec une cuillère à soupe d'huile, sel poivre. 
+    Ensuite mettre les champigons (coupés en lamelles fines) 5 mn au micro onde avec un filet de citron + sel poivre. 
+    Mélanger les échalotes, les champigons et les coquilles (3 par personnes) coupées en 6 dans une coquille en céramique. 
+    Dans une casserole anti-adhésive  mettre un bon bout de beurre à fondre, ajouter 1 1/2 cuillère à soupe de farine + poivre et ciboulette et délayer avec le jus de cuisson des coquilles jusqu'à obtenir une sauce ni trop liquide ni trop épaisse (on maintient sur un feu doux en remuant au fur et à mesure qu'on met le jus). 
+    Quand la sauce est prête on la répartit bien sur les coquilles jusqu'à tout recouvrir. On attend 5 mn et on recouvre de chapelure. 
+    On réchauffe le lendemain avec un léger morceau de beurre au four (sur gril).
+     Chablis, Sancerre ou un blanc de Bourgogne
+  ]]>
+  </preparation>
+</recette>

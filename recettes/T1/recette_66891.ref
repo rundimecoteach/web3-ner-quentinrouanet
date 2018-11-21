@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66891">
+  <titre>Tagliatelles aux fruits de mer version rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 sachet d'assortiment de fruits de mer surgelé (500 g)</p>
+    <p>4 cuillères à soupe de fumet de poisson</p>
+    <p>30 cl de crème fraîche liquide</p>
+    <p>1 paquet de tagliatelles fraîche (250 à 300 g)</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laisser décongeler les fruits de mer avant de commencer.
+    Pendant ce temps, dans une sauteuse, faire chauffer les fruits de mer environ 5 minutes. Ajouter ensuite la crème puis le sel et le poivre. Laisser encore chauffer 5 minutes. Rajouter le fumet de poisson, il ne faut pas que la sauce soit trop épaisse.
+    Faire cuire les pâtes dans une casserole d'eau bouillante salée. Les pâtes fraîches cuisent en 3-4 minutes.
+    Les égoutter et les mélanger avec un peu de beurre. Puis mélanger le tout ou servir dans 2 plats séparés afin que chacun se serve les quantités voulues.
+    On peut ajouter des tomates concassées en boîtes, herbes de Provence et du parmesan. Vin blanc type muscadet, Sancerre, Pouilly-fumé
+  ]]>
+  </preparation>
+</recette>

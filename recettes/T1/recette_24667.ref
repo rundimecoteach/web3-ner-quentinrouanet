@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24667">
+  <titre>Gâteau au miel du Poitou</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>2 cuillères à café de levure chimique</p>
+    <p>250 ml de miel liquide</p>
+    <p>250 g de beurre ramolli (très mou mais pas fondu) </p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine, la levure et une pincée de sel dans un saladier. Faire un puits et y mettre le miel et le beurre ramolli. Bien travailler le mélange. 
+    Mettre les oeufs un par un. 
+    La pâte est devenu assez liquide. Verser dans un moule beurré et fariné. 
+    Faire cuire 30 mn à 220°C ou thermostat 8 . 
+    Attendre 5 mn à la sortie du four et le démouler. Le couper  aussitôt car complètement froid il se casse plus facilement.
+  ]]>
+  </preparation>
+</recette>

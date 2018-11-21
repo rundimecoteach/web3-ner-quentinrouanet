@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44809">
+  <titre>Aspic d'oeufs en gelée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 oeufs</p>
+    <p>200 g de gelée</p>
+    <p>1 tranche de jambon de Paris</p>
+    <p>6 cornichons</p>
+    <p>estragon, persil, mesclun</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les oeufs 3 min à l'eau bouillante, les écailler.
+    Ebouillanter l'estragon.
+    Dans des petits moules à dariole, diposer 1 feuille d'estragon, 1 morceau de jambon, 2 oeufs cuit durs, 1 cornichon coupé en deux, et 1 branche de persil. 
+    Couvrir de gelée liquéfiée.
+    Faire prendre au réfrigérateur.
+    Servir sur un lit de mesclun.
+     Vin blanc (Côte de provence)
+  ]]>
+  </preparation>
+</recette>

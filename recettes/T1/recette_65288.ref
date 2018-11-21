@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65288">
+  <titre>Soupe de racines</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 belles carottes</p>
+    <p>3 gros navets</p>
+    <p>1 rutabaga</p>
+    <p>1 beau panais (500 g)</p>
+    <p>1/2 boule de céleri rave</p>
+    <p>lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et laver les légumes et les couper en cubes.
+    Les mettre dans une cocotte, couvrir d'eau.
+    Saler et poivrer.
+    Porter à ébulition puis laisser mijoter à couvert pendant environ 45 min. 
+    Mixer la soupe et l'allonger avec du lait (ou de la crème) pour obtenir un velouté.
+    Vous pouvez servir cette soupe avec quelques lardons grillés et un filet de crème (dans ce cas, elle ne sera plus végétarienne).
+  ]]>
+  </preparation>
+</recette>

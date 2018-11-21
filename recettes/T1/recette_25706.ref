@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25706">
+  <titre>Epis de maïs sauce curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 épis de maïs frais</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>40 cl de lait</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à soupe bombée de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirez les feuilles vertes des épis de maïs et plongez-les dans l'eau bouillante salée pour 30 à 40 minutes de cuisson.
+    Faites fondre le beurre puis ajoutez la farine. Remuez jusqu'à ce qu'elle soit blonde puis versez progressivement le lait. Ajoutez le curry et laissez épaissir sur feu doux en remuant constamment.
+    Nappez épis de maïs égouttés de cette sauce et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52232">
+  <titre>Salade fraîche de tomates à la menthe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tomates </p>
+    <p>1 citron</p>
+    <p>1 pomme</p>
+    <p>1/2 yaourt</p>
+    <p>10 crevettes roses décortiquées</p>
+    <p>1 citron</p>
+    <p>menthe hachée</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dégorger les tomates avec du sel. 
+    Dans un bol, mélanger la menthe et le jus du citron, puis ajouter le yaourt et un peu d'huile d'olive. Ajouter cette sauce aux tomates égouttées. 
+    Couper la pommes en fines tranches et l'ajouter aux tomates. Ajouter également les crevettes, et parsemer les assiettes de feuilles de menthe pour la décoration.
+    Mélange spécial entre la tomate, la menthe, la pomme et les crevettes... pour une salade rafraîchissante et légère!                 
+  ]]>
+  </preparation>
+</recette>

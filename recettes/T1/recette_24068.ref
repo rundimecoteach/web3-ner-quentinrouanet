@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24068">
+  <titre>Biscuit aux marrons et crème anglaise à la vanille</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>375 g de purée de marrons (non sucrée)</p>
+    <p>100 g de sucre</p>
+    <p>50 g de beurre</p>
+    <p>1 sachets de sucre vanilléPour la crème anglaise :</p>
+    <p>25 cl de lait</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>40 g de sucre vanilléPour le caramel :</p>
+    <p>100 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le sucre dans une casserole jusqu'à l'obtention d'un caramel.
+    Couper le feu, puis verser la moitié d'1 verre d'eau dessus pour le délayer. Réserver.
+    Dans une autre casserole, faire chauffer la purée de marrons, puis ajouter 200 g de sucre, le beurre en morceaux et le sucre vanillé.
+    Verser petit à petit la purée de marrons améliorée sur le caramel, puis bien fouetter le mélange pour obtenir une crème onctueuse.
+    Beurrer un moule, puis verser l'appareil dessus et placer au frais pendant 3 ou 4 h.
+    Préparer ensuite une crème anglaise à la vanille en mélangeant lait avec les jaunes d'oeufs et le sucre vanillé dans une casserole.
+    Laisser épaissir sur feu doux sans cesser de remuer jusqu'à ce que la crème nappe le dos de la cuillère.
+    Démouler le biscuit aux marrons, puis le servir accompagné de crème anglaise à la vanille.
+  ]]>
+  </preparation>
+</recette>

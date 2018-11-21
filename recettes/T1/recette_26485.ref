@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26485">
+  <titre>Tomates aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tomates</p>
+    <p>300 g de crevettes</p>
+    <p>15 cl de mayonnaise</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la partie supérieure des tomates et les vider de leur chair.
+    Détendre la mayonnaise avec le jus de citron puis lui incorporer les crevettes, du sel et du poivre.
+    Farcir les tomates de cette préparation et servir frais.
+  ]]>
+  </preparation>
+</recette>

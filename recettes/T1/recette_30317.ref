@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30317">
+  <titre>Salade de betteraves aux pâtes et au fromage de chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 petites betteraves</p>
+    <p>2 oignons rouoges</p>
+    <p>1 courgette</p>
+    <p>1 cuillère à café de pignons</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>300 g de pâtes cuites</p>
+    <p>2 cuillères à soupe de câpres</p>
+    <p>100 g de fromage de chèvre, coupé en tranches</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les betteraves et les oignons rouges et coupez-les en morceaux.
+    Coupez la courgette en rondelle.
+    Placez les betteraves, les oignons rouges et la courgette dans un plat allant au four, avec les pignons et 2 cuillerées à soupe d'huile d'olive. Faites cuire 20 mn à 180°C, les betteraves doivent être tendres.
+    Laissez refroidir et ajoutez les pâtes, les câpres, l'huile d'olive restante et le fromage de chèvre.
+  ]]>
+  </preparation>
+</recette>

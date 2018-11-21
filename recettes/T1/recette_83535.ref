@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83535">
+  <titre>Douillons de poire</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes brisées</p>
+    <p>4 poires bien mures</p>
+    <p>1 œuf</p>
+    <p>4 cuillères à café de sucre en poudre</p>
+    <p>4 noisettes de beurre</p>
+    <p>1 pincée de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6). Dérouler la pâte sur la feuille de cuisson, la découper en 2 triangles de 20 cm de côté et les réserver au frais.
+    Peler les poires en conservant les queues. Retirer le trognon en creusant un petit cône avec votre économe. 
+    Remplir cette cavité avec un peu de sucre, de cannelle et une noisette de beurre.
+    Disposer chaque poire queue vers le haut sur un triangle de pâte. Humecter les bords, les relever et les presser avec les doigts pour les souder.
+    Disposer ces douillons de poire sur une plaque à four et les badigeonner avec l'œuf battu.
+    Enfourner 20-25 min à 210°C (thermostat 7).
+    Servir tiède avec un peu de crème fraîche épaisse ou bien un coulis au chocolat.
+  ]]>
+  </preparation>
+</recette>

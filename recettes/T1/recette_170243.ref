@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170243">
+  <titre>Mille-feuilles d'épinard</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 feuilles de brick</p>
+    <p>200 g d'épinards en branches surgelés </p>
+    <p>100 g de fromage frais ail et fines herbes</p>
+    <p>sel</p>
+    <p>poivre </p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les épinards sur feu doux, à mi-cuisson, y incorporer le fromage, continuer la cuisson à feu doux en remuant pour bien mélanger.
+    Couper les feuilles de brick en 4.Dans le fond du plat déposer l'huile d'olive, puis 1/4 de feuille de brick, étaler un peu d'épinard, puis une feuille de brick, épinard et ainsi de suite. Mettre au four 15 min thermostat 6, à 180°C.
+  ]]>
+  </preparation>
+</recette>

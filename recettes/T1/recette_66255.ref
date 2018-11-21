@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66255">
+  <titre>Tarte à la carotte et au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>4 à 5 carottes</p>
+    <p>1 petite boîte de thon</p>
+    <p>1 oignon</p>
+    <p>20 cl de crème épaisse</p>
+    <p>fromage râpé</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 220°C (thermostat 7-8).
+    Faire revenir l'oignon dans une poêle dans de l'huile.
+    Eplucher et râper les carottes, les faire cuire dans un peu d'huile, assaisonner selon le goût, sel, poivre, persil.
+    Une fois cuites, rajouter le thon émietté, et la crème épaisse, mélanger et faire chauffer quelques minutes.
+    Verser le tout sur la pâte brisée et parsemer du fromage râpé.
+    (Si vous voulez une pâte un peu plus croustillante, faire précuire la pâte brisée 5 min avant d'y déposer la préparation.)
+    Mettre au four une 15aine de minutes.
+    Le temps de cuisson sera selon votre four, et si vous faites précuire la pâte, sachant que les carottes sont déjà cuites.
+  ]]>
+  </preparation>
+</recette>

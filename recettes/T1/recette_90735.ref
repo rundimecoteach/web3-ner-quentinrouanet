@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90735">
+  <titre>Salade de blé Tex Mex</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de blé cuit</p>
+    <p>250 g haricots rouges égouttés</p>
+    <p>285 g maïs égoutté</p>
+    <p>1 poivron rouge</p>
+    <p>1 concombre</p>
+    <p>basilic</p>
+    <p>ciboulette</p>
+    <p>1 oignon nouveau</p>
+    <p>1 cuillère à soupe de  concentré tomate</p>
+    <p>1 cuillère à soupe d'épices Tex-Mex</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>Pour la vinaigrette :</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer 3 cuillères à soupe d'huile d'olive dans une casserole. Ajouter le concentré de tomate et les épices Tex-Mex. Faire revenir en remuant constamment (attention, les épices ont tendance à brûler très vite). Verser 1/2 litre d'eau et porter à ébullition. Saler.
+    Verser le blé dans un saladier. Lorsque le liquide bout, le verser sur le blé, remuer et attendre le refroidissement.
+    Couper en dés, le concombre, l'oignon nouveau (ainsi que les tiges vertes) et le poivron rouge. Ajouter au blé, bien mélanger.
+    Préparer une vinaigrette dans un bol, selon les goûts. Verser sur la salade, bien mélanger.
+    Hacher les herbes, et en saupoudrer la salade. Mettre au frais jusqu'au moment de servir.Si vous aimez les salades bien épicées, vous pouvez doubler les quantités d'épices, et ajouter quelques gouttes de tabasco à la vinaigrette.
+  ]]>
+  </preparation>
+</recette>

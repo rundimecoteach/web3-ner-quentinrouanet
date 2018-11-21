@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212586">
+  <titre>Feuilletés à la ricotta et au bacon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 carrés de pâte feuilletée</p>
+    <p>250 g de ricotta</p>
+    <p>100 g de tomates séchées à l'huile</p>
+    <p>100 g d'allumettes de bacon</p>
+    <p>1 cuillerée de crème fraîche</p>
+    <p>2 jaunes d’œuf</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+     
+    Mixer les tomates séchées afin d'obtenir une pâte.
+    Mélanger la ricotta, la crème fraîche et un jaune d’œuf.Y incorporer la pâte de tomates séchées. Ajouter les allumettes de bacon puis saler et poivrer la préparation.
+    Huiler une feuille de papier sulfurisée sur la plaque de cuisson.
+    Disposer les pâtes feuilletées et les garnir de la préparation.
+    Les refermer sur elle-même pour obtenir un triangle.
+    Les badigeonner de jaune d’œuf pour bien les faire dorer.
+    Cuire 10-11 min et servir tout de suite accompagné d'une salade verte. Un Juliénas
+  ]]>
+  </preparation>
+</recette>

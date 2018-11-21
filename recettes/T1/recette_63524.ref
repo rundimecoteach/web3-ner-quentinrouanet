@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63524">
+  <titre>Pâté de Lièvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lièvre dépecé</p>
+    <p>500 g de gorge de porc</p>
+    <p>1 kg De lard entrelardé</p>
+    <p>500 g de rôti de veau</p>
+    <p>couennes de porc</p>
+    <p>6 échalotes</p>
+    <p>1 citron</p>
+    <p>thym, laurier, clous de girofle</p>
+    <p>2 oeufs (1 entier + 1 jaune)</p>
+    <p>75 cl de vin de Bourgogne</p>
+    <p>1 noix de muscade</p>
+    <p>12 g de sel par kilo de viande (lièvre + viandes)</p>
+    <p>poivre selon goût</p>
+    <p>5 cl de cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 190°C (thermostat 6-7).
+    Hacher les viandes, couper les échalotes en fines lamelles, ajouter les oeufs, la noix de muscade râpée (selon goût), saler, poivrer.
+    Répartir dans les terrines, disposer une couenne de porc, côté gras sur la viande.
+    Faire cuire au bain marie au four dans des terrines fermées pendant 2 heures.
+    Découvrir ensuite les terrines et continuer la cuisson pendant 15 à 20 minutes pour former une croûte.
+    Décorer avec rondelle de citron, thym, laurier, clous de girofle.
+    Mettre au frais 3 jours avant de déguster.
+     Bourgogne
+  ]]>
+  </preparation>
+</recette>

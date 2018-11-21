@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63507">
+  <titre>Thon aux agrumes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 orange</p>
+    <p>1 pamplemousse</p>
+    <p>1 boite de thon à la tomate</p>
+    <p>cannelle ou cumin au choix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler à vif l'orange et le pamplemousse.
+    Sur une planche à découper comportant une rigole pour récupérer le jus, couper les fruits de sorte à obtenir des petits carrés.
+    Après les avoir mis dans un saladier, les saupoudrer de cannelle ou de cumin en fonction de vos goûts.
+    Transvaser le tout dans un petit plat creux ou dans des coupelles pour un service à l'assiette.
+    Napper de thon à la tomate, un tour de moulin à poivre et le tour est joué !
+    Ceci est une entrée light de notre invention, imaginée pour manger sain tout en se régalant. Les enfants adorent.
+  ]]>
+  </preparation>
+</recette>

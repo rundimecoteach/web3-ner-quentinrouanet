@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28546">
+  <titre>Pintade en automne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pintade coupée en 4 </p>
+    <p>150 g de lardons</p>
+    <p>6 pommes</p>
+    <p>10 cl de jus de pomme</p>
+    <p>4 clous de girofle</p>
+    <p>40 g de beurre</p>
+    <p>1 oignon</p>
+    <p>1 branche de sauge</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher 2 pommes. Les mixer pendant 1 mn. 
+    Peler et émincer l'oignon. 
+    Faire revenir les morceaux de pintade dans le beurre. 
+    Ajouter les lardons et l'oignon. 
+    Mélanger et ajouter le hachis de pomme. 
+    Laisser cuire 20 mn à couvert. 
+    Couper les pommes restantes en 4 , les épépiner. 
+    Les mettre ainsi que les clous de girofle et la sauge dans la cocotte. 
+    Saler et poivrer. Couvrir, baisser le feu et laisser cuire 15 mn. 
+    Ajouter la crème fraîche et mélanger délicatement. Faire bouillir et retirer du feu. 
+    Servir rapidement.
+     vin rouge de Loire, Chinon ou Bourgueil
+  ]]>
+  </preparation>
+</recette>

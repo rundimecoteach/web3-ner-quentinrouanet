@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27601">
+  <titre>Fricassée de porc aux haricots</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de filet de porc</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>250 g de tomates</p>
+    <p>400 g de haricots rouges en boîte</p>
+    <p>400 g de haricots blancs en boîte</p>
+    <p>250 g de saucisse de Morteau</p>
+    <p>1 cuillère à soupe de thym</p>
+    <p>10 cl de vin blanc</p>
+    <p>3 ciboules</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Détaillez le filet de porc en dés. Faites chauffer 2 cuillères à soupe d'huile dans une sauteuse à feu doux. Ajoutez l'ail puis les dés de porc. Faites-les dorer 5 mn. 
+    2) Epépinez les tomates, coupez-les en dés. Ajoutez-les au porc. 
+    Incorporez les haricots égouttés, la saucisse en rondelles et le thym. Mouillez avec le vin. Couvrez. Faites cuire 20 mn. 
+    3) Emincez les ciboules. Hors du feu, ajoutez-les au contenu de la sauteuse. Arrosez avec 3 cuillères à soupe d'huile. Salez, poivrez. Mélangez avec une cuillère en bois. 
+    4) Couvrez. Placez sur feu doux et laissez mijoter 15 mn jusqu'à ce que les ciboules soient fondantes. Servez bien chaud.
+    Vous pouvez remplacer les ciboules par des oignons blancs dont vous émincez le bulbe et la tige. vin rosé
+  ]]>
+  </preparation>
+</recette>

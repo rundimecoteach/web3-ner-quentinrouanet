@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55788">
+  <titre>Rôti de saumon en croûte</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>2 pavés de saumons</p>
+    <p>1 filet de sandre</p>
+    <p>crème fraîche</p>
+    <p>2 blanc d'oeuf</p>
+    <p>du jus de citrons</p>
+    <p>sel, poivre</p>
+    <p>pour la sauce : 50g de beurre, 4 échalotes, 2 cuillères à café de fumet de poisson, 2 cuillères de crème fraîche, vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre les pavés de saumons, les mettre dans un mixer avec le jus de citrons, mixer le tout.
+    Une fois mixé, mettre les deux blancs d'oeufs, mixer ensuite, mettre les 2 cuillères à soupe de crème fraîche, sel, poivre.
+    Mixer le tout encore.
+    Vous obtenez une pâte.
+    Ensuite prendre la pâtes brisée, mettre un peu de pâte au milieu de la pâte brisée, mettre le filet de sandre sur la pâte, mettre le restant de pâte sur le filet de sandre et refermer la pâte brisée sur le tout pour former un rôti.
+    Prendre les jaunes d'oeuf pour faire la dorure.
+    Pour la sauce, prendre 50 g de beurre, faire revenir les échalotes. Prendre le vin blanc pour déglacer les échalotes, mettre le fumet de poisson, la crème fraîche, sel, poivre.
+     vin blanc
+  ]]>
+  </preparation>
+</recette>

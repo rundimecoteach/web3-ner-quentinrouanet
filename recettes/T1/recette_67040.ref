@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67040">
+  <titre>Salade de champignons de Paris à la tomate et au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de champignons de Paris</p>
+    <p>1 boîte de thon (au naturel ou à l'huile)</p>
+    <p>250 g environ de purée de tomate (fraîche ou en brique)</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>sel et poivre</p>
+    <p>facultatif : olives vertes ou noires, cornichons coupés en rondelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer rapidement sous l'eau les champignons, les émincer.
+    Dans un faitout, les faire revenir dans une cuillère d'huile d'olive (de préférence) quand ils ont rendu leur eau.
+    Selon votre goût, soit jeter l'eau (pour garder un peu de croquant) , soit la refaire absorber par les champignons si on aime une consistance plus molle. Personnellement c'est la première solution que ma petite famille apprécie.
+    Ajouter la boite de thon, les câpres, le persil et la purée de tomate sel et poivre, puis laisser cuire encore 5 minutes.
+    Laisser refroidir et déguster.
+    Se conserve très bien deux trois jours en boîte hermétique. Parfait pour accompagner des grillades, ou lors d'un pique-nique ou d'un buffet froid.
+  ]]>
+  </preparation>
+</recette>

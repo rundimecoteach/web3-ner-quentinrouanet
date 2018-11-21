@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218235">
+  <titre>Tarte Bourdaloue aux abricots</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>50 g de sucre</p>
+    <p>60 g de poudre d'amandes</p>
+    <p>500 g d'abricots frais ou au jus</p>
+    <p>1 œuf</p>
+    <p>4 cuillères à soupe de crème fraiche</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).Dans un récipient, blanchir l’œuf avec le sucre puis ajouter la poudre d'amandes et la crème.Dérouler la pâte brisée dans un moule à tarte et disposer dessus les demi-abricots.
+    Verser par dessus la préparation puis saupoudrer le tout du sucre vanillé.Enfourner pour 45 minutes.
+    Servir si possible encore tiède avec et une boule de glace vanille. Bon appétit !
+  ]]>
+  </preparation>
+</recette>

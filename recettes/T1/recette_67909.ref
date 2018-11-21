@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67909">
+  <titre>Mazurka</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1 oeuf</p>
+    <p>50 g de sucre glace</p>
+    <p>100 g de raisins secs </p>
+    <p>1/2 citron pressé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine sur un grand plateau. 
+    Faire une fontaine  et y mettre le sucre en poudre, le beurre en petits morceaux, le jus de ciron, et l'oeuf entier.
+    Pétrir la pâte pour l'obtenir ferme.
+    Etendre cette pâte au rouleau en un carré de 20 cm de côté,la metre sur une plaque à pâtisserie.
+     
+    Recouvrir la surface avec les raisins secs et les soupoudrer de sucre glace. 
+    Cuire à four moyen.
+    Cela forme une sorte de grand sablé recouvert de raisins secs.
+  ]]>
+  </preparation>
+</recette>

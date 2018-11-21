@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87059">
+  <titre>Filet mignon à la pancetta et mozzarella</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Filet mignon 400 g à 600 g (porc ou veau)</p>
+    <p>250 g de mozzarella</p>
+    <p>12 à 15 tranches fines de pancetta ou de poitrine de porc non fumée</p>
+    <p>5 gousses d'ail</p>
+    <p>10 tomates cerises</p>
+    <p>1 à 2 oignon</p>
+    <p>romarin</p>
+    <p>huile d'olive</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre l'huile dans une poêle et faire cuire le filet jusqu'à ce qu'il soit croustillant et doré. 
+    Préchauffer le four à 220°C (thermostat 8).
+    Piquer le filet de 3 gousses d'ail.
+    Envelopper le filet de tranches de mozzarella puis de pancetta.
+    Mettre le filet dans un plat allant au four, l'oignon coupé en tranches, les tomates cerises ainsi que 2 gousses d'ail en chemise. 
+    Arroser d'huile d'olive, de romarin et de poivre.
+    Faire cuire au four 30 minutes ou jusqu'à ce que le filet soit cuit à votre convenance.
+  ]]>
+  </preparation>
+</recette>

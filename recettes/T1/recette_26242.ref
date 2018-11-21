@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26242">
+  <titre>Côtes de porc sauce piquante</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 côtes de porc</p>
+    <p>1 petit oignon hachéPour la sauce :</p>
+    <p>1 tasse d'eau (250 ml) </p>
+    <p>3/4 de tasse de ketchup</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>piment (en poudre ou broyés) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les côtes et l'oignon dans le beurre. 
+    Mélanger tous les ingrédients de la sauce. 
+    La verser sur les côtes disposées dans un plat à four. 
+    Cuire 25 mn à Th 6 (180°C).
+    La durée de cuisson dépend de l'épaisseur des côtes !
+  ]]>
+  </preparation>
+</recette>

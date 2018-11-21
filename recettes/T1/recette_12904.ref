@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12904">
+  <titre>Pommes au four à l'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>16 pommes de terre de taille moyenne</p>
+    <p>12 gousses d'ail</p>
+    <p>6 cuillères à soupe huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>2 cuillères à café d'herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien laver les pommes de terre, les faire tremper avec la peau dans un saladier contenant de l'eau et du sel pendant 15 mn. Faire préchauffer le four (thermostat 7 / 210°C).
+    A l'aide d'un papier absorbant, sécher les pommes de terre.
+    Mélanger dans un bol l'huile d'olive et les herbes de provence.
+    Disposer les pommes de terre dans un plat allant au four, puis les badigeonner avec la préparation, ajouter du poivre selon votre goût.
+    Enfourner, pendant 35 à 45 mn selon la taille des pommes de terre.
+    Cinq minutes avant la fin de la cuisson,  disposez les goussses d'ail non pelées (ainsi, la chair de l'ail sera très tendre) au milieu du plat. 
+    Attention, si vos gousses d'ail sont grosses, n'oubliez pas de les piquer avec la pointe d'un couteau, sinon elles éclatent dans le four.
+    Excellent avec une salade verte ou des épinards en branche en salade avec des croutons.
+    NDchef : attention, ne pas faire cuire les pommes de terre avant!!!
+  ]]>
+  </preparation>
+</recette>

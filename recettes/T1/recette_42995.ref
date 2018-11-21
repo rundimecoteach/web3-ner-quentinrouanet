@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42995">
+  <titre>Choucroute de raves salées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1.8 kg de navets salés</p>
+    <p>1/2 l de riesling</p>
+    <p>3 gousses d'ail</p>
+    <p>1 gros oignon</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>10 baies de genièvre, du coriandre, 1 feuille de laurier ,1/2 cuillère à café de cumin(carvi), 3 clous de girofle et une branche de thym</p>
+    <p>sel et poivre</p>
+    <p>3 saucisses fumées</p>
+    <p>6 saucisses viennoises</p>
+    <p>1 palette fumée</p>
+    <p>300 g de lard fumé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les raves à grande eau, et pressez-les.
+    Dans une cocotte, faites chauffer l'huile, et laissez revenir à feu doux l'oignon émincé.
+    Ajoutez les raves, bien remuez, puis ajoutez l'ail et les aromates.
+    Ajoutez le vin blanc, et 1/4 de litre d'eau.
+    Couvrir la cocotte, et faites cuire à feu doux pendant 30 à 40 min.
+    Les navets salés sont cuits en 30 min, lorsqu'ils sont jeunes; en 1 h, en fin de saison.
+    Accompagnez ce plat de pommes de terres vapeur (1 kg pour 6 personnes). Bière blonde ou un Riesling.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171954">
+  <titre>Gâteaux aux pommes, pépites de chocolat et cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de sucre (cassonade)</p>
+    <p>6 pommes</p>
+    <p>2 œufs</p>
+    <p>50 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>1 cuillère à café de levure</p>
+    <p>1 pincée de sel</p>
+    <p>zeste de citron ou jus de citron</p>
+    <p>100 g de pépites de chocolat</p>
+    <p>un peu de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre. Éplucher et couper les pommes en petits morceaux.
+    Battre les œufs et le sucre avec une fourchette jusqu'à obtention d'un mélange homogène.
+    Ajouter le beurre fondu, la farine, la levure, un peu de zeste de citron ou le jus de citron et le sel.Mélanger le tout puis ajouter les pépites de chocolat ainsi qu'un peu de cannelle.
+    Terminer par l'ajout des pommes.
+    Bien mélanger puis verser dans un moule.
+    Faire cuire à 200°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

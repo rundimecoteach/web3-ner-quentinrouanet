@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38486">
+  <titre>Nouilles au poulet (Chinois)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Blancs de poulet (800 g environ)</p>
+    <p>400 g de nouilles chinoises</p>
+    <p>50 g de champignons noirs séchés</p>
+    <p>4 ou 5 gros oignons</p>
+    <p>Pour la marinade :</p>
+    <p>3 cuillères à soupe d’huile de sésame</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>1 cuillère à café de purée de piments</p>
+    <p>Pour le bouillon :</p>
+    <p>3 l de bouillon de poulet (en cubes feront l’affaire)</p>
+    <p>75 g de sucre</p>
+    <p>6 cuillères à soupe de sauce de soja noire</p>
+    <p>2 cuillères à soupe de gingembre en poudre (ou 2 lamelles)</p>
+    <p>4 à 5 cuillères à soupe de Saké</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les champignons noirs dans un saladier d’eau chaude. 
+    Couper les blancs de poulet en dés ou lamelles, les mettre dans un saladier avec les ingrédients de la marinade. Laisser mariner 2h minimum.
+    Couper les oignons en lamelles.
+    Préparer dans une grande cocotte les ingrédients du bouillon, faire chauffer.
+    Dans un wok, faire chauffer une cuillère à soupe d’huile, lorsque c’est chaud, mettre les oignons à rissoler.
+    Ajouter le poulet, laisser cuire pendant environ 10 minutes, en remuant souvent.
+    Lorsque le bouillon boue, ajouter les champignons noirs, les oignons ainsi que les morceaux de poulet
+    Laisser cuire, lorsque les oignons commencent à être bien tendres, ajouter les nouilles.
+    Laisser cuire jusqu’à ce que les pâtes soient à votre goût.
+    Servir.
+    Se garde et se réchauffe très bien.
+  ]]>
+  </preparation>
+</recette>

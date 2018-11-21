@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170882">
+  <titre>Salade Sud-Ouest</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>125 g de mâche</p>
+    <p>125 g de mesclun</p>
+    <p>500 g de marrons au naturel</p>
+    <p>150 g magrets de canard tranchés séchés</p>
+    <p>150 g de foie gras en bloc</p>
+    <p>25 g pignons de pin</p>
+    <p>25 g noisettes entières</p>
+    <p>25 g noix</p>
+    <p>6 cuillères à soupe huile de noix (plus goûteuse) ou huile de noisette (plus fine)</p>
+    <p>2 cuillères à soupe vinaigre de Xérès</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Il vaut mieux faire une présentation à l'assiette : installer les feuilles de mâche, puis les marrons. Placer à côté les tranches de magret et de fines lamelles de foie gras.
+    Enfin, parsemer les noix, noisettes, pignons de pin.
+    Faire une vinaigrette avec l'huile et le vinaigre. Au dernier moment, ajouter la vinaigrette, en évitant le foie gras.
+    Servir avec du pain de campagne finement tranché, grillé ou non. sauterne ou autre blanc moelleux
+  ]]>
+  </preparation>
+</recette>

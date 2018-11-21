@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23408">
+  <titre>Châtaignes cuites à l'eau</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de chataîgnes</p>
+    <p>1 à 2 branches de fenouil</p>
+    <p>gros sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Inciser l'écorce des châtaignes.
+    Faire bouillir une grande casserole d'eau salée avec le fenouil. Y plonger les châtaignes et laisser cuire à ébullition pendant 30 minutes.
+    Vérifier la cuisson, elles doivent s'éplucher facilement, tout en étant farineuses et fondantes.
+    Servir les châtaignes en accompagnement ou en plat.
+  ]]>
+  </preparation>
+</recette>

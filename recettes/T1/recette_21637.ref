@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21637">
+  <titre>Salade de chèvres chauds aux lardons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de lard maigre demi-sel coupé en lardons</p>
+    <p>6 tranches de pain de campagne</p>
+    <p>3 crottins de Chavignol</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 ou 2 gousses d'ail</p>
+    <p>3 pincées de sel</p>
+    <p>poivre</p>
+    <p>1/2 cuillère à café de moutarde forte</p>
+    <p>5 cuillères à soupe d'huile de noix</p>
+    <p>1 salade (frisée, mâche, batavia, ou encore un mélange)</p>
+    <p>huile et beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 240°C (thermostat 8).
+    Faites blanchir les lardons à l'eau bouillante puis égouttez-les.
+    Enlevez la croûte des tranches de pain de campagne, faites-les dorer au beurre et à l'huile puis frottez les tranches chaude avec l'ail.
+    Enlevez la croûte des crottins de chavignol, coupez-les en deux dans l'épaisseur, posez-les dans un plat à gratin sur le pain et mettez au four pour 10 à 12 minutes de cuisson (le chèvre doit commencer à dorer).
+    Dans le saladier, mettez le vinaigre, le sel, le poivre et la moutarde. Mélangez, puis ajoutez 5 cuillères à soupe d'huile de noix, mélangez à nouveau.
+    Assaisonnez ainsi la salade.
+    Rincez les lardons, faites-les dorer 2 à 3 minutes dans une poêle chaude.
+    Disposez la salade sur les assiettes, posez-y les chèvres et les lardons.
+  ]]>
+  </preparation>
+</recette>

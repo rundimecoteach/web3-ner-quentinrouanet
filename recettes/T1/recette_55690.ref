@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55690">
+  <titre>Blanquette de veau à la vanille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de morceaux de veau à blanquette (ex : flanchet)</p>
+    <p>6 carottes</p>
+    <p>3 branches de céleri</p>
+    <p>1 cuillère à café d'ail moulu</p>
+    <p>150 g de crème fraîche épaisse</p>
+    <p>1 cuillère à soupe de jus de citron vert</p>
+    <p>1 gousse de vanille</p>
+    <p>50 cl de bouillon de volaille</p>
+    <p>20 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter le bouillon de volaille à ébullition dans une cocotte (la fonte, c'est l'ideal).
+    Saler et poivrer légèrement puis ajouter le veau découpé en morceaux, les carottes (épluchées et coupées en rondelles), les branches de céleri, l'ail en poudre.
+    Attendre la reprise de l'ébullition puis couvrir et laisser mijoter à feu tout doux 1 h 40 environ.
+    Enlever la viande et les légumes de la cocotte et réserver au chaud.
+    Faire fondre le beurre dans une casserole, puis ajouter la farine hors du feu.
+    Mélanger les deux de facon à ne pas faire de grumeaux.
+    Remettre sur le feu et ajouter un peu de bouillon de cuisson jusqu à ce que la préparation épaississe un peu puis ajouter progressivement le reste du bouillon sans cesser de mélanger.
+    Fendre la gousse de vanille dans la longueur, racler l'intérieur afin de récupérer les graines noires puis les ajouter au bouillon.
+    Incorporer le jus de citron et la crème tout en fouettant la sauce et laisser mijoter sur feu très très doux environ dix minutes.
+    Rectifier l'assaisonnement et servir.
+    J'ai servi ce plat avec une purée de patates douces, c'était excellent, tous mes invités se sont resservis. Un petit vin blanc de pays type chenin
+  ]]>
+  </preparation>
+</recette>

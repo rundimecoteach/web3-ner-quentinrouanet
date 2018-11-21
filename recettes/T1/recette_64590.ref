@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64590">
+  <titre>Bricks Cho'po'noix</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour les briques :</p>
+    <p>4 feuilles de brick</p>
+    <p>2 pommes (ou autres comme bananes ou poires)</p>
+    <p>8 grosses noix</p>
+    <p>100 g de chocolat</p>
+    <p>25 cl de lait</p>
+    <p>65 g de beurre</p>
+    <p>Pour la décoration (facultatif) :</p>
+    <p>caramel ou miel</p>
+    <p>4 grosses noix</p>
+    <p>le reste du chocolat avec le lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Eplucher et vider les pommes, puis les couper en fines lamelles.
+    Déposer une feuille de brick à plat dans une assiette. Au bord de la feuille (pas trop pour pouvoir la rouler), répartir 1/2 pomme. 
+    Ajouter 2 noix grossièrement concassées. 
+    Dans un récipient à part, mettre le chocolat recouvert d'eau et le mettre au micro-ondes jusqu'à ce qu'il soit entièrement fondu. Vider l'eau et mettre le lait. Bien remuer jusqu'à ce que ce soit bien homogène.
+    Répartir un peu de ce mélange sur les pommes et les noix.
+    Fermer la brick en la roulant comme une crêpe et recommencer avec les 3 autres feuilles.
+    Mettre les bricks roulées dans un plat qui va au four. Répartir le beurre en petits morceaux sur les feuilles.
+    Mettre au four jusqu'à ce que ce soit doré.
+    Pour la décoration :
+    Dans chaque assiette, avec le caramel ou le miel, faire des décoration tout autour de l'assiette. Mettre les noix grossièrement concassées également en déco.
+    Mettre les bricks dans les assiettes et s'il vous reste du chocolat avec le lait, arroser la brick.
+    Servir chaud.
+    C'est un plat qui ne doit pas être fait après un repas consistant puis c'est assez lourd.
+  ]]>
+  </preparation>
+</recette>

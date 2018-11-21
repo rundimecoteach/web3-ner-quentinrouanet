@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25921">
+  <titre>Tartelettes savoyardes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>200 g de comté</p>
+    <p>2 saucisses fumées</p>
+    <p>15 cl de vin blanc de Savoie</p>
+    <p>3 cuillères à soupe de crème</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les saucisses pendant 20 mn environ dans de l'eau bouillante. 
+    Pendant ce temps, râper le fromage, puis étaler la pâte et en garnir 4 moules de 10 cm. Préchauffer le four à 220°C. 
+    Egoutter les saucisses, les découper encore tièdes en rondelles. 
+    Porter à ébullition le vin et la crème, poivrer et laisser mijoter 5 mn. Hors du feu, ajouter, en remuant, le fromage et un peu de noix de muscade râpée. 
+    Verser un fond de sauce sur la pâte, disposer les rondelles de saucisses, recouvrir avec le restant de sauce. Mettre au four 15 mn. 
+    Sortir les tartelettes dorées et servir aussitôt.
+    En remplaçant la moitié du comté par du fromage à raclette, le mélange sera plus onctueux et plus relevé.
+  ]]>
+  </preparation>
+</recette>

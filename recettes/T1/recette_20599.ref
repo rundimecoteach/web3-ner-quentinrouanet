@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20599">
+  <titre>Pâtes sauce champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>pâtes fraîches</p>
+    <p>champignons blancs de Paris frais</p>
+    <p>huile d'olive parfumée à la truffe blanche</p>
+    <p>crème liquide</p>
+    <p>poivre frais et une pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les champignons dans l'huile d'olive à la truffe.... 
+    Quand ils sont cuit mettez les dans un mixeur.... 
+    Ajoutez un peu de crème liquide...du poivre et une larme d'huile à la truffe.... 
+    Mixez.... 
+    Plongez vos pâtes fraîches dans de l'eau bouillante salée pendant deux ou trois minutes.... 
+    Réchauffez la sauce pendant ce temps. 
+    Garnissez vos pâtes avec la sauce.... 
+    Mmmmmmmh
+     vin blanc...coteaux du layon 1989
+  ]]>
+  </preparation>
+</recette>

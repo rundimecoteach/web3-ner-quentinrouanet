@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73046">
+  <titre>Emincés de poulet sauce moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de crème fraîche épaisse</p>
+    <p>3 cuillères à soupe de moutarde</p>
+    <p>4 blancs de poulet</p>
+    <p>1 gros oignon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper l'oignon en petit morceaux et le poulet en lamelles. 
+    Verser un peu d'huile d'olive dans une poêle et les faire dorer.
+    Lorsque le tout est cuit, baisser le feu et ajouter la crème fraîche et la moutarde.
+    Saler et poivrer et ajouter un peu d'ail semoule.
+    Cette recette se déguste avec du riz ou du blé.
+  ]]>
+  </preparation>
+</recette>

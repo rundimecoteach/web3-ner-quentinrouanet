@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63033">
+  <titre>Cuisses de canard aux champignons parfumés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 cuisses de canard</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>champignons parfumés séchés (quantité selon les goûts)</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les champignons parfumés dans de l'eau tiède pendant 15 minutes.
+    Couper les oignons en lamelles. Les faire dorer avec un peu d'huile dans une cocotte.
+    Faire dorer les cuisses de canard avec les oignons.
+    Quand les cuisses de canards sont bien dorées, les recouvrir d'eau. 
+    Y ajouter le cube de bouillon de volaille. Laisser mijoter 1 bonne heure voire 1 h 30 pour que les cuisses soient bien tendres.
+    20 minutes avant la fin de la cuisson, mettre les champignons parfumés.
+    A accompagner avec du riz. Les champignons parfumés s'achètent dans les magasins asiatiques et se trouvent sous forme séchés.
+  ]]>
+  </preparation>
+</recette>

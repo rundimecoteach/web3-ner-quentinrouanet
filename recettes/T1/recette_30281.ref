@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30281">
+  <titre>Cailles farcies au foie gras et aux raisins sauternés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 cailles</p>
+    <p>500 g de gros raisins verts</p>
+    <p>20 cl de Sauternes (soit environ 2 verres)</p>
+    <p>200 g de foie gras de canard cru</p>
+    <p>10 cl d'armagnac</p>
+    <p>4 cuillères à soupe de graisse de canard</p>
+    <p>8 tranches de lard</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les raisins et détailler le foie gras de canard.
+    Farcir les cailles d'un morceau de foie gras et de 2 gros grains de raisin. Envelopper les cailles de tranches de lard et les ficeler.
+    Dans une cocotte, faire chauffer la graisse de canard, y incorporer les cailles farcies et les faire revenir de chaque côté pour qu'elles soient bien dorées. Les laisser cuire 15 min environ à couvert.
+    Dans une petite casserole, faire chauffer le Sauternes, le flamber et le verser dans la cocotte avec les raisins et l'armagnac.
+    Ne faire mijoter que 3 min pour éviter que les raisins ne soient trop cuits.
+    Servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

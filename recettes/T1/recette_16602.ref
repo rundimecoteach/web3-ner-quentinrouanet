@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16602">
+  <titre>Mozzarella panée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boule de mozzarella</p>
+    <p>de la chapelure </p>
+    <p>de l'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez la mozzarella en lamelles. Trempez-les dans l'huile puis dans la chapelure.
+    Faites cuire dans 1 poêle, jusqu'à ce que la mozzarella soit un peu grillée.
+    Servez chaud !!
+  ]]>
+  </preparation>
+</recette>

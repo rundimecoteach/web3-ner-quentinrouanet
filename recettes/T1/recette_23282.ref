@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23282">
+  <titre>Saumon à l'unilatérale au blé et à la crème</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pavés de saumon</p>
+    <p>1 verre de blé précuit (environ 100 g) </p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>aneth</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Après avoir écaillé le poisson si nécessaire, faire chauffer un peu d'huile dans une poêle. 
+    Posez le saumon dans l'huile chaude côté peau et recouvrez pendant toute la durée de la cuisson soit environ 20 mn (le temps de cuisson dépend de la taille des pavés). 
+    Pendant ce temps préparer le blé suivant les indications figurant sur le paquet. 
+    Dressez sur l'assiette et mélanger suivant le goût de chacun le blé avec la crème fraîche et l'aneth. Salez et poivrez. Ne pas oublier de mettre un petit filet de citron sur le poisson.
+  ]]>
+  </preparation>
+</recette>

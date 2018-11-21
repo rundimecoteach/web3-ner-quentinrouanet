@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13651">
+  <titre>Poulet au citron et aux olives vertes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 hauts de cuisses de poulet</p>
+    <p>4 cuisses de poulet</p>
+    <p>2 blancs de poulet</p>
+    <p>5 citrons non traités</p>
+    <p>1 bocal d'olives vertes dénoyautées</p>
+    <p>sel, pivre, paprika</p>
+    <p>Huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pressez le jus de 4 citrons et réservez.
+    Coupez en rondelles le 5 ème citron et réservez.
+    Mettez les morceaux de poulet, peau
+    vers le haut, dans un plat allant au four. Rajoutez-y les olives vertes égoutées (autour et dessus).
+    Salez, poivrez, puis verser le jus des 
+    citrons. Placez les rondelles de citrons entre les morceaux de poulet afin qu'il confisent à la cuisson.
+    Saupoudrez de paprika et enfournez pour 45 mn (thermostat 6/7).
+    Il faut apprécier le citron...
+    Servir avec un riz blanc thaï parfumé parsemé de quelques lentilles. Surtout bien réchauffer le riz à part du poulet sinon la sauce du poulet part dans le riz et le plat devient sec. Corsé type Madiran (Montus 95 par exemple)
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64942">
+  <titre>Soupe de légumes améliorée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 ou 3 courgettes</p>
+    <p>4 poireaux</p>
+    <p>2 carottes</p>
+    <p>2 pommes de terre</p>
+    <p>6 petites saucisses fumées à cuire</p>
+    <p>Un peu de beurre</p>
+    <p>un bouillon cube</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher, laver et couper en petits morceaux courgettes, poireaux, carottes et pommes de terre (perso, je laisse la peau des courgettes).
+    Dans une grande cocote, faire fondre un peu de beurre et faire suer en premier les poireaux.
+    Quand ils sont translucides, ajouter les courgettes puis les carottes.
+    Faire revenir doucement, il faut que les légumes prennent une petite teinte dorée.
+    Saler, poivrer, recouvrir d'eau (environ 1,5 L).
+    Ajouter les pommes de terre et les saucisses, goûter, rectifier l'assaisonnement.
+    Laissez mijoter environ 3/4 d'heure.
+    Servir avec quelques croûtons frottés d'ail, chacun une saucisse.
+    Je me suis inspirée de plusieurs recettes, j'ai fait un mix, super!Les saucisses donnent un petit goût fumé exquis.
+    Peut se faire avec une Montbéliard.J'ai fait mijoter sur mon poêle, idéal. 
+  ]]>
+  </preparation>
+</recette>

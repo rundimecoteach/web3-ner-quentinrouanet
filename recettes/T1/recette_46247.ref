@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46247">
+  <titre>Min's</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour les min's :</p>
+    <p>5 escalopes de poulets (ou viandes blanches)</p>
+    <p>1/4 de chou vert lisse</p>
+    <p>4 carottes</p>
+    <p>1 botte de cebettes (oignons doux et jeunes)</p>
+    <p>poivre</p>
+    <p>sel (ou Nuac Man)</p>
+    <p>4 épices</p>
+    <p>1/2 paquet de nouilles chinoises</p>
+    <p>Pour la sauce :</p>
+    <p>eau</p>
+    <p>vinaigre de cidre </p>
+    <p>ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir à part chacun des ingrédients dans le wok, avec un peu d'huile, de la sauce soja et des 4 épices : viande, chou vert coupé en très fines lamelles, carottes rapées et cebettes.
+    Faire cuire les pâtes chinoises : les laisser tremper 2 min dans l'eau froide, puis 2 min dans l'eau brûlante.
+    Mélanger le tout, réchauffer si nécessaire et servir.
+    Plat complet, équilibré et sutout exquis. Un Rosé Minervois
+  ]]>
+  </preparation>
+</recette>

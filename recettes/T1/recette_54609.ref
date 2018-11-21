@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54609">
+  <titre>Riz à la carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de riz</p>
+    <p>1 barquette de lardons fumés</p>
+    <p>2 oeufs</p>
+    <p>2 briquettes de crème liquide</p>
+    <p>1 cube de jus de rôti ou de bouillon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz dans de l'eau bouillante salée.
+    Pendant la cuisson du riz, faire revenir les lardons, la crème avec le cube de jus de rôti.
+    Laisser refroidir la sauce puis ajouter les 2 oeufs battus en mélangeant bien, pour ne pas qu'ils cuisent.
+    Réchauffer la sauce à feu très doux puis la mélanger au riz.
+    Bon appétit !
+    Excellent en plat principal et prend très peu de temps. Mes enfants adorent !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38017">
+  <titre>Muffins double chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de chocolat noir dessert</p>
+    <p>50 g de pépites de chocolat</p>
+    <p>250 g de farine</p>
+    <p>1/2 sachet de levure</p>
+    <p>100 grammes de sucre</p>
+    <p>25 cl de lait (un grand verre)</p>
+    <p>50 g de beurre</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C.
+    Mélanger la farine, la levure et le sucre. Ajouter le lait, le beurre fondu et les oeufs.
+    Faire fondre le chocolat au bain-marie et l'intégrer au mélange.
+    Ajouter en dernier lieu les pépites de chocolat.
+    Remplir des moules à muffins de cette préparation et mettre au four pendant 20 minutes environ.
+    On peut remplacer les pépites par des noisettes ou des amandes. Cette recette se décline aisément selon les goûts.
+  ]]>
+  </preparation>
+</recette>

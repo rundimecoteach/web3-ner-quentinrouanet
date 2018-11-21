@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230214">
+  <titre>Velouté de poireaux à l'orange et crevettes grises</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de poireaux nettoyés</p>
+    <p>250 g de pommes de terre</p>
+    <p>60 cl d'eau</p>
+    <p>40 cl de lait entier</p>
+    <p>2 cubes de bouillon de volaille (dégraissé)</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de zeste d'orange râpé</p>
+    <p>100 g de crevettes grises décortiquées</p>
+    <p>1 pincée de sel </p>
+    <p>1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les poireaux.
+    Éplucher les pommes de terre et les couper en cubes.
+    Dans une cocotte, faire revenir les poireaux durant 2 minutes à feu modéré avec l'huile d'olive.
+    Émietter les 2 cubes de bouillon.
+    Dans la cocotte contenant les poireaux, ajouter les pommes de terre en cubes, l'eau, le lait et les cubes de bouillon émiettés.
+    Porter à ébullition et laisser mijoter à feu doux pendant 20 min.
+    Après un repos de 5 min, ajouter le zeste d'orange. Mixer le tout.
+    Rectifier l'assaisonnement.
+    Servir bien chaud dans une assiette en garnissant avec les crevettes grises.
+    Une préparation chaude se sert sur une assiette chaude.
+    Bonne cuisine et bon appétit.
+    Selon vos désirs, vous pouvez parfumer cette soupe avec un peu de curry.
+  ]]>
+  </preparation>
+</recette>

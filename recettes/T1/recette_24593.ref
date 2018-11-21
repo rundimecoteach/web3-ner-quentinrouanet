@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24593">
+  <titre>Raie en sauce aux airelles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de raie</p>
+    <p>1 sachet de court-bouillon</p>
+    <p>2 fenouils</p>
+    <p>250 g d'airelles</p>
+    <p>1 cuillère à soupe de vinaigre de framboise</p>
+    <p>2 cuillères à soupé d'aneth</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les airelles et y ajouter le vinaigre. Poivrer et faire réduire dans une casserole à feu moyen pendant 15 min.
+    Faire chauffer le court-bouillon et y plonger la raie pendant 10 min.
+    Ôter la peau, recouvrir de fenouil cuits à la vapeur pendant 10 min et d'airelles. Assaisonner, verser le jus des champignons et saupoudrer d'aneth.
+  ]]>
+  </preparation>
+</recette>

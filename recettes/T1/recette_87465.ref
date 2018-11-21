@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87465">
+  <titre>Flan portugais simple (pudim)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>7 œufs- 50 cl de lait- 7 cuillères à soupe de sucre- caramel liquide (doser selon les goûts)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Mélanger les 7 œufs.
+    Rajouter les 7 cuillères à soupe de sucre.
+    Ajouter peu à peu le lait et mélanger.
+    Mettre du caramel liquide dans un plat allant au four.
+    Mettre ensuite le mélange œuf/lait/sucre dans ce plat.
+    Mettre le plat dans un bain-marie et enfourner.
+    Cuire pendant 1 h.
+  ]]>
+  </preparation>
+</recette>

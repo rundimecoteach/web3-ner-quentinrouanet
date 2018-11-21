@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229821">
+  <titre>Quiche aux courgettes et olives noires</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>500 g de courgettes</p>
+    <p>50 g d'olives noires dénoyautées</p>
+    <p>100 g de fromage blanc</p>
+    <p>3 œufs</p>
+    <p>60 g de gruyère râpé</p>
+    <p>40 g de parmesan</p>
+    <p>1 cuillère à soupe de pulpe de tomate</p>
+    <p>2 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>sel, poivre, origan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C (thermostat 6).
+    Lavez les courgettes et coupez-les finement. Coupez les olives en lamelles. Epluchez l'ail et l'oignon puis hachez-les finement.
+    Mélangez le fromage blanc avec les oeufs, le fromage et la pulpe de tomate.
+    Ajoutez les courgettes, les olives, l'ail et l'oignon. Mélangez-bien. Salez, poivrez, ajoutez l'origan.
+    Déroulez la pâte et garnissez-en le moule, formez un bord d'environ 3 cm.
+    Disposez-y le mélange aux courgettes et enfournez pendant 50 min.
+    Dégustez tiède, avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

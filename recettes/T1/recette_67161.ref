@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67161">
+  <titre>Soupe au lait et vermicelles</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1l de lait demi écrémé</p>
+    <p>400 g de vermicelles (cheveux d'ange)</p>
+    <p>20 g de beurre</p>
+    <p>un cube de bouillon</p>
+    <p>1 gousse d'ail</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le beurre à fondre dans une casserole (avec un peu d'huile pour que ça ne brûle pas), faire devenir les vermicelles jusqu'à ce qu'ils aient une jolie couleur brune.
+    Ajouter alors le lait avec un peu d'ail émincé, le cube de bouillon et le sel. La soupe sera prête lorsque les vermicelles seront cuits.
+    C'est une recette de ma mémé, elle me rappelle mon enfance.
+  ]]>
+  </preparation>
+</recette>

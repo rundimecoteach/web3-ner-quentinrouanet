@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82758">
+  <titre>Dinde à l'américaine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 blancs de dinde</p>
+    <p>50 cl de crème fraîche</p>
+    <p>25 cl de vin blanc</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>4 cuillères à soupe de cumin</p>
+    <p>4 cuillères à soupe de gingembre</p>
+    <p>4 cuillères à soupe de curry</p>
+    <p>4 cuillères à soupe de curcuma</p>
+    <p>1 boîte de petites crevettes roses</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les blancs de dinde en carré et les faire dorer dans de l'huile.
+    Une fois dorés, mettre de côté les blancs dans une assiette et faire revenir les poivrons découpés en dés dans l'huile du poulet.
+    Une fois dorés, mettre de côté les poivrons.
+    Pendant ce temps, mélanger dans une terrine la crème fraîche avec 4 cuillères à soupe de chaque épice (voir un peu plus) jusqu'à obtenir un mélange jaune/orangé.
+    Ajouter les poivrons cuits au mélange et mixer le tout.
+    Remettre la dinde et le mélange dans la sauteuse et y ajouter les crevettes et le vin blanc.
+    Laisser mijoter à feu doux.
+    A manger accompagné de riz blanc. Blanc
+  ]]>
+  </preparation>
+</recette>

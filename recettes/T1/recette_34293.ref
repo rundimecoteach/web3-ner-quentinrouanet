@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34293">
+  <titre>Bagels aux poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pains bagels achetés surgelé ou faits maison (voir cette bonne recette de bagel)</p>
+    <p>1 bocal de poivrons rouges</p>
+    <p>60 g de fromage frais ail et fines herbes (type Boursin ou Tartare) </p>
+    <p>4 anchois marinés à l'huile</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Trancher les bagels dans leur épaisseur. 
+    Etaler le fromage sur les 2 faces. 
+    Garnir d'un poivron entier (égoutté bien sûr). Poivrer légèrement. 
+    Disposer 2 anchois. 
+    ET...REFERMER !
+    Pratique pour emporter, ça change du sandwich traditionnel et c'est très frais.
+  ]]>
+  </preparation>
+</recette>

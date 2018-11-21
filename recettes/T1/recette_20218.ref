@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20218">
+  <titre>Poulet à l'orientale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de poulet</p>
+    <p>un chorizo de 250 g</p>
+    <p>4 merguez</p>
+    <p>2 gros oignons</p>
+    <p>1 grosse boîte de tomates pelées</p>
+    <p>1 boîte de pois chiches</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>huile, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand faitout, faire rissoler les oignons émincés dans de l'huile. 
+    Y faire dorer ensuite les blancs de poulet quelques minutes. Les retirer. 
+    A la place, faire revenir le chorizo coupé en rondelles et les merguez. Retirer les merguez. 
+    Ajouter alors le vin blanc, les tomates, les pois chiches et remettre le poulet. 
+    Laisser mijoter 30 mn à feu moyen. 
+    Remettre alors les merguez et laisser encore mijoter 10 mn. 
+    Servir avec de la semoule de couscous chaude.
+     rosé
+  ]]>
+  </preparation>
+</recette>

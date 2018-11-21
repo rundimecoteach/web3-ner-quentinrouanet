@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26306">
+  <titre>Poivron farci à l'oeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poivron jaune</p>
+    <p>1 oeuf pas trop gros</p>
+    <p>coulis de tomates</p>
+    <p>environ 20 g de brocolis</p>
+    <p>basilic</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+    <p>1 gousse d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le chapeau du poivron, le couper en lamelles. 
+    Verser une petite cuillère d'huile d'olive dans le fond du opivron, puis une gousse d'ail écrasée, et basilic. 
+    Mettre le poivron à cuire environ 30 mn, jusqu'à ce qu'il soit mou. 
+    Pendant ce temps, cuire les brocolis. 
+    Faire revenir à l'huile d'olive les brocolis et les lamelles de poivron. 
+    Ajouter cette poêlée au coulis de tomates. 
+    Quand le poivron est cuit, verser dans le fond un peu de la préparation tomates-brocolis-poivron, en laissant de la place pour l'oeuf, saler, poivrer. 
+    Casser l'oeuf par dessus, puis remettre au four environ 20 mn, jusqu'à ce que le blanc soit pris. 
+    Servir en versant le reste de la préparation autour du poivron.
+  ]]>
+  </preparation>
+</recette>

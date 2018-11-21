@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54992">
+  <titre>Bricks au fromage et au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>4 portions de vache qui rit (fromage fondu)</p>
+    <p>1 tomate</p>
+    <p>1 oignon</p>
+    <p>1 boîte de miettes de thon (200g)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre une feuille de brick, poser au milieu une portion de vache qui rit puis superposer dessus une fine tranche de tomate, une fine tranche d'oignon et du thon.
+    Rabattre les côtés de manière à former un carré.
+    Pour la cuisson, les faire frire dans de l'huile à feu modéré pour ne pas brûler la feuille avant la cuisson de l'oignon et la tomate.
+    Les brick sont cuites lorsque la feuille devient dorée.
+    Pour une cuisson moins grasse, vous pouvez les mettre au four à 125°C (thermostat 4-5).
+    La vache qui rit peut être remplacée par du chèvre ou de la mozzarella.
+  ]]>
+  </preparation>
+</recette>

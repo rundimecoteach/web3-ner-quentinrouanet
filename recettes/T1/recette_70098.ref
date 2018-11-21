@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70098">
+  <titre>Gâteau au yaourt à la noix de coco râpée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt à la noix de coco</p>
+    <p>2 pots de farine</p>
+    <p>1 pot de noix de coco râpée</p>
+    <p>2 pot de sucre</p>
+    <p>1/2 pot d'huile</p>
+    <p>3 oeufs entiers</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 sachet de levure</p>
+    <p>1 cuillère à soupe de rhum (ou fleur d'oranger)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients, dans l'ordre, dans un saladier. Verser la préparation dans un moule à gâteau préalable beurré ou huilé.
+    Mettre au four à 170°C (thermostat 5-6) pendant 25 minutes environ.
+    Pour savoir s'il est cuit, planter un une lame de couteau dans le gâteau.
+    Vous pouvez faire la même recette en remplaçant par un yaourt nature et 1 pot de yaourt de poudre d'amandes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52704">
+  <titre>Tarte aux tomates confites et chèvre frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>7 belles tomates</p>
+    <p>1 fromage de chèvre frais</p>
+    <p>1 gousse d'ail</p>
+    <p>herbes de Provence</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+    <p>quelques filets d'anchois</p>
+    <p>1 poignée de gruyère râpé</p>
+    <p>1 salade de mesclun</p>
+    <p>10 tomates cerises</p>
+    <p>2 tranches de jambon cru</p>
+    <p>1 petite poignée de pignons de pins grillés</p>
+    <p>copeaux de parmesan</p>
+    <p>sel</p>
+    <p>1/2 gousse d'ail écrasé très finement</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 150°C (thermostat 5).
+    Faire bouillir une grosse casserole d'eau et y plonger les tomates 30 secondes; les refroidir et enlever la peau.
+    Les couper en rondelles (6 rondelles par tomate) et les mettre en une seule couche dans un plat allant au four (il faudra sûrement 2 plats).
+    Les saupoudrer d'herbes de provence, répartir l'ail coupé finement, saler et arroser d'huile d'olive.
+    Placer au four pendant 1 heure.
+    Quand elles sont confites, les laisser un peu refroidir et pendant ce temps garnir un moule à tarte avec la pâte feuilletée. 
+    La piquer à la fourchette, puis répartir les tomates sur cette pâte (garder l'huile et le jus de cuisson). 
+    Faire chauffer le four à 200°C (thermostat 6-7).
+    Emietter le chèvre frais sur les tomates (grossièrement), garnir de quelques filets d'anchois, parsemer d'une poignée de gruyère râpé et répatir l'huile et le jus de cuisson des tomates sur cette tarte.
+    Enfourner pendant 1/2 heure, et déguster chaud !
+    Pendant la cuisson, préparer la salade de mesclun agrémentée de tomates cerises coupées en deux, lamelles de jambon cru, pignons de pins grillés et copeaux de parmesan; le tout assaisonné avec un peu d'ail, du sel, du vinaigre balsamique et de l'huile d'olive.
+  ]]>
+  </preparation>
+</recette>

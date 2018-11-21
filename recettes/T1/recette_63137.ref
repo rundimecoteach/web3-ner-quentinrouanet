@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63137">
+  <titre>Délice de veau au fenouil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de quasi de veau bien dégraissé</p>
+    <p>2 bulbes de fenouil</p>
+    <p>1 oignon</p>
+    <p>2 étoiles de badiane (anis étoilé)</p>
+    <p>10 cl de vin blanc</p>
+    <p>5 cl d'huile d'olive</p>
+    <p>1 cuillère à soupe de pastis</p>
+    <p>sel et poivre du moulin</p>
+    <p>30 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la viande : 
+    Tailler la viande en petits cubes.
+    Peler, émincer et faire fondre l'oignon dans 1 poêle avec la moitié de l'huile d'olive.
+    Ajouter la viande et laisser revenir 5 minutes à feu vif (pour une viande plus dorée, vider l'excès d'eau rendu par le veau à la cuisson).
+    Saler, poivrer et verser le vin blanc, 10 cl d'eau et la badiane.
+    Laisser mijoter 10 minutes à feu moyen.
+    Préparation du fenouil :
+    Nettoyer et émincer le fenouil. Le saisir dans une casserole avec le reste d'huile d'olive.
+    Saler, poivrer, verser le pastis et le reste d'eau.
+    Laisser cuire à couvert 10 minutes à feu moyen.
+    Pour adapter cette recette aux enfants, ne pas mettre le pastis et le vin blanc.
+  ]]>
+  </preparation>
+</recette>

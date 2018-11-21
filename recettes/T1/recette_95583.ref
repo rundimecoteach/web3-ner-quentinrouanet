@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95583">
+  <titre>Gratin de poireau carotte et parmesan</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros poireau</p>
+    <p>3 carottes</p>
+    <p>1 oignon</p>
+    <p>parmesan</p>
+    <p>chèvre frais</p>
+    <p>1L de bouillon de poule</p>
+    <p>un peu de vin blanc</p>
+    <p>beurre</p>
+    <p>-huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°.
+    Couper le poireau et les carottes en rondelles assez fines, garder un peu du vert du poireau de côté. Faîtes les blanchir pendant 20 min dans le bouillon de poule. 
+    Hacher l'oignon. Couper le vert du poireau en petit morceaux. Faîtes revenir l'ensemble avec un peu de beurre et de l'huile d'olive. Lorsque les oignons ont pris une couleur caramel, verser un peu de vin blanc pour déglacer. 
+    Râper le parmesan frais à peu près une grosse poignée. 
+    Mélanger la préparation poireau carotte et oignon. Verser dans un plat à gratin ou des petits ramequins(Vous pouvez rajouter un peu de lait ou de crème liquide à la préparation). Parsemer le chèvre émietté et le parmesan. Enfourner 20-25 min à 210°. Servez chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223544">
+  <titre>Crevettes aux tagliatelles et au safran</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de crevettes</p>
+    <p>400 g de tagliatelles</p>
+    <p>40 cl de crème liquide</p>
+    <p>1 dose de safran</p>
+    <p>1 poivron rouge</p>
+    <p>1 oignon</p>
+    <p>3 ou 4 gousses d'ail</p>
+    <p>champignons noirs séchés</p>
+    <p>calvados</p>
+    <p>sel </p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer l'oignon et l'ail. Décortiquer les crevettes.
+    Couper le poivron en brunoise.
+    Dans une poêle ou une sauteuse, faire revenir l'oignon et l'ail avec un peu d'huile d'olive, ajouter les crevettes, les faire dorer, flamber au calvados. Ajouter le poivron couper.
+    Pendant la cuisson des poivrons, faire cuire les tagliatelles comme indiqué sur le paquet.
+    Ajouter les champignons noirs à la préparation (préparés à l'eau pour les faire gonfler et les couper grossièrement), parsemer de la dose de safran, ajouter la crème liquide, le sel et le poivre.
+    Laisser réduire un peu.
+    Ajouter la préparation aux tagliatelles.C'est prêt.
+  ]]>
+  </preparation>
+</recette>

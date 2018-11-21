@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25908">
+  <titre>Maquereaux grillés au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 maquereaux écaillés et vidés</p>
+    <p>32 tranches fines de poitrine fumée</p>
+    <p>5 tranches de bacon</p>
+    <p>4 cuillerées à soupe de moutarde</p>
+    <p>15 cl de crème fraîche</p>
+    <p>5 cl de vin blanc</p>
+    <p>1 cuillères à soupe d'huile d'olive</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer 3 cuillères à soupe de moutarde avec l'huile d'olive.
+    Badigeonner les maquereaux de la préparation, puis les enrouler dans 4 tranches de lard chacun. Les poser dans un plat allant au four.
+    Saupoudrer d'herbe de Provence et faire griller environ 8 minutes sous le grill du four ou au barbecue.
+    Mixer le bacon, le mélanger avec la crème fraîche. Faire chauffer à feu doux, poivrer un peu et rajouter la moutarde.
+    Servir les maquereaux grillés avec la sauce bacon-moutarde.
+    Accompagner d'une salade aux tomates et aux oignons.
+  ]]>
+  </preparation>
+</recette>

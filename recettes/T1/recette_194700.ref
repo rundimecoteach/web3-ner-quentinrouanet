@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194700">
+  <titre>Moelleux exotiques</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt</p>
+    <p>3 œufs</p>
+    <p>2 jaunes d’œufs </p>
+    <p>2 pots de yaourt de sucre</p>
+    <p>1 pot de yaourt de cassonade</p>
+    <p>3 pots de yaourt de farine</p>
+    <p>1 pot de yaourt d'huile</p>
+    <p>1 sachet de levure chimique</p>
+    <p>20 cl de lait de coco</p>
+    <p>20 cl de crème fraiche</p>
+    <p>50 g de sucre</p>
+    <p>4 cuillères à café de Maïzena</p>
+    <p>1 ananas</p>
+    <p>40 g de beurre</p>
+    <p>3 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Mélanger le yaourt avec les 3 œufs entiers, 1 pot de sucre et la cassonade. Ajouter ensuite, la farine, la levure et l'huile.
+    Verser dans des petits ramequins individuels beurrés et enfourner pour 20 minutes de cuisson. Pendant ce temps, chauffer le lait de coco avec la crème. Battre les jaunes d’œufs, la maïzena et la moitié du pot de sucre restant. Verser le lait bouillant sur le mélange. Remettre sur le feu jusqu'à nappage de la cuillère. Laisser refroidir.
+    Peler l'ananas, le couper en dés en retirant la partie centrale.
+    Juste avant de servir. Réaliser un caramel, puis ajouter le beurre et l'ananas (attention aux projections de caramel bouillant). Laisser l'ananas chauffer et s'imprégner de caramel.Découper les petits gâteaux au yaourt en deux et les fourrer de crème coco froide. Les servir avec l'ananas chaud caramélisé.
+    Bonne dégustation
+  ]]>
+  </preparation>
+</recette>

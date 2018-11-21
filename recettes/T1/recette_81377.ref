@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81377">
+  <titre>Tarte au vin de Chamoson</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à gâteau (brisée ou feuilletée ou sucrée)</p>
+    <p>20 cl de vin Johanisberg</p>
+    <p>un oeuf (petit)</p>
+    <p>une tasse de sucre brun (sucre de canne brut)</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à café de fécule de maïs (bien remplies)</p>
+    <p>1 cuillère à café de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Abaisser la pâte, piquer le fond et laisser des bords assez grands.
+    Mélanger le vin, la fécule et l'oeuf.
+    Ajouter le sucre brun et fouetter (pour que le sucre se dissolve un peu).
+    Faire fondre le beurre et l'ajouter.
+    Verser la liaison sur la pâte.
+    Enfourner 25 min à 220°C (thermostat 7) (à surveiller selon votre four).
+    Vous pouvez remplacer le Johanisberg par du vin rouge ou du rosé.Si le diamètre de votre plaque à gâteau avoisine les 30 cm, vous pouvez mettre 30 cl de vin et 3 cuillères à café de fécule.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80033">
+  <titre>Gâteau au yaourt pour petit allergique (au lait de vache)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de yaourt au soja</p>
+    <p>1/2 pot d'huile</p>
+    <p>2 pots de sucre</p>
+    <p>2 pots de farine</p>
+    <p>1 pot de maïzena</p>
+    <p>2 oeufs</p>
+    <p>1 sachet de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients. Je le fais au mixer, c'est très rapide.
+    Verser la pâte dans un moule à gâteau huilé.
+    Faire cuire à 180°, thermostat 6, pendant 30 min.
+    On peut ajouter des fruits à la pâte, ou garnir de confiture une fois le gâteau cuit.
+  ]]>
+  </preparation>
+</recette>

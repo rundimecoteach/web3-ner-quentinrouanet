@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41246">
+  <titre>Escalopes de poulet gratinées à l'oignon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 escalopes de poulet</p>
+    <p>4 fines tranches de jambon cru</p>
+    <p>1 oignon</p>
+    <p>5 cl de crème fraîche</p>
+    <p>emmental rappé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement un oignon et faire réduire celui-ci dans une noix de beurre à feu doux. Une fois les oignons réduits, ajouter la crème fraîche dans la poêle, saler et poivrer et laisser le tout à feu doux jusqu'à obtenir un ensemble homogène.
+    Pendant ce temps, faires cuire les escalopes de poulet dans une poêle à feu doux. 
+    Puis, dans un plat à gratins, placer dans l'ordre : escalopes, jambon cru, crème d'oignon et quelques pincées de fromage rapé. 
+    Saler et poivrer puis faire gratiner le tout au four à 210°C (thermostat 7) pendant 5 minutes.
+    Servir bien chaud.
+     vin blanc sec, type Muscadet
+  ]]>
+  </preparation>
+</recette>

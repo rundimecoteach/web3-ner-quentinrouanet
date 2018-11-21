@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18732">
+  <titre>Pâte pour tartes hyper facile et INRATABLE</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 cuillères à soupe de farine</p>
+    <p>10 cuillères à soupe de sucre fin</p>
+    <p>6 cuillères à soupe de lait</p>
+    <p>2 cuillères à soupe huile</p>
+    <p>2 oeufs</p>
+    <p>1 pincée de levure</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients. Tapisser le moule de cette pâte. Ajouter les fruits souhaités (pommes, poires, prunes, abricots...etc). 
+    Cuire au four temp 200°C pendant +/- 40 mn.
+    Recette idéale quand on manque de temps et/ou de savoir-faire
+  ]]>
+  </preparation>
+</recette>

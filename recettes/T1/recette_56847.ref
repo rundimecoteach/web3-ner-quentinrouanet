@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56847">
+  <titre>Boeuf sauté au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de rumsteack (ou autre pièce de boeuf)</p>
+    <p>6 cuillères à soupe d'huile d'arachide</p>
+    <p>20 feuilles de basilic dont 10 hachées</p>
+    <p>2 cuillères à soupe de nuoc mam</p>
+    <p>1 cuillère à café de sucre brun </p>
+    <p>1 à 2 piments rouges frais coupés en fines rondelles</p>
+    <p>3 gousses d'ail hachées</p>
+    <p>1 cuillère café de gingembre frais haché</p>
+    <p>jus de citron</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer l'huile dans un wok.
+    Lorsqu'elle est est chaude faire rissoler les feuilles de basilic entières pendant une minute environ, jusqu'à ce qu'elles soient dorées et croustillantes.
+    Les égoutter sur papier absorbant retirer le wok du feu et laisser dans celui-ci l'équivalent de deux cuillères à soupe d'huile.
+    Découper le rumsteack en fines lamelles.
+    Dans un bol, mélanger la sauce nuoc mam et le sucre.
+    Incorporer le boeuf au mélange, bien mélanger et laisser mariner environ une demi-heure.
+    Réchauffer le wok, faire revenir le piment l'ail le gingembre et l'ail.
+    Ajouter le boeuf, le basilic haché et laisser cuire environ 3 à 5 minutes.
+    Assaisonner avec du jus de citron sel poivre.
+    Servir avec en déco les feuilles de basilic dorées.
+  ]]>
+  </preparation>
+</recette>

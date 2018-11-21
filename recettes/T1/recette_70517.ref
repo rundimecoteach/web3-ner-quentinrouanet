@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70517">
+  <titre>Crêpes légères sans lactose</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150g de farine</p>
+    <p>75g de maïzena</p>
+    <p>1/2 litre de lait de coco</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe d'eau de vie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, versez le lait puis la moitié de la farine et de la maizena.
+    Remuez ou mixez.
+    Versez le restant de farine et de maizena.
+    Remuez.
+    Ajoutez les oeufs, l'eau-de-vie.
+    Remuez et laissez reposez une heure au moins.
+    Il devrait y avoir plus de recettes pour les allergiques.
+  ]]>
+  </preparation>
+</recette>

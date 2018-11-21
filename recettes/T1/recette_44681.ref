@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44681">
+  <titre>Escalopes de poulet savoyardes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 escalopes de poulet</p>
+    <p>200 g de tomme de Savoie</p>
+    <p>1 pot de 400 g de sauce tomate nature</p>
+    <p>100 ml de vin blanc sec</p>
+    <p>huile olive</p>
+    <p>sel et poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les escalopes dans une poêle, pendant 10 min, dans de l'huile d'olive, avec 1 cuillère à soupe d'herbes de Provence.
+    Ajouter le vin blanc sur les escalopes, et laisser frémir 1 min.
+    Disposer le tout dans un plat à gratin.
+    Ajouter le pot de sauce tomates, et disposer des lamelles de tomme assez épaisses.
+    Enfourner à th 6 - 180°C, pendant 20 min environ.
+    Servir, dès la sortie du four, avec des pommes de terre sautées.
+    Vous pouvez remplacer la tomme par du reblochon, ou du beaufort. gamay rouge
+  ]]>
+  </preparation>
+</recette>

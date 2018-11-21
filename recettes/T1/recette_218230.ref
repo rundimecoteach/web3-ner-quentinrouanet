@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218230">
+  <titre>Potage aux courgettes jaunes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes jaunes</p>
+    <p>3 oignons</p>
+    <p>3 éclats d'ail (sans le germe)</p>
+    <p>1 poivron rouge</p>
+    <p>2 ou 3 carottes selon grosseur</p>
+    <p>2 litres d'eau</p>
+    <p>2 cubes de bouillon de légumes</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à soupe de curcuma</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons émincés et les éclats d'ail dans l'huile d'olive.
+    Ajouter les dés de courgettes, les carottes émincées et le poivron pelé et épépiné. Faire suer 5 minutes.
+    Ajouter les 2 litres d'eau avec les cubes de bouillon.
+    Saler, poivrer, ajouter  le curcuma.
+    Faire cuire 20 minutes. Mixer.
+    Rectifier l'assaisonnement si nécessaire.
+  ]]>
+  </preparation>
+</recette>

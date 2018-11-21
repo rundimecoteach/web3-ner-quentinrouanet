@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81474">
+  <titre>Quiche sans pâte, tomates-chorizo</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine </p>
+    <p>3 oeufs </p>
+    <p>1/2 litre de lait </p>
+    <p>100 g de fromage râpé </p>
+    <p>un demi-chorizo doux </p>
+    <p>10 tomates cerise</p>
+    <p>100 g de cube de jambon </p>
+    <p>100 g de lardons fumés</p>
+    <p>sel </p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine avec les trois oeufs, ajouter le lait, saler et poivrer légèrement. 
+    Dans un moule à tarte, disposer le jambon, les lardons, le chorizo coupé en rondelles, les tomates coupées en deux. 
+    Verser dessus la préparation aux oeufs, et recouvrir avec le fromage rapé. 
+    Enfourner dans un four préchauffé à 200°C (thermostat 6-7) pendant environ 30 min.
+  ]]>
+  </preparation>
+</recette>

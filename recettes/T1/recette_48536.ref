@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48536">
+  <titre>Papillotes de truite saumonée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 filets de truite saumonée</p>
+    <p>4 tomates</p>
+    <p>2 échalotes</p>
+    <p>sel, poivre</p>
+    <p>basilic déshydraté</p>
+    <p>crème fraîche liquide</p>
+    <p>huile d'olive</p>
+    <p>papier aluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillanter brièvement les tomates pour pouvoir les peler.
+    Sur une feuille de papier aluminium, verser un peu d'huile d'olive.
+    Poser 2 tomates pelées et découpées en petits morceaux par papillote.
+    Poser par dessus un filet de truite.
+    Saler, poivrer.
+    Parsemer d'une échalote finement hachée par papillote, et du basilic.
+    Ajouter un filet de crème fraîche liquide.
+    Fermer la papillote.
+    Enfourner le tout pendant 40 minutes à 160°C (thermostat 5/6).
+    Pour le temps de cuisson, j'ai mentionné 40 min mais tout dépend de la puissance de votre four... avec le mien, c'est plutôt une bonne heure à 250°C.Vous pouvez également varier le poisson utilisé.
+  ]]>
+  </preparation>
+</recette>

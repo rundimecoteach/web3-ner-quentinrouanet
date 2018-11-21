@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49583">
+  <titre>Tarte aux poires ganache au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte sablée de 230g</p>
+    <p>1 grande boîte de poires au sirop</p>
+    <p>180 g de chocolat dessert à 52% de cacao minimum</p>
+    <p>15 cl de crème fraîche liquide</p>
+    <p>3 cuillères à soupe de Bailey's (crème de whisky)</p>
+    <p>2 cuillères à soupe du sirop des poires</p>
+    <p>amandes effilées ou noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Etaler la pâte et faire cuire 15 min environ recouverte de papier sulfurisé et de légumes secs. 
+    Puis enlever le papier et laisser encore cuire 4-5 min pour que la pâte dore légèrement.
+    Laisser refroidir.
+    Pendant ce temps, faire chauffer le chocolat dans la crème, puis ajouter le Bailey's et le sirop de poire. 
+    Lorsque le fond de tarte a tiédi, y verser la préparation au chocolat.
+    Laisser refroidir, puis mettre minimum 3h au réfrigirateur.
+    Lorsque la crème au chocolat a durci, disposer sur la tarte les tranches de poires découpées en lamelles.
+    Faire griller à sec 3 cuillères à soupe d'amandes effilées, les disposer sur la tarte et remettre au frais jusqu'au moment de servir.
+     Je conseillerais plutôt un poiré bien frais
+  ]]>
+  </preparation>
+</recette>

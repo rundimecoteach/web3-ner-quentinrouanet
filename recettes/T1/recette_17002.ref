@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17002">
+  <titre>Crème brûlée au thé</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 cl de crème liquide</p>
+    <p>5 jaunes d'oeufs</p>
+    <p>20 cl de lait entier</p>
+    <p>90 g de sucre semoule</p>
+    <p>4 cuillères à café de sucre roux</p>
+    <p>2 cuillères à café de thé Earl Grey</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 6 (180°C).
+    Porter le lait à ébullition. Y ajouter le thé. Remuez, couvrez et le laisser infuser 5 mn hors du feu.
+    Passer le lait au chinois fin. Verser les jaunes d'oeufs dans un saladier. Puis, à l'aide de batteurs électriques vitesse moyenne, fouetter les jaunes d'oeufs avec le sucre semoule versé en pluie jusqu'à ce que le mélange pâlisse. Y incorporer alors lait et la crème.
+    Passer la crème au chinois fin. La répartir dans 4 ramequins. Laisser refroidir.
+    Faire cuire 1 heure à four moyen: la crème doit être prise à coeur, mais rester tremblante lorsqu'on secoue les ramequins. Laisser refroir. 
+    Couvrir les ramequins de film plastique. Les réserver 12 heures au réfrigérateur.
+    Au moment de servir, saupoudrer le dessus des crèmes de sucre roux et les passer sous le gril du four très chaud, le temps de faire fondre et caraméliser la couche de sucre.
+    Réserver les ramequins 10 mn pour faire durcir le caramel.
+    [NDchef : on peut varier en prenant une autre variété de thé que l'Earl Grey. Jasmin, vanille, orange...]
+  ]]>
+  </preparation>
+</recette>

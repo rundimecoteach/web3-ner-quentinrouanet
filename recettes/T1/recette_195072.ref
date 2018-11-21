@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195072">
+  <titre>Macarons violette et chocolat blanc</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour les coques :- 2 blancs d'œufs</p>
+    <p>60 g d'amandes en poudre</p>
+    <p>110 g de sucre glace</p>
+    <p>20 g de sucre en poudre</p>
+    <p>colorant alimentaire violet</p>
+    <p>Pour le Ganache:- 100 g de chocolat blanc</p>
+    <p>2 cuillerées à soupe de crème liquide</p>
+    <p>1 cuillerées à café d’arôme violette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le veille, cassez les œufs et réservez les blancs au frais.
+    Le lendemain, préparez la ganache : faites fondre le chocolat blanc doucement avec la crème liquide, au bain-marie. Hors du feu, versez l’arôme violette et réservez au frais.
+    Préchauffez le four à 150°C (thermostat 5).Ensuite préparez les coques. Versez les amandes en poudre et le sucre glace dans le mixeur et mixer. Tamisez le mélange d'amandes en poudre et de sucre glace directement sur la plaque du four. Enfournez la plaque de 5 à 7 minutes, puis sortez-là du four et laissez refroidir.
+    Dans un saladier, fouettez les blancs en neige à l'aide d'un batteur électrique. Lorsque les blancs commencent à être fermes, ajoutez le sucre en poudre petit à petit, tout en continuant à battre. Puis ajoutez le colorant violet. Lissez bien la préparation. Tamisez ensuite le mélange amandes/sucre glace sur les blancs battus. Mélangez l'ensemble.
+    Garnissez la poche à douille et dressez environ 30 petites boules sur du papier sulfurisé posé sur la plaque du four. Laisser les macarons dans un endroit sec 1 heure au moins afin qu'ils croûtent.
+    Enfournez-les 10 à 12 min à 150°C (thermostat 5). A la sortie du four laissez couler un filet d'eau entre la papier et la plaque pour que les coques se décollent.
+    Garnissez la moitié des coques avec la ganache et assemblez ensuite les macarons. Réservez-les au frais environ 1h avant de les déguster.
+  ]]>
+  </preparation>
+</recette>

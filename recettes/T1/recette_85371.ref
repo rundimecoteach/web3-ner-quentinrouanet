@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85371">
+  <titre>Poulet à la catalane</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux, sans la peau (environ 1,5 kg)- 2 poivrons (rouges, verts ou jaunes)- 500 g de tomates pelées au jus- 1 citron- 1 oignon- 1 cuillère à café d'ail écrasé- Sel- Poivre - 3 cuillères à soupe d'huile d'olive- 10 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Épépiner, enlever les filaments et couper les poivrons en fines lanières.
+    Presser le jus d'un citron.
+    Mixer les tomates pelées.
+    Dans une marmite, faire chauffer l'huile, puis ajouter les morceaux de poulet.
+    Les faire dorer sur toutes les faces.
+    Ajouter l'oignon, l'ail, les poivrons, le sel et le poivre.
+    Mélanger et laisser mijoter pendant 10 min à feu moyen.
+    Ajouter les tomates moulues ainsi que les 10 cl d'eau.
+    Laisser mijoter pendant 30 min.Le poivre est indispensable, mais à mettre avec parcimonie, plus ou moins, en fonction des goûts de chacun.
+  ]]>
+  </preparation>
+</recette>

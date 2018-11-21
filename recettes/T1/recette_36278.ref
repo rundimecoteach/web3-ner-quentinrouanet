@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36278">
+  <titre>Gratin d'anchois au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg d'anchois</p>
+    <p>3 citrons</p>
+    <p>4 feuilles de laurier</p>
+    <p>100 g de chapelure</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet de persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les têtes et retirer les arêtes des anchois en les mettant à plat. Huiler un plat allant au four.
+    Couper les citrons en tranches aussi fines que possible. Ranger les anchois dans le plat en alternant poissons, rondelles de citron, et feuilles de laurier. 
+    Hacher finement le persil, mélanger à la chapelure. Saler et poivrer. Soupoudrer le plat avec ce mélange. Arroser d'un filet d'huile. 
+    Cuire 10 minutes au four à 240°C (thermostat 8)
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14576">
+  <titre>Tourment d'amour (Guadeloupe)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de pâte brisée </p>
+    <p>250 g de sucre de canne roux </p>
+    <p>250 g de farine</p>
+    <p>50 g cl de crème pâtissière</p>
+    <p>6 oeufs Pour la confiture de coco :</p>
+    <p>1 noix de coco (ou un sachet de noix de coco râpée) </p>
+    <p>200 g de sucre de canne roux </p>
+    <p>1 gousse de vanille </p>
+    <p>1 citron vert </p>
+    <p>1 gousse de vanille </p>
+    <p>cannelle moulue</p>
+    <p>noix muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la confiture de coco : casser la noix de coco et récupérer la pulpe. La râper.
+    Porter à ébullition 50cl d'eau, avec la pulpe de coco, la gousse de vanille fendue et grattée le zeste de citron râpé, une pincée de cannelle et de noix muscade.
+    Bien mélanger. Laisser cuire 30 mn environ,en tournant fréquemment. Puis enlever du feu et laisser refoidir (on peut utiliser directemenet le sachet de noix de coco de râpée).
+    Foncer un moule à tarte à bord haut avec la pâte brisée. Piquer le fond avec une fourchette.
+    Mélanger la confiture de coco refroidie et la crème pâtissière. Verser sur le fond de tarte cru.
+    Battre les oeuf entiers avec le sucre. Quand l'ensemble est bien mousseux, incorporer avec précaution la farine à l'aide d'une spatule en bois.
+    Ajouter cette préparation dans le moule.
+    Cuire à four moyen (160°C, thermostat 5-6)pendant 45 mn.
+  ]]>
+  </preparation>
+</recette>

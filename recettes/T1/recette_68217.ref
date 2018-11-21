@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68217">
+  <titre>Gâteau antillais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>200 g de sucre</p>
+    <p>200 g  de farine</p>
+    <p>1 sachet de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>cannelle, zeste de citron</p>
+    <p>1 boite de lait de coco</p>
+    <p>1 boite de lait concentré sucré</p>
+    <p>4 cuillères à soupe de Maïzena</p>
+    <p>noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Travailler le sucre avec les oeufs entiers jusqu'à faire mousser. 
+    Ajouter la farine tout doucement. Ajouter la levure, le sucre vanillé, le zeste de citron , la cannelle. Faire cuire au four 25 minutes.
+    Pendant ce temps, faire chauffer le lait de coco et le lait concentré sucré dans une casserole et ajouter la maïzena. Cuire 10 minutes.
+    Couper le gâteau en 2 disques, étaler la moitié de la crème sur le 1er disque. Couvrir avec le 2ème disque. Napper le 2ème disque avec le reste de la crème.
+    Saupoudrer de noix de coco râpée et mettre minimum 1 heure au frais.
+  ]]>
+  </preparation>
+</recette>

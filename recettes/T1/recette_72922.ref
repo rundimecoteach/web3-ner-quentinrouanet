@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72922">
+  <titre>Chèvre chaud aux trois saveurs</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 salade verte ou 1 sachet de salades composées (plus coloré)</p>
+    <p>1 fromage de chèvre</p>
+    <p>1 baguette</p>
+    <p>4 tranches de jambon de Bayonne</p>
+    <p>1 boîte (80 g) de Parmesan en copeaux</p>
+    <p>2 tomates</p>
+    <p>paprika</p>
+    <p>poivre</p>
+    <p>herbes de Provence</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Commencer par découper 12 rondelles de baguette (3 par personne) que vous ferez légèrement griller (à peine dorer) au grille-pain de chaque côté.
+    Découper 12 rondelles de fromage de chèvre. Les disposer sur les tranches de pain.
+    Saupoudrer sur les toasts de chèvre du paprika, du poivre et des herbes de Provence.
+    Les réserver.
+    Répartir un peu de salade dans chaque assiette (la quantité varie selon vos envies).
+    Placer une demi-tomate par personne que vous aurez coupée en rondelles.
+    Découper en petit morceaux les 4 tranches de jambon de Bayonne.
+    En repartir dans chaque assiette.
+    Parsemez de copeaux de Parmesan et de persil.
+    Faire dorer 3 min au four les toasts de chèvre.
+    En disposer 3 par personne.
+    Je sers cette entrée avec une vinaigrette que je fais avec du vinaigre de cidre.
+  ]]>
+  </preparation>
+</recette>

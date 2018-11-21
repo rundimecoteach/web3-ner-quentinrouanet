@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45247">
+  <titre>Filet de porc au Pineau des Charentes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>1 filet mignon (environ 600 g)</p>
+    <p>2,5 dl de Pineau des Charentes (vin blanc)</p>
+    <p>sel et poivre</p>
+    <p>1 pincée de paprika</p>
+    <p>1 pincée de poivre de Cayenne</p>
+    <p>400 g de raisins blancs épépinés ou en boîte (même poids)</p>
+    <p>1 dl de crème fraîche (30%)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Utiliser une grande poêle profonde et munie d'un couvercle.
+    Y faire fondre le beurre.
+    Ajouter le filet de porc, et le laisser colorer sur toutes les faces.
+    Saler et poivrer.
+    Ajouter 1,5 dl de Pineau puis baisser le feu pour le laisser frémir une vingtaine de minutes (avec couvercle).
+    Quand la viande est cuite, la retirer et la tenir au chaud.
+    Ajouter, à feu plus vif, 1 dl de Pineau et laisser réduire quelque peu (sans couvercle).
+    Baisser le feu, incorporer, au fouet, la crème fraîche, le paprika, le poivre de Cayenne et les raisins.
+    Couper le filet mignon en tranches, puis le déposer dans la poêle en le nappant de sauce.
+    Laisser réchauffer et rectifier l'assaisonnement.
+    Ajouter éventuellement un peu d'eau (selon les goûts).
+    Servir avec des croquettes de pommes de terre ou des frites.
+     Saint-Emilion
+  ]]>
+  </preparation>
+</recette>

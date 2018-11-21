@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16827">
+  <titre>Tomates farcies à la brandade</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 belles tomates</p>
+    <p>1 pot de brandade de morue</p>
+    <p>une poignée de basilic</p>
+    <p>sel, poivre, huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper un 'chapeau' dans chaque tomate (garder les chapeaux), les évider à la cuillère, les saupoudrer de sel fin à l'intérieur et les retourner sur un papier absorbant. Pendant qu'elles s'égouttent, faire réduire la chair dans une casserole avec l'huile d'olive.
+    Quand ça commence à pincer, ajouter la brandade et le basilic haché et mélanger vivement, oter du feu.
+    Disposer les tomates dans un plat allant au four huilé (il faut qu'elles soient bien serrées en tre elles pour ne pas éclater à la cuisson). Les remplir du mélange à la brandade en tassant, recouvrir des chapeaux et mettre au four 15 mn.
+    Attention, laisser reposer un petit moment avant de déguster: c'est chaud dedans!
+  ]]>
+  </preparation>
+</recette>

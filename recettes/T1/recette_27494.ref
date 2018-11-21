@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27494">
+  <titre>Cocotte de légumes nouveaux à l'étouffée</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g d'épinards</p>
+    <p>2 laitues</p>
+    <p>20 carottes </p>
+    <p>10 navets </p>
+    <p>8 pommes de terre </p>
+    <p>5 gros oignons </p>
+    <p>4 fonds d'artichauts</p>
+    <p>1/2 citron</p>
+    <p>150 g de pois mange-tout</p>
+    <p>150 g de haricots verts</p>
+    <p>500 g de petits pois</p>
+    <p>cerfeuil</p>
+    <p>Quelques feuilles de basilic</p>
+    <p>125 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher la laitue en bandes de 2 cm. Beurrer une cocotte avec le beurre et y placer les épinard sur feu fort pendant 5 min. Assaisonner et y mettre la laitue. Couvrir. 
+    Coupez les fonds d'artichauts et les citronner pour éviter qu'ils noircissent. 
+    Saupoudrer les épinards et la salade d'herbes hachées, de sel et de poivre. Ajouter les fonds d'artichauts et le reste des légumes.
+    Couvrir et faire chauffer pendant 5 min à feu moyen et finir la cuisson au four à 210°C (thermostat 7), pendant 25 min. Egoutter les légumes.
+  ]]>
+  </preparation>
+</recette>

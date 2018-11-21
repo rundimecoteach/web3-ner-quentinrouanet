@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16130">
+  <titre>Crevettes au curry</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pommes vertes (Granny-smith ou autres)</p>
+    <p>600 g de crevettes fraîches</p>
+    <p>20 g de beurre</p>
+    <p>50 g de crème fraîche</p>
+    <p>2 à 3 cuillères à soupe de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pommes en carrés. Décortiquer les crevettes entièrement.
+    Faire dorer la moitié des carrés de pommes dans le beurre fondu dans une sauteuse jusqu'à ce qu'ils soient bien fondants. Les retirer et les conserver.
+    Verser la crème fraîche dans la sauteuse, puis ajouter les crevettes, saupoudrer de curry et laisser cuire 10 mn à feu doux tout en remuant constamment (rajouter un peu de crème fraîche si nécessaire).
+    Rajouter la totalité des pommes et remettre sur le feu 2 ou 3 minutes en remuant.
+    Servir sans attendre seul ou accompagné d'un peu de riz basmati.
+    L'association des pommes croquantes et fondantes est importante. Bon appétit! Vin blanc doux
+  ]]>
+  </preparation>
+</recette>

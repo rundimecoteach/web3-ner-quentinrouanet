@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49981">
+  <titre>Sardines marinées aux épices</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 sardines</p>
+    <p>1/2 oignon</p>
+    <p>1 cuillère à soupe de paprika</p>
+    <p>1 cuillère à soupe de cumin</p>
+    <p>1 cuillère à café de gingembre en poudre</p>
+    <p>20 cl d'huile d'olive</p>
+    <p>1 citron</p>
+    <p>coriandre</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laisser la marinade reposer 12 heures. Lever les filets des sardines.
+    Disposer une 1ère couche de filet dans un plat en terre, environ 4 filets.
+    Couvrir avec une partie de l'oignon finement haché, un peu d'huile, puis saupoudrer de paprika et cumin.2ème couche de filets, même opération avec le gingembre en plus.3ème couche, même opération en ajoutant la coriandre et le jus du citron. Saler au fur et à mesure en fonction, mais pas trop de sel.Réserver au réfrigérateur pendant 1 nuit, puis servir sur toasts chauds.En poissonnerie, vous trouverez des filets tout préparés mais plus chers!
+  ]]>
+  </preparation>
+</recette>

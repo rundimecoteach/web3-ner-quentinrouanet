@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12797">
+  <titre>Cuisses de grenouilles à la provencale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 paires de cuisses de grenouilles.</p>
+    <p>3 cuillères à soupe de beurre</p>
+    <p>1 cuillère à soupe d'ail coupé fin</p>
+    <p>2 cuillères à soupe de persil frais coupé</p>
+    <p>1 cuillère a café de thym séché</p>
+    <p>6 asperges</p>
+    <p>3 mini carottes</p>
+    <p>1/2 citron</p>
+    <p>sel et poivre au goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les légumes à la vapeur (cuisson 5 mn).
+    Mettre le beurre a chauffer dans une poèle avec l'ail, le persil, le sel et le poivre. Ajouter les cuisses de grenouilles et les faire griller de chaque côté.
+    A la fin de la cuisson, ajouter le thym séché.
+    Dresser en etoile dans une assiette chaude : entre chaque paire de cuisses, glisser une asperge et 2 mini carottes. Mettre le demi citron au milieu de l'assiette et servir très chaud.
+     Vin Blanc sec, Muscadet sur lie
+  ]]>
+  </preparation>
+</recette>

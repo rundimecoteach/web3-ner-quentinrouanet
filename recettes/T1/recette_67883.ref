@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67883">
+  <titre>Taboulé aux petites seiches</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de semoule moyenne</p>
+    <p>450 g de petites seiches</p>
+    <p>2 tomates</p>
+    <p>1 poivron vert</p>
+    <p>1 citron</p>
+    <p>4 à 6 cuillères à soupe d'huile d'olive</p>
+    <p>ciboulette</p>
+    <p>sel &amp; poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les petites seiches dans une casserole d'eau bouillante salée pendant 20 min.
+    Faire chauffer de l'eau salée pour la semoule, la laisser gonfler 5 min.
+    Pendant ce temps, couper le poivrons et les tomates en dés, presser le jus du citron.
+    Prendre un saladier, mettre la semoule avec 4 à 6 cuillères à soupe d'huile d'olive, mettre les dés de poivron/tomates et les seiches.
+    Ajouter le jus de citron, et mélanger le tout avec la semoule et les brins de ciboulettes, saler et poivrer.
+    On peut rajouter du surimi, du maïs ... vin rosé 
+  ]]>
+  </preparation>
+</recette>

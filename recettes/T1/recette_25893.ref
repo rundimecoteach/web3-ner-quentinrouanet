@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25893">
+  <titre>Papillotes de saumon à la coriandre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tranche de saumon cru</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>2 cuillères à café de jus de citron</p>
+    <p>coriandre fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ustensiles : papier d'aluminium
+    Préchauffer le four thermostat 7/8 (210/240°C). Découper autant de papillotes que de tranches de saumon. Sur chaque feuille de papier alu (face brillante à l’extérieur), déposer la tranche de saumon, saler et poivrer. Ajouter le jus de citron, la crème fraîche et les brins de coriandre. Refermer la papillote bien serrée. Cuire au four entre 10 et 15 mn, en fonction de la taille et de l’épaisseur du saumon.
+  ]]>
+  </preparation>
+</recette>

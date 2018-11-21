@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87005">
+  <titre>Blancs de poulet au chou</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou</p>
+    <p>4 blancs de poulet</p>
+    <p>1 verre d'eau (20 cl)</p>
+    <p>1 cube de fond de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le chou en lanières et le laver.
+    L'ébouillanter dans une grande marmite d'eau chaude et l'égoutter.
+    Pendant ce temps, cuire les blancs de poulet à la poêle.
+    Puis les couper en lanières.
+    Dans une poêle anti-adhésive, mettre la valeur d'un verre d'eau à chauffer, y diluer le cube de fond de volaille avant d'y ajouter le poulet et le chou.
+    Laisser mijoter 5 min et servir.
+    Possibilité d'utiliser un reste de poulet rôti à la place des blancs et d'ajouter des champignons de Paris si on désire un peu plus de légumes.
+  ]]>
+  </preparation>
+</recette>

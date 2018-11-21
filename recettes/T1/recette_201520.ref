@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201520">
+  <titre>Tourte aux épinards, poulet et feta</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>600 g d'épinards (frais de préférence)</p>
+    <p>2 escalopes de poulet, ou des restes de poulet</p>
+    <p>200 g de feta </p>
+    <p>3 œufs</p>
+    <p>3 cuillères à soupe de crème fraîche épaisse</p>
+    <p>poivre</p>
+    <p>huile ou beurre pour faire revenir le poulet</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et équeuter les épinards, les mettre à cuire une dizaine de minutes dans un grand faitout.
+    Couper les escalopes de poulet en petits morceaux et les faire cuire à la poêle dans un peu d'huile ou de beurre.
+    Couper la feta en petits morceaux.
+    Battre dans un bol les 3 œufs, la crème et le poivre. Je ne sale pas car la feta est déjà salée.
+    Préchauffer le four à 200°C (thermostat 7).Mettre une pâte feuilletée dans un moule à tarte.
+    Ajouter les épinards, puis le poulet, la feta et enfin le mélange d'oeufs/crème fraîche. Mettre la deuxième pâte feuilletée en écrasant les bords de la pâte avec celle du dessous. Faire un trou au centre en tournant la pointe d'un couteau.
+    Enfourner pour 20-30 min à 200°C.Bien surveiller car la pâte du dessus peut cuire très vite, auquel cas couvrir avec une feuille d'aluminium et laisser cuire.
+  ]]>
+  </preparation>
+</recette>

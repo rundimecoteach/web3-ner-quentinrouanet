@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175995">
+  <titre>Coquilles mexicaines</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 ou 3 poivrons verts ou rouges</p>
+    <p>3 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>1 boîte de concentré de tomate de 140 g</p>
+    <p>1 petite boîte tomates pelées</p>
+    <p>1 grosse boîte de thon</p>
+    <p>gruyère râpé</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>piment de Cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les poivrons émincés dans l'huile d'olive. Ajouter oignons, ail et faites revenir 10 min.
+    Ajouter les tomates et laisser cuire 10 min.
+    Ajouter le thon émietté, le concentré de tomate, le sel et le poivre, le piment de Cayenne. Mélanger et laisser cuire 20 min.
+    Mettre en coquille ou ramequin et saupoudrer de  gruyère. Ajouter une noix de beurre et passer au four 15 min.
+  ]]>
+  </preparation>
+</recette>

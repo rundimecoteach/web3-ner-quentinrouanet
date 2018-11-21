@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24677">
+  <titre>Curry de viande (méthode khmère)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 cuillères à soupe de curry</p>
+    <p>500 g de viande (poulet, dinde, boeuf ou porc) </p>
+    <p>1 litre de lait de noix de coco</p>
+    <p>400 g de pommes de terre</p>
+    <p>200 g de carottes</p>
+    <p>200 g d'oignons</p>
+    <p>100 g de pettites échalotes écrasées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans une casserole un verre de lait de coco, la préparation curry et les échalotes. Faire revenir l'ensemble pendant environ 10 mn. 
+    Ajouter la viande et laisser cuire jussqu'à l'évaporation du jus. 
+    Ajouter les pommes de terre et les carottes en morceaux et laisser cuire environ 5 mn. 
+    Ajouter le reste du lait de coco et porter à ébullition. Ajouter les oignons (coupés en gros morceaux). 
+    Laisser bouillir pendant environ 20 mn. 
+    Ajouter un peu de sel si nécessaire. 
+    Servir chaud accompagné de riz blanc.
+  ]]>
+  </preparation>
+</recette>

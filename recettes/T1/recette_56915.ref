@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56915">
+  <titre>Chair à saucisse au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une barquette de chair à saucisse</p>
+    <p>un sachet de riz (basmati de préférence)</p>
+    <p>une boîte de champignons de Paris émincés</p>
+    <p>un gros oignon</p>
+    <p>un grand verre de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon.
+    Faire revenir la chair à saucisse dans de l'huile d'olive (pas trop, la chair à saucisse est déjà assez grasse!).
+    Quand la chair à saucisse est bien rôtie, ajouter l'oignon puis mettre le verre de vin blanc et couvrir.
+    Laisser mijoter à feu doux.
+    Pendant ce temps, faire cuire le sachet de riz et égoutter les champignons.
+    Une fois le riz cuit, l'ajouter à la chair à saucisse, et ajouter également les champignons.
+    Saler, poivrer, et éventuellement mettre du persil.
+    L'avantage de cette recette, c'est que c'est un plat unique! N'hésitez pas à rajouter du vin blanc selon les goûts!
+  ]]>
+  </preparation>
+</recette>

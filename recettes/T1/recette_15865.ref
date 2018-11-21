@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15865">
+  <titre>Assiette de riz et pois chiches</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillères à soupe d'huile d'olive</p>
+    <p>1 oignon haché</p>
+    <p>1 gousse ail hachée</p>
+    <p>1/2 branche de céleri en dés</p>
+    <p>1 poivron vert en dés</p>
+    <p>3 tomates pelées ou une petite boîte tomate pelée</p>
+    <p>1/2 cuillère à café de basilic frais ou sec</p>
+    <p>1 branche de thym</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>1 boîte de pois chiches (400 gr)</p>
+    <p>3 portions de riz</p>
+    <p>sel, poivre noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer huile, ajouter oignon, ail, céleri, cuire 5 mn.
+    Ajouter poivron vert, tomates, épices
+    saler, poivrer, puis cuire 15 mn.
+    Incorporer les pois chiches et laisser mijoter 10 mn.
+    Servir avec du riz.
+    Cette assiette de pois chiches en sauce avec riz peut être servie avec vos viandes cuites au barbecue. Original, ça change des cruidités. côte du Rhône
+  ]]>
+  </preparation>
+</recette>

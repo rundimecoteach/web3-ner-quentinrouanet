@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28623">
+  <titre>Tourte anglaise au poulet, petits pois et champignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 jaune d'oeuf </p>
+    <p>1 poulet de 1,2 kg</p>
+    <p>100 g de petits champignons</p>
+    <p>100 g de petits pois</p>
+    <p>2 tomates</p>
+    <p>100 g de lard fumé</p>
+    <p>1 gros oignon</p>
+    <p>1 bouquet garni</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Désossez le poulet, découpez la cahir en morceaux et faites-les revenir dans le beurre et l'huile chauds.
+    Ajoutez le lard découpé en lardons, l'oignon haché et le bouquet garni.
+    Salez, poivrez et mélangez quelques minutes puis mouillez avec 1 verre d'eau chaude. Couvrez et laissez mijoter 30 min à feu moyen.
+    Ajoutez alors les champignons nettoyés et les petits pois, puis laissez encore cuire 30 min.
+    Préchauffez le four à 175°C (thermostat 5-6).
+    Versez le contenu de la casserole dans un plat rond à bords hauts.
+    Couvrez avec la pâte, décorez avec les chutes de pâte. Faites une cheminée au centre, maintenez-la avec un tube en carton ou un cannelloni.
+    Badigeonnez du jaune d'oeuf délayé dans 2 cuillères à soupe d'eau et faites cuire 30 min dans le four.
+  ]]>
+  </preparation>
+</recette>

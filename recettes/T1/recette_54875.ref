@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54875">
+  <titre>Poêlée de courgettes aux tomates et au thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6-7 petites courgettes</p>
+    <p>1 boîte de tomates dans leur jus (500 g)</p>
+    <p>1 boîte de thon en miettes (100 g)</p>
+    <p>beurre, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les courgettes en demi-rondelles.
+    Les faire revenir dans le beurre.
+    Une fois cuites, ajoutez les tomates, puis le thon.
+    Salez, poivrez selon les goûts.
+    Laisser cuire 10 min, puis beurrez un peu.
+    C'est tout!!
+    Peut aussi être un accompagnement si vous ne mettez pas de thon.
+    Mon fils qui déteste les légumes a beaucoup aimé cette recette.
+  ]]>
+  </preparation>
+</recette>

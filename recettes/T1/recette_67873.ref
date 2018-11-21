@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67873">
+  <titre>Noisettines</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>80 g de noisettes en poudre</p>
+    <p>5 blancs d'oeufs</p>
+    <p>100 g de sucre semoule</p>
+    <p>60 g de beurre</p>
+    <p>quelques noisettes entières concassées</p>
+    <p>sucre glace</p>
+    <p>glace à la vanille</p>
+    <p>chocolat fondu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 250°C (thermostat 8-9).
+    Mélanger les blancs d'oeuf non battus et le sucre. Ajouter les noisettes, puis le beurre fondu.
+    Verser le mélange dans 6 petites empreintes d'un moule souple. Mettre quelques éclats de noisette sur chaque empreinte. 
+    Baisser le four à 200°C (thermostat 6-7) et enfourner. Cuire 10 minutes (le temps est à adapté suivant la taille des empreintes) ou jusqu'à ce que le dessus soit bien doré.
+    Démouler délicatement une fois refroidis, (attention ça colle un peu malgré le moule souple) et saupoudrer de sucre glace. 
+    Servir avec une boule de glace à la vanille et napper de chocolat fondu, miam !
+    Je conserve les blancs d'oeuf au congélateur à chaque fois que je fais de la crème à la vanille pour les enfants et en plus ils se décongèlent très bien en position décongélation du micro-onde. Les petites noisettines sont encore meilleures préparées la veille et comme ça on reçoit sans stress. 
+  ]]>
+  </preparation>
+</recette>

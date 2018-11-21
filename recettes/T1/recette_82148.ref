@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82148">
+  <titre>Gratin de pâtes, façon crumble</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes</p>
+    <p>5 branches de basilic</p>
+    <p>100 g de gruyère rapé</p>
+    <p>20 cl de lait</p>
+    <p>100 g de crème fraîche</p>
+    <p>125 g de pignons de pin</p>
+    <p>de la chapelure</p>
+    <p>3 tomates</p>
+    <p>2 boules de mozarella</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans un saladier, mélangez le lait, la crème, la moitié du basilic haché, le sel et le poivre. Ajoutez les pâtes.
+    Versez le mélange dans un plat à gratin.
+    Coupez la mozzarella en tranches, et répartissez-les sur les pâtes. Faites ensuite une couche avec les tomates.
+    Dans un bol, mélangez le reste du basilic haché, les pignons de pin, la chapelure, le gruyère et l'huile d olive. Répartissez le mélange sur les tomates.
+    Mettre au four pendant 20 minutes à 180°C (thermostat 6).
+    C'est un plat que je prépare souvent avec un reste de pâtes.
+  ]]>
+  </preparation>
+</recette>

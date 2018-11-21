@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33484">
+  <titre>Brochettes de poulet saté</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de miel ou de sucre brun</p>
+    <p>4 cuillères à soupe de poudre d'arachide (pour ce faire passer une poignée d'arachides au mixer) </p>
+    <p>6 cuillères à soupe d'huile d'arachide</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillères à soupe de coriandre</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le poulet en lanières. 
+    Dans un mixer, mettre la sauce soja, le miel (ou le sucre), la poudre d'arachide, l'ail, la coriandre et la poudre d'arachide et mixer le tout. 
+    Dans un plat, mettre vos lanières de poulet et verser la sauce obtenue. Laisser mariner un minimum de 2 heures (le mieux étant de le faire le soir pour le lendemain midi). 
+    Après la marinade, enfiler vos lanières sur des piques à brochette et cuire dans les 2 cuillères à soupe d'huile restante. 
+    A servir avec un riz basmati. 
+    Bon appétit.
+    A défaut de vin, une bière légère (pils) d'origine asiatique. Pinot noir alasacien
+  ]]>
+  </preparation>
+</recette>

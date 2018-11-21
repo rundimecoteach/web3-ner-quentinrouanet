@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91389">
+  <titre>Risotto aux champignons frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>130 g de riz à risotto</p>
+    <p>4 dl d'eau</p>
+    <p>80 g de champignons frais émincés</p>
+    <p>15 g de beurre</p>
+    <p>30 g de mascarpone</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>10 g de bouillon de légumes</p>
+    <p>sel, poivre</p>
+    <p>éventuellement fromage râpé (Parmesan ou Gruyère)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande casserole, mettre le riz, l'eau et le bouillon de légumes. Laisser cuire à feu doux (et à couvert pour que l'eau ne s'évapore pas trop). Remuer régulièrement pour éviter que le riz ne colle et remettre de l'eau si nécessaire.
+    Dans une poêle, faire fondre le beurre (à feu doux pour qu'il ne noircisse pas!!!) puis ajouter l'ail. Incorporer les champignons petit à petit. Laisser mijoter 5 minutes puis saler et poivrer.
+    Mélanger la préparation de champignons au riz cuit puis ajouter le mascarpone.
+    Corriger l'assaisonnement, dresser, décorer avec de la ciboulette ou du chèvre-feuille...
+    Bon appétit!
+  ]]>
+  </preparation>
+</recette>

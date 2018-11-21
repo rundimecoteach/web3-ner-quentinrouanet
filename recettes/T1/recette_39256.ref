@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39256">
+  <titre>Fesenjan (poulet aux noix et a la grenade, Iran)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de découpe de poulet (avec les os, c'est meilleur)</p>
+    <p>2 oignons coupés fin</p>
+    <p>3 gousses d'ail écrasées</p>
+    <p>1 bonne cuillerée à café de cannelle en poudre</p>
+    <p>2 grosses pincées de noix de muscade en poudre</p>
+    <p>1 bol de noix hachées</p>
+    <p>15 cl de sirop de grenade (en épicerie moyen-orientale)</p>
+    <p>1 pincée de safran</p>
+    <p>le jus de 2 ou 3 citrons verts</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>du sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon dans de l'huile. 
+    Quand il devient translucide, ajouter l'ail, la cannelle et la noix de muscade. Faire revenir sans brûler, 2 minutes.
+    Ajouter les noix, le sirop de grenade, 50 cl d'eau, 2 cuillères à soupe de sucre, une pincée de sel, du poivre et le safran.
+    Couvrir et laisser frémir doucement pendant 1/2 heure en surveillant de temps en temps et en rajoutant un peu d'eau au besoin : la sauce doit être assez épaisse tout de même, mais étant sucrée elle attache assez vite.
+    Ajouter ensuite le poulet et laisser cuire doucement et a couvert 40 minutes environ (surveiller que ça n'attache pas et ajouter de l'eau si ça devient trop sec). 
+    A mi-cuisson, ajouter le jus de citron.
+    Servir avec du riz basmati.
+    Traditionnellement, ce plat se fait avec du faisan ou du canard, mais le poulet est très bon aussi (et moins gras que le canard, le plat étant déjà assez riche). Ces proportions sont approximatives, pas besoin de tout mesurer au gramme près, et on peut mettre plus de muscade ou de cannelle si on veut.
+    Le Fesenjan se réchauffe très bien et il est même meilleur le lendemain.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169171">
+  <titre>Tagliatelle de saumon aux petits pois</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800g de tagliatelles fraîches</p>
+    <p>2 pavés de saumon</p>
+    <p>1 oignons</p>
+    <p>huile d'olive</p>
+    <p>1 boîte de petit pois en conserve (ou surgelé ou frais)</p>
+    <p>20cl de crème fraîche</p>
+    <p>bouillon cube</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les tagliatelles fraîches en suivant les instructions indiquées sur l'emballage.
+    Couper les pavés de saumon en cube, réserver.Émincer et faire revenir les oignons dans un filet d'huile d'olive.
+    Ajouter le saumon, faire dorer.
+    Une fois dorer ajouter les pâtes, les petits pois, la crème fraîche et pour finir le bouillon cube.
+    Saler, poivrer. Laisser mijoter 2-3 min.
+    Bon appétit !Cette recette est aussi très bonne en remplaçant le saumon par du poulet.
+  ]]>
+  </preparation>
+</recette>

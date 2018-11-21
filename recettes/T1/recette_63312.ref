@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63312">
+  <titre>Pâtisson de la mer</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâtisson</p>
+    <p>300 g de saumon frais</p>
+    <p>2 tomates grappe</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>1 gousse d'ail</p>
+    <p>1 échalote</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 200°C (thermostat 6-7).
+    Ouvrir le pâtisson par le chapeau et le creuser de façon à y mettre la garniture. 
+    Hacher l'ail et l'échalote. 
+    Dans un robot, mixer les tomates et le saumon en prenant soin d'enlever la peau. Ajouter la maïzena, les oeufs, du sel, du poivre, de la muscade et le hachis ail/échalote.
+    Mettre la préparation dans le pâtisson. Mettre dans un plat avec de l'eau autour (on peut aussi y cuire du riz) et cuire 50 minutes.
+    On peut aussi utiliser d'autres poissons, y ajouter des crevettes ou des moules. vin blanc demi sec
+  ]]>
+  </preparation>
+</recette>

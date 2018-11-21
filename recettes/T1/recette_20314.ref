@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20314">
+  <titre>Quiche aux poireaux et au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée </p>
+    <p>90 g de dés de saumon fumé</p>
+    <p>400 g de blancs de poireaux</p>
+    <p>2 oignons</p>
+    <p>1 œuf </p>
+    <p>1 jaune d'oeuf</p>
+    <p>20 cl de crème liquide à 8% de matière grasse</p>
+    <p>quelques brins de thym </p>
+    <p>quelques feuilles de persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Foncer le moule avec la pâte déjà étalée et faire quelques petits trous avec une fourchette, remettre le moule au frigo. 
+    2) Emincer les poireaux et les oignons épluchés, les mettre dans une sauteuse avec une goutte d'eau pour ne pas qu'ils attachent. Les faire étuver à couvert et à feu assez vif en remettant de l'eau au fur et à mesure de l'évaporation. Ajouter le thym en cours de cuisson. Il faut que les poireaux soient cuits et qu'ils ne rendent plus d'eau, cela peut prendre jusqu'à 40 min. 
+    3) Faire préchauffer le four à 210°C, thermostat 7. Une fois que les poireaux et les oignons sont cuits, les retirer de la sauteuse et les laisser refroidir sur une assiette. 
+    4) Pendant ce temps, dans un bol, mettre l'œuf entier et le jaune, saler, poivrer et ajouter la crème liquide. Battre pour obtenir une préparation homogène. 
+    5) Sortir le moule du frigo et disposer sur le fond de pâte les dés de saumon. Parsemer de feuilles de persil concassées. Ajouter le mélange poireaux-oignons et égaliser la surface. Verser la préparation d'œufs et de crème en faisant attention de bien répartir le mélange et en tassant le moule pour que le liquide aille jusqu'au fond (jusqu'aux morceaux de saumon). 
+    6) Enfourner pendant  25 min à 210°, baisser la température à 180° et poursuivre la cuisson pendant encore 15 min. Déguster chaud ou tiède.
+  ]]>
+  </preparation>
+</recette>

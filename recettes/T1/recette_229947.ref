@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229947">
+  <titre>Spaghetti aux fruits de mer à la niçoise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de spaghetti</p>
+    <p>500 g de fruits de mer congelés (moules, poulpes, calamars, palourdes...)</p>
+    <p>240 g de tomates pelées</p>
+    <p>4 échalotes</p>
+    <p>20 cl de vin blanc</p>
+    <p>1 cuillère à soupe de parmesan râpé</p>
+    <p>1 filet d'huile d'olive</p>
+    <p>1 pincée de piment d'espelette</p>
+    <p>1 pincée de basilic séché</p>
+    <p>1 filet de sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recouvrez et faites chauffer le fond d'une sauteuse (ou poêle) d'huile d'olive. 
+    Pelez et faire revenir les échalotes. Quand elles sont transparentes, à peine colorées, ajoutez les fruits de mer (encore congelés), feu moyen. 
+    Lorsqu'ils dégorgent un peu, ajouter le piment d'espelette, le sel, le poivre et le basilic séché puis recouvrez de vin blanc et augmentez le feu à vif pendant 5 min.
+    Dans une casserole, faites bouillir l'eau salée et ajoutez-y les spaghetti.
+    Coupez les tomates en dés. Gardez le jus.
+    Filtrez le jus des fruits de mer et conservez-le.
+    Ajoutez les tomates. Laissez mijoter jusqu'à ce que les tomates soient totalement fondues.
+    Incorporez peu à peu le jus des fruits de mer (mais n'en mettez que le tiers voire la moitié, pas plus).
+    Ajoutez le parmesan et une pointe de sauce soja.
+    Essorez les spaghetti et déposez une bonne louche de fruits de mer sur chaque portion.
+    Bon app' !
+     Vin blanc sec (cher mais excellent : chassagne montrachet)
+  ]]>
+  </preparation>
+</recette>

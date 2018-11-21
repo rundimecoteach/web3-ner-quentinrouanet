@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30820">
+  <titre>Gambas sautées à l'ail et au basilic</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de gambas ou crevettes cuites décortiquées</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de pignons</p>
+    <p>4 brins de persil</p>
+    <p>2 brins de basilic</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez l'ail haché, les herbes ciselées, les pignons et 3 cuillères à soupe d'huile d'olive.
+    Dans une poêle, faites sauter les gambas (ou crevettes) décortiquées 2 mn dans le reste d'huile chaude. Ajoutez le mélange aux herbes. 
+    Salez, poivrez et servez.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65738">
+  <titre>Emincé de dinde à la fondue de chaource</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 escalopes de dinde</p>
+    <p>1 chaource</p>
+    <p>1 pot de fondue de chaource (rayon fromage en grande surface)</p>
+    <p>500 ml de bouillon de volaille</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>250 g de gruyère râpé</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Couper les escalopes en dés. Les faire revenir dans une noisette de beurre.
+    Pendant la cuisson des dés de dinde, préparer le bouillon de volaille. 
+    Dans une casserole, faire fondre le chaource sans peau et la fondue de chaource.
+    Ajouter louche par louche le bouillon, la crème fraîche puis la moutarde et enfin le vin blanc.
+    Dans un plat passant au four, déposer les dés de dinde et verser dessus la préparation au chaource.
+    Parsemer avec le gruyère râpé.
+    Mettre au four 15 min (selon le four) le temps de dorer.
+    Bon appétit...
+    Pour accompagner, prendre 2 ramequins. Mettre du riz dans un des ramequins et le tasser avec l'autre ramequin. Retournez-le ensuite dans votre assiette et tapotez le fond. Un igloo de riz pour un max d'effets!
+  ]]>
+  </preparation>
+</recette>

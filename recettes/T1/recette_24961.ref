@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24961">
+  <titre>Riz aux légumes et à l'omelette</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de riz</p>
+    <p>3 oeufs</p>
+    <p>2 oignons</p>
+    <p>2 poivrons</p>
+    <p>2 courgettes</p>
+    <p>3 tomates</p>
+    <p>1/2 coeur de céleri</p>
+    <p>3 gousses d'ail</p>
+    <p>4 brins de ciboule</p>
+    <p>1/2 cuillère à café de curry</p>
+    <p>poivre de Cayenne</p>
+    <p>10 cl d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez le riz plusieurs fois jusqu'à ce que l'eau soit limpide.
+    Mettez-le dans une casserole, couvrez d'eau (2 cm au-dessus du riz), salez et chauffez à feu vif.
+    Dès l'ébullition (5 min), baissez le feu et couvrez posez un torchon plié en quatre sur la casserole puis le couvercle par-dessus.
+    Laissez cuire environ 18 min sans ouvrir.
+    Le riz doit avoir absorbé toute l'eau.
+    Pendant ce temps, pelez et coupez les oignons en quartiers.
+    Faites-les revenir dans une poêle avec l'huile chaude.
+    Ajoutez le coeur de céleri émincé et laissez dorer.
+    Epépinez et émincez les poivrons, détaillez les courgettes en dés et les tomates en quartiers.
+    Ajoutez le tout dans la poêle ainsi que l'ail écrasé et la ciboule ciselée.
+    Salez, poivrez et relevez d'une pincée de Cayenne et du curry. 
+    Laissez cuire environ 15 min, les légumes doivent être tendres mais pas "réduits en purée".
+    Battez les oeufs en omelette et faites-la cuire dans une grande poêle.
+    Roulez-la et émincez-la en lanières.
+    Tapissez un grand plat creux avec le riz, déposez dessus les légumes et les lanières d'omelette et servez aussitôt.
+    Vous pouvez assaisonner avec un peu de sauce soja douce.
+  ]]>
+  </preparation>
+</recette>

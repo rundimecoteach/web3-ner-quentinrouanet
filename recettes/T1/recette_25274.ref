@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25274">
+  <titre>Yaourt au raisin et au miel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de raisin</p>
+    <p>2 yaourts brassés</p>
+    <p>3 cuillères à café de jus de citron</p>
+    <p>3 cuillères à soupe de cognac</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>2 cuillères à soupe de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et égrappez les raisins.
+    Faites-les macérer avec le jus de citron, le cognac et le miel mélangés environ 3 h au frais. 
+    Egouttez et répartissez dans 4 coupes.
+    Nappez de yaourt et saupoudrez de cassonade.
+  ]]>
+  </preparation>
+</recette>

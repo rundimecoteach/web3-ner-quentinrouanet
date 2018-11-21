@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70865">
+  <titre>Escargots feuilletés jambon boursin</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>1 boite familiale de Boursin ail et fines herbes (ou autre fromage frais du même type)</p>
+    <p>4 tranches de jambon blanc</p>
+    <p>gruyère râpé</p>
+    <p>1 jaune d'oeuf (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etendre la pâte sur une plaque allant au four ou sur le plan de travail.
+    Etaler le boursin sur toute la surface, répartir le jambon blanc et recouvrir de gruyère râpé.
+    Rouler le tout tel un biscuit roulé, bien fermer les bouts.
+    Badigeonner avec le jaune d'oeuf et mettre au four à 180°C (thermostat 6) environ 15 min. Couper en tranches et servir.
+    Peut se manger chaud ou tiède en entrée, en plat principal ou en apéritif si on est nombreux ! Plaît particulièrement aux enfants.
+  ]]>
+  </preparation>
+</recette>

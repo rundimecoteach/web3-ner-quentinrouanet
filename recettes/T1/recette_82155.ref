@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82155">
+  <titre>Poêlée d'abats berbère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de foie d'agneau</p>
+    <p>1 ou 2 coeurs d'agneau</p>
+    <p>2 ou 3 rognons d'agneau </p>
+    <p>4 belles merguez</p>
+    <p>2 gros oignons</p>
+    <p>2 grosses branches de persil</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons en rondelles et les recouper en deux.
+    Couper les abats en morceaux (plus petits pour le coeur que pour le foie) et les rognons en 4, bien enlever le centre pour ces derniers.
+    Détailler les merguez en tronçons.
+    Mélanger le tout et faire revenir à l'huile d'olive.
+    Ajouter les oignons émincés 5 minutes avant de servir, de façon à ce qu'ils soient blondis sans cuire complètement.
+    Saupoudrer de persil haché avant de servir bien chaud.
+    S'agissant d'abats, il vaut mieux qu'ils soient bien cuits, mais doucement pour ne pas racornir le foie. ben non, pas avec un plat berbère !
+  ]]>
+  </preparation>
+</recette>

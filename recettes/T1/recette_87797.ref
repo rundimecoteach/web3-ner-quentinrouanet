@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87797">
+  <titre>Escalope de dinde aux petits pois et aux carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>2 boîtes de petits pois carottes</p>
+    <p>2 gousses d'ail</p>
+    <p>20 g de margarine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les gousses d'ail et les réserver.
+    Dans une cocotte, faire fondre la margarine, puis ajouter l'ail.
+    La faire roussir. 
+    Une fois roussie y ajouter les escalopes de dinde.
+    Les faire cuire pendant 10 minutes puis verser les petits pois carottes.
+    Saler, poivrer et laisser mijoter pendant 10 minutes.
+    C'est prêt ! 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41658">
+  <titre>Crumble aux pommes et aux canneberges</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>140 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>4 pommes</p>
+    <p>170 g de canneberges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pommes en dés, et les canneberges en deux. Les placer dans un plat allant au four. 
+    Dans une terrine, mettre la farine, le sucre et le beurre en morceaux : mélanger et émietter avec les mains. 
+    Emietter cette pâte sur les fruits. 
+    Enfourner à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

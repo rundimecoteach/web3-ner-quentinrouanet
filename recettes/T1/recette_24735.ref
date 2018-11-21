@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24735">
+  <titre>Brioche aux raisins, amandes et cardamome</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>335 g de farine</p>
+    <p>10 g de levure de boulanger</p>
+    <p>55 g de sucre</p>
+    <p>15 cl de lait</p>
+    <p>55 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 cuillère à café de cardamome en poudre</p>
+    <p>80 g de raisins secs</p>
+    <p>1 citron</p>
+    <p>45 g de poudre d'amandes</p>
+    <p>sirop</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les raisins secs dans un bol d'eau. Prélevez le zeste du citron et hachez-le.
+    Portez le lait à ébullition. Retirez du feu et incorporez le beurre coupé en dés et le sucre. Mélangez jusqu'à ce que le beurre et le sucre se soient dissous, puis laissez tiédir.
+    Faites tiédir 5 cl d'eau. Délayez la levure dedans, puis ajoutez-la au lait tiède.
+    Battez 1 oeuf à la fourchette, ajoutez-le au mélange, ainsi que les amandes, les raisins égouttés et le zeste de citron.
+    Mélangez bien.
+    Tamisez la farine avec le sel et la cardamome. Versez le mélange précédent au centre et remuez à la cuillère en bois pour amalgamer le tout.
+    Une fois le mélange homogène, tapez la pâte sur un plan de travail fariné plusieurs fois en la rassemblant en boule à chaque fois. Cela permet d'y incorporer un maximum d'air.
+    Couvrez avec un torchon propre et laissez lever 3 h à température ambiante. La pâte aura doublé de volume.
+    Pétrissez à nouveau la pâte pendant 5 à 10 minutes, puis formez la brioche en long, ou bien divisez en 4 à 6 pâtons.
+    Posez-les sur la plaque à pâtisserie recouverte de papier sulfurisé et laissez lever 45 min.
+    Préchauffez le four à 180°C (thermostat 6). Enfournez la brioche et laissez cuire 45 min environ (30 minutes si ce sont des brioches individuelles).
+    Badigeonnez de sirop de sucre au bout de 20 minutes pour avoir un aspect brillant.
+  ]]>
+  </preparation>
+</recette>

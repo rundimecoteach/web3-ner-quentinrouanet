@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54388">
+  <titre>Filets de Panga à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de Pangas</p>
+    <p>250 g de riz</p>
+    <p>1 poivron</p>
+    <p>2 oignons</p>
+    <p>2 tomates (ou coulis, tomates en boite)</p>
+    <p>2 cubes de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir dans un peu d'huile d'olive les oignons émincés accompagnés du poivron et des tomates coupées en morceaux.
+    Versez le riz et laisser cuire 2 minutes en remuant.
+    Diluez les 2 cubes de bouillon dans 50 cl d'eau bouillante et versez sur le riz.
+    Assaisonnez.
+    Couvrez et laissez cuire 15 minutes à feu doux.
+    Disposez les filets de panga sur le riz et laissez cuire 10 minutes environ à couvert.
+    Exemple de présentation : disposez le poisson entouré de riz et décorez avec des rondelles de citron.
+    Réhaussez le goût avec un peu de piment d'Espelette. Sylvaner
+  ]]>
+  </preparation>
+</recette>

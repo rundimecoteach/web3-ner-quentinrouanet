@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46398">
+  <titre>Poêlée de moules au gingembre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de moules</p>
+    <p>1 morceau de gingembre d'1 cm</p>
+    <p>4 à 5 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>2 cébettes (coupées en lamelles de 3 à 4 mm)</p>
+    <p>1/2 cuillère à café de graines de cumin</p>
+    <p>1 petite boîte de purée de tomate</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les moules.
+    Emincer l'ail, le gingembre et l'oignon.
+    Faire revenir les graines de cumin, l’ail, le gingembre et l’oignon sans laisser brunir.
+    Ajouter les moules et la purée de tomate, et laisser mijoter jusqu'à que les moules s’ouvrent.
+     
+    Rajouter l’oignon de printemps, le poivre et laisser cuire encore 2 minutes.
+    Ce plat, d'origine asiatique, peut aussi être préparé avec d'autres coquillages...
+  ]]>
+  </preparation>
+</recette>

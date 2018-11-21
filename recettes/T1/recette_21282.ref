@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21282">
+  <titre>Douillon au Calvados</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 jaunes d'oeufs </p>
+    <p>50 cl de lait</p>
+    <p>6 cl de calvados</p>
+    <p>4 pommes</p>
+    <p>10 g de beurre </p>
+    <p>50 g de sucre</p>
+    <p>500 g de pâte feuilletée</p>
+    <p>2 cuillères à soupe de miel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une crème anglaise : battre 4 jaunes d'oeufs avec 30 g de sucre, verser dessus le lait chaud en continuant à battre.
+    Remettre dans la casserole, laisser frémir 4 min, puis ajouter à la fin 2 cl de calvados pour parfumer. Chauffer le four à 250°C (thermostat 8-9).Peler et ôter le coeur des 4 pommes. Garnir avec 10 g de beurre mélangé à 20 g de sucre. Enfourner les pommes 3 à 4 min pour que le beurre fonde. Etaler la pâte feuilletée. Couper 4 carrés, mettre une pomme sur chaque carré de pâte. Etaler du jaune d'oeuf sur le pourtour de la pâte, ramener et fermer les 4 coins en laissant une cheminée.
+    Cuire 7 min à 230°C (thermostat 7-8). Préparer un caramel coulant avec 2 cuillères à soupe de miel et 4 cl de calvados. A la sortie du four, verser le caramel dans les cheminées des douillons. Servir avec la crème anglaise autour.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53614">
+  <titre>Velouté de maïs à la mexicaine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon haché</p>
+    <p>20 g de beurre</p>
+    <p>2 grandes boîtes de grains de maïs</p>
+    <p>1 pomme de terre farineuse</p>
+    <p>50 cl de lait</p>
+    <p>50 cl d'eau</p>
+    <p>80 g de lardons</p>
+    <p>1/2 poivron vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faites dorer l'oignon haché dans le beurre, puis ajoutez le maïs égoutté et la pomme de terre épluchée et coupée en dés.
+    Versez le lait et l'eau, salez et poivrez, et laissez mijoter 15 min. Puis, mixez le tout.
+    Dans une poêle, faites revenir les lardons avec le poivron vert coupé en dés.
+    Répartissez le velouté dans des assiettes et parsemez-le des dés de poivrons et des lardons.
+    Servez bien chaud.
+    Si le velouté est trop épais à votre goût, ajoutez-y un peu de lait.
+  ]]>
+  </preparation>
+</recette>

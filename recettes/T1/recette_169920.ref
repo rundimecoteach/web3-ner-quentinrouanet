@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169920">
+  <titre>Tartare de saumon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de saumon frais</p>
+    <p>1 concombre</p>
+    <p>1 cuillère à café de lait de coco</p>
+    <p>1 cuillère à soupe de coriandre fraîche ciselée</p>
+    <p>1 cuillère à café d'édulcorant</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le saumon frais en petit dés.Mélangez-les avec le lait de coco, la coriandre fraîche hachée, l'édulcorant et le jus de citron.
+    Salez, poivrez.
+    Placez la préparation au frais quelques heures.
+    Servez le tartare sur des fines tranches de concombre.
+    Ajoutez sur le tartare une julienne en concombre .
+  ]]>
+  </preparation>
+</recette>

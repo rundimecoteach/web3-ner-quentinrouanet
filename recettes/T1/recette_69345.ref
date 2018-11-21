@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69345">
+  <titre>Pudding de courgettes au bacon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 petites courgettes</p>
+    <p>5 tranches de pain de mie sans croûte</p>
+    <p>125 g d'allumettes de bacon</p>
+    <p>8 oeufs</p>
+    <p>20 cl de vin blanc</p>
+    <p>3 tomates pelées</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>ciboulette, estragon</p>
+    <p>sel, poivre</p>
+    <p>sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les courgettes, les couper dans le sens de la longueur puis les faire cuire quelques minutes dans l'eau bouillante.
+    Battre les oeufs en omelette, saler, poivrer et mettre de l'estragon. Rajouter le pain de mie aux oeufs puis le vin blanc. Remuer en veillant à bien écraser le pain de mie.
+    Beurrer un moule à cake. Mettre une rangée de courgette, un peu de bacon puis deux louches de mélange oeufs/vin/pain. Recommencer...
+    Faire cuire environ 30 minutes au four à 180°C (thermostat 6).
+    Pour la sauce, faire réduire les tomates coupées en morceaux dans un peu de beurre puis sale, poivre, et mettre un peu de crème et de l'estragon.
+    Servir chaud en tranches épaisses avec la sauce.
+    Cette entrée peut aussi se manger froide avec de la mayonnaise.
+  ]]>
+  </preparation>
+</recette>

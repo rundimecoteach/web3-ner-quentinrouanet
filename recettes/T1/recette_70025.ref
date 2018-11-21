@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70025">
+  <titre>Brocoli et courgette sauce échalote</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit brocoli frais</p>
+    <p>1 courgette</p>
+    <p>1 grosse échalote</p>
+    <p>1/2 gousse d'ail</p>
+    <p>10 cl de crème fraîche allégée</p>
+    <p>3 cl de vin cuit</p>
+    <p>sel, une pincée de poivre, bouillon de boeuf, volaille ou légumes</p>
+    <p>2 tranches de jambon blanc fumé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le brocoli, ne garder que les têtes. Laver et couper la courgette en quartiers en conservant la peau.
+    Chauffer une casserole d'eau et ajouter 1 cube de bouillon de votre choix. Cuire les courgettes en premier jusqu'à ce qu'elles soient tendres, conserver le jus de cuisson et y plonger le brocoli.
+    Le temps de cuisson est variable suivant les goûts et les ustensiles (je n'ai pas de cuit-vapeur). Egoutter le brocoli, mélanger aux tronçons de courgettes, réserver.
+    Préparer la sauce à l'échalote en mettant un soupçon de beurre dans une poêle, l'ail et l'échalote jusqu'à ce que celle-ci soit fondante. Mouiller avec le vin, ajouter la crème le sel et le poivre, mélanger doucement. Ajouter les légumes, faire réchauffer.
+    Servir les légumes en sauce avec une tranche de jambon blanc fumé éventuellement.
+    Bon appétit !
+    Simple et équilibré. Vous pouvez ajouter un peu de farine pour épaissir la sauce.
+  ]]>
+  </preparation>
+</recette>

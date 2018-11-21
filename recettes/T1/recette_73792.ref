@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73792">
+  <titre>Omelette au pain de mie</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>un peu de lait</p>
+    <p>mie de pain (il peut être un peu dur, cela ne fait rien)</p>
+    <p>sel, poivre et muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper la mie de pain dans le lait.
+    Ensuite, prenez les 2 oeufs, battez en neige les blancs puis ajoutez les jaunes et mélangez. 
+    Incorporez la mie de pain et le lait.
+    Battez cette composition, salez, poivrez et mettez de la muscade.
+    Cuisez comme d'habitude en ajoutant du lait si la composition devient trop sèche à votre goût durant la cuisson.
+  ]]>
+  </preparation>
+</recette>

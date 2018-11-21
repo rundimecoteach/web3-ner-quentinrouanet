@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65779">
+  <titre>Soupe aux petit pois et chorizo</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de petit pois surgelés</p>
+    <p>100 g de chorizo</p>
+    <p>1 oignon</p>
+    <p>2 gousse d'ail écrasés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre tous les ingrédient dans la cocotte minute, mouiller avec de l'eau salée à hauteur.
+    Faire cuire 15 minutes aprés la mise en rotation de la soupape. Mixer et rectifier l'assaisonnement si nécessaire avant de servir.
+  ]]>
+  </preparation>
+</recette>

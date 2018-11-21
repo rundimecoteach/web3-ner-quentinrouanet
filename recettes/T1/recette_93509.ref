@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93509">
+  <titre>Curry d'agneau à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 gr d'épaule d'agneau désossée coupée en gros cubes.</p>
+    <p>400 gr de tomates pelées en boîte</p>
+    <p>400 ml de lait de coco</p>
+    <p>200 gr d'oignons émincés surgelés </p>
+    <p>2 cuillères à soupe de pâte pour curry</p>
+    <p>50 gr d'amandes effilées(facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une pôele, faire dorer les oignons avec peu d'huile et réserver.
+    Dans une cocotte, faire dorer l'agneau coupé en gros cubes avec un peu d'huile pendant 5 min.
+    Ajouter dans la cocotte 2 cuillères à soupes de pâte pour curry. Faire revenir 5 min l'agneau et la pâte pour curry en remuant.
+    Ajouter les oignons, le lait de coco, les tomates pelées en boîte.
+    Laisser mijoter à feu doux environ 1 heure 30(jusqu'à ce que la sauce ait réduit et épaissi).En fin de cuisson, ajouter les amandes effilées (facultatif).Servir avec du riz basmati ou du riz taï.
+  ]]>
+  </preparation>
+</recette>

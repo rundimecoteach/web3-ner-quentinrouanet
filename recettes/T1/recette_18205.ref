@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18205">
+  <titre>Gratin de pommes de terre au jambon fumé (des Ardennes)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>beurre : une noisette</p>
+    <p>crème fraîche : 1 petit berlingot</p>
+    <p>fromage râpé :  250 g</p>
+    <p>jambon des Ardennes ou jambon fumé peu salé : 200 g</p>
+    <p>lait entier:  20 cl</p>
+    <p>sel et poivre </p>
+    <p>pommes de terre farineuses (style p-d-t à raclette :  750 g</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes de terre et coupez-les en fines rondelles. Beurrez un plat allant au four, placez en alternance une couche de pommes de terre et une couche de jambon des Ardennes en salant (peu) et poivrant légèrement à chaque couche. Terminez par une couche de pommes de terre.
+    Versez la crème et le lait, recouvrez de fromage râpé et parsemez de noisettes de beurre. Faites cuire au four 45 à 55 minutes à 175°C.
+    Une recette qui réchauffe quant il fait très froid dehors! Bière belge brune
+  ]]>
+  </preparation>
+</recette>

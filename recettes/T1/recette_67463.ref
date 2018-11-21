@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67463">
+  <titre>Soupe de cresson et patate douce</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 botte de cresson</p>
+    <p>1 grosse patate douce</p>
+    <p>20 g de beurre</p>
+    <p>crème fraîche</p>
+    <p>eau</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer le cresson. Réserver 1/4 de la botte. Eplucher la patate douce et la détailler en petits dés.
+    Faire fondre le beurre dans une casserole. Y mettre le cresson et le laisser réduire. Ajouter la patate douce coupée en dés, et recouvrir d'eau.
+    Une fois la patate douce cuite, passer la soupe.
+    Servir avec de la crème fraîche, et le reste de cresson cru haché.
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

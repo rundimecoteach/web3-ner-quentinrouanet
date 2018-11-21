@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80452">
+  <titre>Biscuit rose</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la crème au chocolat :</p>
+    <p>125 g de chocolat </p>
+    <p>100 g de beurre très frais </p>
+    <p>2 œufs</p>
+    <p>50 g de sucre glace  Pour la crème rose : </p>
+    <p>20 biscuits de Reims roses </p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1/2 verre d'eau  </p>
+    <p>2 cuillères à soupe de kirsch ou autre liqueur</p>
+    <p>50 g de sucre en poudre </p>
+    <p>80 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cassez le chocolat en petits morceaux et faites-le fondre au bain-marie dans une casserole avec 3 cuillères à soupe d'eau.
+    Lorsque le chocolat est fondu, retirez du feu, ajoutez le sucre et les jaunes d'oeufs. Remuez bien ce mélange.
+    Ajoutez le beurre en petits morceaux en tournant toujours. Battez ensuite les blancs d'oeufs en neige et mélangez-les très délicatement à la pâte au chocolat. Laissez en attente.Râpez les biscuits de Reims afin d'obtenir une poudre fine.
+    Placez cette poudre dans une terrine, ajoutez le sucre, le 1/2 verre d'eau, la liqueur choisie et les 2 jaunes d'oeufs. Tournez à la cuillère de bois, incorporez le beurre ramolli. Travaillez l'ensemble vigoureusement. Montage du gâteau :Placez une feuille de papier sulfurisé dans le fond du moule à charlotte et remplissez le moule de couches alternées de crème rose et de crème de chocolat. Lissez bien la surface et mettez au réfrigérateur jusqu'au lendemain.
+    Au moment de servir, démoulez l’entremets au centre d'un plat après avoir trempé le moule 10 sec dans de l'eau chaude pour faciliter le démoulage.Malaxez bien la crème rose (environ 5 min). Si vous préférez, faites fondre le beurre et mélangez au reste. cidre
+  ]]>
+  </preparation>
+</recette>

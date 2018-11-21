@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50645">
+  <titre>Sauté de veau aux carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de veau (pour sauté de veau)</p>
+    <p>600 g de carottes</p>
+    <p>100 g de lardons fumés</p>
+    <p>1 oignon (environ 100 g)</p>
+    <p>4 gousses d'ail</p>
+    <p>1 bouillon cube (pour pot-au-feu)</p>
+    <p>200 g de champignons de Paris</p>
+    <p>300 g de tomates pelées</p>
+    <p>1 bouquet garni</p>
+    <p>20 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer la viande; trancher en fines lamelles l'oignon et hacher l'ail. 
+    Faire préchauffer une cocotte sans matière grasse et y ajouter les lardons et l'oignon (la matière grasse des lardons suffisent); faire dorer le veau dans la cocotte.
+    Quand le veau est doré, ajouter l'ail, les tomates avec leur jus, le bouquet garni et le vin blanc.
+    Délayer le 1/2 bouillon cube dans 1/2 verre d'eau (environ 15cl), en le faisant chauffer au micro-ondes pour le délayer plus facilement, puis ajouter dans la cocotte.
+    Couvrir et laisser mijoter pendant 20 min.
+    Goûter la préparation et si ce n'est pas trop salé (à cause des lardons et du bouillon cube), on peut ajouter la seconde moitié du bouillon cube.
+    Retirer la viande, afin qu'elle reste tendre et ajouter les carottes coupées en fines lamelles ainsi que les champignons; laisser cuire 45 min.
+    Ajouter la viande quand les carottes sont cuites, au dernier moment dans la cocotte, pour la réchauffer.
+    Astuce : on peut aussi cuire les carottes coupées en rondelles séparément, à l'eau, et les ajouter dans la cocotte un fois qu'elles sont cuites (cela facilite la cuisson).
+    Retirer le bouquet garni, saler et poivrer à convenance.
+  ]]>
+  </preparation>
+</recette>

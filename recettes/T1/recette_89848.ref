@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89848">
+  <titre>Quatre quart des îles à l'ananas et à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte d'ananas en morceaux</p>
+    <p>180 g de sucre</p>
+    <p>180 g de farine</p>
+    <p>150 g de beurre + 15 g pour beurrer le moule</p>
+    <p>4 oeufs</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>20 morceaux de sucre</p>
+    <p>Un peu d'eau</p>
+    <p>50 g de noix de coco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, mélangez les oeufs et le sucre, battez pour obtenir un mélange mousseux.
+    Ajoutez le beurre fondu puis la farine et la levure.
+    Incorporez la noix de coco.
+    Laissez reposer.
+    Dans une casserole, mélangez le sucre et l'eau pour obtenir un caramel.
+    Beurrez le moule, versez le caramel et nappez le fond et les bords du moule.
+    Ajoutez-y  les morceaux d'ananas égouttés et enfin, versez la préparation.
+    Mettre au four à 180°C (thermostat 6) pendant 40 minutes.
+    Vous pouvez ajoutez plus de noix coco si vous voulez un quatre quart plus parfumé ou bien ajouter quelques gouttes de rhum.
+  ]]>
+  </preparation>
+</recette>

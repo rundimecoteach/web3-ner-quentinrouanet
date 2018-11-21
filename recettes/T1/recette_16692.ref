@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16692">
+  <titre>DELICE AUX NOIX</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 jaunes d'oeufs</p>
+    <p>150g sucre fin </p>
+    <p>1 sachet de sucre vanillé </p>
+    <p>250g noix moulues </p>
+    <p>2 cuil à soupe de rhum </p>
+    <p>100g fécule </p>
+    <p>1 cuil à café rase de levure chimique </p>
+    <p>5 blancs d'oeufs</p>
+    <p>Pour le glaçage : </p>
+    <p>150 g sucre glace </p>
+    <p>2 cuillères à soupe de café très fort ou 2 cuillères à soupe de café soluble un peu d'eau chaude</p>
+    <p>Pour la décoration : </p>
+    <p>cerneaux de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les jaunes d'oeufs en mousse. Ajouter peu à peu le sucre et le sucre vanillé afin d'obtenir une masse crèmeuse, puis les noix moulues et le rhum.
+    Incorporer par petites quantités le mélange tamisé fécule-levure. Monter les blancs d'oeufs en neige très ferme et glisser cette neige sur la masse des jaunes et mélanger délicatement.
+    Tapisser de papier sulfurisé un moule à charnière de 22cm de diam. Répartir la pâte et faire cuire à four moyen pendant 50mn environ.
+    Laisser tiédir le biscuit avant de le retourner sur une grille.
+    Tamiser le sucre glace et le délayer avec le café.
+    Glacer le biscuit et le décorer de cerneaux de noix.
+  ]]>
+  </preparation>
+</recette>

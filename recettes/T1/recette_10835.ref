@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10835">
+  <titre>Les Röstis ( Suisse allemande )</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>2 oignons</p>
+    <p>1.2 kg de pommes de terre</p>
+    <p>1 cuillère à café de sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Les pommes de terre : peler, râper de façon à obtenir des tubes de 5 mm de diamètre. Saler, poivrer, mélanger.
+    Chauffer l'huile dans une poêle à frire.
+    Emincer l'oignon et faites le rissoler. Ajouter les pommes de terre, les aplatir en une galette et rôtir à couvert pendant environ 30 minutes. Servir avec des lardons et un oeuf au plat.REMARQUES: la barrière linguistique entre la Suisse allémanique et la Suisse latine porte le nom de ce plat.  En allemagne, on fait des petites galettes de pdt de la même manière, mais sans le sel, le poivre et les oignons et on les sert avec du sucre. vin blanc acide
+  ]]>
+  </preparation>
+</recette>

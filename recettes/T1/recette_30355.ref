@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30355">
+  <titre>Cake aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de beurre</p>
+    <p>175 g de sucre</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>4 oeufs</p>
+    <p>200 g de farine</p>
+    <p>1/2 paquet de levure chimique</p>
+    <p>125 g d'amandes moulues (poudre d'amandes)</p>
+    <p>2 cuillères à soupe d'eau de vie (par exemple, marc de Gewurztraminer)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre. Mélanger le sucre, le sucre vanillé et le beurre fondu. Remuer pendant 10 mn.
+    Ajouter les oeufs un à un, la farine, la levure, l'eau de vie et les amandes.
+    Faire cuire pendant 1h à four préchauffé à 180°C (thermostat 6), en surveillant bien la cuisson.
+  ]]>
+  </preparation>
+</recette>

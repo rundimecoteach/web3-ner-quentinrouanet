@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46457">
+  <titre>Moules à la plancha</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 litres de moules</p>
+    <p>ail semoule (mais pas trop fin) </p>
+    <p>1 verre de vin blanc sec</p>
+    <p>piment de cayenne en poudre</p>
+    <p>poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Une plancha est un récipient large et plat, qu'utilisent les espagnols pour faire la paëlla.
+    Bien laver les moules.
+    Verser 1/2 verre d'huile d'olive dans la plancha, faire chauffer cette huile et lorsqu'elle est bien chaude, jeter les moules dedans. 
+    Remuer, et dès qu'elles sont entrouvertes, saupoudrer d'ail. Ajouter un peu de piment et de poivre (mais surtout pas de sel!). 
+    Enfin, ajouter le verre de vin blanc, et remuer sans cesse pendant quelques secondes, toutes les 2 min. 
+    Les moules sont prêtes à la consommation, lorsque la sauce a bien réduit et un peu caramélisé.
+    Il faut surveiller la cuisson de près, surtout vers la fin pour éviter que ça ne caramélise de trop... vin blanc sec genre muscadet ou vin d'alsace
+  ]]>
+  </preparation>
+</recette>

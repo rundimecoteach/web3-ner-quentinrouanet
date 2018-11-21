@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18881">
+  <titre>Moelleux - frais aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse pomme golden ou boskop</p>
+    <p>3 oeufs</p>
+    <p>100 g de beurre fondu</p>
+    <p>100 g de sucre en poudre</p>
+    <p>100 g de farine</p>
+    <p>1/2 sachet de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 cuillère à café de vanille liquide ou en poudre</p>
+    <p>1 pincée de sel</p>
+    <p>20 cl de jus de pomme</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Beurrer un moule à manqué de 20 cm. 
+    Couper la pomme en dés. 
+    Battre au batteur les oeufs, les sucres et la vanille. Ajouter le beurre fondu en remuant. 
+    Incorporer la farine, la levure, le sel. Travailler la pâte au batteur 1 à 2 mn. 
+    Ajouter les pommes en dés, remuer et verser dans le moule à manqué. Taper le moule d'un coup sec sur le plan de travail. Enfourner pour 40 mn. 
+    Démouler à la sortie du four, laisser tiédir et verser à la cuillère à soupe le jus de pomme sur le gâteau. 
+    Mettre au frais.
+    Ce délicieux gâteau me rappelle les goûters de mon enfance du cidre
+  ]]>
+  </preparation>
+</recette>

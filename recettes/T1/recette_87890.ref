@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87890">
+  <titre>Lotte au curry avec ses petits légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de lotte</p>
+    <p>300 g de courgettes</p>
+    <p>300 g de navets</p>
+    <p>300 g de carottes </p>
+    <p>2 échalotes</p>
+    <p>20 cl de vin blanc</p>
+    <p>20 cl de fumet de poisson </p>
+    <p>1 cuillère à soupe de curry </p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver la lotte, et la couper en 8 parts égales.
+    Eplucher et couper courgettes, carottes et navets en bâtonnets.
+    Eplucher et hacher finement les échalotes.
+    Dans le wok, faire rissoler les morceaux de lotte dans de l'huile pendant 1 à 2 minutes, puis réserver sur la grille du wok.
+    Faire rissoler échalotes et légumes dans le wok puis ajouter le vin blanc, le fumet et le curry. Laisser mijoter 45 minutes.
+    Saler et poivrer.
+    (Cette préparation peut être faite plusieurs heures avant le repas).
+    Une demie-heure avant de servir, remettre à chauffer. Et 10 minutes avant de servir, réintégrer la lotte sur le dessus des légumes.
+    C'est prêt, bon appétit !
+  ]]>
+  </preparation>
+</recette>

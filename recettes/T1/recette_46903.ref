@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46903">
+  <titre>Velouté crémeux au gorgonzola</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 oignon</p>
+    <p>1 verre de vin blanc</p>
+    <p>25 g de beurre</p>
+    <p>2 tomates</p>
+    <p>200 g de gorgonzola</p>
+    <p>1 cube de bouillon de légumes</p>
+    <p>feuilles de basilic</p>
+    <p>sel, poivre</p>
+    <p>garniture : quelques tomates séchées ou marinées en lamelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'oignon et le gorgonzola en petits dés. 
+    Verser un peu de vin blanc (1/4 de verre) sur la farine.
+    Faire fondre le beurre dans une casserole, ajouter les oignons et les faire cuire jusqu'à ce qu'ils soient translucides.
+    Diminuer le feu, et ajouter les dés de gorgonzola. Quand celui-ci commence à fondre légèrement, ajouter la farine et remuer
+    Ajouter ensuite le bouillon, et laisser quelques minutes à feu doux sans oublier de remuer.
+    Pendant que ça mijote, couper les tomates en dés et laver le basilic.
+    Servir la soupe avec les morceaux de tomates, et les tomates marinées (si amateurs) et le basilic.
+    Goût assez fort, il ne faut pas prévoir un plat trop lourd après. Super pour les soirées d'hiver! Vin blanc
+  ]]>
+  </preparation>
+</recette>

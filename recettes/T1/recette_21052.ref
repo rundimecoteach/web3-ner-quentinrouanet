@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21052">
+  <titre>Crêpes à la tomate et aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>50 cl de lait</p>
+    <p>2 oeufs</p>
+    <p>1 kg de tomates</p>
+    <p>50 g d'olives noires</p>
+    <p>1 bouquet de basilic</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamiser la farine avec une pincée de sel. Ajouter les oeufs, le lait et 2 cuillères à soupe d'huile.
+    Bien mélanger et laisser reposer la pâte 1 h.
+    Ebouillanter les tomates 30 secondes, puis les peler et couper en morceaux. Ebouillanter les olives 2 minutes et les égoutter.
+    Faire chauffer 2 cuillères à soupe d'huile, y faire fondre les tomates. Ajouter les olives grossièrement hachées, saler et poivrer.
+    Laisser mijoter à feu doux 20 minutes.
+    Faire cuire le crêpes, puis les réserver.
+    Ajouter le basilic ciselé dans la sauce tomate, garnir les crêpes, les rouler et servir.
+  ]]>
+  </preparation>
+</recette>

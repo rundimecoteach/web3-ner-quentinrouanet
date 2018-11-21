@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56757">
+  <titre>Beignets de confiture ou Nutella à la map (machine à pain)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 g levure fraîche de boulanger</p>
+    <p>170 ml lait tiède</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>550 g farine à pain</p>
+    <p>100 g beurre</p>
+    <p>2 oeufs</p>
+    <p>1 demi-cuillère à café de sel</p>
+    <p>1 petit pot de Nutella ou confiture ou crème de marron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans la map, introduire dans l'ordre :
+    La levure émiettée, le lait tiède, les sucres, la farine, le beurre coupé en dés directement au sortir du frigo, les oeufs battus à la fourchette et le sel.
+    Lancer le programme pâte seule.
+    Au bout de cinq minutes (10 mn maximum) vérifier l'élasticité du pâton qui doit devenir une boule bien dodue, ferme et élastique comme du chewing-gum mâché.
+    Si la boule est trop moulignasse rajouter un peu de farine et si le pâton s'effrite ou s'émiette rajouter un peu de lait.
+    Repos de la pâte, tel quel, dans l'appareil fermé : 1h30
+    Sur la table de travail farinée, abaisser la pâte au rouleau à pâtisserie jusqu'à une épaisseur d'un centimètre.
+    A l'aide d'un verre renversé, tailler des disques en nombre pair, de 7 cm de diamètre environ. 
+    Sur la moitié des disques, déposer une bonne cuillère à café de Nutella.
+    A l'aide d'un pinceau trempé dans de l'eau tiède, mouiller chaque pourtour de chaque disque au Nutella.
+    Dessus, déposer un disque nature et jointer les bords en tapotant puis, prendre chaque beignet dans la main pour leur redonner une forme bien sphérique et bien les modeler.
+    Laisser reposer encore une heure.
+    Dans un bain de friture chaude, plonger les beignets par quatre ou cinq.
+    Cuire 3 mn de chaque côté environ.
+    Les poser sur un torchon ou du papier absorbant.
+    Les saupoudrer de sucre en poudre ou sucre glace.
+  ]]>
+  </preparation>
+</recette>

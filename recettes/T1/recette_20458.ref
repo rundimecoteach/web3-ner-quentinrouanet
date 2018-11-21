@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20458">
+  <titre>Croque monsieur aux deux chocolats</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>50 g de chocolat au lait</p>
+    <p>50 g de chocolat noir</p>
+    <p>un peu de chantilly et de chocolat en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre les deux chocolats séparément, et faire griller le pain de mie au micro-onde. 
+    Une fois que les deux chocolats sont mous, étaler par exemple du chocolat noir sur une moitié de tranche de pain et du chocolat au lait sur l'autre moitié. 
+    Recouvrir avec l'autre tranche. 
+    Mettre une noisette de chantilly sur le dessus, saupoudrée de chocolat en poudre. 
+    Servir chaud.
+    On peut y ajouter une boule de glace à la vanille pour les plus gourmands. aucun
+  ]]>
+  </preparation>
+</recette>

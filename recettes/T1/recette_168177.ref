@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168177">
+  <titre>Mijoté de lapin aux petits pois</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>1 kg de petits pois frais à écosser</p>
+    <p>3 artichauts</p>
+    <p>3 branches e thym</p>
+    <p>4 gousses d’ail</p>
+    <p>2 échalotes</p>
+    <p>2 cuillères à soupe d’huile d’olive</p>
+    <p>1 cuillère à soupe de tomate concentré</p>
+    <p>200 g de tomates concassées </p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à café de curcuma</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecossez puis lavez les petits pois.
+    Puis mettre à dorer le lapin dans l’huile d’olive, rajoutez oignons, ail, et faire rissoler. 
+    Ajoutez les branches de thym, les deux tomates, arrosez d’un ½ l d’eau et laissez mijoter à feu doux pendant 40 mn. 
+    Au bout de la trentième minute, rajoutez les cœurs d’artichauts qu’on aura pris soin d’effeuiller et dont on aura enlevé le foin puis qu’on aura citronné (pour qu’ils ne noircissent pas). 
+    V’là c’est prêt. Bon appétit.-
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71482">
+  <titre>Aubergines farcies au mascarpone</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 aubergines</p>
+    <p>200 g jambon blanc</p>
+    <p>125 g mascarpone</p>
+    <p>1 petit oignon</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Couper les aubergines en 2 dans le sens de la longueur. Enlever la chair (laisser 1 cm tout autour) et la hacher au robot.
+    Faire blondir l'oignon haché avec un peu d'huile d'olive. Quand il est bien blond, ajouter la chair d'aubergine et laisser cuire 5 à 10 min. 
+    Faire ensuite un peu refroidir et ajouter un hachis de jambon blanc, le mascarpone, du sel et du poivre.
+    Remplir les demi-aubergines de cette farce et mettre au four environ 45 min.
+    Le mascarpone convient très bien aussi aux préparations salées un bordeaux
+  ]]>
+  </preparation>
+</recette>

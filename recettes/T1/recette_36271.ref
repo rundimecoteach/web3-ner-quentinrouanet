@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36271">
+  <titre>Gâteaux allemands de Celia</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g + 75 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>100 g de chocolat noir</p>
+    <p>75 g de raisins secs</p>
+    <p>175 g de noisettes</p>
+    <p>300 g de farine</p>
+    <p>1/2 sachet de levure</p>
+    <p>le jus d'un citron</p>
+    <p>1 marteau (!)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Casser la tablette de chocolat en petits morceaux (marteau!).
+    Broyer les noisettes en morceaux épais (re-marteau!).
+    Mélanger le sucre et les 3 oeufs jusqu'à obtenir un ruban. Ajouter au mélange le chocolat, les raisins et les noisettes et mélanger.
+    Ajouter petit à petit la farine et la levure. Partager la pâte en 4 et former 4 ovales.
+    Faire cuire au four à 200°C (thermostat 6-7) pendant 20 min.
+    Ajouter dès la sortie du four les 75g de sucre mélangés au jus de citron.
+    Ce ne sont peut être pas de vrais gâteaux allemands mais ce sont ceux que j'ai appris à faire petite.
+    Ces gâteaux sont généralement faits à Noël.
+  ]]>
+  </preparation>
+</recette>

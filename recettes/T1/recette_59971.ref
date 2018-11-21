@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59971">
+  <titre>Gâteau au sucre</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>200 g de crème liquide</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>une pincée de sel</p>
+    <p>1 cuillère à café d'arâme vanille</p>
+    <p>50 g de beurre</p>
+    <p>30 g d'amandes effilées</p>
+    <p>sucre cristllisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser la farine, le sucre, la crème liquide, les oeufs, la levure, le sel et l'arôme vanille dans un robot et mélanger jusqu'à qu'il n'y plus de grumeaux.
+    Verser dans un moule à manquer beurré et fariné.
+    Saupoudrer de sucre cristallisé, d'amandes effilées et de beurre coupés en dés.
+    Puis mettre au four chaud 40 min à 180/200°.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58342">
+  <titre>Tarte de feuilles de blettes au cantal</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée ou brisée</p>
+    <p>feuilles vertes d'une botte de 1 kg de côtes de blettes (ou bettes)</p>
+    <p>200 g de lardons fumés</p>
+    <p>1 oignon ou 2 échalotes</p>
+    <p>200 g (ou 300 g) de tome fraîche de cantal</p>
+    <p>3 oeufs</p>
+    <p>100 g de crème fraiche épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans une poêle anti adhésive les lardons avec l'oignon.
+    Rajouter les feuilles lavées et détaillées.
+    Saler, poivrer.
+    Etaler la préparation sur la pâte.
+    Battre ensemble oeufs, crème et tome détaillée en morceaux.
+    Verser l'appareil à quiche sur les feuilles et les lardons.
+    Enfourner à 200-220°C (thermostat 7) pendant environ 20 min.
+    Excellent pour profiter en totalité des côtes de bettes.
+    On peut remplacer la tome par du comté ou de l'emmental.
+  ]]>
+  </preparation>
+</recette>

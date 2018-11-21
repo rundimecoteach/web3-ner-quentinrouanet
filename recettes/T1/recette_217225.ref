@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217225">
+  <titre>Soupe de quinoa, petit pois et maïs</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de maïs</p>
+    <p>100 g de petit pois</p>
+    <p>1 oignon ou échalote</p>
+    <p>12,5 cl de lait de votre choix</p>
+    <p>5 cuillères à soupe légèrement bombées de quinoa ou de flocons de quinoa</p>
+    <p>4 à 5 tasses d’eau</p>
+    <p>10 g de beurre ou 1 cuillère à soupe d'huile</p>
+    <p>sel, poivre</p>
+    <p>1/2 cuillère à soupe de cumin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincez l'échalote ou oignon.
+    Dans une casserole, faites revenir l'échalote ou oignon, les petits pois et le beurre. Lorsque le beurre est fondu et l'échalote ou oignon doré(e), ajoutez le maïs, puis l’eau (j’ai mesuré l’eau en tasse, mais pour vous donner une idée, la casserole doit être remplie d'eau un peu plus qu’aux trois-quarts de la casserole). Salez, poivrez, « cuminez », puis lorsque le mélange arrive à ébullition, laissez cuire environ 5 minutes. Ensuite, ajoutez le quinoa (les flocons de quinoa se sentiront moins que les graines de quinoa). Mélangez bien, puis sur feu doux, couvrez et laissez cuire une vingtaine de minutes.
+    Lorsque c’est prêt, ajoutez (toujours sur le feu), le lait. Mélangez bien, puis éteignez le feu.
+    Votre soupe est prête !
+  ]]>
+  </preparation>
+</recette>

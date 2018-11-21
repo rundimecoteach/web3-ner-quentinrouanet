@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60297">
+  <titre>Sauté d'agneau, sauce curry au yaourt</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg d'épaule d'agneau coupée en morceaux</p>
+    <p>3 oignons </p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe de curry (ou cuillère à café si vous voulez pas que ce soit trop fort)</p>
+    <p>2 yaourts nature brassés (250g)</p>
+    <p>50 g d'amandes émondées</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel,poivre</p>
+    <p>riz basmati</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les oignons émincés 2 min dans l'huile.
+    Ajoutez la viande (faites-la dorer 10 min). Salez, poivrez et ajoutez l'ail haché.
+    Saupoudrez de curry et mélangez bien. Versez 25 cl d'eau bouillante et le jus du citron. Couvrez et laissez cuire 1 h à feu doux.
+    Faites revenir les amandes à sec 2 min dans une poêle à revêtement anti-adhésif bien chaude, fendez-les et mettez-les de coté.
+    Au moment de servir, ajoutez les yaourts au jus de cuisson de la viande et mélangez bien.
+    Parsemez d'amandes, chauffez sans faire bouillir, rectifiez l'assaisonnement et servez le tout accompagner d'un riz basmati.
+  ]]>
+  </preparation>
+</recette>

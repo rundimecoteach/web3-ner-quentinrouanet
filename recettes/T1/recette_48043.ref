@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48043">
+  <titre>Tomates farcies mozzarella / feta au four</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tomates en grappes</p>
+    <p>une boule de mozzarella</p>
+    <p>1 bocal de fêta</p>
+    <p>1 ou 2 gousses d'ail</p>
+    <p>basilic frais</p>
+    <p>huile d'olive</p>
+    <p>chapelure</p>
+    <p>sel, poivres</p>
+    <p>épices</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décalotter les tomates.
+    Retirer la pulpe délicatement à l'aide d'une petite cuillère.
+    Dans un récipient, mélanger: la mozzarella et la fêta, l'ail, le basilique et environ la moitié de la pulpe des tomates.
+    Ajouter un peu d'huile d'olive, le sel, le poivre et les épices désirées.
+    Mixer ou écraser le tout.
+    Saupoudrer l'intérieur des tomates avec de la chapelure puis ajouter la préparation.
+    Mettre au four 10 min, ajouter le dessus des tomates, et remettre au four 2 à 3 min.
+    Servir chaud pour l'entrée par exemple. 
+     Bourgogne fruité
+  ]]>
+  </preparation>
+</recette>

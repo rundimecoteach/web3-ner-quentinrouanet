@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19115">
+  <titre>Tarte à la truite fumée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>3 oeufs</p>
+    <p>1 pot de crême fraîche</p>
+    <p>250 g de truite fumée</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étaler la pâte et mettre dans le moule. 
+    Garnir le fond de truite fumée. 
+    Dans un saladier battre 3 oeufs + crême fraîche, sel/poivre/baies roses éventuellement. 
+    Verser dans le moule à tarte. 
+    Remettre des tranches de truite fumée par dessus. 
+    Parsemer de gruyère râpé. 
+    Passer au four Th 6/7 durant 25 mn.
+  ]]>
+  </preparation>
+</recette>

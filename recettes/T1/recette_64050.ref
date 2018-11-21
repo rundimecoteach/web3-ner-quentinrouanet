@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64050">
+  <titre>Poulet aux légumes et à la cannelle</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 cuisses de poulet</p>
+    <p>3 poivrons : 1 vert, 1 rouge et 1 jaune</p>
+    <p>6 tomates</p>
+    <p>3 oignons</p>
+    <p>3 pincées de fleur de sel</p>
+    <p>3 pincées de poivre</p>
+    <p>cannelle en poudre</p>
+    <p>4 cuillerés à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans une cocotte 2 cuillérés d'huile d'olive et y faire revenir à feux doux pendant 30 minutes les cuisses de poulet. Ne pas hésiter à les retourner régulièrement afin qu'elles soient dorées de tous les cotés.
+    Y ajouter 2 pincées de sel et de poivre ainsi que de la cannelle.
+    Pendant ce temps, détailler les poivrons en petits morceaux. Les faires revenir dans une sauteuse avec 2 cuillérés d'huile d'olive. détailler les tomates en petits morceaux et les incorporer au poivrons. Faire revenir l'ensemble de ces légumes pendant environ 15 minutes. Ajouter une pincée de sel, de poivre et de cannelle.
+    Couper les oignons en rondelles.
+    Prendre un plat pouvant aller au four. Y disposer l'ensemble des cuisses de poulet revenues précedemment dans l'huile d'olive. Les recouvrir du mélange tomates poivrons.
+    Disposer par dessus les rondelles d'oignons et saupoudrer de canelle.
+    Faire cuire pendant 1h30 au four à 150°C (thermostat 5).
+    Déguster ce plat accompagné de tagliatelles fraiches ou bien de frites.
+     Collioure, château neuf du pape, saint emilion
+  ]]>
+  </preparation>
+</recette>

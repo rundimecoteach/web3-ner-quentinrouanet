@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18210">
+  <titre>Pâtes au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes</p>
+    <p>200 g de lardons</p>
+    <p>200 g de crème fraîche</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet de basilic</p>
+    <p>fromage râpé à volonté</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes dans de l'eau bouillante salée
+    Pendant ce temps, faire revenir et griller les lardons dans une poêle sans matière grasse
+    Faire chauffer la crème fraîche salée (très peu) et poivrée avec la gousse d'ail écrasée
+    Quand les lardons sont grillés, les ajouter à la crème fraîche
+    Couper finement le basilic avec des ciseaux
+    Quand les pâtes sont cuites, ajouter le jaune d’œuf, puis le basilic et la sauce crème fraîche ail lardons ( + gruyère râpé selon votre convenance)
+    Mélanger, c'est prêt
+  ]]>
+  </preparation>
+</recette>

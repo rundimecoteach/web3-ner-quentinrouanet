@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225142">
+  <titre>Pâtes à la crème rose d'échalotes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes (environ 125 g/pers)Pour la sauce :</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>20 cl de crème à cuisiner</p>
+    <p>400 g de tomates concassées (1 boîte)</p>
+    <p>2 échalotes assez grosses</p>
+    <p>15 cl de vin rouge (1 verre)</p>
+    <p>2 feuilles de laurier</p>
+    <p>1 cube de bouillon de bœuf</p>
+    <p>Sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les échalotes.
+    Faire chauffer l'huile d'olive dans une casserole.
+    Faire revenir les échalotes dans l'huile. Dès qu'elle sont dorées, ajouter le vin rouge.
+    Laisser sur le feu jusqu'à ce que l'alcool s'évapore.Réduire le feu. Ajouter Le cube bouillon et la crème en mélangeant bien. Ajouter le laurier et les tomates en continuant à mélanger à feu moyen.
+    Saler et poivrer.
+    Servir sur les pâtes. Vin rouge
+  ]]>
+  </preparation>
+</recette>

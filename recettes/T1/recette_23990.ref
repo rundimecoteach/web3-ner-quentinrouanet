@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23990">
+  <titre>Fromage de brebis et confiture (Basque)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 fromage de brebis</p>
+    <p>1 pot de confiture de cerises noires</p>
+    <p>1 pain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le fromage en fines tranches. 
+    Servez le pain et laissez vos invités se servir en confiture selon leur goût !Ce "fromage à la confiture" peut vous paraître peu appétissant avant d'en manger, mais après y avoir goûté, vous verrez que c'est un plat très fin qui trouve sa place dans la cuisine traditionnelle basque !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="5365">
+  <titre>St-Jacques en habit blanc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>16 noix de St Jacques décortiquées, et fraîches</p>
+    <p>15 cl de crème fraîche</p>
+    <p>vinaigre balsamique (2 cuillères à café)</p>
+    <p>2 Carrés Frais gervais</p>
+    <p>poivre et sel</p>
+    <p> quelques brins d'aneth </p>
+    <p>feuilles de salades variées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les noix de St Jacques dans du beurre, 1 min sur chaque face, les maintenir au chaud.
+    Dans un bol, mélanger la crème fraîche, le vinaigre balsamique, le sel, le poivre, et faire tiédir.
+    Disposer joliment, en mélangeant les diverses salades (trévise, roquette, laitue) dans les assiettes. Mettre les noix (4 par assiette), arroser avec le mélange balsamique.
+    Pour terminer, émietter les 2 Carrés Frais, et les saupoudrer de brins d'aneth ciselée, tout autour des St Jacques. Servir de suite.
+  ]]>
+  </preparation>
+</recette>

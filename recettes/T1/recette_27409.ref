@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27409">
+  <titre>Moussaka aux fines herbes du Caucase</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg d'aubergines</p>
+    <p>500 g de viande de boeuf hachée</p>
+    <p>1,5 kg de tomates charnues</p>
+    <p>4 gousses d'ail</p>
+    <p>5 biscottes</p>
+    <p>1 cuillère à soupe de coriandre hachée</p>
+    <p>1 cuillère à soupe d'estragon haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en rondelles et les faire revenir à la poêle dans un peu d'huile. Emietter les biscottes et hacher l'ail. Couper les tomates en rondelles.
+    Mélanger la viande haché aux biscottes émiettées, à l'ail haché et aux fines herbes. Assaisonnez.
+    Préchauffer le four à 240°C (thermostat 8).
+    Dans un plat à four huilé, intercaler des couches d'aubergines, de tomate et de viande. Recouvrir d'aluminium et enfourner durant 1 heure. 
+    Servir avec un riz basmati indien préparé avec des oignons.
+  ]]>
+  </preparation>
+</recette>

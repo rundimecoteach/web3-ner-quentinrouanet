@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58209">
+  <titre>Tagliatelles aux noix de Saint Jacques flambées au cognac</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de tagliatelles</p>
+    <p>200 g de noix de Saint Jacques avec corail</p>
+    <p>2 tranches de saumon fumé</p>
+    <p>crème fraîche épaisse</p>
+    <p>1 noix de beurre</p>
+    <p>basilic</p>
+    <p>le jus d'1/2 citron</p>
+    <p>cognac</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les tagliatelles dans de l'eau bouillante salée.
+    Pendant ce temps, découpez des lamelles de saumon fumé.
+    Réservez.
+    Dans une poêle, faites cuire les noix de Saint-Jacques avec le beurre à feu moyen pendant 5-10 minutes.
+    Lorsque les noix de Saint-Jacques sont cuites, arrosez-les de cognac et laissez cuire 1 à 2 minutes à feu vif.
+    Hors du feu, faites flamber les noix de Saint-Jacques.
+    Puis retirez les noix de Saint-Jacques de la poêle et déglacez le jus.
+    Ensuite, ajoutez la crème, le basilic et le citron.
+    Réchauffez les Saint-Jacques dans la poêle avec la crème et les lamelles de saumon fumé pendant 1 minute.
+    Lorsque les tagliatelles sont cuites, placez-les dans un plat creux, puis ajoutez la préparation aux noix de Saint-Jacques.
+    Décorez de basilic et servez aussitôt.
+    Idéal pour épatez les copains sans se prendre la tête. Vin rouge d'Anjou
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42341">
+  <titre>Gnocchis aux oignons et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros oignons</p>
+    <p>2 grosses cuillères à soupe de crème fraîche épaisse</p>
+    <p>400 g de gnocchis (au rayon frais)</p>
+    <p>noix de muscade râpée</p>
+    <p>herbes de Provence</p>
+    <p>beurre</p>
+    <p>bouillon de légume en cube</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les gnocchis dans une casserole, comme indiqué sur l'emballage, en mettant le bouillon dans l'eau.
+    Pendant ce temps, éplucher les oignons, et les hâcher finement.Égoutter les gnocchis, et les réserver.
+    Dans le fond de la casserole, mettre une grosse noix de beurre, et y faire dorer les oignons, éventuellement avec un tout petit peu de sucre. Quand ils sont bien dorés, mais encore un tout petit peu croquant, ajouter la crème fraîche, toujours à feu vif, et bien mélanger. Ajouter aussi un peu de muscade, et les herbes. Une fois le premier bouillon passé et les ingrédients bien amalgamés, ajouter les gnocchis, et de nouveau bien mélanger. Laisser réchauffer les gnocchis quelques secondes, tout en remuant.
+    Servir directement, bon appétit!Cette recette peut aussi se faire avec des pâtes, c'est délicieux!
+  ]]>
+  </preparation>
+</recette>

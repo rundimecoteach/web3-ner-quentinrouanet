@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220275">
+  <titre>Tarte aux crevettes et au surimi</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>20 cl crème fraîche légère</p>
+    <p>1 œuf</p>
+    <p>100 g surimi (environ 8 bâtons)</p>
+    <p>200 g crevettes décortiquées</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat à tarte, mettre la pâte feuilletée, puis piquer le fond avec une fourchette.
+    Dans un saladier, mélanger l’œuf entier, la crème, le surimi et les crevettes.
+    Préchauffer le four à 200°C (thermostat 6) pendant 10 min.
+    Verser le mélange obtenu dans la pâte puis parsemer la tarte de gruyère râpé.Enfourner et laisser cuire environ 30 min.Vous pouvez ajouter quelques cuillères de curry lorsque vous mélangez la crème fraîche. vin blanc type pinot
+  ]]>
+  </preparation>
+</recette>

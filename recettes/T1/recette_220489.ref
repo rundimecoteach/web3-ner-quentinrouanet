@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220489">
+  <titre>Tourte au potiron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 rouleaux de pâtes feuilletées</p>
+    <p>500 g de potiron </p>
+    <p>5 oignons</p>
+    <p>1 bouquet de persil</p>
+    <p>1 œuf</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher et couper en petits cubes le potiron et les oignons. Laver et hacher le bouquet de persil.
+    Mettre dans un grand saladier le potiron, les oignons puis le persil haché. Assaisonner et laisser mariner pendant 30 min. Préchauffer le four à 190°C (thermostat 6).Mettre dans le fond d'un plat à tarte une pâte feuilletée. Mettre la garniture et recouvrir avec la seconde pâte feuilletée.
+    Badigeonner cette dernière d'un jaune d'oeuf. Enfourner pour 45 min de cuisson à 190°C (thermostat 6).La tourte au potiron peut-être accompagnée d'une salade batavia aux noix (vinaigre de noix, huile d'olive et cerneaux de noix).
+  ]]>
+  </preparation>
+</recette>

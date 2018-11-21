@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84901">
+  <titre>Saint-Jacques aux pommes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>20 noix de Saint-Jacques</p>
+    <p>1 pomme</p>
+    <p>5 cl de calvados</p>
+    <p>40 g de beurre</p>
+    <p>2 cuillères à soupe de vinaigre de framboise</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe d'huile d'arachide (ou tournesol)</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>100 g de mâche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire  les noix de coquilles dans une poêle avec un peu de beurre, 2,5 minutes de chaque côté. Réservez-les.
+    Lavez la mâche et essorez-la. 
+    Faites une vinaigrette avec la moutarde, l'huile, le sel, le poivre, et le vinaigre de framboise.
+    Assaisonnnez la mâche avec la vinaigrette et répartissez-la dans les assiettes.
+    Epluchez la pomme, coupez-la en très petits dés et faites-la cuire dans le reste de beurre.
+    Ajoutez les noix de coquilles dans la poêle, montez le feu et faites flamber avec le calva.
+    Répartissez les pommes et les coquilles sur les assiettes puis servez.
+    La vinaigrette doit être parfumée (moitié huile et moitié vinaigre), mais attention à ne pas la faire trop forte, car elle ne doit pas dominer le goût des coquilles. vin blanc de la vallée du Rhône, cépage 
+  ]]>
+  </preparation>
+</recette>

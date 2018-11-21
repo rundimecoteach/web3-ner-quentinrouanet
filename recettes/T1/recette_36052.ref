@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36052">
+  <titre>Fondue au coulis de tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>200 gr de fromage (suisse, comté, vacherin)</p>
+    <p>coulis de tomate maison (1 bon verre par personne)</p>
+    <p>pommes de terre bouillies en robe des champs</p>
+    <p>1 petit verre de kirsch</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>1 cuillère à café de maizéna</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire frémir le coulis et verser par poignée le fromage rapé. Lorsque celui ci est fondu, mettre le mélange kirsch-moutarde-maïzéna.
+    Servir comme une autre fondue mais prendre avec une louche et verser sur les pommes de terre dans l'assiette.
+    Boire un vin de savoie et terminer par un petit verre de kirch !
+     Crépy, Ripaille, Abymes 
+  ]]>
+  </preparation>
+</recette>

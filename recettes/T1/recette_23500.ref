@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23500">
+  <titre>Salade de boeuf à la citronnelle</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la marinade :</p>
+    <p>1 kg de boeuf (rumsteak ou autre morceau tendre, environ 100 g par personne) </p>
+    <p>3 gousses d'ail</p>
+    <p>5 ou 6 tiges de citronnelle</p>
+    <p>4 ou 5 citrons verts</p>
+    <p>Pour les légumes :</p>
+    <p>1 salade verte</p>
+    <p>1 bouquet de menthe</p>
+    <p>300 g de pousses de soja</p>
+    <p>1 poivron rouge</p>
+    <p>4 carottes</p>
+    <p>Pour l'assaisonnement :</p>
+    <p>1 poignées de cacahuètes</p>
+    <p>sauce de poisson (nuoc-nam) </p>
+    <p>vinaigre de vin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer la viande en très fine languettes.
+    Piler l'ail, émincer la citronnelle, zester les citrons et prélever leur jus.
+    Faire mariner la viande au frais avec l'ail, la citronnelle, le jus et les zestes de citrons pendant au moins 6 heures.
+    Emincer finement la salade, les carottes, le poivron. Ciseler la menthe. Broyer les cacahuètes. Réserver tout au frais.
+    Juste avant de servir, mélanger la viande et sa marinade avec les légumes, la menthe et assaisonner avec le nuoc-nam, le vinaigre et les cacahuètes.Salade rafraîchissante mais néanmoins consistante, idéale pour les buffets d'été (et merci à Carole L.)
+  ]]>
+  </preparation>
+</recette>

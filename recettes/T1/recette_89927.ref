@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89927">
+  <titre>Poulet à la mangue et à la noix de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>1 boîte de lait de coco</p>
+    <p>1 mangue </p>
+    <p>1 cuillère a soupe de curry</p>
+    <p>6 abricots secs</p>
+    <p>30 g de raisins secs</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire revenir le poulet avec un peu d'huile d'olive.
+    Pendant ce temps, couper la mangue et les abricots secs en petits morceaux.
+    Dans une autre poêle, mélanger le lait de coco et le curry.
+    Ajouter les morceaux de mangue, d'abricots, les raisins secs et le poulet au lait de coco.
+    Laisser mijoter quelques minutes (pas trop longtemps car le lait de coco risque de s'evaporer et le plat sera alors trop sec).
+    Servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24287">
+  <titre>Oeufs façon cocotte sur purée gratinée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>100 g de gruyère râpé</p>
+    <p>100 g de beurre</p>
+    <p>50 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>1 gousse d'ail</p>
+    <p>1 oignon</p>
+    <p>du thym</p>
+    <p>huile</p>
+    <p>chapelure</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les couper en morceaux. Les plonger dans une casserole d'eau froide salée avec l'ail, le thym et l'oignon ciselés. Laisser mijoter jusqu'à ce que les pommes de terre soient cuites et les réduire en purée. Ajouter le lait chaud et 50 g de beurre.
+    Placer la moitié de la purée dans une terrine beurrée et parsemer le dessus de gruyère râpé. Assaisonner et recouvrir du reste de purée.
+    Creuser 4 trous dans la purée et y placer les oeufs crus. Les assaisonner et finir de recouvrir de fromage et de chapelure. Déposer des noix de beurre et enfourner pendant 10 min position grill.
+  ]]>
+  </preparation>
+</recette>

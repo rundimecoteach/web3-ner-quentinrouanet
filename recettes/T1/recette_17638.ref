@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17638">
+  <titre>Cake aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>4 oeufs</p>
+    <p>15 cl d'huile</p>
+    <p>vin blanc sec</p>
+    <p>200 g d'olives vertes dénoyautées</p>
+    <p>200 g de jambon coupé en dés</p>
+    <p>150 g de gruyère râpé</p>
+    <p>1 sachet de levure</p>
+    <p>poivre</p>
+    <p>beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à Th 6 (180°C). 
+    Entretemps, mélanger la farine et les oeufs jusqu'à obtenir un mélange onctueux. Ajouter l'huile et l'équivalent d'1 verre de vin blanc sec. 
+    Egoutter les olives, les fariner légèrement et les incorporer à la pâte. 
+    Ajouter le jambon, bien malaxer et verser le gruyère râpé et la levure; bien poivrer, mais ne pas saler à cause du jambon! 
+    Beurrer un moule à cake, y verser la pâte jusqu'aux 2/3. 
+    Enfourner le cake pendant 50 min à Th 6 (180°C). 
+    Si le dessus du cake prend une teinte dorée trop rapidement, le couvrir d'une feuille de papier alu et le laisser cuire ainsi.
+  ]]>
+  </preparation>
+</recette>

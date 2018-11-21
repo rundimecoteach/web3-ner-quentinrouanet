@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56584">
+  <titre>Gâteau au chocolat rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de chocolat</p>
+    <p>100 g de sucre en poudre</p>
+    <p>100 g de beurre</p>
+    <p>75 g de farine</p>
+    <p>3 oeufs</p>
+    <p>1/2 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien mélanger l'ensemble des ingrédients jusqu'à obtenir une pâte bien homogène.
+    Toujours couvrir le gâteau lors de la cuisson. 4 à 5 min au micro-ondes.
+    Vous pouvez ajouter selon votre goût, des amandes, noisettes, bananes ou encore l'accompagner d'une crème anglaise.
+  ]]>
+  </preparation>
+</recette>

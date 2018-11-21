@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66758">
+  <titre>Pipe rigate aux aubergines et saucisses</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pipe rigate</p>
+    <p>3 chipolatas</p>
+    <p>1 belle aubergine</p>
+    <p>1 gros oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 petite boite de pulpe de tomates</p>
+    <p>1/2 bouquet de persil plat</p>
+    <p>1 feuille de laurier</p>
+    <p>1 pincée de sucre</p>
+    <p>Sel et poivre</p>
+    <p>Matière grasse de votre choix pour la cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, essuyer puis couper l'aubergine en petits dés. Peler et hacher l'oignon et l'ail.
+    Faire chauffer la matière grasse dans une sauteuse et mettre l'oignon, l'ail et l'aubergine à revenir. Ciseler le persil.
+    Ajouter le laurier et la pulpe de tomates.
+    Mélanger et laisser mijoter 10 min.
+    Ensuite réduire le feu, saler, poivrer et ajouter la pincée de sucre avec un petit verre d'eau.
+    Couvrir et laisser cuire pendant 30 min.
+    Pendant ce temps, piquer les chipolatas et les faire cuire à la poêle.
+    Faire cuire en même temps les pâtes dans un grand volume d'eau salée. Les égoutter et les verser dans la sauteuse.
+    Couper les chipolatas en morceaux et les ajouter dans la sauteuse.
+    Mélanger, parsemer de persil et servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

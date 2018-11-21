@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83585">
+  <titre>Chaussons aux courgettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>1 cuillère à café de curry</p>
+    <p>1 pâte feuilletée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les courgettes et les découper en rondelles fines. Les faire revenir dans un wok ou une poêle creuse dans un fond d'huile d'olive.
+     
+    Ajouter le vinaigre balsamique lorsque les courgettes sont fondantes, puis le curry. Il faut que les courgettes soient bien cuites et bien fondues.
+    Retirer la casserole du feu. Mettre les courgettes dans un mixeur (on peut aussi bien les écraser à la main, mais le résultat est moins homogène).
+    Préparer la pâte : la découper en quatre parts carrées ou  triangulaires, ajouter la préparation au centre des parts, puis refermer le chausson par les bouts.
+    Passer les chaussons au four thermostat 6-7 jusqu'à ce que la pâte soit cuite.
+  ]]>
+  </preparation>
+</recette>

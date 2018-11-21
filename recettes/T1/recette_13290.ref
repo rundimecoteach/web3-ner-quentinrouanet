@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13290">
+  <titre>Pilaf néerlandais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros oignons</p>
+    <p>1 poivron (de préférence rouge)</p>
+    <p>4 filets de dinde ou de poulet</p>
+    <p>1 grande boîte de pêches au sirop</p>
+    <p>3 cuillères a soupe de sauce soja</p>
+    <p>1 boite de concentré de tomate</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les oignons et les poivrons en petits morceaux et faire fondre dans une poêle.
+    Quand les oignons sont bien fondus, ajouter les filets de dinde en morceaux. Faire cuire le tout à feu doux.
+    Couper les pêches en gros morceaux et garder le sirop à part.
+    Ajouter au mélange les 3 cuillères de sauce soja et le tomate concentre. Ajouter du sirop de pêche jusqu'à obtenir un tout homogène. Saler et poivrer.
+    Servir avec du riz.
+    Parfait pour les étudiants fauchés !
+  ]]>
+  </preparation>
+</recette>

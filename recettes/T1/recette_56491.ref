@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56491">
+  <titre>Fougasse au reblochon à la machine à pain</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>15 g de levure fraîche de boulanger</p>
+    <p>250 g de farine</p>
+    <p>12 cl de lait tiède</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 oeuf</p>
+    <p>1 demi-cuillère à café de sel</p>
+    <p>Pour la garniture :</p>
+    <p>200 g de Reblochon (ou Munster, Maroilles...)</p>
+    <p>1 oeuf</p>
+    <p>2 cuillères à soupe de crème fleurette</p>
+    <p>1 demi-cuillère à café de cumin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans la machine à pain, mettre les ingrédients du premier tableau dans l'ordre suivant : levure fraîche émiettée, farine, lait tiède, le beurre coupé en petits dés au sortir du frigo, l'huile, l'oeuf battu à la fourchette et le sel.
+    Lancer le programme pâte seule pour 1h30 au total, repos compris.
+    Pendant ce temps, au bout de cinq minutes, vérifier l'élasticité du pâton qui doit former une boule élastique bien dodue de la texture d'un chewing-gum mâché.
+    Si le pâton est trop moulignasse ajouter un peu de farine et si le pâton s'effrite ou s'émiette rajouter un peu de lait.
+    Au bout d'1h30 : sur le plan de travail fariné, étendre le pâton au rouleau à pâtisserie.
+    Fariner un moule à tarte métallique et le foncer ainsi que les rebords.
+    Disposer le Reblochon découpé en lamelles sur le fond.
+    Battre un oeuf avec deux cuillères à soupe de crème fleurette, ajouter le cumin et poivrer un peu.
+    Cuire thermostat 6 (180°C) pendant 25 à 30 min.
+    Se mange tiède.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18443">
+  <titre>Pattes de loups</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de sucre</p>
+    <p>120 g de beurre</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>500 g de farine</p>
+    <p>2 paquets de levure</p>
+    <p>2 paquets de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler dans un terrine la crème fraîche avec le sucre, ajouter les oeufs, le beurre fondu, la farine, la levure ainsi que la vanille. travailler le tout afin d'obtenir une pâte homogène. 
+    Faire de petites boules de pâte avec une cuillère à soupe. 
+    Les disposer sur une plaque recouverte de papier sulfurisé après les avoir trempé dans du sucre en poudre. 
+    Mettre à four chaud 200°C pendant 10 mn environ. 
+  ]]>
+  </preparation>
+</recette>

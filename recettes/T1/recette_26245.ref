@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26245">
+  <titre>Grondins et sauce à l'asiatique au gingembre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 grondins écaillés</p>
+    <p>4 cuillères à soupe rases de gingembre en poudre</p>
+    <p>4 oignons nouveaux </p>
+    <p>3 cuillères à soupe de sauce de soja</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couvrez les grondins d'eau froide bien salée puis amenez à ébullition. Laissez cuire à couvert, doucement, sur feu doux et eau frémissante, pendant 5 minutes.
+    Mélangez les oignons très finement émincés avec la sauce soja, l'huile et le gingembre.
+    Egouttez les poissons et retirez-les sur un plat préchauffé.
+    Nappez de sauce au gingembre et servez accompagné de riz blanc.
+  ]]>
+  </preparation>
+</recette>

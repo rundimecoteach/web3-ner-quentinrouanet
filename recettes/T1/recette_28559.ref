@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28559">
+  <titre>Artichauts aux pommes de terre et au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 petits artichauts</p>
+    <p>le jus d'1 demi-citron</p>
+    <p>2 pommes de terre</p>
+    <p>1 oignon</p>
+    <p>75 g de lard maigre</p>
+    <p>25 g de beurre</p>
+    <p>35 cl de bouillon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ôter les feuilles extérieures des artichauts, les laver et les couper en deux. 
+    Retirer le foin à l'aide d'une petite cuillère. Arroser  avec le jus d'un demi-citron.
+    Peler et couper en quartier les pommes de terre. Couper aussi le lard en tranches, peler et émincer l'oignon.
+    Faire suer l'oignon dans le beurre fondu puis ajouter les artichauts, les pommes de terre et le lard. Assaisonner et mouiller avec le bouillon.
+    Laisser mijoter 40 minutes environ, jusqu'à évaporation quasi-totale.
+  ]]>
+  </preparation>
+</recette>

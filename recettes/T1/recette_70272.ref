@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70272">
+  <titre>Gâteau au yaourt coco passion</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt saveur passion</p>
+    <p>2 pots sucre en poudre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 oeufs</p>
+    <p>1 pot de farine</p>
+    <p>1 pot de maïzena</p>
+    <p>100 g de noix de coco en poudre</p>
+    <p>1 sachet de levure chimique</p>
+    <p>un peu de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Mélanger le yaourt, le sucre, le sucre vanillé et les oeufs. Ajouter la farine, la levure, la maïzena et la noix de coco. Verser du lait jusqu'à obtention d'un mélange lisse.
+    Faire cuire environ 40 min.
+    Je n'avais pas de yaourt nature et j'ai été agréablement surprise, je ne pensais pas que le goût passion ressortirait autant.
+  ]]>
+  </preparation>
+</recette>

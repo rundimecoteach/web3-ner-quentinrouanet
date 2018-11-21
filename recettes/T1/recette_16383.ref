@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16383">
+  <titre>Tarte saumon et épinards facile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boîte de saumon rose</p>
+    <p>1 rouleau de pâte brisée</p>
+    <p>1/2 boîte d'épinards haché surgelé</p>
+    <p>20 cl de crème fraîche</p>
+    <p>4 oeufs</p>
+    <p>herbes de Provence (thym, origan...)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire décongeler les épinards dans une casserole, avec un tout petit peu d'eau.
+    Pendant ce temps, casser les oeufs dans un grand bol. 
+    Ajouter la crème fraîche, le saumon (attention dans le saumon en boîte il y a souvent la peau, à éviter dans la préparation), puis les épinards une fois décongelés. 
+    Bien mélanger, puis saler et poivrer à votre convenance.
+    Dans un plat à tarte, étaler la pâte brisée puis y verser le mélange. Saupoudrer d'herbes de Provence.
+    Mettre dans au four préchauffé à 220°C (th 7-8), et laisser cuire environ 35 min.
+    Cette tarte est très bonne en entrée ou servie avec une salade pour un repas léger.
+  ]]>
+  </preparation>
+</recette>

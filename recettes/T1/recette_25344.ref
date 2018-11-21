@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25344">
+  <titre>Haricots verts au beurre et aux amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de haricots verts</p>
+    <p>50 g d'amandes effilées</p>
+    <p>50 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les haricots verts à l'eau bouillante salée 10 à 15 minutes selon leur grosseur.
+    Faites griller à sec les amandes effilées dans une poêle bien chaude.
+    Egouttez les haricots et faites-les revenir dans le beurre. Assaisonnez puis saupoudrez d'amandes.
+  ]]>
+  </preparation>
+</recette>

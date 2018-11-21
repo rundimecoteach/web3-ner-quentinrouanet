@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57273">
+  <titre>Omelette aux framboises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>farine</p>
+    <p>sucre</p>
+    <p>une pincée de sel</p>
+    <p>rhum brun alimentaire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, battre les oeufs.
+    Rajouter la farine et le sucre et la pincée de sel.
+    Bien mélanger pour éliminer tous les grumeaux.
+    Verser une goutte de rhum brun alimentaire.
+    Cuisson : à feu très doux, beurrer très légèrement une crépière.
+    Y verser le mélange.
+    Décoller les bords de temps en temps afin de faire coller la pâte non cuite en dessous (l'omelette ne se retourne pas).
+    Quand la pâte est cuite, verser les framboises, saupoudrer de sucre et replier l'omelette en deux.
+    Servir.
+    Même après un repas bien copieux, ce dessert passe très bien !!!
+  ]]>
+  </preparation>
+</recette>

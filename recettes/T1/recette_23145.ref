@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23145">
+  <titre>Darnes de colin au vin blanc et aux herbes de Provence</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 darnes de colin</p>
+    <p>70 g de concentré de tomates</p>
+    <p>1 gousse d'ail</p>
+    <p>2 échalotes</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>80 g de beurre</p>
+    <p>1 bouquet de persil haché</p>
+    <p>herbes de Provence</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher les échalotes ainsi que l'ail. Les faire colorer dans une poêle avec 40 g de beurre.
+    Pendant ce temps, rouler les darnes de colin dans la farine, puis les faire revenir dans la poêle 2 min de chaque côté avec les échalotes et l'ail. Les retirer de la poêle et les réserver au chaud.
+    Déglacer le poêle avec le vin blanc puis ajouter le concentré de tomate avec le reste du beurre en morceaux. Saler, poivrer et saupoudrer d'herbes de Provence hachées.
+    Bien mélanger jusqu'à l'obtention d'une sauce lisse et onctueuse.
+    Remettre ensuite les darnes à chauffer dans la poêle et laisser cuire encore 20 min à feu très doux en veillant à ce que la sauce ne soit pas portée à ébullition.
+    Après avoir vérifié la cuisson, dresser les darnes sur un plat de service bien chaud, les napper de sauce et saupoudrer le dessus d'herbes de Provence.
+    Vous pouvez réaliser cette recette avec des filets de cabillaud ou de lieu.
+  ]]>
+  </preparation>
+</recette>

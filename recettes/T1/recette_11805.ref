@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11805">
+  <titre>Velouté d'avocat aux pétoncles</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1/2 citron</p>
+    <p>1 cuillère à soupe d'aneth</p>
+    <p>500 g de pétoncles parées</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les pétoncles parées au beurre, salez et poivrez.
+    Ouvrez les avocats, dénoyautez-les et évidez-les.
+    Passez leur chair au mixer avec la crème fraîche et le jus de citron, salez et poivrez.
+    Allongez ce velouté de jus chaud des pétoncles. Réchauffez le tout au bain-marie.
+    Ajoutez les pédoncles. Parsemez d'aneth.
+    Servez aussitôt.
+  ]]>
+  </preparation>
+</recette>

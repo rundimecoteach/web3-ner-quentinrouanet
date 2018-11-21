@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12751">
+  <titre>Oeufs bénédictine</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs entiers et 3 jaunes</p>
+    <p>150g de beurre</p>
+    <p>2 tranches de jambon blanc</p>
+    <p>8 tranches de pain de mie</p>
+    <p>vinaigre</p>
+    <p>1 citron</p>
+    <p>1 bouquet d'estragon</p>
+    <p>1 bouquet de cerfeuil</p>
+    <p>sel, poivre concassé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer une grande marmite d'eau vinaigrée pour faire pocher les oeufs.
+    L'eau doit frémir mais pas bouillir. Ne pas saler l'eau de cuisson des oeufs. Comptez environ 3 minutes de cuisson puis sortez les oeufs avec une écumoire et mettez les à égoutter sur du papier absorbant.
+    Coupez les fines herbes très finement, versez 3 cuillères à soupe de vinaigre dans une casserole, ajoutez les herbes et une cuillère à café de poivre concassé.
+    Faites évaporer presque totalement le vinaigre puis hors du feu ajoutez 2 cuillères à soupe d'eau froide et les trois jaunes d'oeuf puis fouettez rapidement.
+    Remettez la casserole à feu très doux et incorporer le beurre petit à petit en fouettant énergiquement (si la sauce 'tombe' ajoutez un peu d'eau).
+    Vous devez obtenir une sauce onctueuse. Passer la sauce à la passoire, ajoutez un jus de citron et reservez. Allumez le four à 180°C.
+    Faites griller les tranches de pain de mie, puis dans un plat allant au four déposez le pain de mie, une tranche de janbon sur chaque pain, un oeuf poché et nappez de sauce. Passez au four 2 minutes et servez.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22015">
+  <titre>Brownies sans cuisson</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse tasse de noix finement hachées (en fait la quantité de noix dépend un peu du goût de chacun) </p>
+    <p>80 g de chocolat non sucré</p>
+    <p>1 boîte de 300 ml de lait concentré sucré</p>
+    <p>48 à 60 gaufrettes à la vanille que vous aurez pris soin de réduire en miettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saupoudrer le fond d'un moule carré la moitié des noix hachées. 
+    Dans une casserole, fondre le chocolat dans le lait concentré sucré, à feu doux. 
+    Cuire le mélange, en remuant, jusqu'à ce qu'il ait épaissi, pendant environ 10 mn. 
+    Retirer du feu. 
+    Incorporer les miettes de gaufrettes et le reste des noix hachées. 
+    Étendre le mélange dans le moule préparé. 
+    Répartir le reste des noix hachées sur le mélange. 
+    Réfrigérer pendant 4 heures, jusqu'à ce que le mélange soit ferme. 
+    Découper en carrés.
+    Recette récupérée de l'époque maudite où mon four est tombé en panne... Un peu lourd, mais bon, ce sont des brownies après tout! Si c'est pour les enfants, du jus de fruits... Sinon, un bon vin rouge capiteux (type Fitou)
+  ]]>
+  </preparation>
+</recette>

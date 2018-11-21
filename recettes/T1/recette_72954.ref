@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72954">
+  <titre>Cake carotte amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de carottes </p>
+    <p>150 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>100 g d'amandes en poudre</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les carottes.
+    Séparer les blancs et les jaunes d'oeuf.
+    Mélanger les jaunes avec le sucre jusqu'à ce que le mélange blanchisse.
+    Ajouter les carottes râpées, la farine, la levure et enfin les amandes en poudre.
+    Battre les blancs (avec la pincée de sel) en neige ferme. 
+    Incorporer délicatement les blancs en neige à la pâte. 
+    Beurrer un moule à cake et y verser la pâte. 
+    Mettre au four préchauffé à 180°, thermostat 6, pendant environ 30 min (vérifier la cuisson avec un couteau).
+    Gâteau sans matière grasse. On ne sent pas le goût de la carotte mais ça le rend très moelleux.
+  ]]>
+  </preparation>
+</recette>

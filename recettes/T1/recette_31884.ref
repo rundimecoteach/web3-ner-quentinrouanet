@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31884">
+  <titre>Andouillette aux poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 andouillettes</p>
+    <p>300 g de blancs de poireau</p>
+    <p>vin blanc</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire au cuit-vapeur les blancs de poireau coupés en tronçons, cuisson ferme (10 mn environ à vérifier). 
+    Faire griller les andouillettes au four (Th 9 selon four). 
+    Mettre les poireaux en cocotte avec un peu de jus de cuisson, le beurre et le vin blanc. Salez et poivrez, faire réduire. 
+    Ajouter les andouillettes grillées et faire mijoter dans la cocotte non couverte à feu doux. 
+    Servir très chaud. 
+    Bon appétit !
+    Aucune difficulté particulière sauf qualité des produits. Chablis
+  ]]>
+  </preparation>
+</recette>

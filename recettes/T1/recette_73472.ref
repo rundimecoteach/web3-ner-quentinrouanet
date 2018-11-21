@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73472">
+  <titre>Quatre-quarts caramel ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>250 g de farine</p>
+    <p>250 g de beurre</p>
+    <p>250 g de sucre blanc</p>
+    <p>250 g de beurre (1/2 sel c'est meilleur)</p>
+    <p>1 sachet de levure chimique</p>
+    <p>6 tranches d'ananas</p>
+    <p>150 g de caramel liquide</p>
+    <p>1 moule à gâteau rond en téflon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°, thermostat 6. 
+    Mélanger le sure avec le beurre fondu. 
+    Laisser tiédir le mélange, puis ajouter les oeufs et enfin la farine avec la levure.
+    Dessiner dans le fond du moule des motifs avec les tranches d'ananas, puis arroser l'ananas avec le caramel liquide (le caramel dispense de beurrer et de fariner le moule). 
+    Enfin ajouter au moule la préparation du quatre-quarts.
+    Faire cuire 35-40 min au four à 180°, thermostat 6.
+    Laisser refroidir avant de démouler .
+    La gâteau est meilleur après quelques heures au frigo . Cidre bien frais
+  ]]>
+  </preparation>
+</recette>

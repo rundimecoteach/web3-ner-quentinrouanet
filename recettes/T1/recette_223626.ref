@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223626">
+  <titre>Gâteau rhum kiwi</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 kiwis mûrs</p>
+    <p>2 cuillères à soupe de Rhum</p>
+    <p>3 œufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>150 g de farine</p>
+    <p>100 g de beurre fondu</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).Dans un saladier, mélanger les œufs avec le sucre.
+    Ajouter ensuite le beurre fondu.
+    Éplucher les kiwis puis les mixer en une purée épaisse.Mélanger la purée de kiwi au mélange précédent.
+    Ajouter le rhum selon votre goût.
+    Ajouter ensuite la farine et la levure mélangés.
+    Verser dans un moule à cake antiadhésif ou beurré à l'avance.
+    Laisser cuire entre 40 et 50 min (la pointe du couteau doit ressortir sèche)
+    Servir froid.
+  ]]>
+  </preparation>
+</recette>

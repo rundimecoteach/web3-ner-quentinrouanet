@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39085">
+  <titre>Tagliatelles de courgettes en salade</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 petites courgettes</p>
+    <p>3 tomates</p>
+    <p>65 g de Feta</p>
+    <p>6 olives noires</p>
+    <p>1 citron</p>
+    <p>une petite gousse d'ail</p>
+    <p>3 cuillerées à soupe d'huile d’olive</p>
+    <p>1 cuillerée de vinaigre d’alcool</p>
+    <p>sel , poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les courgettes et en faire des tagliatelles à l’aide d’un économe. 
+    Les cuire à l’eau quelques minutes pour qu’elles restent bien fermes, puis les refroidir à l’eau froide et les mettre dans un saladier. Ajouter les tomates épépinées coupées en morceaux, la feta en cubes et les olives noires. 
+    Sauce : 
+    Couper finement ou hacher la gousse d’ail. Ajouter le jus de citron, le vinaigre et l’huile d’olive. Saler et poivrer. Verser la sauce sur la salade et servir très frais.
+  ]]>
+  </preparation>
+</recette>

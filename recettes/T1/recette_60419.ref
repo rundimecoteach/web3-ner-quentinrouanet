@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60419">
+  <titre>Brochette de poulet et mangue</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>2 mangues fraîches ou 4 tranches de mangues congelées</p>
+    <p>3 cl de lait de coco</p>
+    <p>2 citrons verts</p>
+    <p>piment d'Espelette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les blancs de poulet en cubes, les faire mariner dans le lait de coco, le jus d'1 citron ainsi que son zeste.
+    Dans un autre plat, couper les mangues en cubes et les faire mariner dans le jus d'1 citron vert et saupoudrer de piment d'Espelette.
+    Laisser mariner 15 minutes.
+    Faire les brochettes en alternant poulet et mangue. Faire cuire au barbecue ou au four à 200°C (thermostat 6-7) durant 15 minutes.
+    A déguster avec du riz basmati.
+    Vous pouvez vous servir du lait de coco pour faire cuire le riz.
+  ]]>
+  </preparation>
+</recette>

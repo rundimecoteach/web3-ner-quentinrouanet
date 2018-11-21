@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20477">
+  <titre>Madeleines parfumées</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>2 gros œufs</p>
+    <p>1 pincée de sel</p>
+    <p>125 g de sucre semoule</p>
+    <p>Pour le parfum au choix : </p>
+    <p>1 cuillère à café de zeste de citron ou d'orange râpé, de vanille ou de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre.
+    Battre les œufs en les faisant légèrement mousser, incorporer la farine tamisée, le sucre et le parfum choisi.
+    Mélanger rapidement à la cuillère en bois, ajouter le beurre et bien mélanger; laisser reposer la pâte au frais 1 h.
+    Préchauffer le four à 150°C (thermostat 5).
+    Beurrer et fariner un moule à madeleines, remplir les alvéoles aux 3/4.
+    Enfourner et laisser cuire environ 12 à 15 min.
+    Démouler les madeleines dès la sortie du four, et les laisser refroidir.
+  ]]>
+  </preparation>
+</recette>

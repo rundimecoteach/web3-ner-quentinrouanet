@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30527">
+  <titre>Magret de canard au gril</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 magret de canard</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer un sopalin imbibé d'un peu d'huile sur le gril.
+    Faites chauffer le gril en fonte allant sur le gaz pendant quelques minutes.
+    Couper des tranches de magret de canard d'une épaisseur de 3 à 4 cm.
+    Faites griller sans trop faire cuire, le magret de canard est meilleur tout juste cuit.
+    Accompagner de pommes de terre coupées en rondelles et passées à la poêle avec persillade. On peut aussi l'accompagner de haricots verts passés à la poêle avec de l'ail émincé finement et une noix de beurre.
+     vin rouge
+  ]]>
+  </preparation>
+</recette>

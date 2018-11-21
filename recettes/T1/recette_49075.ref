@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49075">
+  <titre>Glace du Vercors</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la glace :</p>
+    <p>2 œufs</p>
+    <p>1 sachet et demi de sucre vanillé</p>
+    <p>1 brique et demie de crème fraîche entière</p>
+    <p>20 cerneaux de noix</p>
+    <p>1 grosse meringue</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>Pour le caramel (25 cl ):</p>
+    <p>125 de sucre en morceaux</p>
+    <p>3 cl d'eau</p>
+    <p>1 cuillère à café de vinaigre de vin rouge</p>
+    <p>6 cl d'eau bouillante</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation du caramel :
+    Dans une casserole en inox, versez 3 cl d'eau, le sucre et le vinaigre.
+    Laissez cuire l'ensemble sur feu doux, sans remuer.
+    Le sucre se dissout, le sirop bouillonne, les bulles se crèvent de plus en plus difficilement à la surface, puis le sirop se colore.
+    Lorsque le sirop fume légèrement, devient roux mais pas noir, retirez la casserole de la source de chaleur et versez petit à petit l'eau bouillante en vous éloignant au maximum du récipient pour éviter les projections.
+    Préparation de la glace :
+    Séparez les jaunes des blancs d'œufs, puis mélangez les jaunes avec le sucre vanillé.
+    Montez les blancs en neige ferme.
+    Montez la crème fraîche en chantilly avec le sucre (dans un plat placé au préalable au réfrigérateur).
+    Mélangez les jaunes, les blancs et la crème chantilly jusqu'à obtention d'une crème onctueuse.
+    Dans un moule à cake, répartissez le 1/3 du caramel sur le fond et les bords.
+    Incorporez la crème jusqu'à la moitié du le moule, répartissez les meringues brisées, les noix mixées grossièrement et le reste du caramel.
+    Remplissez du reste de la crème.
+    Placer au congélateur pendant minimum 3 heures.
+  ]]>
+  </preparation>
+</recette>

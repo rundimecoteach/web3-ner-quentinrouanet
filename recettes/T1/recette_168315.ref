@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168315">
+  <titre>Rôti d'autruche sauce moutarde de meaux à l'ancienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un rôti d'autruche de 800 gr</p>
+    <p>1 c à café de moutarde de Meaux Pommery</p>
+    <p>15 cl de vin blanc sec "Coteaux du Languedoc"</p>
+    <p>20 cl de crème fraîche allégée</p>
+    <p>sel, poivre</p>
+    <p>une pincée de poivre de cayenne</p>
+    <p>1 c. à café 1/2 de fond de veau</p>
+    <p>80 gr de margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre la margarine dans une poêle à cloche.
+    Mettre le rôti d'autruche dans la poêle, saler et poivrer. Faîtes-le saisir de chaque côté à feu vif 5 min. de chaque côté. Ensuite le laisser mijoter à feux doux pendant 20 min.
+    A la fin de la cuisson, découpez-le en fines tranches et le réserver dans un plat chaud.
+    Pour la sauce :Déglacer le jus de cuisson avec le vin blanc. Ensuite, ajouter la c.à café de moutarde, le poivre de cayenne
+    la crème fraîche et le fond de veau tout en mélangeant.
+    Napper le rôti de la sauce.
+    En accompagnement, je suggère des princesses et pommes croquettes
+  ]]>
+  </preparation>
+</recette>

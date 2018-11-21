@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19458">
+  <titre>Cake au maïs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>1 verre de sucre</p>
+    <p>1 verre de lait</p>
+    <p>3/4 verre d'huile</p>
+    <p>1 sachet levure chimique</p>
+    <p>2 verres de farine de maïs</p>
+    <p>2 verres de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs avec le sucre, y ajouter le lait le l'huile et puis ajouter le mélange farine de mais + farine et levure. 
+    Mettre dans un moule pour pain de mie beurre ou avec papier sulfurisé. 
+    Cuire pendant 45 mn à four à 200°C
+    Cake d'origine Brésilienne
+  ]]>
+  </preparation>
+</recette>

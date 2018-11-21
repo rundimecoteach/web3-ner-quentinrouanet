@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58884">
+  <titre>Lasagnes à la mousse de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 plaques de lasagne</p>
+    <p>200 g de champignons (en boite de conserve)</p>
+    <p>400 g de carottes (en boite de conserve)</p>
+    <p>1 petit oignon</p>
+    <p>1 échalote</p>
+    <p>ail</p>
+    <p>coriandre</p>
+    <p>parmesan</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer une poêle avec un peu d'huile d'olive.
+    Une fois chaude, y verser l'oignon haché, l'ail et l'échalote hachés aussi. Laissez cuire 3 minutes, en prenant soin, bien sûr, que cela ne brûle pas !
+    Puis ajouter les courgettes coupées en petits morceaux ainsi que les carottes et les champignons. Laisser chauffer pendant 8 minutes, en mélangeant, et rajouter un peu de coriandre.
+    Mettre ensuite au mixeur tout ce mélange.
+    Disposer dans un plat à four en alternance des plaques de lasagne et la préparation (vous pouvez faire tremper une par une les lasagnes dans de l'eau bouillante pendant 1 minute pour un temps de cuisson moins long ensuite).
+    N'hésitez pas à mettre quelques rondelles de courgettes sur le dessus pour un peu de déco, du parmesan sur le dessus et enfourner ensuite pendant 15 minutes à 200°C (thermostat 6-7).
+    Et Voila !
+  ]]>
+  </preparation>
+</recette>

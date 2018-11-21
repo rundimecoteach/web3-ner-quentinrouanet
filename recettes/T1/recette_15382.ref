@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15382">
+  <titre>Bananier</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bananes</p>
+    <p>200 g de chocolat à cuire</p>
+    <p>4 oeufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>50 g de farine</p>
+    <p>150 g de beurre</p>
+    <p>1 moule à manqué</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 5/6 (160°C).
+    Faites fondre le chocolat avec le beurre sur feu très doux.
+    Ajoutez un à un les oeufs entiers, le sucre et la farine en mélangeant bien à chaque fois.
+    Beurrez et farinez votre moule et versez la moitié de la préparation.
+    Pelez les bananes, coupez-les en rondelles et disposez-les dans le moule pour recouvrir le chocolat.
+    Versez le reste de la préparation et faites cuire votre gâteau 35 min à thermostat 5/6.
+    Laissez refroidir avant de déguster.
+    Le gâteau est fondant et délicieux !!!
+  ]]>
+  </preparation>
+</recette>

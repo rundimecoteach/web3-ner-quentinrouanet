@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171111">
+  <titre>Pâtes à la viande, tomates et ricotta</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oignons</p>
+    <p>1 échalote</p>
+    <p>2 pointes d'ail</p>
+    <p>400 g de viande de bœuf haché</p>
+    <p>4 saucisses knacki</p>
+    <p>500 g de pâtes (pennes ou tagliatelles)</p>
+    <p>400 g de tomates pelées</p>
+    <p>200 g de champignons de Paris</p>
+    <p>250 g de sauce tomate ricotta</p>
+    <p>basilic</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>sucre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un premier temps, hachez finement l'ail, les oignons et l'échalote. Faire revenir le tout dans une sauteuse avec de l'huile d'olive.
+    Pendant ce temps, égoutter les tomates et les champignons. Lorsque les oignons sont devenus translucides, verser 2 à 3 cuillères à café de sucre dans la sauteuse et remuer énergiquement afin de caraméliser légèrement le mélange.
+     
+    Pendant ce temps, faites cuire les pâtes dans une grande casserole remplie d'eau salée avec un filet d'huile d'olive.
+     
+    Passer à feu doux et ajouter les saucisses coupées en rondelles. Ajouter également les champignons. Lorsque les saucisses ont un peu coloré, ajouter la viande hachée.
+    Lorsque la viande hachée est elle aussi un peu colorée, ajouter les tomates pelées et le bocal de sauce tomates ricotta.Égoutter les pâtes et les réserver dans un saladier.
+    Remuer et laisser mijoter à feu doux assaisonner à votre convenance et ajouter 1 cuillère à café de basilic.
+    Goûtez et c'est prêt.Servez bien chaud sur les pâtes comme des pennes ou des tagliatelles.
+    Vous pouvez également ajouter de l'emmental râpé ou du parmesan râpé.
+  ]]>
+  </preparation>
+</recette>

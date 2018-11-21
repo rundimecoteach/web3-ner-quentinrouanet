@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29772">
+  <titre>Brochettes de poulet indiennes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de blancs de poulet</p>
+    <p>1 botte de petits oignons</p>
+    <p>2 yaourts</p>
+    <p>1/2 citron</p>
+    <p>1 cuillère à café de curcuma</p>
+    <p>1 pointe de couteau de piment fort</p>
+    <p>1/2 cuillère à café de cumin en poudre</p>
+    <p>1/2 cuillère  à café de coriandre en poudre</p>
+    <p>1 cuillère à soupe d'huile, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les blancs de poulet en morceaux. Mélangez les yaourts avec les épices.
+    Mettez le poulet dans un plat creux, avec les yaourts aux épices. Mélangez bien, couvrez, et laissez mariner 3 h au réfrigérateur.
+    Egouttez le poulet, et enfilez les morceaux sur des pics à brochettes en les alternant avec quelques quartiers d'oignons. Assaisonnez.
+    Faites cuire 10 à 12 min sous le grill du four, à 200°C (thermostat 6-7).
+    Emincez les 2 oignons. 
+    Dans une poêle avec un peu d'huile, faites les blondir 2 à 3 min, puis mélangez-les avec les yaourts de la marinade et faites chauffer sans faire bouillir. Assaisonnez et ajoutez un filet de citron.
+    Dressez de suite les brochettes sur des assiettes et accompagnez de la sauce.
+  ]]>
+  </preparation>
+</recette>

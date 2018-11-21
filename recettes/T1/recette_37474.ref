@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37474">
+  <titre>Muffins aux fraises (sans beurre, sans lait)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>140 g de farine complète (ou blanche)</p>
+    <p>70 g de sucre </p>
+    <p>125 ml de lait de soja ou un "yaourt" au soja</p>
+    <p>1 oeuf</p>
+    <p>150 g de fraises</p>
+    <p>1/2 cuil à café de cannelle</p>
+    <p>1 pincée de bicarbonate de soude</p>
+    <p>1 pincée de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (Thermostat 6) et beurrer les moules à muffins (s'ils ne sont pas en silicone). 
+    Laver les fraises, les équeuter et les détailler en cubes (plus ou moins gros selon l'envie).
+    Mélanger les ingrédients suivants dans deux récipients séparés :
+    Mélange 1 : farine, sel, sucre, bicarbonate, levure chimique et cannelle.
+    Mélanger au fouet
+    Mélange 2 : yaourt ou lait au soja, , extrait de vanille, oeufs .
+    Battre ce mélange. Ajouter les fraises.
+    Faire un puit dans le mélange 1 et y introduire le mélange 2. 
+    Homogénéiser rapidement avec une spatule. Inutile de trop battre la pâte, elle doit avoir un aspect grumeleux.
+    Verser la pâte dans chaque moule.
+    Enfourner sans attendre.
+    Cuire 20 à 30 min à 180°C.
+    Piquer dans la pâte pour vérifier la cuisson : quand l'aiguille ressort sèche, les muffins sont cuits.
+    Laissez refroidir 5 minutes dans leur moule puis démouler sur une grille.
+    Ces muffins sont très moelleux, les fraises fondantes les gardent  hydratés.
+    On peut aussi rajouter du chocolat blanc en gros dés.
+  ]]>
+  </preparation>
+</recette>

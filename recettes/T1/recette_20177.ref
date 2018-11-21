@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20177">
+  <titre>Morbiflette</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros oignon</p>
+    <p>300 g de lardons</p>
+    <p>10 pommes de terre</p>
+    <p>300 g de Morbier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pommes de terre à la vapeur puis les éplucher. 
+    Les couper en rondelles et les disposer dans un plat allant au four. 
+    Ensuite faire revenir les oignons ainsi que les lardons et les verser sur les pommes de terre. 
+    Couper le Morbier en lamelles et en garnir le plat. 
+    Mettre le tout au four a 240°C pendant 20 mn.
+    Servir avec une salade verte vin du Jura, Chardonnay 
+  ]]>
+  </preparation>
+</recette>

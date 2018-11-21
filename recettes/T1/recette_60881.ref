@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60881">
+  <titre>Emincé de volaille façon Kahn</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 escalopes ou steaks de volaille</p>
+    <p>2 courgettes pelées et tronçonnées</p>
+    <p>3 oignons hachés</p>
+    <p>3 tomates pelées et tranchées</p>
+    <p>1 petite gousse d'ail hachée</p>
+    <p>200 g de champignons de Paris émincés (ou 1 petite boîte)</p>
+    <p>1 carré de sucre</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>8 cl sauce de soja supérieure saveur champignons (épaisse)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans une sauteuse les oignons avec l'huile d'olive.
+    Pendant la cuisson, couper en lamelles les escalopes.
+    Quand les oignons ont sué, verser dans la sauteuse tous les légumes coupés en morceaux.
+    Ajouter la sauce soja puis laisser mijoter pour faire réduire jusqu'au tiers le jus.
+    Ajouter enfin les lamelles de volaille et le sucre. Laisser cuire 5 minutes.
+    Si besoin : saler , poivrer.
+    Rectifier la sauce (qui doit être noire) en rajoutant de la sauce soja. Ce plat est encore meilleur quand il est fait la veille. Il est apprécié avec du riz Basmati ou des nouilles chinoises. La sauce soja épaisse se trouve dans les magasins asiatiques. Vin rouge : Saint Chinian
+  ]]>
+  </preparation>
+</recette>

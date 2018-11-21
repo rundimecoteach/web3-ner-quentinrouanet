@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170518">
+  <titre>Brochettes de légumes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 petites courgettes</p>
+    <p>2 poivrons rouges</p>
+    <p>2 poivrons jaunes</p>
+    <p>2 poivrons verts</p>
+    <p>3 aubergines</p>
+    <p>10 cl d'huile d'olives</p>
+    <p>herbes aromatiques (selon les goûts)</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les courgettes de façon à ce qu'elles soient rayées et les couper en tranches.
+    Epépiner et couper les poivrons en "carrés".Peler et couper les aubergines en tranches.
+    Faire mariner le tout pendant 2 heures dans de l'huile d'olives avec des herbes aromatique (romarin pour ma part) et du sel.
+    Il ne reste plus qu'à alterner chaque morceau de légumes sur un pic à brochettes. Les déposer sur le barbecue pendant environ 15 min en les retournant régulièrement.
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

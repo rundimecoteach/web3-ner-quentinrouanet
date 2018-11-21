@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23658">
+  <titre>Gratin de fruits croustillant</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses boîtes de fruits au sirop (poires, pêches, abricots, etc...)</p>
+    <p>200 g de crème fraîche liquide</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>60 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>3 cuillères à soupe de rhum</p>
+    <p>cassonade (plus ou moins 30 g, selon votre goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat à gratin, répartir les fruits coupés en lamelles.
+    Battre les jaunes d'oeufs avec les sucres jusqu'à ce que le mélange blanchisse.
+    Faire chauffer la crème dans une casserole puis ajouter le rhum. Verser la crème chaude sur le mélange sucre-oeufs puis transvaser à nouveau dans la casserole et remettre sur feu doux.
+    Dès que la préparation s'épaissit (elle reste tout de même assez liquide, comme une crème anglaise) et qu'il n'y a plus de mousse, la verser sur les fruits. Laisser refroidir.
+    Avant de servir, saupoudrer le gratin de cassonade et faire griller 3 à 4 mn sous le grill du four jusqu'à ce qu'une croûte dorée soit formée. Servir immédiatement.
+    Vous pouvez associer les fruits selon les goûts, ajouter quelques framboises pour la couleur... A chacun de réinventer son propre gratin! gewurtzraminer
+  ]]>
+  </preparation>
+</recette>

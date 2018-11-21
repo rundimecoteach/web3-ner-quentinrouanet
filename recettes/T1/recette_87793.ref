@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87793">
+  <titre>Mont Blanc à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>6 oeufs</p>
+    <p>200 g de sucre</p>
+    <p>150 g de farine</p>
+    <p>Une pincée de sel</p>
+    <p>Pour la crème :</p>
+    <p>400 ml de lait de coco</p>
+    <p>400g de lait concentré sucré</p>
+    <p>2 cuillères à soupe rases de maïzena </p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>noix de coco râpée</p>
+    <p>zeste d'un citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le gâteau :
+    Séparer les blancs des jaunes d'oeufs.
+    Dans un saladier, battre les jaunes avec le sucre jusqu'à ce que le mélange blanchisse. Ajouter la farine et mélanger. 
+    Monter les blancs en neige ferme (avec une pincée de sel), les incorporer délicatement à la préparation précédente. Verser dans un moule rond, et faire cuire 20 minutes à 180°C (thermostat 6).Démouler et laisser refroidir.
+    Préparer la crème :
+    Dans une casserole verser le lait de coco, le lait concentré sucré et le zeste de citron. Récupérer dans un bol une louche de ce mélange. Faire bouillir le reste.
+    Ajouter au lait du bol la maïzena. Quand le mélange de la casserole boue, y ajouter la préparation à la maïzena et remuer jusqu'à épaississement. 
+    Parfumer au rhum.
+    Assemblage du gâteau :
+    Couper le gâteau en 2 dans le sens horizontal, napper de crème et de coco râpée. Reconstituer le gâteau, le badigeonner du reste de crème (dessus et côté), saupoudrer de noix de coco rapée (y compris sur le côté).
+    Laisser reposer au frais une nuit.
+    Déguster.
+    Un régal qui remporte à chaque fois un franc succès!
+  ]]>
+  </preparation>
+</recette>

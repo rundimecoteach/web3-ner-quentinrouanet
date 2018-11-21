@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173137">
+  <titre>Délice ardéchois (à la crème de marron)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g d'amandes en poudre</p>
+    <p>300 g de sucre</p>
+    <p>25 g de fécule</p>
+    <p>vanille liquide ou sucre vanillé</p>
+    <p>8 blancs d'œufs</p>
+    <p>1 boîte de crème de marron</p>
+    <p>20 cl de crème entière</p>
+    <p>2 cuillères à soupe de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les amandes en poudre, le sucre et la fécule.
+    Monter les blancs en neige et les incorporer au mélange amandes/sucre/fécule.Répartir le mélange dans 2 plats à tarte recouverts de papier sulfurisé.Cuire à 150°C (thermostat 5) pendant 30 min.
+    Quand les 2 galettes sont froides, enlever le papier sulfurisé et recouvrir l'une des galettes de crème de marron, puis de chantilly.
+    Poser la 2ème galette par dessus et saupoudrer de sucre glace.chantilly : 
+    Mettre tous les ingrédients au frigo plusieurs heures à l'avance, de même que les fouets et le plat en verre.
+    Battre la crème entière et les 2 cuillères de sucre glace jusqu'à l'obtention de la crème chantilly.
+  ]]>
+  </preparation>
+</recette>

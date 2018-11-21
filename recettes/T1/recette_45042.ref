@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45042">
+  <titre>Compotée de mendiants</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g d'abricots secs</p>
+    <p>125 g de figues sèches</p>
+    <p>125 g de dattes</p>
+    <p>50 g de raisins secs</p>
+    <p>50 g d'amandes</p>
+    <p>1 l de thé</p>
+    <p>120 g de sucre</p>
+    <p>1 gousse de vanille</p>
+    <p>1 bâton de cannelle</p>
+    <p>4 anis étoilés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez l'ensemble des fruits secs dans un saladier avec le thé tiède, laissez tremper pendant 4 heures.
+    Versez le tout dans une casserole avec le sucre en poudre, la gousse de vanille fendue en deux, la cannelle et l'anis étoilé.
+    Faites cuire à feu moyen pendant 20 minutes.
+    Versez le tout dans le saladier, laissez refroidir et réservez au réfrigérateur avant de servir.
+    Servir avec de la glace au caramel.
+  ]]>
+  </preparation>
+</recette>

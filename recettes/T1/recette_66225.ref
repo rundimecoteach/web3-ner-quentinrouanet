@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66225">
+  <titre>Galette des rois au trois chocolats</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>80 g de chocolat noir</p>
+    <p>80 g de chocolat au lait</p>
+    <p>80 g de chocolat blanc</p>
+    <p>60 g de d'amandes en poudre</p>
+    <p>12 cl de lait</p>
+    <p>2 pâtes feuilletés</p>
+    <p>1 jaune d'oeuf pour dorer</p>
+    <p>1 fève</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Disposer une pâte dans un moule à tarte, la piquer avec une fourchette.
+    Faire fondre les chocolats séparément dans un peu de lait.
+    Mélanger ensuite chaque type de chocolat avec une partie de la poudre d'amande. On obtient donc 3 pâtes chocolatées qu'on étale en cercles concentriques sur la première pâte.
+    Placer la fève et refermer la galette avec la deuxième pâte, bien coller les bords.
+    Tracer un motif au couteau et dorer au jaune d'oeuf (dilué dans un peu d'eau ou de lait).
+    Enfourner pendant 30 minutes.
+     Un cidre
+  ]]>
+  </preparation>
+</recette>

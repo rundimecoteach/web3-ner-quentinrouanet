@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55518">
+  <titre>Tarte soufflée au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de 400 g de fromage pour fondue au fromage</p>
+    <p>3 oeufs</p>
+    <p>1 pâte feuilletée</p>
+    <p>sel, poivre</p>
+    <p>herbes au choix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le sachet de fondue ouvert au micro-onde (2 min 30).
+    Séparez les oeufs et battez les blancs en neige.
+    Etalez votre pâte feuilletée dans un moule à tarte.
+    Dans un bol, mélangez le sachet de fondue avec les jaunes d'oeufs et incorporez les blancs.
+    Rajoutez des herbes si vous le souhaitez.
+    Versez sur la pâte feuilletée et enfournez dans le four préchauffé à 200 °C pendant 30 minutes.
+    Dégustez chaud avec une bonne salade.
+  ]]>
+  </preparation>
+</recette>

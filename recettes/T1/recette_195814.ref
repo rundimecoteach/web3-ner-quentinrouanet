@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195814">
+  <titre>Velouté d'avocat</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 avocats souples</p>
+    <p>1/2 jus de citron</p>
+    <p>10 cl de crème liquide</p>
+    <p>50 cl de bouillon de volaille</p>
+    <p>1 pincée de muscade</p>
+    <p>60 g de parmesan en morceaux ou râpé</p>
+    <p>12 brins de ciboulette</p>
+    <p>8 feuilles de basilic</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les avocats, retirez le noyau, coupez-les en morceaux puis écrasez-les à la fourchette ou au mixeur en fine purée avec le jus de citron. Versez la purée d'avocat dans une casserole, ajoutez la crème liquide et le bouillon de volaille et mélangez au fouet.
+    Assaisonnez en sel, poivre et muscade puis faites chauffer à feu doux tout en remuant.
+    Retirez du feu dès les premiers frémissements. Ensuite, versez la crème d'avocat dans des bols.
+    Découpez le parmesan en très petits copeaux à l'aide d'un économe et parsemez-en le velouté. Vous pouvez aussi mettre du parmesan râpé.Décorez de ciboulette et de basilic. Un bordeaux-clairet (rosé), un tokay-pinot gris.
+  ]]>
+  </preparation>
+</recette>

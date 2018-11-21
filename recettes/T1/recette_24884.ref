@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24884">
+  <titre>Tarte au potiron et aux lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 potiron de taille moyenne</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de crème fraîche épaisse</p>
+    <p>200 g de lardons</p>
+    <p>pâte feuilletée</p>
+    <p>gruyère râpé</p>
+    <p>sel , poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le potiron à la vapeur. Ecrasez les morceaux de potiron à l'aide d'une fourchette. Ajoutez les oeufs, la farine , sel , poivre.
+    Etaler la pâte,la mettre dans un moule à tarte, à l'aide d'une pointe de couteau , piquer la pâte.
+    Faire revenir les lardons, les parsemer sur le fond de tarte.
+    Ajoutez le mélange potiron.
+    Parsemer le tout de gruyère râpé. 
+    Faire cuire pendant 40 mn à 200°C
+    Accompagner la tarte d'une salade verte.
+  ]]>
+  </preparation>
+</recette>

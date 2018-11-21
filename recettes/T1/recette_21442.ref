@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21442">
+  <titre>Cannellonis poulet mozzarella</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 blancs de poulet</p>
+    <p>125 g de mozzarella</p>
+    <p>4 tranches de poitrine fumée</p>
+    <p>2 oeufs</p>
+    <p>3 tomates</p>
+    <p>4 feuilles de lasagne</p>
+    <p>parmesan râpé</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>thym</p>
+    <p>huile d'olive</p>
+    <p>1 sucre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon émincé dans un peu d'huile d'olive. 
+    Ajouter les tomates coupées en petits dés et épépinées, la gousse d'ail hachée et un sucre. 
+    Laisser compoter au moins 20 mn. Vous pouvez mixer la sauce obtenue si vous la préférez plus onctueuse. 
+    Faire chauffer de l'eau salée avec une cuillère à soupe d'huile d'olive. 
+    A l'ébullition, mettre les feuilles de lasagne à cuire pendant 5 mn. Les sortir de l'eau et les laisser refroidir sur un torchon propre avant de les couper en deux. 
+    Faire rôtir les blancs de poulet arrosés d'un filet d'huile d'olive, de sel, de poivre et de thym au four (200°c) pendant 15 mn. Couper la mozzarella et le poulet en dés et les mélanger en ajoutant les 2 oeufs entiers. 
+    Dans chaque carré de lasagne obtenu, déposer une demi-tranche de poitrine fumée et le mélange poulet-mozzarella. Fermer. 
+    Tapisser le fond d'un plat de sauce tomate. Déposer les cannellonis. Les recouvrir de sauce tomate et de parmesan. Faire cuire au four (200°C) pendant 25 mn.
+  ]]>
+  </preparation>
+</recette>

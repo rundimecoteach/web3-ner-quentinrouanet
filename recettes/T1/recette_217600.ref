@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217600">
+  <titre>Cake au surimi et tomates</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 sachet de surimi râpé</p>
+    <p>3 tomates</p>
+    <p>100 g de fromage râpé</p>
+    <p>150 g de farine</p>
+    <p>12 cl de lait </p>
+    <p>10 cl d'huile (olive ou autre)</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>3 œufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180° C (thermostat  6).Dans un saladier, mélanger les œufs, la farine et la levure chimique.
+    Ajouter le lait et l'huile préalablement chauffés 35 secondes au micro ondes puissance max.
+    Assaisonner à votre goût (j'ai mis du thym, du poivre et de l’échalote).Ajouter ensuite le fromage râpé puis le surimi et les tomates coupées en dés.
+    Verser dans un moule à cake et cuire 40 min à 180°C.
+  ]]>
+  </preparation>
+</recette>

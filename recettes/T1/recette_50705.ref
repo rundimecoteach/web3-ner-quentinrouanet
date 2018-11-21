@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50705">
+  <titre>Hachis saumon courge spaghetti</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courge spaghetti</p>
+    <p>4 portions de saumon</p>
+    <p>gruyère rapé</p>
+    <p>20 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>25 cl d'eau</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>2 tomates</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire la courge entière à l'eau bouillante pendant 45 minutes.
+    Préchauffer le four à 180°C (thermostat 6).
+    Cuire les portions de saumon à l'eau bouillante salée.
+    Préparer la sauce : faire fondre le beurre sur feu doux, incorporer la farine puis verser progressivement l'eau.
+    Laisser épaissir légèrement, la sauce doit rester fluide.
+    Ajouter la crème puis la chair des tomates en dés.
+    Laisser sur feu doux quelques minutes puis mixer pour obtenir une sauce onctueuse.
+    Quand la courge est cuite, la couper en 2 dans le sens de la longueur, ôter les pépins puis détacher la peau qui vient très facilement.
+    Mélanger les spaghetti de courge à la sauce.
+    Emietter le saumon cuit dans le plat de cuisson puis recouvrir de la préparation et de gruyère.
+    Enfourner 20 minutes pour le que dessus dore bien et servir bien chaud.
+    Délicieux... voilà la note que mon mari a donné à ce plat... 
+  ]]>
+  </preparation>
+</recette>

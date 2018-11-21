@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46423">
+  <titre>Soupe au fenouil et à la courgette</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>1 fenouil</p>
+    <p>2 courgettes</p>
+    <p>1 pomme de terre</p>
+    <p>2 kiri</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'oignon et le fenouil en petits morceaux, et les faire revenir à feu doux pendant 10 min, dans une grande casserole. 
+    Pendant ce temps, couper les courgettes et la pomme de terre(épluchée) en petits morceaux.
+    Ajouter les morceaux de courgette et de pomme de terre, recouvrir le tout d'eau, et mettre un couvercle sur la casserole. Laisser cuire à feu moyen pendant 30 min. 
+    Ajouter les kiris, puis mixer.
+    Vous pouvez rajouter de la crème fraiche au moment de servir.
+    Les courgettes peuvent être remplacées par des carottes, question de goût!
+  ]]>
+  </preparation>
+</recette>

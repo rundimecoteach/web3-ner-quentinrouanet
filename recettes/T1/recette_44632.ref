@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44632">
+  <titre>Endives à la Francomtoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg d'endives</p>
+    <p>100 g de lardons</p>
+    <p>100 g de comté râpé</p>
+    <p>1 barquette de dés de jambon ou du jambon émincé (4 tranches)</p>
+    <p>25 cl de crème fraîche</p>
+    <p>curry</p>
+    <p>1 bel oignon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire revenir les oignons, puis les lardons et les endives qu'il faut bien braiser.
+    Ajouter le jambon, et une bonne dose de curry. 
+    Couvrir, et faire cuire.
+    Ajouter la crème.
+    Disposer le tout dans un plat à gratin, et parsemer de comté.
+    Faire gratiner au four, à 180°C (th 6).
+    Délicieux, avec des pommes vapeur, du riz, ou de la semoule... blanc du jura
+  ]]>
+  </preparation>
+</recette>

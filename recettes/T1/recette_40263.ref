@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40263">
+  <titre>Tatin d'artichauts aux échalotes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 boîte de 400g de fonds d'artichauts</p>
+    <p>4 échalotes</p>
+    <p>100 g de dés d'épaule </p>
+    <p>1 pot de sauce tomate napolitaine</p>
+    <p>2 cuillères à soupe de persil ciselé</p>
+    <p>1 cuillère à café d'huile</p>
+    <p>sel, poivre</p>
+    <p>matériel : 1 moule à manqué</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 200°C (Thermostat 7-8). 
+    Epluchez et hachez les échalotes. Faites-les revenir dans une poêle
+    avec l'huile environ 5 min à feu moyen.
+    Coupez les artichauts en morceaux.
+    Dans un saladier mélangez-les aux échalotes et à la sauce tomate.
+    Salez, poivrez.
+    Versez ce mélange dans le moule puis recouvrez de la pâte.
+    Faites cuire au four environ 25 min.
+    Démoulez.
+    Saupoudrez votre tarte de persil juste avant de servir.
+     rosé de Provence
+  ]]>
+  </preparation>
+</recette>

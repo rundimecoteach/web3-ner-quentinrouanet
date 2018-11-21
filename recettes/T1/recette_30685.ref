@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30685">
+  <titre>Poivrons farcis à la chair à saucisse</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 poivrons</p>
+    <p>350 g de riz</p>
+    <p>300 g de chair à saucisse</p>
+    <p>200 g de viande cuite au choix</p>
+    <p>3 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>4 tranches de pain de mie</p>
+    <p>20 cl de bouillon ou de lait</p>
+    <p>3 cuillères à soupe de persil frais haché</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez séparément les oignons, l'ail et les restes de viande. Faites tremper la mie de pain dans le bouillon ou le lait.
+    Faites blondir les oignons à la poêle dans un peu d'huile.
+    Ajoutez les reste de viande, la chair à saucisse et faites revenir quelques minutes en mélangeant.
+    Essorez la mie de pain (pressez entre vos mains), ajoutez-la dans la poêle ainsi que l'ail et le persil.
+    Salez, poivrez et laissez cuire 10 min en remuant.
+    Lavez et coupez les chapeaux des poivrons. Epépinez-les et remplissez-les avec la farce.
+    Dans un plat huilé, versez le riz, salez et poivrez.
+    Déposez les poivrons sur le riz, couvrez le riz d'eau (2 fois son volume).
+    Mettez au four 45 minutes à 180°C (thermostat 6).
+    Rajoutez un peu d'eau dans le riz en cours de cuisson s'il a tout bu.
+    Utilisez des restes de pot-au-feu, rôti de porc, boeuf, veau, poulet cuit...selon vos goûts, et vos restes !
+  ]]>
+  </preparation>
+</recette>

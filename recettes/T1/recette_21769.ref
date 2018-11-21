@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21769">
+  <titre>Cake Ninon</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 œufs</p>
+    <p>12,5 cl d huile</p>
+    <p>300 g de sucre</p>
+    <p>550 g de courgettes râpées ou de courge</p>
+    <p>1 sachet de sucre vanille</p>
+    <p>400 g de farine</p>
+    <p>150 g de noix hachées</p>
+    <p>2 cuillères à café de bicarbonate</p>
+    <p>2 cuillères à café de cannelle</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 cuillère à café de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs avec le sucre. 
+    Ajouter tous les ingrédients. 
+    Préchauffer le four à 175°C. Verser la préparation dans un moule à cake beurre et farine. 
+    Cuire 1h30 min au four. Laisser refroidir avant de démouler.Ma grand-mère faisait ce cake avec les légumes du jardin selon la saison pour nous faire manger des légumes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14946">
+  <titre>Gratin de pommes de terre et de tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>2 oignons rouges ou jaunes finement émincés</p>
+    <p>1 kg de pommes de terre, épluchées et coupées en tranches fines</p>
+    <p>450 g de tomates fraîches coupées en tranches avec leur jus</p>
+    <p>115 g de parmesan frais râpé</p>
+    <p>sel, poivre</p>
+    <p>basilic</p>
+    <p>50 ml d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C.Huilez généreusement un grand plat à gratin.
+    Disposez une couche d'oignon au fond du plat, puis une couche de pommes de terre et de tomates.
+    Arrosez avec un peu d'huile et saupoudrez de parmesan. Salez et poivrez. Répétez l'opération tant qu'il reste des légumes, en terminant par une
+    couche de pommes de terre et de tomates entrecroisées.
+    Ciselez les feuilles de basilic et dispersez-les
+    dans les légumes sur le dessus, saupoudrez le tout de parmesan et arrosez avec un filet d'huile 
+    d'olive.
+    Versez l'eau sur le gratin et faites cuire au fou pendant 1 h. Si le dessus commence à roussir,
+    couvrez le plat avec du papier aluminium. Servir très chaud.
+  ]]>
+  </preparation>
+</recette>

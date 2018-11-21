@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19843">
+  <titre>Poivrons farcis express</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 poivrons</p>
+    <p>environ 500 g de chair à saucisse</p>
+    <p>même quantité de riz cuit (rond de préférence) </p>
+    <p>1/2 l de bouillon dégraissé</p>
+    <p>1 boîte de concentré de tomates</p>
+    <p>persil plat (du persil congelé s'y prête très bien)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Vider les poivrons. 
+    Mélanger la chair à saucisse avec le riz cuit, ajouter le persil. Remplir les poivrons avec ce mélange. 
+    Choisir une cocotte où on peut mettre les poivrons «debout» assez serrés.
+     
+    Mélanger le concentré de tomates avec le bouillon. 
+    Arroser les poivrons avec ce mélange (le niveau de liquide ne doit pas dépasser 2-3 cm de fond, et surtout ne jamais couvrir les poivrons). 
+    Couvrir et cuire au four 60 mn à 200°C environ. Cuisson possible en cocotte-minute.
+  ]]>
+  </preparation>
+</recette>

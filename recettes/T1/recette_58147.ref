@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58147">
+  <titre>Nouilles sautées au poisson</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de nouilles chinoises</p>
+    <p>3 petits filets de poisson blanc</p>
+    <p>100 g de lardons</p>
+    <p>2 petites courgettes</p>
+    <p>sauce soja</p>
+    <p>nuoc mam</p>
+    <p>huile de sésame</p>
+    <p>tabasco</p>
+    <p>1 gousse d'ail</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tout d'abord faire cuire les nouilles à l'eau. 
+    Et surtout bien les rincer à l'eau froide 2 ou 3 fois.
+    Couper les courgettes en cubes.
+    Couper le poisson en cubes.
+    Faire revenir les lardons dans le wok.
+    Ajouter les courgettes et l'ail écrasé et cuire pendant quelques minutes.
+    Ajouter le poisson avec 2 cuillères à soupe de sauce soja, quelques gouttes de tabasco, 1 cuillère à soupe de sauce de poisson et du poivre.
+    Cuire 2-3 min en remuant.
+    Ajouter les nouilles et une cuillère à soupe d'huile de sésame et cuire encore 2-3 min.
+    Rectifier l'assaisonnement.
+    Servir chaud.Les nouilles doivent être bien rincées pour ne pas coller ensuite.
+    On peut utiliser des filets de poissons surgelés si on les laisse décongeler doucement et qu'on les égoutte bien en les essuyant avec du papier absorbant. Mâcon blanc ou bourgogne aligoté
+  ]]>
+  </preparation>
+</recette>

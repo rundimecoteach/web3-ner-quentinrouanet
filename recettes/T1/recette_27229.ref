@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27229">
+  <titre>Papillotes de truites à la tomate et au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 truites vidées</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>3 tomates</p>
+    <p>3 citrons</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à café de thym</p>
+    <p>6 feuilles de basilic</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Déposer les truites sur 6 feuilles de papier sulfurisé huilée.
+    Emincer les tomates, les citrons et l'oignon en rondelles puis les répartir sur les poissons.
+    Arroser d'huile d'olive, saupoudrer de thym, de basilic ciselé, de sel et de poivre.
+    Fermer hermétiquement les papillotes et enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

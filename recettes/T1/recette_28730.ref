@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28730">
+  <titre>Purée d'avocat au roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>75 g de Roquefort</p>
+    <p>1 citron </p>
+    <p>laitue</p>
+    <p>olives noires et tomates cerises</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirez la chair des avocats sans abîmer l'écorce. Réduisez en purée avec le jus de citron et le roquefort, un peu de sel et de poivre.
+    Déposez quelques feuilles de laitue au fond des coques d'avocat, puis remplissez-les du mélange avocat-roquefort.
+    Décorez avec des olives noires et des tomates cerises et servez bien frais.
+  ]]>
+  </preparation>
+</recette>

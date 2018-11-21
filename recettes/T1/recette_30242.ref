@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30242">
+  <titre>Clafoutis aux cerises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>375 g de cerises </p>
+    <p>60 g de farine</p>
+    <p>50 g de sucre semoule</p>
+    <p>3 œufs</p>
+    <p>12 cl de lait</p>
+    <p>1 petite pincée de sel</p>
+    <p>3 cl liqueur de kirsch</p>
+    <p>sucre glace pour la décoration</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer et fariner légèrement un moule à manqué.
+    Laver et dénoyauter les cerises puis les disposer au fond du moule.
+    Préchauffer votre four à 210°C (thermostat 7).
+    Dans un saladier, verser la farine et faire une fontaine dans laquelle vous incorporerez les œufs, le sucre et le sel.
+    Battre le tout en versant tout doucement le lait jusqu'à l’obtention d’un appareil bien lisse.
+    Ajouter ensuite le kirsch, mélanger puis verser l’appareil sur les cerises.
+    Enfourner à four chaud pendant 40 à 50 min.
+    Sortir du four, laisser refroidir un peu à température ambiante, puis saupoudrer de sucre glace pour la décoration.
+    Prévoir un certain temps pour dénoyauter les cerises.
+  ]]>
+  </preparation>
+</recette>

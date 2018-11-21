@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169827">
+  <titre>Lasagnes aux légumes et lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 à 10 feuilles de lasagne</p>
+    <p>1 grosse aubergine </p>
+    <p>3 courgettes</p>
+    <p>1 oignon</p>
+    <p>1 boite de 40 cl de lait de coco </p>
+    <p>3 tomates</p>
+    <p>80 g  de fromage râpé</p>
+    <p>gingembre</p>
+    <p>ail</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon. 
+    Couper les aubergines et les courgettes.
+    Faire revenir les oignons dans une cuillère à soupe d'huile, ajouter les légumes, mouiller à l'eau à hauteur des légumes et ajouter le lait de coco, l'ail, le gingembre et la ciboulette. Saler, poivrer. Faire cuire jusqu'à ce que les aubergines soient fondantes, et que le liquide de cuisson soit onctueux et crémeux (30 min environ).Pendant ce temps pré cuire les lasagnes si nécessaire.
+    Assembler le plat : d'abord une couche de légumes, puis une couche de lasagnes, jusqu'à épuisement des légumes. Terminer par une couche de lasagnes.
+    Couper les tomates, les répartir sur la dernière couche de lasagne. Saler, poivrer, poudrer d'herbes de Provence. Pour finir, saupoudrer de fromage râpé.Cuire à 180°C (thermostat 6) pendant 20 minutes, le temps que le fromage fonde et que les lasagnes et les tomates cuisent.
+  ]]>
+  </preparation>
+</recette>

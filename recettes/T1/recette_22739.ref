@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22739">
+  <titre>Soupe poireaux pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 poireaux</p>
+    <p>500 g de pommes de terre</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à café de farine</p>
+    <p>2 cuillerées à café de sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez et coupez les poireaux en tronçons.
+    Epluchez et coupez les pommes de terre en gros dés.
+    Mettez le tout dans une marmite, couvrez avec 1 l d'eau, salez et poivrez. Laissez cuire 30 minutes.
+    Travaillez le beurre avec la farine.
+    Mixez la soupe, versez-en un peu sur le beurre manié (beurre + farine) dans la soupière, fouettez et versez le reste de la soupe.
+    Servez avec de la crème, des croûtons et du fromage râpé.
+  ]]>
+  </preparation>
+</recette>

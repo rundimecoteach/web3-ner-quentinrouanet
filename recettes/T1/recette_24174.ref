@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24174">
+  <titre>Lasagnes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 paquet de pâte à lasagnes</p>
+    <p>250 g de viande hachée de boeuf</p>
+    <p>150 g de chair a saucisse</p>
+    <p>1 boîte de tomates en dés</p>
+    <p>1 bouteille de purée de tomate (passata)</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 branche de céleri</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>basilic (frais si possible)</p>
+    <p>mozzarella</p>
+    <p>Pour la béchamel :</p>
+    <p>beurre </p>
+    <p>maïzena </p>
+    <p>lait </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et hacher finement l'oignon, la carotte et la branche de céleri (en ayant pris soin d'en retirer les feuilles que l'on réserve pour plus tard).Dans une marmite ou une cocotte, verser un fond d'huile d'olive et y ajouter la moitié du mélange préalablement préparé, puis y ajouter toute la tomate.
+    Ajouter ensuite un bouquet constitué des feuilles de céleri et de deux branches de basilic entières, bouquet que l'on retirera en fin de cuisson de la sauce
+    Préparer une béchamel classique et la réserver.
+    Prendre ensuite un autre récipient et y ajouter un fond d'huile d'olive, le reste de hachis (oignon + carotte + céleri), puis ajouter la chair à saucisse, laisser cuire environ 5 minutes et ajouter le boeuf.
+    Lorsque le mélange a pris sa couleur, le retirer du feu et le mélanger avec la béchamel.
+    Si vous avez le temps, laissez cuire la sauce tomate environ 1 heure à feux doux en rajoutant un peu d'eau si nécessaire.
+    Procéder ensuite de la manière habituelle en faisant une couche de pâtes, une couche de tomate, une couche de béchamel + viande, en rajoutant quelques feuilles de basilic entre chaque couche.
+    Laisser cuire environ 35 min à four moyen et recouvrir de mozzarella coupée en petits morceaux quelques minutes avant de servir.Méfiez-vous pour la mozzarella de bufflone, elle est excellente et étant napolitaine, je ne mange que celle-la, mais elle ne supporte pas la cuisson! Les italiens utilisent la 'fior di latte' pour la cuisson, c'est à dire celle que l'on trouve en France.
+  ]]>
+  </preparation>
+</recette>

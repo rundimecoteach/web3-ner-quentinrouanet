@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45933">
+  <titre>Filets de sole roulés au saumon et gambas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de soles</p>
+    <p>4 tranches de saumon fumé</p>
+    <p>4 gambas </p>
+    <p>25 cl de crème fraîche</p>
+    <p>2 cuillers à soupe de farine</p>
+    <p>50 g de beurre</p>
+    <p>80 g d'emmenthal rapé</p>
+    <p>sel et poivre</p>
+    <p>1 pincée de nois de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la béchamel : faire fondre le beurre puis rajouter la farine (hors du feu) puis remettre sur le feu en mélangeant vivement avec la crème, saler et ajouter de la noix de muscade.
+    Poser un filet de sole, mettre une tranche de saumon fumé dessus, la gambas tout au bout puis rouler le tout et piquer d'un cure dents.
+    Continuer jusqu'à épuisement du poisson.
+    Saler et poivrer les rouleaux.
+    Beurrer un plat à gratin, y disposer les rouleaux, napper de sauce béchamel puis parsemer d'emmenthal.
+    Faire cuire au four à 200°C (thermostat 6-7) 15 minutes environ.
+    S'accompagne merveilleusement de riz ou de pommes vapeur, et un bon vin blanc bien frais! blanc sec
+  ]]>
+  </preparation>
+</recette>

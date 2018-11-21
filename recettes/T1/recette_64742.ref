@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64742">
+  <titre>Cake aux petits pois et lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 barquette de lardons</p>
+    <p>1 boîte de petits pois</p>
+    <p>3 œufs</p>
+    <p>10 cl d'huile</p>
+    <p>sel, poivre &amp; basilic</p>
+    <p>100 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>chapelure</p>
+    <p>100 g de Maïzena</p>
+    <p>½ boîte concentré tomates</p>
+    <p>4 cuillères à soupe de fromage blanc</p>
+    <p>fromage râpé</p>
+    <p>beurre</p>
+    <p>papier sulfurisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C (thermostat 7-8).
+    Égoutter la boîte de petits pois.
+    Faire revenir les lardons, les égoutter.
+    Dans un saladier, mélanger les œufs, l'huile, le fromage blanc et le concentré de tomate. 
+    Assaisonner selon votre goût avec le sel, le poivre et le basilic.
+    Ajouter la farine, la Maïzena, la levure, les lardons puis les petits pois. Mélanger délicatement.
+    Verser dans un moule à cake chemisé de papier sulfurisé.
+    Saupoudrer de fromage râpé et de chapelure et ajouter un peu de beurre pour que cela gratine.
+    Cuire pendant 50 min.
+    Il peut se manger chaud comme froid. 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44294">
+  <titre>Salade sandwich 2 en 1</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 escalopes de poulet (250 g en tout environ)</p>
+    <p>1 sachet de carottes et choux râpés mélangés (rayon salade en sachet)</p>
+    <p>120 g de Mimolette vieille, ou Gouda mi-vieux (selon votre préférence)</p>
+    <p>1 mayonnaise maison ou toute faite (selon votre préférence et le temps dont vous disposez)</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à café de curry en poudre (facultatif)</p>
+    <p>1 pain de mie tranché (si vous choisissez de faire les sandwichs)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les escalopes de poulet sans matière grasse dans une poêle anti-adhésive, à feu très doux et à couvert (la vapeur développée sous le couvercle fera cuire le poulet plus vite et lui conservera tout son moelleux). Dès qu'il est cuit, l’enlever de la poêle pour éviter qu'il ne devienne sec. 
+    Réserver en laissant refroidir à température ambiante dans une assiette.
+    Dans un saladier, verser le sachet de carottes et choux râpés mélangés, râper le fromage et l'ajouter par-dessus.
+    Une fois le poulet refroidi, l’effilocher avec les doigts en petites lamelles, et l’ajouter dans le saladier.
+    Faire votre mayonnaise maison (ou ouvrir le pot de mayonnaise toute faite), verser dans le saladier (mettre la quantité qui vous convient selon votre goût d’assaisonnement), saupoudrer de curry (si vous aimez cette épice), saler, poivrer et mélanger le tout intimement.
+    En salade : servir cette salade en entrée, ou bien en buffet avec d’autres salades, par exemple l’été, accompagnée d’un barbecue.
+    En sandwich : garnir des tranches de pain de mie avec une ou deux cuillères à soupe de cette préparation, bien l'étaler uniformément, recouvrir chaque tartine garnie d’une seconde tranche de pain, et couper vos sandwichs en deux en forme de triangle.
+    Idéal pour emmener en pique-nique, et cela change des sandwichs habituels.
+    Vous pouvez agrémenter cette salade de diverses herbes aromatiques ou de diverses épices selon le goût de chacun. Au choix : basilic haché, ciboulette, estragon, thym, coriandre etc… ou bien cumin, gingembre, 5 baies, paprika etc… Un rosé frais
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70983">
+  <titre>Soupe glacée de concombre et houmous</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>2 cuillères à soupe de houmous</p>
+    <p>crème fraiche liquide</p>
+    <p>1 gousse d'ail</p>
+    <p>1 petite botte de ciboulette</p>
+    <p>quelques feuilles d'estragon</p>
+    <p>paprika</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez le concombre en dés (retirez les pépins). Hachez la gousse d’ail. 
+    Mettez les dés de concombres, l'ail, la ciboulette hachée et l’estragon dans le bol du mixer. Ajoutez la cuillère d’huile d’olive et mixez. Ajoutez ensuite le houmous, le paprika à volonté et mixez de nouveau. 
+    Incorporez enfin la crème fraiche liquide jusqu'à obtenir une texture à votre goût (personnellement, j'aime quand ce n'est pas trop liquide).
+    Salez, poivrez et goûtez pour ajuster !
+    Laissez enfin au frais (30 minutes à 1 heure) pour obtenir l’effet glacé.
+    Le mélange concombre houmous se marie très bien et donne à l'ensemble une saveur exotique...à savourer l'été ! Une bière blanche bien fraîche, avec un citron
+  ]]>
+  </preparation>
+</recette>

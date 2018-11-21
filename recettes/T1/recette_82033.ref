@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82033">
+  <titre>Clafoutis pour le moule carré</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de lait</p>
+    <p>160 g d'oeufs</p>
+    <p>60 g de farine</p>
+    <p>50 g de sucre</p>
+    <p>20 g de beurre</p>
+    <p>1 cuillère à café de vanille liquide</p>
+    <p>1 boîte de poires ou pêches ou abricots au sirop</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer le moule.
+    Faire fondre le beurre et laisser refroidir.
+    Mélanger au fouet la farine, le sucre puis ajouter les oeufs.
+    Remuer puis verser le lait, la vanille, le beurre fondu. Passer la pâte à la passoire.
+    Disposer les poires ou pêches ou abricots dans le moule.
+    Verser la pâte.
+    Mettre au four à 180°C (thermostat 6), pendant plus ou moins 40 minutes selon la puissance de votre four.
+  ]]>
+  </preparation>
+</recette>

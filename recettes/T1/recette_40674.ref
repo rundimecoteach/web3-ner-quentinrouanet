@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40674">
+  <titre>Poivrons farcis à la Dadou : boeuf et chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poivrons rouges de forme régulière</p>
+    <p>1 petit oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>200 g de boeuf haché</p>
+    <p>10 cl de coulis de tomate</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>chapelure</p>
+    <p>2 tranches de bûche de chèvre</p>
+    <p>poivre 5 baies</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlevez les chapeaux des poivrons, et évidez-les. 
+    Mettez les poivrons à cuire 15 min, debout dans le cuit-vapeur. 
+    Préchauffer le four à 160°C (thermostat 5-6).
+    Pendant ce temps, hachez finement l'oignon et la gousse d'ail.
+    Dans un récipient, mélangez l'oignon, l'ail, le boeuf haché, le coulis de tomate, l'oeuf et l'huile d'olive.
+    Rajoutez ensuite de la chapelure, jusqu'à ce que le mélange devienne pâteux. Remplir les poivrons de la préparation.
+    Huilez un plat à four, et disposez-y les poivrons debout.
+    Au bout de 20 min, rajoutez sur chaque poivron une rondelle de chèvre, puis remettez à cuire une dizaine de minutes.
+    Cette recette est une création récente de mon amoureux, il en est tellement fier que j'ai décidé de la partager avec vous.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20586">
+  <titre>Goulasch hongroise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de boeuf (morceaux à bourguignon)</p>
+    <p>200 g de lard</p>
+    <p>3 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>3 à 4 cl de cognac</p>
+    <p>70 g de concentré de tomates</p>
+    <p>1/2 cuillère à café de paprika</p>
+    <p>1 bouquet garni d'herbes fraîches</p>
+    <p>3 carottes</p>
+    <p>3 pommes de terre</p>
+    <p>1 à 2 cuillères à soupe de fécule de pomme de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le boeuf et le lard en morceaux et émincer les oignons et l'ail. Laver et couper les carottes et les pommes de terre en rondelles.
+    Dans une cocotte avec du beurre, faire rissoler le boeuf avec les oignons émincés, les gousses d'ail et le lard coupé en morceaux.
+    Saler, poivrer et saupoudrer de paprika. Flamber avec le cognac. Mouiller avec 30 cl d'eau et ajouter le concentré de tomate. Couvrir et laisser cuire à feu doux pendant 2 h.
+    Ajouter quelques carottes et pommes de terre coupées en rondelles, un bouquet garni et mouiller avec un peu d'eau. Laisser mijoter 45 min.
+    Délayer la fécule dans de l'eau froide et l'ajouter dans la cocotte pour épaissir avant de servir.
+    Vous pouvez aussi mélanger la fécule avec un peu de crème fraîche pour plus d'onctuosité.
+  ]]>
+  </preparation>
+</recette>

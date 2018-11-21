@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37966">
+  <titre>Carpaccio de courgettes au parmesan, tomates et pignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 courgettes</p>
+    <p>2 tomates</p>
+    <p>copeaux de parmesan </p>
+    <p>pignons</p>
+    <p>ail</p>
+    <p>huile d'olive</p>
+    <p>huile de noix</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Débitez les courgettes en lamelles très fines, avec un couteau économe.
+    Les disposer dans une assiette, ajoutez un peu d'huile d'olive, un filet d'huile de noix, l'ail haché en petit morceaux, les tomates coupées en dés.
+    Ensuite, vous n'avez plus qu'à parsemer le tout de copeaux de parmesan et de pignons. Salez et poivrez à votre convenance.
+  ]]>
+  </preparation>
+</recette>

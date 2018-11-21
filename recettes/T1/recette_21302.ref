@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21302">
+  <titre>Tarte aux poireaux et noix de Saint Jacques</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>200 g de blancs de poireaux surgelés</p>
+    <p>12 noix de Saint Jacques</p>
+    <p>1 trait de vinaigre balsamique</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 oeuf</p>
+    <p>paprika et noix de muscade</p>
+    <p>1 échalote</p>
+    <p>2,5 cl vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre 1 noix de beurre dans 1 poêle. 
+    Y faire suer l'échalote. Déglacer avec un trait de vinaigre balsamique, verser le vin blanc et faire réduire. Ajouter les blancs de poireaux décongelés et égouttés. Faire revenir 5 mn en remuant avec précaution. 
+    Battre l'oeuf et la crème, ajoutter le sel, le poivre, la muscade et le paprika. Verser le mélange dans la poêle et remuer 2,3 mn. 
+    Réserver.
+    Faire fondre un peu de beurre dans une poêle. 
+    Y faire dorer légèrement les noix de saint jacques de chaque côtés. 
+    Étaler la pâte à tarte dans un moule, la piquer avec une fourchette. 
+    Verser dessus la préparation de poireaux. Disposer les noix de Saint Jacques. 
+    Enfourner pour 15, 20 mn à four chaud (thermostat 7/210°C).
+    On peut remplacer la préparation de crème fraiche par un beurre blanc. reuilly
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47649">
+  <titre>Le crumble  de Mariejo</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pommes en dés  </p>
+    <p>2 poires en dés </p>
+    <p>1 poignée de pruneaux en morceaux </p>
+    <p>abricots moelleux en morceaux </p>
+    <p>1 pot de crème fraîche </p>
+    <p>spéculoos  </p>
+    <p>beurre salé </p>
+    <p>vanille  </p>
+    <p>cannelle</p>
+    <p>un peu de sucre en poudre</p>
+    <p>poudre d'amandes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les pommes avec le beurre salé,le sucre et la cannelle; de même que les poires et la vanille.
+     
+    Dans un plat allant au four, verser les fruits, ajouter les fruits secs et arroser de crème fraîche. 
+    Ajouter la poudre d'amandes.
+    Mixer grossièremnt les spéculoos, en parsemer le plat et enfourner à 200°C (th 6-7) pendant 20 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27083">
+  <titre>Gateau de riz aux petits raisins</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de riz rond</p>
+    <p>1 peu de sel</p>
+    <p>1 litre de lait (1/2 écrémé) </p>
+    <p>1 litre d'eau</p>
+    <p>100 g de sucre semoule en poudre</p>
+    <p>125 g de raisins secs</p>
+    <p>1/10 de rhum</p>
+    <p>1 oeuf</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>1 cuillère à soupe de crème légère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans un bol, les raisins et le rhum, laissez gonfler. 
+    Rincer le riz dans une passoire sous l'eau froide. 
+    Mettre le litre d'eau dans une casserole, ajouter une pincée de sel et le riz. 
+    Attendre 3 mn après l'ébullition. 
+    Egoutter le riz. 
+    Mettre le litre de lait dans une casserole, une pincée de sel. 
+    Faire bouillir et ajouter le riz. 
+    Faire cuire 30 mn environ, jusqu'à ce que le riz ait absorbé le lait. 
+    Ajouter l'oeuf entier, le sucre semoule et les sachets de sucre vanillé, la crème fraîche, mélanger. 
+    Ajouter les raisins, mélanger. 
+    Verser dans un moule légèrement beurré. 
+    Faire cuire pendant 30 mn thermostat 6 (180°C). 
+    Lorsque le gâteau est refroidi, le mettre au frais.
+    - Pendant la cuisson : surveiller et mélanger de temps en temps pour éviter que le riz colle.
+    Si vous n'aimez pas le rhum, vous pouvez mettre  les raisins non préalablement imbibés.
+    Si vous disposez d'une pomme vous pouvez la couper en lamelles au fond du moule, avant de remplir avec le riz. bordeau
+  ]]>
+  </preparation>
+</recette>

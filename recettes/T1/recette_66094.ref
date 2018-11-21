@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66094">
+  <titre>Papillotes de panga au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p> 3 filets de panga (panghasius)</p>
+    <p> 1 brique (ou 2 pour les gourmands) de crème fraîche légère à 15%</p>
+    <p> échalote déshydratée</p>
+    <p> curry en poudre</p>
+    <p> sel et poivre</p>
+    <p> papier alu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Rincer les filets, les couper en 2 à la verticale.
+    Prendre une feuille de papier alu, poser un bout de poisson, arroser de crème fraîche liquide, saupoudrer de curry et d'échalote, saler et poivrer.
+    Fermer les papillottes, les mettre dans un plat à four et cuire pendant 20 min.
+    Le panga est un poisson peu coûteux et très bon, il rappelle un peu la sole, c'est un poisson qui vient du Viêtnam donc il arrive congelé.On le trouve facilement dans les hypers marchés au rayon poisson frais ou dans les supermarchés asiatiques (prix du kilos entre 9 et 10 euros).
+  ]]>
+  </preparation>
+</recette>

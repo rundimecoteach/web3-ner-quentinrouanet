@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165517">
+  <titre>Crème délice au citron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 gr de sucre</p>
+    <p>35 gr de maïzena </p>
+    <p>35 cl d'eau</p>
+    <p>le jus d'un gros citron</p>
+    <p>3 jaune d'oeufs</p>
+    <p>25 gr de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    mettre tout les ingrédients 
+    ( sucre, beurre, maizena, eau , jus de citron, oeufs) dans une casserole
+    faire cuire a feux doux thermostat 2-3 
+    ne pas cessez de remuez
+    et retirez du feu une fois le mélange épaissis 
+    laissez refroidir
+    bon appetit ^^La crème délice au citron est parfaite pour garnir les crêpes, les gâteaux, ou pour être utiliser comme base pour la tarte au citron :-)
+  ]]>
+  </preparation>
+</recette>

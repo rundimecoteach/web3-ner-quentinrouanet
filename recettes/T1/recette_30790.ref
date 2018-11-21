@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30790">
+  <titre>Tomates mayonnaises aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 tomates</p>
+    <p>150 g de crevettes grises</p>
+    <p>150 g de crevettes roses</p>
+    <p>1 bol de sauce mayonnaise</p>
+    <p>le jus d'1 citron</p>
+    <p>1/2 botte de persil </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le haut des tomates et retirer la chair à l'aide d'une cuillère. Les saler et les retourner pour les dégorger.
+    Incorporer les crevettes grises dans la mayonnaise et en garnir les tomates.
+    Saupoudrer les tomates de persil haché et décorer de crevettes roses, du persil en branches et des rondelles de citron.
+  ]]>
+  </preparation>
+</recette>

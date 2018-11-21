@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20744">
+  <titre>Salade de haricots verts aux écrevisses</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de haricots verts frais extra-fins</p>
+    <p>1 gros avocat à point</p>
+    <p>100 g d'écrevisses décortiquées (soit 5 écrevisses par personne environ) </p>
+    <p>50 g de pignons de pin</p>
+    <p>huile de truffe (ou de noisette, d'olive...) </p>
+    <p>vinaigre balsamique</p>
+    <p>sel, poivre</p>
+    <p>cerfeuil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Équeuter, laver et faire cuire à la vapeur les haricots verts. 
+    Eplucher l'avocat et le couper en dés de taille moyenne. Le citronner pour éviter qu'il noircisse. 
+    Faire dorer les pignons à la poêle. Répartir sur des assiettes de service : les haricots encore tièdes, les dés d'avocats, les écrevisses. 
+    Parsemer les pignons et le cerfeuil haché grossièrement ; saler, poivrer, arroser d'un filet d'huile et d'un filet de vinaigre. vin blanc type pouilly fuissé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46501">
+  <titre>Tartare thon - saumon en verrine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pavé de saumon frais</p>
+    <p>1 steak de thon</p>
+    <p>4 tomates</p>
+    <p>1 concombre</p>
+    <p>150 g de feta en dés</p>
+    <p>jus de citron</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>7 cuillères à soupe d'huile d’olive ou huile très parfumée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper en petits dés le thon, le saumon, les tomates et le concombre, sans les mélanger.
+    Préparer une petite vinaigrette avec le vinaigre, l'huile, sel, poivre et citron. 
+    Assaisonner les tomates et le concombre, les garder au frais.
+    Peu avant de servir, alterner dans des verres des couches de concombre, thon, feta, tomates, saumon, en ajoutant un peu de basilic ciselé.
+    Terminer avec un peu de concombre et des petites feuilles de basilic.
+    Je fais ça avec d'autres échantillons de petits mets dans une jolie assiette. En général, cela fait son petit effet!
+  ]]>
+  </preparation>
+</recette>

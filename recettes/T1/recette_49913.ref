@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49913">
+  <titre>Crêpe fourrée à la compote de pommes et chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de compote de pommes </p>
+    <p>5g de chocolat noir </p>
+    <p>1 crêpe (maison ou achetée dans le commerce)</p>
+    <p>5 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir le beurre dans la poêle, puis réchauffez-y la crêpe 20 secondes. Chauffez le chocolat au micro-ondes 1 min, puis mélangez-le à 2 cuillères à soupe de compote.
+    Laissez cuire quelques secondes (la crêpe ne doit pas être croustillante), puis repliez la crêpe et déposez-la dans une assiette.
+    Disposez un peu de compote dans à ramequin, en accompagnement.Variantes : on peut utiliser une autre compote de fruits.
+  ]]>
+  </preparation>
+</recette>

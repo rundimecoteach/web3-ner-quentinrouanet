@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46520">
+  <titre>Mousse normande aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la mousse aux pommes :</p>
+    <p>5 pommes</p>
+    <p>2 à 3 cuillères à soupe de sucre de canne (cassonade)</p>
+    <p>4 blancs d'oeufs</p>
+    <p>3 morceaux de sucre (caramel)</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>Pour la crème anglaise :</p>
+    <p>1/2 l de lait</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>100 g de sucre</p>
+    <p>1 pincée de poudre de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la crème anglaise :
+    Battez les jaunes d'oeufs avec le sucre.
+    Délayez peu à peu dans le lait bouillant vanillé.
+    Mettez sur feu doux, sans laisser bouillir, en remuant.
+    Retirez la crème du feu avant l'ébullition.
+    Pour la mousse aux pommes : 
+    Epluchez les pommes. Coupez-les en morceaux et faites les cuire en compote avec le sucre de canne, et la cannelle.
+    Laissez réduire à feu doux. Quand la compote est cuite, laissez-la refroidir.
+    Pendant ce temps, battez les blancs en neige très ferme.
+    Faites un caramel dans le fond d'un moule profond.
+    Mélangez la compote et les blancs en neige avec précaution; versez le tout dans le moule, sur le caramel.
+    Faites cuire au bain marie, à four doux (180°C maximum ou thermostat 6)pendant 30 min.
+    Démoulez sur le plat de service et nappez de crème anglaise.
+    Recette très facile à faire. Ce dessert fait l'unanimité à chaque fois, et fait le bonheur des petits comme des grands.
+  ]]>
+  </preparation>
+</recette>

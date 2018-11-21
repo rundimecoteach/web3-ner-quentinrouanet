@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59530">
+  <titre>Couscous judéo tunisien</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de palette de boeuf</p>
+    <p>1 poireau</p>
+    <p>7 carottes</p>
+    <p>3 courgettes</p>
+    <p>1 oignon</p>
+    <p>3 navets</p>
+    <p>6 pommes de terre rouges</p>
+    <p>1 petit os à moelle</p>
+    <p>1 coeur de céleri</p>
+    <p>1 poignée de coriandre fraîche</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>1 cuillère à soupe de paprika doux</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>1/4 de choux vert frisé blanchi</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Blanchir le chou vert dans de l'eau bouillante. Peler et hacher menu l'oignon, le poireau et le céleri. Enfin, couper la viande en morceaux.
+    Dans une cocotte, verser un peu d'huile d'olive et y faire revenir l'oignon, le poireau et le céleri hachés menus. Ajouter ensuite la viande en morceaux et l'os à moelle. Quand la viande colore, ajouter la cuillère à soupe de concentré de tomate, le paprika et les navets. Couvrir généreusement le tout avec de l'eau et laisser cuire
+    environ 30 minutes à feu moyen.
+    Pendant ce temps, couper les légumes qui restent : couper les carottes et les courgettes en bâtonnets mais garder les pommes de terre entières. Tout mettre à cuire.
+    Passée la demie-heure de cuisson, rajouter à la cocotte les légumes ainsi que la coriandre effeuillée. Recouvrir le tout d'eau et assaisonnez de sel et de poivre.
+    Laisser mijoter pendant 1 h 30. Puis, servir accompagné de semoule.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36155">
+  <titre>Gâteau italien à la pomme</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillère à café d'huile</p>
+    <p>2 cuillères à soupe de chapelure</p>
+    <p>125 g de beurre</p>
+    <p>500 g de pommes golden</p>
+    <p>4 oeufs</p>
+    <p>150 g de sucre en poudre</p>
+    <p>150 g de farine</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>6 cuillères à soupe de lait</p>
+    <p>le zeste d'1 citron</p>
+    <p>du sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le beurre. Peler et couper les pommes en fines tranches.
+    Mettre les oeufs et le sucre dans un saladier en verre et fouetter le mélange au-dessus d'une casserole d'eau frémissante. Bien fouetter, c'est très important! Il faut que le mélange soit épais et clair. Retirer le saladier de la casserole et continuer à fouetter jusqu'à ce que le mélange ait refroidi.
+    Incorporer soigneusement la moitié de la farine et la levure en soulevant très délicatement la pâte. Incorporer le beurre. Incorporer ensuite le reste de farine, le lait et le zeste de citron et enfin les pommes.
+    Faites bien attention à ne pas perdre du volume et remuez toujours très lentement en soulevant la pâte, c'est la condition pour que le gâteau reste très moelleux.
+    Badigeonner un moule à gâteaux avec un peu d'huile et parsemer la chapelure puis agiter le moule pour bien répartir.
+    Verser la préparation dans le moule et faire cuire 45 min à peu près.
+    Au moment de servir, saupoudrer le gâteau avec du sucre glace.
+    Ce gâteau a la particularité d'être très léger. On peut varier les parfums en changeant de fruits. On peut le faire avec des abricots, des ananas...et il est parfait avec un bon café!
+  ]]>
+  </preparation>
+</recette>

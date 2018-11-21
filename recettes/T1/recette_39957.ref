@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39957">
+  <titre>Fond de tarte moelleux</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>75 g de beurre pommade</p>
+    <p>75 g de sucre</p>
+    <p>2 oeufs entiers</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>150 g de farine</p>
+    <p>5 g de levure chimique</p>
+    <p>sel</p>
+    <p>2 cuillères à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs avec le sucre jusqu'à ce qu'ils blanchissent.
+    Mélanger la levure à la farine.
+    Incorporer progressivement au mélange oeufs + sucre.
+    Ajouter les reste des ingrédients.
+    Bien beurrer le moule spécial fond de tarte.
+    Faire cuire à 175°C (thermostat 5-6) pendant 20 min.
+    Une fois le fond refroidi, garnir la surface creuse avec des fruits frais et napper la tarte.
+  ]]>
+  </preparation>
+</recette>

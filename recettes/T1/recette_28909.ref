@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28909">
+  <titre>Pintade aux pruneaux</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 belle pintade</p>
+    <p>1 kg de carottes</p>
+    <p>300 g de pruneaux dénoyautés</p>
+    <p>1/2 L vin blanc (ou bouillon cube) </p>
+    <p>1 bouquet garni</p>
+    <p>2 échalotes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les carottes et coupez-les en rondelles. 
+    Faites revenir les échalotes dans le fond d'une cocotte. 
+    Ajoutez les carottes pour les faire dorer. 
+    Retirez les carottes et faites revenir la pintade. 
+    Remettre dans la cocotte les carottes, le bouquet garni et le vin blanc (ou bouillon) et faire cuire 1 bonne heure. 
+    Ajouter 1/4 heure avant la fin de cuisson les pruneaux. 
+    Régal des yeux et des papilles : Servez la pintade sur un lit de carottes et pruneaux arrosée du jus de cuisson.
+    Les enfants adorent l'association raffinée et sucrée de la carotte et du pruneau ! Bordeaux St Estèphe ou Côte de Provence rouge
+  ]]>
+  </preparation>
+</recette>

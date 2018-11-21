@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31294">
+  <titre>Mozzarella marinée au yaourt</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boules de mozzarella</p>
+    <p>2 yaourts à la grecque</p>
+    <p>sel, poivre</p>
+    <p>2 citrons + zeste</p>
+    <p>piment frais</p>
+    <p>4 cuillères à soupe d’huile d’olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez finement le piment. 
+    Pressez le jus des 2 citrons et préparez avec une râpe fine le zeste d’un citron. 
+    Mélangez aux yaourts, ajoutez l’huile d’olive, le sel, le poivre. 
+    Détaillez la mozzarella en tranches et déposez-la sur une assiette. 
+    Recouvrez de la marinade, laissez au frais 1 heure au moins.
+  ]]>
+  </preparation>
+</recette>

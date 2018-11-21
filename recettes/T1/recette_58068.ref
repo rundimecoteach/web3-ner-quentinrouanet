@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58068">
+  <titre>Dinde aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 dinde</p>
+    <p>200 g d'olives vertes dénoyautées</p>
+    <p>1 oignon haché</p>
+    <p>1 bouquet de persil</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>1 pincée de safran</p>
+    <p>1 pincée de poivre noir</p>
+    <p>1 cuillères à café de cannelle</p>
+    <p>1 pointe de gingembre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler la dinde.
+    La découper en deux.
+    Disposer dans une cocotte les deux moitiés de dinde.
+    Ajouter l'huile, le beurre et l'oignon.
+    Faire rissoler à petit feu en retournant la viande de temps en temps.
+    Ajouter le poivre noir, la cannelle, le gingembre et le safran dilué dans un demi-verre d'eau.
+    Laisser revenir quelques instants afin que la viande s'imprègne bien de tous les condiments, couvrir d'eau bien chaude.
+    Ajouter le bouquet de persil attaché.Laisser cuire à couvert.
+    (vérifier l'eau de temps en temps, en ajouter si nécessaire)Faire blanchir les olives à l'eau bouillante quelques minutes et égoutter.
+    Lorsque les deux moitiés de dinde sont bien cuites, plonger les olives dans la sauce et laisser mijoter jusqu'à l'obtention d'une sauce onctueuse.A accompagner de carottes cuites avec les mêmes condiments que précédemment. C'est extra !!!
+  ]]>
+  </preparation>
+</recette>

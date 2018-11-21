@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220349">
+  <titre>Daube à la comtadine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 kg d'épaule d'agneau (ou gigot, rumsteck ...)</p>
+    <p>200 g de lardons</p>
+    <p>2 oignons</p>
+    <p>2 échalotes</p>
+    <p>4 gousses d'ail</p>
+    <p>herbe de Provence</p>
+    <p>10 tomates</p>
+    <p>100 g d'olives noires</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>75 cl de vin blanc sec</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez l'agneau en cubes. Émincez les échalotes et les oignons. Mettez le tout dans un plat à gratin avec les lardons. Couvrez de vin blanc et laissez mariner pendant 24 heures.
+    Le lendemain, retirez la viande et les légumes de la marinade. Pelez les tomates puis retirez-en les pépins et coupez-les en morceaux.
+    Dans une sauteuse, faites rissoler la viande et les légumes à l'huile d'olive. Ajoutez ensuite la marinade, les tomates, l'ail écrasé et les herbes de Provence. Salez et poivrez. Laissez mijoter pendant 2 heures.15 minutes avant la fin de la cuisson, ajoutez les olives noires.
+    Servez avec des pommes de terre en chemise.S'il y a beaucoup trop de liquide dans le plat, réduisez à feu vif.
+  ]]>
+  </preparation>
+</recette>

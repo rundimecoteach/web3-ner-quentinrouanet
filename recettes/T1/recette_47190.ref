@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47190">
+  <titre>Côtes de porc à la Sicilienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc dans l'échine</p>
+    <p>2 grosses tomates</p>
+    <p>moutarde</p>
+    <p>sel, poivre, herbes de Provence</p>
+    <p>comté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer les côtes de porc dans un plat à four huilé, puis les badigeonner de moutarde.
+    Recouvrir chacune d'elle de 2 rondelles de tomates épaisses. 
+    Saler, poivrer, saupoudrer d'herbes de Provence; puis recouvrir le tout de lamelles de comté.
+            
+    Cuire à four chaud (thermostat 7/210°C), pendant 40 min. Servir avec des pâtes fraîches ou une fricassée de champignons.
+  ]]>
+  </preparation>
+</recette>

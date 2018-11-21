@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81262">
+  <titre>Salade César au poulet à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 escalopes de poulet</p>
+    <p>1 paquet de salade type mesclun</p>
+    <p>2 tomates</p>
+    <p>1 barquette de lardons allumettes</p>
+    <p>75 g d'emmental ou gruyère</p>
+    <p>1/3 d'une baguette de pain</p>
+    <p>2 cuillères à soupe d'épices à couscous (ras el hanout) ou curry</p>
+    <p>Pour la vinaigrette:</p>
+    <p>sel, poivre, herbes de Provence</p>
+    <p>5 cuillères à soupe d'huile d'olive </p>
+    <p>2 cuillères à soupe de vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saupoudrez les escalopes de poulet d'épices à couscous ou curry et les faire cuire à la poêle avec une noix de beurre.
+    Lorsqu'elles sont dorées, les sortir et les découper en lamelles puis les remettre à la poele pour finir la cuisson. Réserver.
+    Faire dorer les lardons dans une poêle sans ajout de graisse.
+    Réserver.
+    Découper le pain en petits croûtons et les faire revenir à la poêle 
+    avec un peu de beurre, remuer pour qu'ils ne noircissent pas et les
+    mettre de coté.
+    Tailler en dés les tomates et l'emmental.
+    Préparer la vinaigrette en mélangeant dans un bol sel, poivre, 
+    herbes de Provence, huile et vinaigre.
+    Dresser les assiettes en disposant d'abord la salade. Ajouter les dés de tomates, lardons et emmental.
+    Pour finir, disposer joliment les lamelles de poulet.
+    Assaisonner juste avant de servir avec la vinaigrette.
+    Cette salade constitue un repas complet, mais vous pouvez néanmoins servir en entrée quelques parts de melon frais. lambrusco bien frais
+  ]]>
+  </preparation>
+</recette>

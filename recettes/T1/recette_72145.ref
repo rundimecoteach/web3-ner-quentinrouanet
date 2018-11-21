@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72145">
+  <titre>Saumon à la sauce tomate et aneth</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pavés de saumon sans peau</p>
+    <p>5 belles tomates grappées (plus on met de la tomate, plus on a de la sauce)</p>
+    <p>5 branches d'aneth frais</p>
+    <p>une petite échalote</p>
+    <p>huile, sel, poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Griller 2 faces des pavés de saumon dans une poêle chauffée avec un peu d'huile. 
+    Laisser cuire à feu doux pendant 15 min.
+    Pendant ce temps, couper les tomates en fines tranches. 
+    Faire revenir l'échalote émincée avec un peu d'huile dans une casserole. 
+    Y ajouter ensuite les tomates tranchées, puis un peu de sel et poivre.
+    Laisser mijoter puis utiliser une fourchette pour écraser les tomates pour avoir une bonne sauce de tomate. 
+    Ajouter cette sauce dans la poêle de saumon. Laisser mijoter encore 5 min. 
+    Pour finir, y mettre de l'aneth cisaillée assez fine. Mélanger. 
+    Servir chaud avec du riz (riz thaïlandais de préférence préparé dans un autocuiseur).
+    C'est une recette vietnamienne!
+  ]]>
+  </preparation>
+</recette>

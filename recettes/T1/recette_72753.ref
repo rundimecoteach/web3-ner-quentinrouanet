@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72753">
+  <titre>Cheescake au citron</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de petits-beurre</p>
+    <p>60 g de beurre</p>
+    <p>1 cuillère à café d'extrait de vanille liquide</p>
+    <p>1 kg de fromage frais (type St moret, carré frais, Kiri ou Samos)</p>
+    <p>2 oeufs</p>
+    <p>250 g de sucre</p>
+    <p>1 citron non traité</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cassez les petits-beurres et mettez-les dans le bol du mixer avec le beurre ramolli préalablement découpé en petits morceaux et l'extrait de vanille liquide. 
+    Mixez-les jusqu'à l'obtention d'une pâte homogène.
+    Répartissez le mélange dans le fond d'un moule à manqué souple de 22 cm de diamètre. A l'aide d'un verre, pressez la pâte qu'elle soit bien réparti. Couvrez avec un film plastique et placez au réfrigérateur environ 1 h.
+    Préchauffez le four à 150°, thermostat 5. 
+    Lavez et essuyez le citron. Prenez une cuillère à soupe de son zeste en le frottant avec une râpe fine. Pressez le citron, recueillez son jus dans un bol et enlevez les pépins. Réservez.
+    Dans un grand saladier, avec un batteur électrique, mélangez fromage frais et sucre jusqu'à obtention d'une préparation lisse et crémeuse.
+    Ajoutez les oeufs légérement battus, zeste et jus de citron. Battez à nouveau.
+    Sortez le moule du réfrigérateur, versez la préparation au fromage frais sur la pâte de petits beurre. Enfournez environ 1 h 15 jusqu'à ce que le gâteau soit légèrement doré sur les côtés. Après la cuisson laissez refroidir le cheescake dans le four.
+  ]]>
+  </preparation>
+</recette>

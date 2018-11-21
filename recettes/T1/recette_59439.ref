@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59439">
+  <titre>Salade de torsade colorée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de torsade colorées (nature, tomate épinards)</p>
+    <p>2 poivrons rouges</p>
+    <p>2 carottes</p>
+    <p>1 gousse d'ail</p>
+    <p>Huile d'olive</p>
+    <p>Vinaigre balsamique</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez à cuire vos pâtes.
+    Pendant ce temps, faites préchauffer votre four à 220°C.
+    Découpez vos poivrons en larges quartiers.
+    Lorsque le four est chaud, enfournez-les (peau vers le haut).
+    Laissez  les cuire jusqu'au noircissement de la peau, environ 15 min.
+    Pendant que les poivrons cuisent, préparez vos carottes.
+    Munissez-vous d'un couteau économe, pelez le peau (la jeter) puis faites de même avec la chair de la carotte. Vous obtiendrez ainsi des lamelles de carottes.
+    Faites chauffer un peu d'huile d'olive dans une poêle y ajouter la gousse d'ail pelée. Faites-y sauter vos lamelles de carottes quelques minutes (mais pas trop, elles doivent rester craquantes !). Réservez.
+    Lorsque les poivrons sont cuits, détaillez-les en fines lamelles et mélangez les avec les carottes, ajoutez un peu de vinaigre balsamique, salez, poivrez.
+    Lorsque tous les ingrédients sont froids (pâtes, carottes et poivrons), mélanger le tout, vous obtenez une salade d'été originale et fraîche !
+  ]]>
+  </preparation>
+</recette>

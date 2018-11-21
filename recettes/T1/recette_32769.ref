@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32769">
+  <titre>Poulet citron curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>2 oignons taille moyenne</p>
+    <p>1 jus 1/2 de citron</p>
+    <p>4 cuillères à soupe de crème</p>
+    <p>huile d'olive</p>
+    <p>curry</p>
+    <p>eau</p>
+    <p>coriandre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rissoler les oignons coupés en petits morçeaux dans 1 fond d'huile. 
+    Dans une autre poêle, faire cuire les blancs de poulets coupés en lanières avec un tout petit peu d'huile. 
+    Une fois les lanières bien dorées, ajouter les oignons cuits, la crème mélangée au jus de citron et le curry (doser selon le goût). Salez, poivrez. 
+    Ajouter de l'eau pour allonger la sauce. 
+    Parsemer de coriandre avant de servir.
+    Servir avec du riz ou de la semoule.
+  ]]>
+  </preparation>
+</recette>

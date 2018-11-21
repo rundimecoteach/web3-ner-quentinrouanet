@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168986">
+  <titre>Charlotte aux petits-suisses et aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 boudoirs</p>
+    <p>1 grande boîte de poires au sirop ou des fruits de saison</p>
+    <p>6 petits-suisses ou du fromage blanc</p>
+    <p>7 cl de lait</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>30 gr de sucre</p>
+    <p>100 gr de chocolat noir</p>
+    <p>2 cl de crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Egouttez les poires et les couper en dés et gardez le sirop
+    Trempez chaque boudoir dans le sirop.  Tapissez en les bords et le fond d'un moule à charlotte de 18 cm de diamètre
+    Mélangez les petits-suisses, le lait, les sucres et les poires.  Versez en la moitié dans le moule.  Couvrez de boudoirs, puis reste du mélange.  Terminez par des boudoirs.  Couvrez et placez une nuit au réfrigérateur
+    Faites fondre le chocolat dans la crème.  Remuez bien.  Démoulez la charlotte.  Nappez de coulis de chocolat
+  ]]>
+  </preparation>
+</recette>

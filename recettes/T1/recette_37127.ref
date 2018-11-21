@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37127">
+  <titre>Gâteau aux abricots et à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 cuillères à soupe de farine</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>3 cuillères à soupe de lait ou de crème fraîche</p>
+    <p>1 oeuf entier</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 sachet de levure</p>
+    <p>1 grosse boîte d'oreillons d'abricots</p>
+    <p>Pour la préparation du dessus:</p>
+    <p>50 à 75 g de beurre ramolli</p>
+    <p>3 à 4 cuillères à soupe de sucre</p>
+    <p>1 oeuf entier</p>
+    <p>125 g de noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, le sucre, l'huile, le lait, l'oeuf, le sucre vanillé et la levure. 
+    Etaler le mélange dans un moule beurré.
+    Déposer dessus les fruits.
+    Faire cuire à 180°C (thermostat 6) jusqu'à ce que les bords soient dorés (environ 20 min).
+    Pendant ce temps, mélanger le beurre, le sucre et l'oeuf. 
+    Y ajouter la noix de coco. 
+    Etaler ce mélange sur le gâteau.
+    Remettre à cuire une dizaine de minutes.
+    Ce gâteau peut être réalisé avec d'autres mélanges : pommes/noix, ananas/noix de coco, poires/amandes...
+  ]]>
+  </preparation>
+</recette>

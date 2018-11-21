@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27488">
+  <titre>Lasagnes tex-mex au poulet et haricots noirs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de lasagnes précuites</p>
+    <p>400 g de poulet coupé en dés</p>
+    <p>400 g de haricots noirs secs et cuits</p>
+    <p>150 g d'oignons émincés</p>
+    <p>37,5 cl de sauce tomate</p>
+    <p>25 cl de bouillon de poulet</p>
+    <p>12 cl d'huile d'olive</p>
+    <p>150 g de Cheddar râpé</p>
+    <p>1 cuillère à soupe d'ail écrasé</p>
+    <p>1 bouquet de coriandre fraîche hachée</p>
+    <p>1 cuillère à soupe de piment haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Faire chauffer un peu d'huile, y faire rissoler les oignons, l'ail, la coriandre et les piments.
+    Ajouter les haricots et laisser cuire 5 minutes.
+    Verser les 2/3 de la sauce tomate et le bouillon de poulet, ajouter les dés de poulet et laisser cuire 10 minutes.
+    Dans un plat à four, étaler la moitié de la sauce tomate restante.
+    Poser une couche de lasagnes, couvrir de la sauce aux haricots et au poulet, parsemer la moitié du fromage.
+    Répéter l'opération, finir par une couche de lasagnes. 
+    Verser le reste de sauce tomate et de fromage, et faire cuire au four à 180°C (thermostat 6) pendant 45 min environ.
+  ]]>
+  </preparation>
+</recette>

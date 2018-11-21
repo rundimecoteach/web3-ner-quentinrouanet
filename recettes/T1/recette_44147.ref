@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44147">
+  <titre>Papillotes de saumon à la tapenade, câpres et poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de saumon frais </p>
+    <p>1 bocal d'olives noires dénoyautées</p>
+    <p>1 petit bocal de câpres</p>
+    <p>1 boîte d'anchois à l'huile d'olive</p>
+    <p>1 poivron rouge</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la tapenade : 
+    Mixer les olives, la moitié des câpres, et environ 8 anchois avec un filet d'huile d'olive, du sel et du poivre. 
+    Attention au sel, il vaut mieux l'ajouter une fois la préparation mixée, pour s'assurer que ce n'est pas trop salé!
+    Déposer chaque filet de saumon (sans arrêtes et sans la peau) sur une feuille de papier aluminium. 
+    Saler, poivrer, et badigeonner d'huile d'olive. 
+    Tapisser le saumon de tapenade, ajouter quelques dés de poivron rouge et quelques câpres.
+    Refermer les papillotes, et enfourner à 180°C (th 6), 20 min.
+    Vous pouvez accompagner les papillotes de courgettes revenues à la poëlle à l'huile d'olive et aux herbes de provence.
+  ]]>
+  </preparation>
+</recette>

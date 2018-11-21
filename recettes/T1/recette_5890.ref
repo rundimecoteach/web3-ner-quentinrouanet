@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="5890">
+  <titre>Potage frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 poireaux (petite taille)</p>
+    <p>3  carottes</p>
+    <p>2 pommes de terre</p>
+    <p>autant de tranche de pain que de convives</p>
+    <p>compter 1 Carré frais par personne</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les légumes, et les faire chauffer dans une casserole d'eau bouillante. Une fois qu'ils sont cuits, les passer au mixeur.
+    Pendant ce temps, faire griller le pain.
+    Servir la soupe dans une assiette (ou un bol). 
+    Déposer une tranche de pain dessus, et recouvrir d'un Carre frais.
+    Parsemer une pincée de ciboulette pour la déco. Et servir. 
+  ]]>
+  </preparation>
+</recette>

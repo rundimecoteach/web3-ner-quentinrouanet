@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61365">
+  <titre>Cake aux fruits d'été</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>60 g de sucre en poudre</p>
+    <p>65 g de cassonade</p>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>3 brugnons ou nectarines</p>
+    <p>4 pêches</p>
+    <p>3 abricots</p>
+    <p>1 pomme</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C (thermostat 5). 
+    Dans un saladier, faire ramollir le beurre, puis le mélanger avec le sucre à l'aide d'un fouet. Ajouter les oeufs, la farine tamisée ainsi que la levure. 
+    Eplucher les fruits en petits morceaux, de préférence au dessus du saladier afin de conserver le jus, et les incorporer à la préparation. 
+    Beurrer un moule à cake, y verser la préparation ; puis mettre le tout au four pendant environ 30-35 minutes. 
+    Vérifier la cuisson vers la fin : ce gâteau est délicieux s'il n'est pas trop cuit. 
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

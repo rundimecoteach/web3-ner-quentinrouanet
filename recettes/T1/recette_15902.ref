@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15902">
+  <titre>Gâteau à la mélasse</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de mélasse</p>
+    <p>100 g de sucre brun</p>
+    <p>100 g de saindoux</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1 cuillère à café de gingembre</p>
+    <p>36 cl d'eau chaude</p>
+    <p>2 cuillères à café de levure chimique</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>300 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout et placer ce mélange dans un plat allant au four.
+    Faire cuire au four pendant 45 min à 350°F/180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

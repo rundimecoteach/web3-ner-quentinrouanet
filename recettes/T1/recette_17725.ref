@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17725">
+  <titre>Salade de pâtes colorée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de dinde fumée</p>
+    <p>1 poivron rouge et un poivron vert</p>
+    <p>1 oignon rouge</p>
+    <p>500 g de pâtes colorées </p>
+    <p>1 bouquet de ciboulette</p>
+    <p>vinaigrette légère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes et les passer à l'eau froide pour les faire refroidir.Émincer les poivrons et l'oignon rouge.
+    Couper la dinde en petits morceaux.
+    Mélanger le tout avec la ciboulette et la vinaigrette.On peut remplacer l'oignon par de l'échalotte et la dinde par du poulet.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211605">
+  <titre>Soupe de chou-fleur aux crevettes grises</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 petit chou-fleur</p>
+    <p>2 pommes de terre </p>
+    <p>1 gousse d'ail</p>
+    <p>1 l de lait</p>
+    <p>150 g de crevettes grises décortiquées</p>
+    <p>1 cuillère à soupe de persil plat haché</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diviser le chou-fleur en bouquets.
+    Cuire ces bouquets pendant 5 min dans de l'eau salée puis les égoutter.
+    Hacher l'ail.
+    Éplucher les pommes de terre et les couper en dés.
+    Dans un faitout, mélanger le chou-fleur, les pommes de terre, l'ail et le lait.
+    Porter à ébullition et laisser cuire 15 min à feu doux.
+    Mixer le tout et assaisonner.
+    Laisser reprendre l'ébullition un court instant.
+    Servir la soupe et garnir avec des crevettes grises et du persil haché.Bonne cuisine et bon appétit.N'hésitez pas à chauffer vos assiettes.
+  ]]>
+  </preparation>
+</recette>

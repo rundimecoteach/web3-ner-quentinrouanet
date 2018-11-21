@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24271">
+  <titre>Salade de cabillaud au yaourt</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de filet de cabillaud cuit</p>
+    <p>2 cuillères à soupe de mayonnaise</p>
+    <p>2 cuillères à soupe de yaourt nature</p>
+    <p>2 oignons hachés</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>quelques feuilles de salade verte</p>
+    <p>1 filet de citron vert </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le poisson en cubes suffisamment épais afin qu’il ne s’émiette pas. Réserver. Peler et hacher l’oignon puis le persil.
+    Préparer la sauce : dans un bol, mélanger la mayonnaise avec 1 cuillère à soupe de yaourt nature, puis y incorporer l’oignon et le persil hachés.
+    Dresser un plat en le tapissant de feuilles de salade. Parsemer la salade des cubes de poisson, puis napper de sauce.
+    Déguster bien frais avec un filet de citron vert pour parfumer le tout.
+  ]]>
+  </preparation>
+</recette>

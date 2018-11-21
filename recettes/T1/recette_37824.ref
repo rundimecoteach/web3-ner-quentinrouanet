@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37824">
+  <titre>Crumble ananas gingembre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 petites boîtes (340 g égoutté) d'ananas au sirop</p>
+    <p>100 g de cassonade</p>
+    <p>150 g de farine</p>
+    <p>90 g + 20 g de beurre</p>
+    <p>1 petit morceau de gingembre frais (1 cm sur 2)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les 2 boîtes d'ananas et les faire revenir en petit morceaux dans 20 g de beurre avec le gingembre rapé, jusqu'à ce que la moitié du jus rendu soit évaporé.
+    Mélanger la cassonade, la farine et le reste du beurre pour obtenir une pâte grumeleuse. Mettre ensuite les ananas revenus au fond d'un plat allant au four (mieux vaut utiliser du papier sulfurisé) et les recouvrir avec la pâte. 
+    Enfournez 30 min à 230°C (thermostat 7-8).
+    Avec une pointe de crème fraiche épaisse c'est encore meilleur!
+  ]]>
+  </preparation>
+</recette>

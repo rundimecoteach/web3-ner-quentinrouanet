@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62897">
+  <titre>Riz magique</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de riz</p>
+    <p>1 paquet de lardons fumés (200 g)</p>
+    <p>1 cube de bouillon de légumes</p>
+    <p>margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre une noisette de margarine dans une poêle. Ajouter le cube de bouillon et les lardons, puis le riz.
+    Faire revenir 2 à 3 minutes.
+    Mouiller avec 1 litre d'eau, couvrir et laisser cuire 20 à 25 minutes. Rajouter de l'eau si nécessaire en cours de cuisson.
+    Les enfants en raffolent !!!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11519">
+  <titre>Scampis piquants</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 scampis congelés</p>
+    <p>Pour la sauce : </p>
+    <p>1 boîte de tomate concassées</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cm de pâte "harissa"</p>
+    <p>5 grains de cumin</p>
+    <p>5 graines de coriandre</p>
+    <p>1 pincée de curry en poudre</p>
+    <p>2 cuillères à soupe de persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faites rissoler la gousse d'ail coupée en morceau dans l'huile d'olive.
+    Ajoutez la boîte de tomate et le sucre, ainsi que toutes les épices.
+    Lorsque la sauce entre en ébullition, y jeter les scampis et réduire le feu, faire cuire à feu doux 15 min.
+    Avant de servir, ajoutez la crème fraîche et le persil.
+    Vous pouvez mettre cette préparation dans des coquilles Saint-Jacques avec un peu de fromage râpé et faire gratiner sous le grill. bordeaux rouge
+  ]]>
+  </preparation>
+</recette>

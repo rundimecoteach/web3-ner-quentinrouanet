@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68561">
+  <titre>Haché de veau aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de veau (épaule désossée) </p>
+    <p>1 oignon</p>
+    <p>1 tomate</p>
+    <p>2 cuillères à soupe de pulpe de tomate</p>
+    <p>5 graines de coriandre</p>
+    <p>1 pincée de 4 épices</p>
+    <p>Persil ciselé</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et émincer l'oignon. Laver, égrener et couper en très petits dés le poivron. Laver, épépiner et hacher la tomate.
+    Hacher la viande de veau (vous pouvez aussi trouver des barquettes de « haché de veau » en supermarchés ou bien demander à votre boucher de hacher un morceau de veau qu'il vous conseillera).
+    Préparer une compotée en faisant fondre dans 2 cuillerées à soupe d'huile, l'oignon émincé et les dés de poivrons. Ajouter la tomate hachée, les graines de coriandre écrasées. Mettre le veau haché dans une terrine, saler.
+    Mélanger en pétrissant et en incorporant à la viande le persil, les quatre-épices et la compotée de manière à obtenir un mélange homogène.
+    Former 4 steaks ovales de 1,5 cm d'épaisseur.
+    Faire chauffer le reste d'huile dans une poêle antiadhésive. Laisser cuire les steaks à feu moyen 5 minutes de chaque côté.
+    Retirer les steaks de la poêle à l'aide d'une spatule et les placer dans une assiette chaude. Déglacer en ajoutant un peu d'eau et la pulpe de tomate, napper les steaks de ce petit jus et servir aussitôt.
+    Conseil : Accompagner de légumes cuits à la vapeur ou à l'étouffée tels que haricots verts, épinards frais.
+  ]]>
+  </preparation>
+</recette>

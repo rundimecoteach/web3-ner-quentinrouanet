@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67331">
+  <titre>Petits pois à la viande a la libanaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de viande de boeuf hachée</p>
+    <p>500 g de petits pois surgelés</p>
+    <p>2 échalotes</p>
+    <p>4 cuillères à café de margarine</p>
+    <p>sel, poivre </p>
+    <p>1 cuillère à soupe de vermicelle </p>
+    <p>250 g de riz</p>
+    <p>3 cuillères à soupe concentré de tomate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les échalotes finement et les faire suer à feu doux dans une cocotte ou sauteuse avec la margarine. Rajouter la viande et laisser dorer.
+    Ajouter les petits pois surgelés, le concentré de tomate et 50 cl d'eau, laisser mijoter 30 min.
+    Dans une casserole, faire brunir le vermicelle dans une cuillère à soupe de beurre. Ajouter ensuite le riz et le faire revenir 1 minute dans le beurre avec le vermicelle.
+    Rajouter de l'eau (2 x le volume du riz), saler et laisser cuire le riz environ 25 minutes.
+    Mélanger les 2 préparations et servir.
+  ]]>
+  </preparation>
+</recette>

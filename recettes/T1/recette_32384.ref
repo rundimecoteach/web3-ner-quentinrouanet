@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32384">
+  <titre>Crèmes (classiques) au four au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>175 g de chocolat pâtissier</p>
+    <p>75 g de sucre</p>
+    <p>1/2 litre de lait (entier de préférence) </p>
+    <p>3 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four thermostat 6 . 
+    Faire fondre le chocolat dans une casserole au bain-marie. 
+    Une fois le chocolat fondu : retirer du bain-marie et ajouter le lait et le sucre puis faire bouillir en remuant régulièrement (la préparation doit être liquide). Laisser cuire encore 10 mn à feu très doux. 
+    Battre les oeufs dans un récipient ; y incorporer de suite le lait chocolaté progressivement tout en remuant. 
+    Répartir la crème dans des ramequins allant au four. 
+    Verser l'équivalent de 3 verres d'eau au fond de la plaque du four puis y déposer les ramequins : faire cuire 40 mn. 
+    Laisser refroidir puis mettre au réfrigérateur pendant une heure. 
+    Servir et déguster.
+  ]]>
+  </preparation>
+</recette>

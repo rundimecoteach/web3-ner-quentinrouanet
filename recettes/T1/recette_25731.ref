@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25731">
+  <titre>Filets de cabillaud au beurre d'anchois</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de cabillaud surgelés</p>
+    <p>10 cl de lait</p>
+    <p>2 jaunes d’oeuf</p>
+    <p>4 cuillères à soupe de chapelure</p>
+    <p>60 g beurre</p>
+    <p>50 g de filets d’anchois</p>
+    <p>-sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décongeler les filets de cabillaud dans du lait avec un peu d’eau, puis les couper en carrés.
+    Dans un saladier, mélanger du lait avec les 2 jaunes d'oeufs et imprégner les carrés de poisson de cette préparation.
+    Les rouler ensuite dans une assiette remplie de chapelure salée et poivrée.
+    Piler les anchois dans un mortier et les mélanger avec 60 g le beurre ramolli.
+    Dans une poêle beurrée, faire dorer les carrés de cabillaud 6 min de chaque côté et les réserver au chaud.
+    Servir les carrés de poissons avec le « beurre d’anchois » et déguster.
+  ]]>
+  </preparation>
+</recette>

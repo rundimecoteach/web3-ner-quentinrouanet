@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73220">
+  <titre>Escalope roulée  (mozzarella, tomates, basilic)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 escalopes de dinde très fines (aplaties par votre boucher)</p>
+    <p>1 boule de mozzarella (175 g)</p>
+    <p>2 tranches fines de poitrine fumée</p>
+    <p>1 bocal de tomates séchées (il en faudra 6 minimum)</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>1 bouquet de basilic frais</p>
+    <p>1 boîte de double concentré de tomates (12 cl)</p>
+    <p>1 gousse d'ail</p>
+    <p>beurre et huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>2 cure-dents</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Allumer le four à 210°, thermostat 7.
+    2) Faire dorer les escalopes d'un seul côté, environ 5 min, dans une poêle avec une noisette de beurre et un filet d'huile d'olive.
+    Les escalopes doivent être bien dorées côté poêle et encore roses côté extérieur.
+    3) Retirer les escalopes (et les mettre à plat dans une assiette) et laisser la poêle sur le feu. Y ajouter les tranches de poitrine fumée et les faire bien griller de chaque côté environ 5 min.
+    4) Retirer la poitrine fumée de la poêle et verser le verre de vin blanc pour déglacer. Laisser évaporer de moitié le vin à feu doux. 
+    5) Ajouter les 3/4 du concentré de tomates. Laisser réduire à feu doux 3 min. Saler, poivrer, et réserver.
+    6) Sur chaque escalope, coté rose, tartiner le reste de concentré de tomates. Mettre la mozza en tranches comme sur une tartine, puis 3 tomates séchées par escalope, puis quelques feuilles de basilic. Enfin, rajouter la poitrine fumée.
+    7) Enrouler délicatement chaque escalope et fermer avec un cure-dent transperçant la roulade.
+    8) Disposer le réduit tomates, vin blanc au fond d'un plat à gratin.
+    9) Hacher l'ail et rajouter au fond du plat.
+    10) Disposer les 2 roulades sur la sauce.
+    11) Ajouter une cuillère d'huile d'olive sur chaque roulade, du poivre et du sel.
+    12) Mettre au four 15 min (la mozza doit être fondue).
+    Servir avec des tagliatelles fraîches.
+  ]]>
+  </preparation>
+</recette>

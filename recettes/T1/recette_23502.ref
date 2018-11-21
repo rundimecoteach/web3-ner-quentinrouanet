@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23502">
+  <titre>Salade de pâtes au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 paquet de torsettes au blé complet</p>
+    <p>1 quart (arrière) de poulet rôti</p>
+    <p>1 petite boîte de coeurs d'artichaut en conserve</p>
+    <p>huile d'olive (de préférence parfumée à la truffe blanche) </p>
+    <p>moutarde de Dijon</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes 'al dente' dans de l'eau bouillante salée. 
+    Pendant ce temps, mettre les coeurs d'artichauts à égoutter et couper en dés ainsi que le poulet. 
+    Egoutter les pâtes et rincer à l'eau froide. Mélanger avec un filet d'huile d'olive pour ne pas qu'elles collent. 
+    Ajouter les dés d'artichaut et de poulet. 
+    Préparer une sauce avec une bonne cuillère à soupe de moutarde, quelques tours de moulin de poivre et deux ou trois cuillères à soupe d'huile d'olive. 
+    Verser sur les pâtes et mélanger. 
+    Si possible, laisser reposer quelques heures au frigo avant de déguster - pour que les parfums puissent se développer.
+    C'est vraiment le parfum de la truffe blanche qui fait tout. Une fois que vous aurez essayé vous ne pourrez plus vous en passer!
+  ]]>
+  </preparation>
+</recette>

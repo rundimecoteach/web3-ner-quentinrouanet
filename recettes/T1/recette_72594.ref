@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72594">
+  <titre>Pâtes aux petits pois, tomates fraîches, mascarpone et basilic frais.</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes </p>
+    <p>4 tomates</p>
+    <p>400 g de petits pois</p>
+    <p>basilic frais</p>
+    <p>250 g de mascarpone</p>
+    <p>50 g de parmesan frais râpé</p>
+    <p>beurre</p>
+    <p>huile d'olive</p>
+    <p>chapelure</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    À l’avance…
+    Laver et couper les tomates en petits cubes. Egoutter les petits pois. Râper le parmesan. Laver et ciseler le basilic (1 petite poignée de feuilles).
+    Préchauffer votre four à 180°, thermostat 6.
+    Cuire les pâtes suivant le temps de cuisson indiqué (al dente). 
+    Dès qu’elles sont égouttées, y ajouter le mascarpone, et le faire fondre en mélangeant. Saler, poivrer, saupoudrer d’un peu de muscade.
+    Ajouter les tomates, petits pois et basilic ciselé.
+    Transférer dans un plat allant au four, huilé à l’huile d’olive.
+    Recouvrir de parmesan râpé, d’un peu de chapelure, et de quelques noisettes de beurre.
+    Passez au four environ 30 min.
+  ]]>
+  </preparation>
+</recette>

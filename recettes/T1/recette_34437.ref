@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34437">
+  <titre>Os à moelle</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses carottes</p>
+    <p>3 oignons</p>
+    <p>2 poireaux</p>
+    <p>8 os à moelle</p>
+    <p>2 bouillons cube</p>
+    <p>sel, poivre </p>
+    <p>laurier</p>
+    <p>1 gousse d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez les légumes. 
+    Dans une marmite faites revenir les oignons puis ajoutez l'ail, les poireaux et les carottes ; laissez mijoter 10 mn. 
+    Ajoutez de l'eau et les feuilles de laurier et laissez chauffer à feu doux pendant 10 mn. 
+    Enfin une fois le bouillon bien chaud, ajoutez les os à moelle, et les laisser cuire un bon quart d'heure.
+    Ne pas trop faire cuire les os à moelle, sinon celle ci se détachera.
+    [<b>Note de Chef Marmiton :</b> pour éviter la dispersion de la moelle à la cuisson, mettre du gros sel sur la moelle,  aux extrémités des os.]
+  ]]>
+  </preparation>
+</recette>

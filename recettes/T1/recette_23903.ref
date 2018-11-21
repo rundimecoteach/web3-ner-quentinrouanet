@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23903">
+  <titre>Tarte au fromage blanc salée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée déjà étalée</p>
+    <p>500 g de fromage blanc</p>
+    <p>3 oeufs (4 s'ils sont petits)</p>
+    <p>100 g de lardons</p>
+    <p>100 g de gruyère râpé</p>
+    <p>sel et poivre</p>
+    <p>facultatifs : un peu d'ail en semoule et une cuillerée à café de bouillon de légumes en poudre peuvent être ajoutés. Cela relève un peu plus le goût...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortir au préalable la pâte du réfrigérateur.
+    Faire revenir les lardons dans une poêle (sans graisse ajoutée).
+    Préparer la base au fromage blanc : mélanger le fromage blanc, les oeufs entiers battus, les lardons (de préférence égouttés ou rincés à l'eau chaude pour ôter l'excédent de graisse) et le gruyère râpé. 
+    Assaisonner avec le sel, le poivre (et éventuellement l'ail et/ou le bouillon).
+    Dérouler la pâte brisée et la poser au fond d'un moule à tarte. La piquer avec une fourchette. Y verser la préparation au fromage blanc.
+    Enfourner à four moyen (180°C/thermostat 6) une bonne demi-heure en surveillant la cuisson.
+    Déguster avec une bonne salade verte ou une salade de tomates.
+    Vous pouvez remplacer les lardons par des petits cubes de jambon. A ce moment-là, inutile de les faire revenir au préalable dans la poêle.
+    Pour ceux qui connaissent le 'Bibeleskäs' (je pense aux alsaciens), je conseille d'assaisonner le fromage blanc comme on le fait pour le déguster avec des pommes de terre. Je trouve le goût excellent.
+    Vous pouvez également, si vous aimez, rajouter un peu de gruyère râpé sur le dessus de la tarte avant de la mettre au four.
+    Cette tarte peut être dégustée comme plat (agréable pour le repas du soir), ou comme entrée si vous le souhaitez. Vin de Bordeaux
+  ]]>
+  </preparation>
+</recette>

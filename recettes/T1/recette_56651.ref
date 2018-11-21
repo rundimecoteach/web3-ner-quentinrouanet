@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56651">
+  <titre>Rouleaux de chou farcis au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou vert frisé</p>
+    <p>500 g de reste de poulet rôti (ou d'une autre recette au poulet)</p>
+    <p>2 oeufs</p>
+    <p>100 g de riz cuit (basmati ou autre)</p>
+    <p>3 échalotes</p>
+    <p>5 brins de persil frais</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 noisette de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver 12 feuilles du chou et les faire blanchir à l'eau bouillante salée 3 à 4 min.
+    Puis, les laisser égouter sur du papier absorbant.
+    Dans une poêle, faire fondre 10 min les échalotes émincées à l'huile d'olive.
+    Réserver.
+    Pour la farce : ciseler le persil, tailler le poulet en dés.
+    Battre 1 oeuf entier et 1 jaune dans un saladier.
+    Mélanger le tout avec le riz et les échalotes.
+    Assaisonner.
+    Préchauffer le four à 180°C (thermostat 6).
+    Empiler 2 feuilles de chou, poser 2 cuillères de farce au milieu.
+    Rouler les feuilles en les repliant aux deux extrémités pour en faire une papillote et lier avec de la ficelle alimentaire ou un bâtonnet de bois.
+    Poser les ballotins dans un plat beurré.
+    Enfourner et laisser cuire 20 minutes.
+     Chateau Hourtin Ducasse,haut médoc 2003
+  ]]>
+  </preparation>
+</recette>

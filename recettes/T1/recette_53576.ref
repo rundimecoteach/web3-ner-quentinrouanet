@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53576">
+  <titre>Soupe de concombres aux amandes de Dodie</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros concombre</p>
+    <p>60 g d'amandes grillées</p>
+    <p>75 g de feuilles de persil</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 petite gousse d'ail très finement hachée</p>
+    <p>4 cuillères à soupe d'eau</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>300 g de yaourt grec égoutté</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher le concombre, le couper en long et retirer les pépins à l'aide d'une petite cuillère.
+    Couper en troncons de 2.5 cm.
+    Mélanger les amandes, le persil, l'ail, l'huile et l'eau dans un robot ou un mixeur avec la moitié du concombre.
+    Réduire en purée homogène.
+    Ajouter le reste du concombre, une pincée de sel et le jus de citron dans le robot.
+    Reduire en purée.
+    Transvaser la purée dans une jatte et incorporer le yaourt.
+    Saler, poivrer et ajouter du jus de citron à son goût.
+    Couvrir et réfrigérer 30 minutes jusqu'à ce que la soupe soit bien froide.
+    Ajuster l'assaisonnement.
+    Verser dans des bols refroidis.
+    Vous pouvez utiliser de la crème fraîche à la place du yaourt grec.
+  ]]>
+  </preparation>
+</recette>

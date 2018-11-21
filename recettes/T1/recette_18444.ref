@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18444">
+  <titre>MOLLETES</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pains (petits)</p>
+    <p>1 boîte de haricots</p>
+    <p>8 tranches du fromage</p>
+    <p>4 tranches de chorizo</p>
+    <p>du beurre</p>
+    <p>1 grosse tomate</p>
+    <p>1/4 d'oignon</p>
+    <p>4 piments "serranos"</p>
+    <p>du sel</p>
+    <p>un peu d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le chorizo à la poêle, faites chauffer les haricots. 
+    Coupez des pains en deux. 
+    Mettez de beurre sur les pains. 
+    Mettre les haricots (chauds) sur les pains. 
+    Mettez du chorizo, puis du fromage. 
+    Mettez les "molletes" ainsi faites dans four chaud pendant 5 mn. 
+    La sauce "Pico de Gallo":
+    Couper tomate, oignon et piments "serranos" en petits morceaux. 
+    Mélangez avec du sel et d'huile d'olive. 
+    Mettez la sauce "Pico de Gallo" sur les "molletes" chaudes.
+  ]]>
+  </preparation>
+</recette>

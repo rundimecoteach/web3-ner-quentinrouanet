@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11050">
+  <titre>Crumble aux fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>150 g de sucre en poudre</p>
+    <p>800 g de fruits rouges (groseilles, fraises, framboises, seuls ou en mélange)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser la farine et le sucre dans une terrine, ajouter le beurre en petits morceaux et bien mélanger le tout jusqu'à ce que la pâte ressemble à de la chapelure.
+    Préchauffer le four à 210°C (thermostat 7).
+    Pendant ce temps, laver les fruits (égrapper les groseilles) et couper les plus gros en morceaux.
+    Les disposer dans un plat allant au four et recouvrir avec la pâte en saupoudrant. Mettre au four 30 mn.
+    Sortir du four et laisser refroidir. On peut alors parsemer d'un zeste de citron fraîchement râpé (facultatif).
+    Délicieux tiède avec une boule de glace vanille. Sauternes,Monbazillac,vins doux à base de muscat.
+  ]]>
+  </preparation>
+</recette>

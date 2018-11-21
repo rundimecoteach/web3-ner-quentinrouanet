@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221761">
+  <titre>Samoussa au thon et épices espagnoles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de thon au naturel de 200 g (2 x 200 g)</p>
+    <p>8 feuilles de brick</p>
+    <p>1 brique de sauce tomate (environ 400 g)</p>
+    <p>2 cuillères à café de mélanges d'épices espagnoles</p>
+    <p>1 gousse d'ail</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la farce :Bien égoutter le thon et le mélanger avec la sauce tomate, les épices, l'ail, le persil, le sel et le poivre.
+    Bien mélanger le tout afin d'avoir une farce homogène.
+    Préparation des samoussa :Couper en deux les feuilles de brick (ce qui correspond à 8 x 2 = 16 pièces).Mettre l'équivalent d'une cuillère à café de farce par samoussa et procéder au pliage en triangle.
+    Faire dorer les samoussa dans une poêle avec un cuillère à soupe d'huile d'olive.
+    Ces excellents samoussa peuvent aussi convenir pour un apéritif dinatoire en amuse-gueule.Les samoussa doivent rester bien croustillants et peuvent être consommés chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

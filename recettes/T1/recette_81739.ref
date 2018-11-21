@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81739">
+  <titre>Tarte poireaux et escargots</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>5 blancs de poireaux</p>
+    <p>3 échalotes</p>
+    <p>25 cl de crème fraîche</p>
+    <p>cerfeuil hâché</p>
+    <p>1 boîte d'escargots</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire suer les blancs de poireaux.
+    Pendant ce temps, faire revenir dans un peu de beurre les échalotes coupées en petits morceaux, rajouter les escargots préalablement égouttés.
+    Saler et poivrer.
+    Napper le fond de pâte feuilletée avec les blancs de poireaux, parsemer les escargots revenus dans l'échalote, et verser sur le tout une brique de crème fraîche. 
+    Saupoudrer de cerfeuil haché, et cuire à 200°C (thermostat 6-7) 30 min environ.
+     crozes hermitage rouge
+  ]]>
+  </preparation>
+</recette>

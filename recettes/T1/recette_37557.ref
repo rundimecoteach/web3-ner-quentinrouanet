@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37557">
+  <titre>Gâteau à l'ananas mixé rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte d'ananas (environ 850 g)</p>
+    <p>100 g de sucre en poudre</p>
+    <p>100 g de farine</p>
+    <p>3 œufs</p>
+    <p>1/2 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le four à 150°C (thermostat 5).
+    Mettre l'ananas égoutté dans le mixer.
+    Mixer.
+    Ajouter les œufs entiers, puis le sucre, la farine et la levure.
+    Mixer encore.
+    Verser la pâte dans le moule beurré et sucré.
+    Faire cuire 30 min.
+    Bon appétit !
+    Ce gâteau est très rapide et très facile à faire ! Il sera parfait pour un jour où vous êtes pressé(es) !
+  ]]>
+  </preparation>
+</recette>

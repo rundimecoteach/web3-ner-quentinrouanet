@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24270">
+  <titre>Gâteau au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>130 g de chocolat</p>
+    <p>30 g de beurre</p>
+    <p>130 g de sucre</p>
+    <p>15 g de farine</p>
+    <p>15 g de maïzena</p>
+    <p>1 pincée de sel</p>
+    <p>3 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fondre le chocolat dans le beurre.
+    Séparer les blancs des jaunes d'oeufs et les battre en neige ferme avec une pincée de sel.
+    Dans un bol, mélanger les jaunes avec le sucre pour faire blanchir le mélange.
+    Y ajouter le chocolat fondu puis la farine et la maïzena. Enfin ajouter les blancs d'oeufs en neige de manière à ne pas les faire retomber.
+    Verser la préparation dans un moule et cuire le gâteau 30 min environ à 200°C (thermostat 6-7). Il est cuit quand la lame d'un couteau introduit en son centre ressort sèche.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26486">
+  <titre>Saumon cru mariné ('gravad lax' en suédois)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un saumon entier d'1 kg</p>
+    <p>50 g de gros sel</p>
+    <p>50 g de sucre en poudre</p>
+    <p>quelques tiges d'aneth hachées</p>
+    <p>quelques grains de poivre concassés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Prélever les filets de saumon sans en ôter la peau. 
+    2) Enlever toutes les petites arêtes avec soin, et essuyer sans laver. 
+    3) Dans un récipient plat mais suffisamment large, disposer le premier filet, peau vers le bas. 
+    4) Saupoudrer abondamment avec le mélange sel et sucre. 
+    5) Poser le second filet dessus, la peau tournée vers le haut. 
+    6) Poser par-dessus une plaque et des poids assez lourds. 
+    7) Laisser mariner au frais pendant 24 h au moins, en retournant à mi-temps. 
+    Pour servir, couper des tranches fines en biais, en s'arrêtant juste avant la peau. 
+    On peut faire une sauce d'accompagnement, avec du fromage blanc battu, de la moutarde suédoise (ou de la Savora), de l'aneth et un peu de citron.
+    Recette traditionnelle de Noël en Suède, fait beaucoup d'effet sans donner beaucoup de travail ! Chablis
+  ]]>
+  </preparation>
+</recette>

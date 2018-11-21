@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84893">
+  <titre>Tarte aux pommes noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 ou 3 pommes reine des reinettes ou grises du Canada</p>
+    <p>1 pâte feuilletée toute prête à dérouler</p>
+    <p>75 g de noisettes décortiquées entières</p>
+    <p>30 cl de crème fraîche entière</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de sucre poudre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pate feuilletée dans un moule, la piquer avec une fourchette.
+    Mettre les noisettes dans un hachoir électrique, les réduire, mais pas en poudre fine, les noisettes doivent être broyées grossièrement.
+    Etaler les noisettes broyées directement sur la pâte.
+    Peler et couper les pommes en tranches assez fines, les arranger harmonieusement sur la pâte recouverte des noisettes broyées.
+    Dans un récipient, casser 2 oeufs, y ajouter le sucre vanillé, battre énergiquement, rajouter la creme fraîche, rebattre énergiquement et étaler cette crème sur les pommes.
+    Enfourner à 180°C (thermostat 6) durant 35 min.
+    Bon appétit.
+    Facile à faire, vérifier la cuisson la crème doit être bien prise. un moelleux
+  ]]>
+  </preparation>
+</recette>

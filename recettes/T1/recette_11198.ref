@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11198">
+  <titre>Melon au Pinot blanc</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 melons charentais</p>
+    <p>1  cuillère à café de miel de tilleul</p>
+    <p>4 dl de Pinot blanc</p>
+    <p>8 morceaux de sucre Candi</p>
+    <p>8 feuilles de menthe.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les melons en 2 et épépinez-les.  Extrayez la chair en petites boules à l'aide d'une cuillère à pommes parisiennes.Mélangez le vin, le sucre, le miel de tilleul et la menthe hachée.
+    Remplissez les écorces de melon avec les boules et arrosez-les de vin. Décorez d'une feuille de menthe et servez éventuellement avec une boule de crème glacée. Pinot blanc sec
+  ]]>
+  </preparation>
+</recette>

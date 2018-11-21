@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68425">
+  <titre>Mes crevettes à l'indienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de crevettes cuites décortiquées</p>
+    <p>1 oignon moyen émincé</p>
+    <p>4 gousses d'ail sans germe émincées</p>
+    <p>1 grosse tomate en dés ou 20 cl de conserve de tomates en dés</p>
+    <p>150 g de petits pois</p>
+    <p>10 noix de cajou</p>
+    <p>25 cl de lait de coco</p>
+    <p>1 cuillère à café de piment moyen</p>
+    <p>1 cuillère à café de cumin</p>
+    <p>1 cuillère à café de curcuma</p>
+    <p>beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon et l'ail dans du beurre. Lorsqu'il y a formation de mousse, ajouter les épices. Puis la tomate et les petits pois.
+    Lorsque le mélange a commencé à réduire, ajouter les crevettes puis le lait de coco. Laisser mijoter pour que toutes les saveurs se mélangent mais attention à ce que les crevettes ne sèchent pas.
+    Avant de servir ajouter les noix de cajous coupées en deux afin qu'elles gardent leur croquant. Ajuster en sel.
+    Attention au piment. Si le plat est trop fort, accompagner de raïta (yahourt grecque et concombre) pour adoucir.
+    Accompagner de riz basmati. Chablis
+  ]]>
+  </preparation>
+</recette>

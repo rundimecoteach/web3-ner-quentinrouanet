@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37716">
+  <titre>Dos de cabillaud sur ratatouille safranée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 dos de cabillaud (environ 400g/ pièce)</p>
+    <p>4 courgettes</p>
+    <p>2 poivrons rouges</p>
+    <p>1 botte d'oignons frais</p>
+    <p>3 gousses d'ail</p>
+    <p>4 tomates</p>
+    <p>3 g de safran en poudre</p>
+    <p>1 cuillère à soupe de graines de coriandre</p>
+    <p>herbes de provence</p>
+    <p>sel, poivre de cayenne</p>
+    <p>300 g de riz</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les légumes.
+    Dans une cocotte, faites revenir à l'huile d'olive, les oignons coupés en rondelles, puis les courgettes coupées en rondelles, puis les poivrons coupés en petits morceaux. Terminez par les tomates coupées en quatre.
+    Ajoutez les gousses d'ail pressées, ainsi que les herbes de provence, les graines de coriandre, le sel, le poivre de cayenne et laissez mijoter une petite heure à feu doux.
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Répartissez dans un plat à gratin quelques cuillères à soupe de ratatouille dans laquelle vous aurez dispersé les 3 g de safran en poudre.
+    Posez les dos de cabillaud que vous aurez salés et arrosés de quelques gouttes d'huile d'olive.
+    Enfournez 20 minutes.
+    Servez chaud accompagné du reste de ratatouille et de riz.
+  ]]>
+  </preparation>
+</recette>

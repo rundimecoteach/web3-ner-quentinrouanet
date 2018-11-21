@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23735">
+  <titre>Pain d'épices aux raisins</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine de seigle</p>
+    <p>125 g de sucre roux</p>
+    <p>200 g de miel de bruyère </p>
+    <p>180 g de raisins secs</p>
+    <p>1 cuillère à café d'arôme naturel orange</p>
+    <p>1 cuillère à café d'arôme naturel vanille</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 cuillère à café de mélange 4 épices</p>
+    <p>25 cl d'eau bouillante + 1 cuillère à café de graines d'anis</p>
+    <p>1/4 verre à moutarde d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    (recette pour un moule à cake de 28 cm)
+    Dans une terrine, mélanger farine de seigle + sucre + épices + levure.
+    Faire gonfler les raisins secs puis les égoutter. Réserver.
+    Faire infuser 10 mn les grains d'anis dans 25 cl d'eau bouillante, puis retirer les grains. Dans un récipient, verser les 25 cl d'eau et y ajouter le miel pourqu'il se dilue. Réserver.
+    Dans le verre ayant servi de verre mesureur pour l'huile, ajouter les cuillères à café d'arôme naturel d'orange et de vanille. Réserver.
+    Quand les 25 cl d'eau et de miel sont à température ambiante, les ajouter à la farine de seigle (+ épices...), bien mélanger, puis incorporer les raisins secs -toujours en mélangeant- puis en dernier lieu, ajouter l'huile contenant les arômes naturels. Mélanger.
+    Graisser le fond du moule à cake, mettre une bande de papier sulfurisé dans le fond, graisser et fariner les parois.
+    Cuire au four à 150°C pendant 2h45.
+    J'insiste sur le miel de bruyère.
+    Cette recette convient aux allergiques aux oeufs et au lait.
+  ]]>
+  </preparation>
+</recette>

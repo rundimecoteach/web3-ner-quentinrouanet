@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16974">
+  <titre>Tarte à la crème de marron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte brisée</p>
+    <p>crème de marron en boîte</p>
+    <p>7 cuillères à soupe de crème fraîche </p>
+    <p>3 oeufs</p>
+    <p>sucre semoule (si besoin)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Abaissez la pâte, dans votre moule à tarte.
+     
+     Mélangez tous les ingrédients, de préférence avec un batteur électrique, pour alléger la consistance de la préparation .
+     Versez dans le moule préparé et cuire, pendant 30 mn, à 180°.
+    Cuire 25 mn à 180°.
+    Terminer par 2 ou 3 mn, sous le gril, pour rendre le dessus de la tarte croquant (l'intérieur, lui doit rester moelleux).
+  ]]>
+  </preparation>
+</recette>

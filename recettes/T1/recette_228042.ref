@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228042">
+  <titre>Confiture de rhubarbe au thym</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de rhubarbe</p>
+    <p>800 g de sucre pour confiture</p>
+    <p>1 bouquet de thym frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ficelez quelques bruns de thym frais.
+    Epluchez la rhubarbe, coupez-la en petits morceaux.
+    Faites cuire la rhubarbe avec le sucre et le thym, 7 min à partir des premiers frémissements.
+    Retirez le thym après la cuisson et mettez en pot immédiatement.Vous pouvez remplacer le thym par du romarin
+  ]]>
+  </preparation>
+</recette>

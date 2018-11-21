@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229550">
+  <titre>Brochette de melon, jambon de montagne et olives</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 melon</p>
+    <p>12 tranches de jambon de montagne </p>
+    <p>20 olives</p>
+    <p>1 bouquet de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper des morceaux de melons, rouler des demi-tranches de jambon. Les enfiler sur des brochettes de petites tailles et ajouter olives et menthe selon les goûts.
+    Idéal pour un apéritif dinatoire.
+    Le + : présenter sur le melon coupé en 2.
+  ]]>
+  </preparation>
+</recette>

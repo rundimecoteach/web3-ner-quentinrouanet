@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62306">
+  <titre>Brie sur coulis de framboise</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pointes de brie</p>
+    <p>20 cl de coulis de framboise</p>
+    <p>2 oeufs</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le brie de façon à obtenir 8 triangles.
+    Paner les en les badigeonant dans les oeufs battus ensuite les enduire de chapelure.
+    Passer à la friteuse 190°C (thermostat 6-7).
+    Verser du coulis dans les assiettes et disposer les parts de bries à la verticale dans les assiettes et servir.
+  ]]>
+  </preparation>
+</recette>

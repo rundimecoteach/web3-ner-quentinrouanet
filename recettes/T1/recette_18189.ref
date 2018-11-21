@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18189">
+  <titre>Pain de viande rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de boeuf maigre haché </p>
+    <p>1 bouquet de persil</p>
+    <p>1 oignon</p>
+    <p>20 g de mie de pain</p>
+    <p>1 cuillère à café de sel</p>
+    <p>poivre</p>
+    <p>1 pincée de muscade</p>
+    <p>3 cuillères à soupe de ketchup épicé</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans le robot le persil et l'oignon.
+    Hacher quelque secondes, puis ajouter le pain coupé en petits dés, mixer quelque secondes.
+    Ajouter la viande, le sel, le poivre, le ketchup, l'oeuf et la muscade.
+    Mixer 5 secondes
+    Mettre le hachis dans un plat en lui donnant la forme d'une boule de pain.
+    Cuire 45 min à 175°C, thermostat 5-6.
+    Recette allégée à accompagner d'une salade. Peut se manger froid ou chaud.
+  ]]>
+  </preparation>
+</recette>

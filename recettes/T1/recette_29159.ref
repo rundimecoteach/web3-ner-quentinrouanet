@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29159">
+  <titre>Quinoa de Guillaume</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 carottes</p>
+    <p>2 tomates</p>
+    <p>2 oignons</p>
+    <p>4 oeufs</p>
+    <p>ail</p>
+    <p>gingembre frais</p>
+    <p>persil</p>
+    <p>250 g quinoa</p>
+    <p>vinaigrette avec huile olive et vinaigre balsamique</p>
+    <p>piment en pâte</p>
+    <p>sel</p>
+    <p>piment</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le quinoa et réserver. En parallèle, couper les oignons, les tomates et les carottes en petits morceaux et les faire sauter au wok. 
+    Battre les oeufs en omelette avec l'ail pressé, les morceaux de gingembre finement coupés et le sel puis cuire. Couper l'omelette en petits morceaux. 
+    Mélanger quinoa, légumes et oeufs. Ce plat peut être servi froid ou chaud. 
+    Au moment de servir, parsemer de persil haché. 
+    Accompagner de vinaigrette et/ou de piment en pâte (spécialité de la Réunion, se trouve dans les épiceries exotiques)
+    Mon ami m'en réclame toutes les semaines depuis qu'il y a goûté ! Testez-le !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66299">
+  <titre>Epinards garnis aux oeufs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 à 800 g d'épinards hachés ou en feuille au choix</p>
+    <p>1 oignon</p>
+    <p>8 oeufs</p>
+    <p>5 cuillères à soupe de crème fraîche épaisse</p>
+    <p>poivre, sel</p>
+    <p>un peu de margarine ou de beurre</p>
+    <p>un peu de gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rissoler l'oignon haché dans le beurre, y ajouter les épinards (surgelés, conserve ou frais selon choix).
+    Y mélanger la crème fraîche, le sel, le poivre et verser dans un plat à gratin.
+    Faire 8 creux dans la préparation pour y deposer les oeufs entier (ne pas cassé les jaunes), parsemer de gruyère rapé et passer au four jusqu'a la cuisson total des oeufs.
+  ]]>
+  </preparation>
+</recette>

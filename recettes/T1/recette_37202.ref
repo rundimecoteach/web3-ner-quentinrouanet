@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37202">
+  <titre>Roulés de poireaux légers au saumon fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 beaux blancs de poireaux (ou un bocal de blanc de poireaux en conserve)</p>
+    <p>4 belles tranches de saumon fumé</p>
+    <p>50 cl de crème fraîche épaisse (allégée 8%, 15% de matières grasses maximum) </p>
+    <p>1 pincée de noix de muscade en poudre</p>
+    <p>1 gros citron</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire à la vapeur ou à l'eau les blancs de poireaux si vous n'avez opté pour la version en conserve (20 min).
+    Enrouler chaque blanc de poireau dans une tranche de saumon fumé, et les disposer dans un plat.
+    Mélanger la crème fraîche et le jus du citron avec la muscade, le sel et un bon tour de moulin à poivre.
+    Verser sur les roulés.
+    Mettre au four à 170°C (thermostat 5-6) pendant une dizaine de minutes.
+    Si vous faites moins attention à votre ligne, vous pouvez bien sur utiliser de la crème fraîche normale.
+  ]]>
+  </preparation>
+</recette>

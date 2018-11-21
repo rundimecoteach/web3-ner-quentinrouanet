@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39126">
+  <titre>Crumble abricots noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g d'abricots</p>
+    <p>90 g de sucre roux</p>
+    <p>45 g de beurre doux</p>
+    <p>45 g de beurre demi-sel</p>
+    <p>60 g de poudre de noisette</p>
+    <p>30 g de farine</p>
+    <p>1 poignée de céréales type corn flakes</p>
+    <p>1 poignée de noisettes hachées</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer le fond du plat et y déposer les abricots lavés, dénoyautés et coupés en 4, côté bombé dessous.
+    Ajouter les noisettes grossièrement hachées et saupoudrer de sucre vanillé. 
+    Mélanger rapidement le reste des ingrédients de façon à obtenir une pâte granuleuse, en recouvrir les fruits. 
+    Mettre à four 200°C jusqu’à ce que le mélange soit doré (environ 30 min, selon le four).
+    Déguster tiède.
+    L'association abricots noisettes est très sympa, ne vous en privez pas !
+  ]]>
+  </preparation>
+</recette>

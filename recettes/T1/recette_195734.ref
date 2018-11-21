@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195734">
+  <titre>Pommade d'artichaut</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de fonds d'artichauts</p>
+    <p>7 cl d'huile d'olive</p>
+    <p>quelques feuilles de marjolaine sèche ( ou : un peu de thym, de persil frisé)</p>
+    <p>10 olives noires</p>
+    <p>sel</p>
+    <p>poivre </p>
+    <p>tabasco</p>
+    <p>vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer légèrement ou écraser finement les fonds bien rincés et séchés à l'essuie-tout avec les ingrédients. Ajuster l'assaisonnement à votre goût : tabasco, vinaigre.
+    Les olives donnent un peu de texture.
+    Servez en apéritif sur du pain grillé.Le goût est différent selon la texture : je trouve qu'il ne faut pas aller jusqu'à la purée pour l'apéritif; en revanche, servi chaud, comme accompagnement d'autres purées et d'un rôti, c'est l'inverse
+  ]]>
+  </preparation>
+</recette>

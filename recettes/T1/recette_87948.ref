@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87948">
+  <titre>Muffins aux lardons et au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de farine</p>
+    <p>100 g de lardons fumés</p>
+    <p>100 g de fromage de chèvre</p>
+    <p>2 oeufs</p>
+    <p>1 yaourt nature</p>
+    <p>1 sachet de levure chimique</p>
+    <p>5 cl de lait</p>
+    <p>5 cl d'huile</p>
+    <p>1 cuillère à soupe de persil ciselé</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6). Couper le fromage de chèvre en petits morceaux.
+    Dans une terrine, fouetter les œufs, poivrer, ajouter le yaourt, la farine et la levure. Mélanger le tout puis incorporer l'huile et le lait, le fromage de chèvre, le persil et les lardons fumés. Mélanger de nouveau la pâte.
+    Beurrer et fariner des petits moules. Y verser la préparation et cuire ces muffins à four moyen pendant 20 minutes environ.
+    A la sortie du four, attendre un instant avant de démouler les muffins, les placer ensuite sur une grille à pâtisserie et les laisser refroidir.
+    Le fromage et les lardons étant déjà salés, il est inutile de saler ces muffins.
+  ]]>
+  </preparation>
+</recette>

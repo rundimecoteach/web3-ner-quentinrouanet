@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28710">
+  <titre>Tourte au lard, oignons et pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 rouleaux de pâte brisée</p>
+    <p>800 g de pommes de terre</p>
+    <p>800 g d'oignons</p>
+    <p>300 g de lard en fines tranches</p>
+    <p>3 cuillerées à soupe de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les pommes de terre et les oignons en rondelles très fines.
+    Etaler une pâte dans un moule bords hauts.
+    Disposer une couche de pommes de terre, saler, poivrer, une couche d'oignons, une couche de lard.
+    Recommencer jusqu'à épuisement des ingrédients.
+    Couvrir de crème fraîche, saler et poivrer.
+    Couvrir avec le 2e disque de pâte, bien souder les bords et dorer au jaune d'oeuf délayé avec un peu d'eau.
+    Faire cuire 50 min environ au cour à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

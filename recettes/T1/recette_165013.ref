@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165013">
+  <titre>Parmentier de rognons de porc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 rognons de porc</p>
+    <p>vinaigre de cidre</p>
+    <p>6 belles pommes de terre</p>
+    <p>1 oignon</p>
+    <p>2 champignons</p>
+    <p>2 cl à soupe de crème fraiche</p>
+    <p>6 tranches de fromage a raclette</p>
+    <p>Sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et decouper les pommes de terre ( en 3 ) et les mettre dans une casserole d'eau .Découper en cubes et denerver les rognons . 
+    Eplucher 1 oignons et couper en petits morceaux . 
+    Decouper les champignons de Paris en lamelles .Déposer le tout dans l'huile d'olive chaude dans une poele . Faire revenir quelques minutes puis deglacer au vinaigre ( 2 cl à soupe ) .
+    Melanger et ajouter la creme fraiche , retirer du feu .Ecrasez les pommes de terre cuites à la fourchette , ajoutez une cl à soupe de crème fraiche et salez .Deposer dans un plat une couche de purée puis la poelee de rognons , puis une nouvelle couche de purée .Mettre les tranches de fromage sur le dessus et faire cuire au four à 180° jusqu a ce que le fromage soit bien fondu .Servez avec une salade . Saumur Champigny 
+  ]]>
+  </preparation>
+</recette>

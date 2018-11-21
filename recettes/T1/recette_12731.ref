@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12731">
+  <titre>Crème brûlée au lait de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>40 cl de lait de noix de coco en boîte</p>
+    <p>20 cl de crème fraîche</p>
+    <p>100 à 120 g de sucre</p>
+    <p>30 g de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des oeufs des jaunes. Mélanger le sucre et les jaunes et fouettez énergiquement jusqu'à que le mélange blanchisse.
+    Ajoutez la crème et le lait de coco et mélangez.
+    Versez préparation dans des moules et faire cuire à four très doux au bain marie pendant 30 min.
+    Avant de servir, saupoudrez de cassonade et passez sous le grill très chaud.
+    Laissez bien refroidir avant de passer les crèmes sous le grilloir du four. coteau du layon
+  ]]>
+  </preparation>
+</recette>

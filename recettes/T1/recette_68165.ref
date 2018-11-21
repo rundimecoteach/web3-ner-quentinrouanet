@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68165">
+  <titre>Soupe aux carottes et à l'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 carottes </p>
+    <p>200 g de courge </p>
+    <p>1 orange </p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les carottes et la courge en morceaux. Recouvrir à peine d'eau et porter à ébullition. 
+    Environ 15 min avant la fin de la cuisson, ajouter l'orange pelée et coupée en quartiers. 
+    Une fois la cuisson terminée, laissez refroidir et mouliner. Salez et poivrez à votre convenance.
+  ]]>
+  </preparation>
+</recette>

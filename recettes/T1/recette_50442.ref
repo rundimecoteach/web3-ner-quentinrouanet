@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50442">
+  <titre>Soupe froide d'avocat aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de crevettes grises cuites</p>
+    <p>4 avocats bien murs</p>
+    <p>1/2 poivron jaune et 1/2 poivron rouge</p>
+    <p>40 cl de lait</p>
+    <p>10 cl de crème liquide</p>
+    <p>1 citron vert</p>
+    <p>1 oignon blanc</p>
+    <p>tabasco</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes et les réserver au frais.
+    Emincez finement l'oignon.
+    Découper les poivrons en petits dés puis les blanchir pendant 5 minutes dans l'eau bouillante puis égoutter.
+    Couper les avocats en 2 et les dénoyauter.
+    Prélever leur chair et la mixer avec l'oignon et le jus de citron.
+    Incorporer la crème, le lait, quelques gouttes de tabasco et mixer à nouveau.
+    Saler, poivrer, ajouter les dés de poivron et les crevettes.
+    Placer au réfrigérateur pendant au moins 2 heures avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55527">
+  <titre>Salade aux lardons et croûtons au miel</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 salade</p>
+    <p>vinaigrette selon les goûts</p>
+    <p>1 boîte de lardons</p>
+    <p>2 tomates</p>
+    <p>1 filet de miel</p>
+    <p>2 tranches de pain de mie</p>
+    <p>2 cuillères à soupe de crême fraiche</p>
+    <p>1/2 citron</p>
+    <p>herbes de provence</p>
+    <p>huile d'olive</p>
+    <p>1 soupçon d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les lardons dans une poêle, environ 8 mn afin de les dorer.
+    Pendant ce temps, couper les tomates en petits dés, les faire mariner dans un petit bol avec de l'huile d'olive, les herbes de provence et un peu d'ail.
+    Tartiner les tranches de pain de mie de miel, les faire dorer au four sous le grill, puis les couper en dés.
+    Dans la poêle en fin de cuisson, ajouter 2 cuillères à soupe de crème fraîche et le jus de citron.
+    Mettre la salade assaisonnée dans les assiettes, verser les lardons, les tomates, et les dés de pain de mie.
+    Bon appétit...!
+    Vous pouvez doubler les portions afin d'en faire un plat principal. Muscadet sur lie
+  ]]>
+  </preparation>
+</recette>

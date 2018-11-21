@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20133">
+  <titre>Velouté de céleri persillé</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 céleri-rave</p>
+    <p>1,5 l de bouillon</p>
+    <p>1 oeuf</p>
+    <p>5 cl de crème fraîche</p>
+    <p>4 cuillères à soupe de riz</p>
+    <p>persil</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler le céleri, le détailler en gros cubes, puis le mettre à blanchir 5 min dans l'eau bouillante salée.
+    Faire chauffer le bouillon et y incorporer les cubes de céleris puis le riz dès ébullition.
+    Laisser mijoter 30 min à couvert à feu doux, égoutter et mixer le tout.
+    Ajouter le jaune d’oeuf, la crème, le sel et le poivre aux légumes mixés, puis bien mélanger le tout pour obtenir une crème onctueuse.
+    Rectifier l’assaisonnement puis saupoudrer de persil et déguster.
+  ]]>
+  </preparation>
+</recette>

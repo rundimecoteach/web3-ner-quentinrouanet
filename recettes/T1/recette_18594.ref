@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18594">
+  <titre>Salade d'oranges Sicilienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4/5 oranges valencia (peau fine) bien mûres</p>
+    <p>Quelques feuilles de menthe fraîche</p>
+    <p>1 petit oignon frais (ou ciboulette fraîche)</p>
+    <p>huile d'olive Italienne</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les oranges et enlever la peau blanche. Couper en petits dés de 2 cm environ. 
+    Emincer la menthe et l'oignon (ou ciboulette). Ajouter aux oranges dans un saladier. 
+    Assaisonner avec huile d'olive, sel et poivre.
+    Recette très rafraîchissante et ultra light!
+  ]]>
+  </preparation>
+</recette>

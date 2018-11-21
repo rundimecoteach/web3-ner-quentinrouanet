@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87675">
+  <titre>Tarte sablée aux pommes meringuées</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée toute prête</p>
+    <p>6 pommes Golden </p>
+    <p>2 cuill. à soupe de miel</p>
+    <p>3 blancs d'oeufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>vanille ou cannelle</p>
+    <p>un peu de beurre</p>
+    <p>20 g d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foncer un moule à tarte avec la pâte sablée et faire cuire à blanc 15 minutes à 180°C (thermostat 6).
+    Pendant ce temps, éplucher et couper les pommes en dés. Les mettre dans une poêle avec un peu de beurre et le miel et faire caraméliser pendant 10 minutes en remuant. Parfumer. Quand les pommes sont tendres mais pas complètement fondues, couvrir et éteindre. 
+    Quand la pâte est cuite, la recouvrir des pommes. Laisser tièdir. Battre les blancs en neige ferme et ajouter peu à peu le sucre en poudre. Recouvrir les pommes de la meringue, saupoudrer d'amandes effilées et remettre 10 minutes au four à 180°C (thermostat 6).
+    Se déguste tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

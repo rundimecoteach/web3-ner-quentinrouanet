@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39648">
+  <titre>Poulet aux agrumes facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>1 orange</p>
+    <p>1 citron vert</p>
+    <p>1 oignon</p>
+    <p>baies roses</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, fendre le poulet en deux, par le ventre et le positionner, sur le dos.
+    Incorporer l'oignon en lamelles, les baies roses semi-écrasées, le jus d'orange et de citron vert. Laisser mariner au réfrigérateur.
+    Le lendemain, préchauffer votre four à 240°C (thermostat 8).
+    Mettre le poulet, dans un plat huilé, avec la peau sur le dessus. L'arroser avec la marinade, et parsemer de petits bouts de beurre, saler, poivrer, puis enfourner.
+    Laisser cuire, 40 à 50 min, en fonction de la taille du poulet, et de votre goût.
+    Arroser avec la marinade, de temps en temps.
+    Accompagné de coquillettes au beurre et de graines de pavots, c'est tout simple, pas cher et très bon.
+  ]]>
+  </preparation>
+</recette>

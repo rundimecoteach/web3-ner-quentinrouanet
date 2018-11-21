@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67462">
+  <titre>Chausson à la framboise façon coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>12 framboises surgelées</p>
+    <p>2 cuillères à soupe de crème fraiche épaisse</p>
+    <p>1 carré de chocolat noir pâtissier</p>
+    <p>2 cuillères a café de sucre en poudre</p>
+    <p>beurre</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper 4 rectangles de 15 cm sur 10 cm dans votre pâte brisée préétalée.
+    Sur deux de ces rectangles, disposer une cuillère à soupe de crème fraîche et 6 framboises surgelés. Prendre le carré de chocolat et avec un couteau bien affûté ou économe, râper de petit copeaux très fins.
+    Disposer ces copeaux sur les framboises.
+    Saupoudrer le tout de sucre en poudre.
+    Placer les deux rectangles de pâte sur les préparations et pincer les bords. Piquer la pâte supérieure avec une fourchette
+    Mettre un petit morceau de beurre au dessus du chausson, saupoudrez de sucre glace.
+    Placer au four à 160°C (thermostat 5-6) pendant 15 à 20 minutes.
+  ]]>
+  </preparation>
+</recette>

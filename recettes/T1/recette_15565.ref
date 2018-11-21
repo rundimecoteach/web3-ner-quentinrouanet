@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15565">
+  <titre>Filet mignon au miel et gingembre</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>filet mignon de porc</p>
+    <p>2 cuillères à soupe de miel (d'acacia par ex.)</p>
+    <p>75 g de gingembre frais</p>
+    <p>1 cuillère à café d'épice cinq parfums</p>
+    <p>1 cuillère à soupe de poivre vert frais</p>
+    <p>1 cuillère à soupe de sauce de soja</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez le gingembre. Râpez-en la moitié. Passez l'autre moitié au presse ail et ajoutez le sel, les cinq épices, la sauce de soja, le miel et l'huile. Faites mariner la viande dans ce mélange pendant 1h.
+    Faites dorer la viande dans un faitout sur toutes ses facettes. Couvrez et laissez mijoter pendant 30mn (retournez et ajoutez de l'eau si le jus caramélise trop vite).
+    Quand la viande est cuite, ajoutez le reste du gingembre et le poivre. La sauce doit être lisse et onctueuse.
+    A servir avec du riz basmati ou des légumes cuits à l'asiatique.
+  ]]>
+  </preparation>
+</recette>

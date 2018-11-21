@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91966">
+  <titre>Patina de poires (recette romaine)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de poires</p>
+    <p>1 verre de vin rosé ou similaire</p>
+    <p>4 cuillères à soupe de miel</p>
+    <p>1 petite cuillère de nuoc mam</p>
+    <p>cumin en poudre</p>
+    <p>6 œufs</p>
+    <p>poivre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les poires.
+    Faites-les cuire à couvert dans le vin avec le miel, le garum et une grosse pincée de cumin.
+    Battez les œufs, écrasez les poires et mélangez.
+    Poivrez et ajoutez l'huile. 
+    Enfournez dans un plat à gratin huilé pour environ 40 minutes à 200°C.
+    saupoudrez de poivre et servez froid.
+  ]]>
+  </preparation>
+</recette>

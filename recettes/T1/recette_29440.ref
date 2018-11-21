@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29440">
+  <titre>Clafoutis aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de fraises</p>
+    <p>60 g de Maïzena</p>
+    <p>125 g de sucre</p>
+    <p>1/4 de litre de lait</p>
+    <p>200 g crème fraîche épaisse </p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>2 oeufs plus 2 jaunes</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger sucre, sucre vanille, sel Maïzena, puis les oeufs. Délayer avec le lait et mélanger le tout. Mettre dans un plat ajouter la crème en la cassant grossièrement. 
+    Verser dans un plat beurré sur les fraises. 
+    Cuire une trentaine de minutes à 180°C. 
+    Bon appétit.
+     cidre
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21979">
+  <titre>Riz ibérique</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de riz</p>
+    <p>150 g de chorizo</p>
+    <p>50 g de lard (poitrine) ou de bacon</p>
+    <p>2 oignons</p>
+    <p>3 poivrons verts</p>
+    <p>100 g d'olives vertes</p>
+    <p>1 cuillères à soupe de concentré de tomates</p>
+    <p>2-3 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Denoyauter les olives, les ébouillanter 3 min pour les dessaler.
+    Hacher les oignons et émincer les poivrons en lanières.
+    Faire suer les oignosn dans 1 cuillère d'huile chaude dans une sauteuse. Laisser blondir et ajouter le riz. Remuer et laisser le riz prendre couleur à feu doux.
+    Ajouter le concentré de tomates, saler et poivrer. Couvrir le riz d'eau ou de bouillon tiède (le liquide doit dépasser le riz d'1 cm environ).
+    Ajouter le lard détaillé en lardons, le chorizo coupé en rondelles et les olives égouttées. Couvrir et laisser mijoter 20 min environ.
+    Cuire les poivrons dans le reste d'huile pendant environ 30 min, à feu doux.
+    Servir le riz cuit avec les poivrons, le tout bien chaud.
+    Vous pouvez accompagner de quartiers de citrons comme pour une paëlla !
+  ]]>
+  </preparation>
+</recette>

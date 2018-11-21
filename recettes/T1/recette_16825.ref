@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16825">
+  <titre>Quiche à la brousse et aux petits légumes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>3 tomates</p>
+    <p>1 poivron jaune</p>
+    <p>2 courgettes</p>
+    <p>3 oeufs</p>
+    <p>250 g de brousse</p>
+    <p>sel et poivre</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle,avec un peu d'huile d'olive, faire suer les courgettes coupées en fines tranches  et le poivron coupé en fines lanières. Y rajouter les tomates coupées en petits dés et faire revenir juste deux minutes supplémentaires. 
+    Dans une terrine, battre les oeufs en omelette et rajoutez la brousse, saler et poivrer. Disposer les légumes sur le fond de tarte brisée, y verser la préparation oeufs-brousse, puis disposer un peu de ciboulette sur le dessus (pour la couleur).
+    Cuire au four 45 mn et servir chaud ou tiède.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29508">
+  <titre>Crêpes Florence (sans blé, sans lait de vache)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oeuf</p>
+    <p>50 g de farine de chataigne</p>
+    <p>50 g de maïzena</p>
+    <p>15 cl de lait de chèvre</p>
+    <p>15 g de fructose cristalisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout en incorporant les ingrédients dans l'ordre de la liste.
+    Faire cuire comme des crêpes classiques
+    A consommer le jour même!!!
+    Le résultat est surprenant mais agréable. On sent bien le goût de la châtaigne et pas celui du lait de chèvre.
+    Recette crée par mon chéri pour sa soeur qui ne peut consommer ni blé, ni lait de vache.
+  ]]>
+  </preparation>
+</recette>

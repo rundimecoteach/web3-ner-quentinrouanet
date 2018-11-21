@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170194">
+  <titre>Poulet mariné à la moutarde (light)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 escalopes de poulet</p>
+    <p>1 cuillère à soupe bombée de moutarde (ail, persil)</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>2 cuillères à café de curry</p>
+    <p>1 échalote nouvelle</p>
+    <p>estragon</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer le poulet et l'échalote, les déposer dans un récipient.
+    Ajouter les autres ingrédients, bien mélanger.
+    Laisser mariner une heure minimum.
+    Pour la cuisson, faire revenir dans une poêle antiadhésive en remuant régulièrement, une quinzaine de minutes.Voud pouvez accompagner cette recette d'une poêlée de courgettes, poivrons et tomates.
+  ]]>
+  </preparation>
+</recette>

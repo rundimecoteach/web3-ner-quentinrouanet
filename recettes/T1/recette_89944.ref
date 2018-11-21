@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89944">
+  <titre>Soufflés très feuilletés au saumon et à la coriandre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 pavés de saumon sans arêtes </p>
+    <p>6 cuillères à soupe de crème fraîche </p>
+    <p>1 bouquet de coriandre ciselé</p>
+    <p>sel, poivre ou mélange de 5 baies</p>
+    <p>1 à 2 rouleaux de pâte feuilletée selon la taille des ramequins utilisés</p>
+    <p>1 jaune d’œuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pavés de saumon (surgelés ou frais) à la vapeur.
+    Émietter les pavés dans un plat en vérifiant qu'il n'y ait pas d'arêtes et ajouter la crème fraiche
+    Disposer la coriandre ciselée et assaisonner de sel, poivre ou mélange de 3 baies.
+    Découper 6 cercles de pâte feuilletée à l'aide d'un bol (ou autre) légèrement plus grand que les ramequins de sorte à ce que la pâte "emballe" le ramequin.
+    Mettre la préparation dans des ramequins (100 g de préparation dans des ramequins classiques).
+    A l'aide d'un pinceau, badigeonner de jaune d’œuf 2 cm autour du bord du ramequin afin que la pâte adhère bien.
+    Recouvrir de la pâte.
+    Placer au frigo 1 heure avant de mettre au four 10 à 12 minutes à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

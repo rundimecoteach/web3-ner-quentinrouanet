@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13685">
+  <titre>Steaks végétariens</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poivron</p>
+    <p>1 courgette</p>
+    <p>1 oignon</p>
+    <p>2 pommes de terre</p>
+    <p>1 carotte</p>
+    <p>3 ou 4 champignons</p>
+    <p>1 petite boîte de maïs égouttée</p>
+    <p>sel, poivre, persil, ail</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe de farine </p>
+    <p>huile ou beurre pour cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper/émincer tous les légumes. Mélanger dans un bol. Rajouter l'assaisonnement, l'oeuf entier et la farine.
+    Chauffer l'huile ou le beurre dans la poèle. Mettre une cuillère à soupe du mélange dans la poèle chaude et aplatir légèrement en forme de galette de la taille d'une soucoupe.
+    Cuire 2 mn sur chaque face.
+    Peut se préparer à l'avance et même se congeler. N.B : curry ou épices pour corser selon le goût de chacun eau
+  ]]>
+  </preparation>
+</recette>

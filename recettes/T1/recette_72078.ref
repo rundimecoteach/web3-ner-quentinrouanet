@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72078">
+  <titre>Salade mexicaine au chorizo</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de haricots rouges</p>
+    <p>1 boîte de maïs</p>
+    <p>1 ou 1/2 chorizo fort</p>
+    <p>1/2 poivron vert</p>
+    <p>échalote</p>
+    <p>sel, poivre, huile, vinaigre, moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le chorizo en rondelles puis en 4.
+    Couper le poivron en petits cubes de 1/2 cm.
+    Mélanger avec les haricots rouges et le maïs
+    Faire une vinaigrette avec l'échalote et la moutarde.
+    Servir frais.
+  ]]>
+  </preparation>
+</recette>

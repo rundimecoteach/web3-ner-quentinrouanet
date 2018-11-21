@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44695">
+  <titre>St Jacques au chou vert et lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de lardons</p>
+    <p>1 petit chou vert </p>
+    <p>12 noix de St Jacques fraîches avec corail</p>
+    <p>1 bouillon en cube</p>
+    <p>1 citron</p>
+    <p>1 filet d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer le chou, enlever les feuilles extérieures, et couper les feuilles en enlevant la côte.
+    Allumer le four sur grill, 180°C (th 6).
+    Dans une cocotte, verser 2 verres d'eau, 1 bouillon cube, et le chou. Couvrir, et laisser cuire 5 min.
+    Oter la casserole du feu, ajouter les lardons, et couvrir.
+    Couper les noix en 2, dans le sens de la largeur.
+    Egoutter le chou et les lardons. Tapisser un plat en pyrex de la préparation.
+    Poser les noix dessus.
+    Passer au grill 10 min.
+    Avant de servir, verser un filet d'huile d'olive, un peu de poivre, et offrir du citron à ceux qui en souhaitent!
+  ]]>
+  </preparation>
+</recette>

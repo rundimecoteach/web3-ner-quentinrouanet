@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51641">
+  <titre>Quiche à la brousse et à la roquette</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>1 pot de brousse de 500 g</p>
+    <p>1 fromage de chèvre frais (genre petit billy)</p>
+    <p>3 oeufs</p>
+    <p>1 paquet de roquette sous vide</p>
+    <p>coriandre (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Etalez la pâte dans un moule à tarte.
+    Dans une poêle, faites revenir à feu doux dans un peu d'huile d'olive, la roquette et la coriandre jusqu'à cela soit fondu.
+    Pendant ce temps, mélandez la brousse, le fromage de chèvre frais, les oeufs, du sel et du poivre.
+    Au fond de la pâte, déposez la roquette cuite et au dessus la préparation à la brousse.
+    Enfournez pour 30 à 35 minutes de cuisson.
+    Avec quelques crudités, le tour est joué pour un repas complet !
+  ]]>
+  </preparation>
+</recette>

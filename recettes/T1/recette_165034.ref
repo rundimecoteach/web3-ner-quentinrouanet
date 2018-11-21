@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165034">
+  <titre>Paris-Brest à la crème de marron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à choux :</p>
+    <p>25 cl d'eau</p>
+    <p>80 g de beurre en morceaux</p>
+    <p>1 pincée de sel</p>
+    <p>4 oeufs</p>
+    <p>150 g de farine</p>
+    <p>Pour la crème :</p>
+    <p>1 oeuf</p>
+    <p>12,5 cl de lait</p>
+    <p>30 g de sucre</p>
+    <p>40 g de farine</p>
+    <p>200 g de crème de marrons vanillée</p>
+    <p>20 cl de crème liquide, non allégée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'eau, le sel et le beurre, sans faire bouillir.
+    Ajouter, en 1 seule fois, la farine et remuer. Verser dans un saladier et ajouter les oeufs 1 par 1 en remuant bien à chaque fois.
+    Beurrer et fariner un moule à savarin et y mettre la pâte.
+    Faire cuire 45 min dans un four préchauffé à 175°.
+    Démouler sur une grille et laisser refroidir.
+    Battre l'oeuf avec le sucre en fouettant. Ajouter la farine. Remuer.
+    Délayer avec le lait et faite une crème pâtissière.
+    Une fois refroidie, ajouter la crème de marrons.
+    Fouetter la crème en chantilly et ajouter délicatement à la crème pâtissière/crème de marrons.
+    Ouvrez alors le gâteau en deux, garnissez-le de crème et mettez-le au frais.Nouveau goût pour un grand classique. Fait ainsi il n'est pas trop sucré (uniquement la crème de marrons et un peu dans la crème pâtissière) mais vous pouvez en rajouter. Champagne
+  ]]>
+  </preparation>
+</recette>

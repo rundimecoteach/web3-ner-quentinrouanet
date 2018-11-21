@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21748">
+  <titre>Entrecôte à la niçoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 entrecôtes</p>
+    <p>1 tube de pâte d'anchois</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>25 olives noires dénoyautées (environ) </p>
+    <p>50 g de beurre, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le beurre dans la poêle sur feu vif. Quand il grésille, mettez la viande à cuire 4 à 5 mn, sur chaque face. retirez la viande de la poêle et tenez-la au chaud. 
+    Versez dans la poêle le vin blanc et la pâte d'anchois. délayez sur feu doux. Ajoutez les olives, chauffez et versez le tout sur la viande. Poivrez. ne salez pas car la pâte d'anchois étant déja assez salée !
+    Accompagné de pommes de terre vapeur, c'est un vrai régal.
+  ]]>
+  </preparation>
+</recette>

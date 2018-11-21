@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21001">
+  <titre>Poulet farci rustique</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet d'environ 1,5 kg et ses abats (foie, coeur)</p>
+    <p>100 g de jambon fumé</p>
+    <p>1 oeuf</p>
+    <p>50 g de riz</p>
+    <p>100 g de champignons de Paris</p>
+    <p>2 échalotes</p>
+    <p>10 cl de cognac</p>
+    <p>60 g de beurre</p>
+    <p>1/2 cube de bouillon de poule</p>
+    <p>1/2 cuillère à café de paprika</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les échalotes.
+    Faites-les suer dans une casserole avec 15 g de beurre chaud.
+    Ajoutez le riz, remuez et mouillez d'eau (environ 30 cl).
+    Emiettez le bouillon en cube, couvrez et laissez mijoter 15-20 min à feu doux.
+    Grattez et hachez les champignons.
+    Emincez le jambon, hachez le foie et le coeur du poulet.
+    Faites fondre 15 g de beurre dans une poêle, faites-y dorer le jambon, le foie et le coeur du poulet.
+    Rajoutez les champignons, saupoudrez de paprika, salez et poivrez.
+    Flambez au cognac, couvrez et laissez cuire 5 min.
+    Retirez la poêle du feu et ajoutez-y le riz cuit et l'oeuf, mélangez bien et remplissez le poulet de cette farce.
+    Fermez l'ouverture et déposez le poulet dans un plat à four.
+    Enduisez-le de beurre, salez et poivrez l'extérieur.
+    Faites cuire le poulet environ 1 h au four à 180°C (thermostat 6).
+    A accompagner de pommes de terre noisettes et tomates poêlées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="214900">
+  <titre>Cheesecake à la carotte</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de spéculoos</p>
+    <p>40 g de sucre en poudre</p>
+    <p>75 g de beurre fondu</p>
+    <p>6 petits suisses de 60 g chacun</p>
+    <p>300 g de fromage frais nature</p>
+    <p>3 œufs</p>
+    <p>230 g de sucre en poudre </p>
+    <p>2 cuillères à soupe de maïzena</p>
+    <p>2 cuillères à café de vanille liquide</p>
+    <p>1 cuillère à café de jus de citron vert</p>
+    <p>1 cuillère à café de cannelle moulue</p>
+    <p>2cm de gingembre frais</p>
+    <p>300 g de carottes cuites et réduites en purée fine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Mixer finement les spéculoos. Ajouter le beurre fondu et le sucre. Verser cette préparation dans un moule à manqué et tasser la préparation dans le fond et sur les bords du moule, en prenant soin de monter les bords suffisamment haut (4cm).
+    Cuire à blanc 6 min à 180°C.
+    Laisser refroidir sur une grille et réserver.
+    Dans un saladier, battre les petits suisses, le fromage frais et le sucre. 
+    Ajouter les œufs et battre jusqu'à obtention d'une préparation homogène.
+    Ajouter successivement la maïzena, les épices, puis les carottes en purée.
+    Verser l'appareil sur la croûte.
+    Couvrir d'une feuille de papier aluminium. 
+    Mettre le moule dans une lèchefrite remplie d'eau.
+    Cuire 55-60 minutes à 180°C, jusqu'à ce que le centre du gâteau soit pris (légèrement tremblotant).
+    Retirer la feuille d'aluminium, et laisser refroidir au minimum 6h au réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

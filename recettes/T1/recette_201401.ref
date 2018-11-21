@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201401">
+  <titre>Tartelettes chocolat amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>130 g de chocolat noir</p>
+    <p>15 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 œuf</p>
+    <p>60 g de beurre</p>
+    <p>1 pâte brisée</p>
+    <p>amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le chocolat avec le beurre et un peu d'eau au micro-ondes.Mélangez afin d'avoir un mélange homogène.
+    Ajoutez le sachet de sucre vanillé, le sucre et 1 œuf. Mélangez. Mettre de la pâte au fond de chaque moule.
+    Mettez les moules au four à 180°C (thermostat 6) 2/3 minutes pour faire cuire un peu la pâte.
+    Disposez un peu d'amandes effilées au fond des moules.
+    Recouvrez de chocolat et ajoutez des amandes sur le dessus.
+    Faites cuire au four à 180°C (thermostat 6) pendant 7 minutes.
+    Placez le tout au réfrigérateur pendant 1h30 à 2h.
+    Bon appétit !Ingrédients pour 6 moules moyens.
+  ]]>
+  </preparation>
+</recette>

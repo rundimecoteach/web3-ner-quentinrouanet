@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65957">
+  <titre>Soupe de semoule italienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl d'eau</p>
+    <p>1/2 cube de volaille</p>
+    <p>1/2 cube de boeuf</p>
+    <p>1 oeuf</p>
+    <p>2 cuillères à soupe de semoule moyenne</p>
+    <p>1 cuillère à soupe de parmesan</p>
+    <p>noix de muscade moulue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir l'eau, y laisser fondre les 1/2 cubes.
+    Mélanger dans un bol la semoule, l'oeuf, le parmesan et la muscade.
+    Verser cette préparation dans le bouillon et laisser cuire 2-3 min en remuant.
+    Servir.
+    Recette d'enfance que nous faisait ma grand-mère.
+  ]]>
+  </preparation>
+</recette>

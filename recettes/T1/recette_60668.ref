@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60668">
+  <titre>Mon gâteau au yaourt tout blanc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt nature allégé</p>
+    <p>2 pots de sucre</p>
+    <p>3 pots de farine</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6-7).
+    Dans un saladier, versez le yaourt et ajoutez-y les oeufs, mélangez     (nettoyez et conservez le pot de yaourt qui vous servira pour la suite de la recette).
+    Ajoutez le sucre, mélangez.
+    Ajoutez la farine et la levure, mélangez.
+    Ajoutez enfin la crème, mélangez.
+    Beurrez bien votre moule (rond d'environ 24 cm de diamètre).
+    Versez la préparation dans le moule et enfournez pour 30 à 40 min. (vous pouvez verrifier la cuisson à l'aide d'un couteau de cuisine)
+    Démoulez une fois tiédi, dégustez nature ou avec un peu de confiture ou de pâte à tartiner.
+  ]]>
+  </preparation>
+</recette>

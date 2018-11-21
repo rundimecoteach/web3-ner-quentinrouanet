@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24243">
+  <titre>Salade de gambas fruitées, sauce curry</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 nectarines</p>
+    <p>200 g de pâtes "orecchiette"</p>
+    <p>10-15 gambas</p>
+    <p>15 cl crème fraîche</p>
+    <p>1 cuillère à café de moutarde à l'ancienne</p>
+    <p>1 cuillère à café rase de curry</p>
+    <p>4 brins d'aneth</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) cuire les pâtes dans une casserole et faire revenir les gambas à la poêle dans un peu d'huile. 
+    2) Une fois les pâtes cuites, les egoutter et dans un saladier les mélanger aussitot à l'huile. 
+    3) Ajouter aux pâtes le mélange " crème fraîche, moutarde, curry, aneth, sel et poivre". Mélanger. 
+    4) Laver, peler et découper les nectarines en petits cubes et les ajouter à la préparation pécédente. 
+    5) Disposer les gambas sur la préparation (au préalable, il est possible de les flamber au whisky). 
+    Déguster tiède.
+     vin blanc
+  ]]>
+  </preparation>
+</recette>

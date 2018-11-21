@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33304">
+  <titre>Tarte tatin mangue et amande</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 ou 2 mangues bien mûres (ou au sirop) : 1 ou 2 suivant les goûts</p>
+    <p>50 g d'amandes effilées</p>
+    <p>50 g d'amandes en poudre</p>
+    <p>1 pâte feuilletée</p>
+    <p>3 oeufs</p>
+    <p>75 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>2 grosses cuillers à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Disposer du papier sulfurisé au fond d'une tôle à tarte. 
+    Parsemez le fond avec les amandes effilées. Couper la mangue en fines lamelles et en garnir le fond de tarte, sur les amndes effilées. 
+    Dans un saladier, mélanger les amandes en poudre, la crème fraîche, les oeufs, le sucre et la farine. Verser le tout sur les amandes et la mangue. Recouvrir avec la pâte feuilletée en rentrant les bords de la pâte dans le moule afin de fermer la tarte sans que le liquide ne déborde et ne passe par dessus la pâte. 
+    Enfouner 30 mn. 
+    Servir froid.
+    Eviter de la manger chaude, on ne sent pas bien les parfums, et se serait dommage de ne pas sentir les amandes effilées croquer sous la dent !!!
+  ]]>
+  </preparation>
+</recette>

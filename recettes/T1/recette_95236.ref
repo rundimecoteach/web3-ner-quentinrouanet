@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95236">
+  <titre>Macaronade de poulet</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 cuisses de poulet fermier </p>
+    <p>1 tête d'aïl entière</p>
+    <p>1 beau bouquet de persil</p>
+    <p>150g de concentré de tomates</p>
+    <p>40 cl de vin rouge (type cahors)</p>
+    <p>30 cl de bouillon de poule</p>
+    <p>1 feuille de laurier</p>
+    <p>farine</p>
+    <p>huile blanche et huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - laver le persil, éplucher l'aïl (ôter les germes) et faire une persillade au hachoir
+    dans 1 cocotte en fonte bien tapissée d'huile d'olive, faire revenir la persillade.
+    Dès qu'une bonne odeur d'aïl se dégage, ajouter le concentré de tomate et mélanger.
+    Faire ''boire'' lentement le vin et le bouillon à la préparation en mélangeant bien. Ajouter le laurier et laisser mijoter 15 min.
+    enlever la peau des cuisses de poulet et les fariner légèrement puis les faire dorer dans un peu d'huile blanche.
+    Ajouter les morceaux de poulet dans la cocotte, bien mélanger et laisser mijoter à couvert 45 min en mélangeant de temps en temps.Accompagner de macaronis ou de penne
+  ]]>
+  </preparation>
+</recette>

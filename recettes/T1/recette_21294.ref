@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21294">
+  <titre>Buns</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de farine de blé</p>
+    <p>25 g de levure de boulanger</p>
+    <p>40 cl de lait écrémé</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 oeuf battu</p>
+    <p>3 cuillères à soupe de graines de sésame</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille: 
+    faire fondre le beurre dans le lait à feu doux ; émietter la levure dedans. Sortir du feu. Ajouter le sel puis la farine. Mélanger et pétrir longtemps (10 mn). Laisser monter la pâte toute le nuit. 
+    Le jour même: 
+    La pâte doit avoir doublé de volume. La pétrir en l'écrasant et en la repliant plusieurs fois sur elle-même. L'étaler au rouleau (1 cm d'épaisseur). 
+    Découper des ronds de 10 cm de diamètre dans la pâte ; les poser sur une plaque recouverte de papier sulfurisé. Couvrir et laisser reposer une heure. Puis les badigeonner avec l'oeuf battu et les saupoudrer de sésame. 
+    Quand le four est chaud, enfourner les petits pains et laisser cuire 15 à 20 mn à thermostat 7 (210°C).
+  ]]>
+  </preparation>
+</recette>

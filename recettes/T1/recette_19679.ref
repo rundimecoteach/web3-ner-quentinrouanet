@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19679">
+  <titre>Pain dépices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>125 g de miel (le liquide c'est + facile) </p>
+    <p>100 g de sucre (moins de sucre, plus de miel, c'est bien aussi) </p>
+    <p>1/2 verre de lait</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe d'anis (poudre, ou sirop ou graines d'anis vert) </p>
+    <p>1 cuillère à café de gingembre</p>
+    <p>2 têtes de clou de girofle écrasées</p>
+    <p>1 oeuf</p>
+    <p>1/2 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le miel, le sucre, avec le lait et l'huile à feu doux. 
+    Mélanger la farine, la levure, les épices. 
+    Y verser le mélange tiède, puis l'oeuf battu. Bien mélanger pour obtenir une pâte homogène, la verser dans un moule, (utiliser du papier cuisson, ou beurrer le moule). Cuire à thermostat 5 (ou 180°C) durant environ 45 min. Vin chaud ou thé
+  ]]>
+  </preparation>
+</recette>

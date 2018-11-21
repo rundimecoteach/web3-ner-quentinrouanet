@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53550">
+  <titre>Tomates farcies aux oeufs et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses tomates</p>
+    <p>4 oeufs</p>
+    <p>1 pot de 12,5 cl de crème fraîche</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la partie supérieure des tomates, les évider avec une petite cuillère.
+    Mettre un peu de crème fraîche dans chaque tomate, saler, poivrer.
+    Huiler le fond d'un plat, y disposer les tomates, casser un oeuf dans chacune d'elles.
+    Faire cuire 15 min à 180°C (Th 6).
+    Peut se déguster accompagné de riz ou d'ébly.
+  ]]>
+  </preparation>
+</recette>

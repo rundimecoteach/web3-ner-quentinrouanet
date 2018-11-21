@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14847">
+  <titre>Gratin de figues</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de figues</p>
+    <p>200 g de ricotta</p>
+    <p>50 g de crème épaisse</p>
+    <p>30 g de sucre</p>
+    <p>30 g de poudre d'amandes</p>
+    <p>2 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre la ricotta, la crème et le sucre, puis ajouter les oeufs et la poudre d'amandes.
+    Dans des ramequins, disposer les figues pelées et coupées en morceaux.
+    Recouvrir de crème et saupoudrer d'un peu de sucre roux.
+    Passer au gril 5 min.
+  ]]>
+  </preparation>
+</recette>

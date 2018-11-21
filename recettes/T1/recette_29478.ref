@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29478">
+  <titre>Soupe de carotte à la vache qui rit</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de carottes</p>
+    <p>eau</p>
+    <p>sel et poivre</p>
+    <p>1 branche de thym</p>
+    <p>2 feuilles de lauriers</p>
+    <p>1 bouillon cube</p>
+    <p>2 portions de vache qui rit</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les carottes,les laver et les couper en rondelles.
+    Les mettre dans la cocotte minute avec del'eau juste au dessus des derniere carotte, du sel, du poivre, le thym, le laurier et le bouillon cube.
+    Les laisser cuire quand la soupape de la cocotte se met à tourner. Laisser encore 5 minutes environ.
+    Quand c'est cuit, enlever le laurier, le thym et mixer les carottes avec les 2 portions de vache qui rit.
+    mixer assez longtemp pour obtenir un velouté.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80712">
+  <titre>Gâteaux de crabe de New York</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boîte de crabe de 500 gr</p>
+    <p>2 oeufs entiers</p>
+    <p>2 cuillères à soupe de mayonnaise</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>2 cuillères à café de sauce Worcestershire</p>
+    <p>1 ou 2 cuillères à café de jus de citron ou de jus de citron vert</p>
+    <p>2 tranches de pain blanc sans les croûtes ou une demi-tasse de chapelure</p>
+    <p>du persil haché (bien aussi avec coriandre fraîche)</p>
+    <p>sel et poivre</p>
+    <p>paprika pour la couleur (et éventuellement un rien de safran)</p>
+    <p>un peu de poivre de cayenne (ou des piments secs hachés): facultatif</p>
+    <p>beurre ou huile d'olive pour la cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre légèrement les oeufs entiers.
+    Y mélanger tous les ingédrients ci-dessus, le crabe venant en dernier.
+    En faire des boulettes légèrement applaties (7/8 cm de diamètre).
+    Faire fondre le beurre dans la poêle puis y passer les gâteaux de crabes 3-4 minutes de chaque côté (jusque l'obtention d'une couleur dorée).
+    Servir avec une salade. On peut accompagner d'une sauce tartare mais ce n'est pas indispensable.
+    Convient aussi comme entrée. Peut être servi tiède sur lit de salade.
+  ]]>
+  </preparation>
+</recette>

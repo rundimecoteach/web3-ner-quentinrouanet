@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27503">
+  <titre>Poires pochées au gingembre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 belles poires</p>
+    <p>3 cuillerées à soupe de sucre en poudre</p>
+    <p>1 cuillerée à café de gingembre en poudre</p>
+    <p>20 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un sirop avec le sucre, le gingembre et l'eau. Laisser frémir 10 min.
+    Mettez-y les poires pelées, épépinées et coupées en deux.
+    Laissez cuire jusqu'à ce que les poires soient tendres (environ 20 min).
+    Egouttez les poires, faites réduire le sirop et versez-le sur les fruits.
+    Réservez au frais juqu'au service.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65759">
+  <titre>Verrines façon cheesecake aux spéculoos</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de spéculoos</p>
+    <p>beurre fondu</p>
+    <p>2 oeufs</p>
+    <p>200 g de fromage type Kiri, ou Philadelphia, ou Saint-Morêt</p>
+    <p>75 g de sucre</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>jus de citron</p>
+    <p>3 feuilles de gélatine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser les spéculoos et ajouter du beurre fondu pour obtenir une pâte sablée afin de tapisser le fond des verres. Répartir dans les verrines et réserver au réfrigérateur.
+    Séparer les blancs d'oeufs des jaunes. Faire tremper la gélatine dans de l'eau froide.
+    Fouetter les jaunes d'oeufs avec le sucre, le kiri et la crème fraîche.
+    Chauffer un peu de jus de citron et y incorporer la gélatine ramollie. Ensuite mélanger à la préparation.
+    Battre les blancs en neige et les ajouter au mélange précédemment obtenu. Remuer le tout.
+    Verser la préparation dans les verres et mettre au frigo environ deux heures.
+    Bon appétit !
+    Ne pas trop tasser les spéculoos au fond du verre car un fois froid le biscuit est trop dur.
+    Doser la quantité de kiri en fonction de vos goût !
+  ]]>
+  </preparation>
+</recette>

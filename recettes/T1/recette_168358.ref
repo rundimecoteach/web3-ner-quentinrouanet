@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168358">
+  <titre>Soupe de butternut à la pomme et au bacon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 butternut</p>
+    <p>1 pomme Granny</p>
+    <p>150 g de bacon fumé</p>
+    <p>1 oignon rouge</p>
+    <p>1 gousse d'ail</p>
+    <p>Paprika</p>
+    <p>Huile d'olive</p>
+    <p>Sel, poivre</p>
+    <p>crème fraîche épaisse (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Peler et débiter en cubes le butternot, la pomme et l'oignon.
+    Les mettre dans une cocotte minute, les recouvrir d'eau à niveau, mais pas plus, et laisser cuire une dizaine de minutes. Le butternot doit être bien fondant.
+    Pendant ce temps, faites griller à sec le bacon dans une poêle bien chaude.
+    Ajouter un peu d'huile d'olive, une gousse d'ail pressée, du paprika généreusement. Saler, poivrer.
+    Mixer le tout. Rectifier l'assaisonnement. Ajouter éventuellement un peu de crème fraîche entière épaisse.
+    Servir dans des bols, accompagné du bacon et de pain de campagne.Recette automnale très réconfortante !
+  ]]>
+  </preparation>
+</recette>

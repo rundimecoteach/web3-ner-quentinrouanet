@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73906">
+  <titre>Salade de Légumes à la Tunisienne (Chaude ou Froide)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tomates</p>
+    <p>2 gros poivrons</p>
+    <p>5 petites pommes de terre</p>
+    <p>1 piment (ou 2 selon votre goût)</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe de Ras el Hanout</p>
+    <p>sel, poivre</p>
+    <p>thym</p>
+    <p>huile d'olive</p>
+    <p>une petite poignée d'olives vertes dénoyautées</p>
+    <p>une friteuse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Couper les tomates en petits dés; dans une poêle, les faire "fondre" doucement dans de l'huile d'olive jusqu'à obtention d'une purée.
+    Mettre de coté dans un saladier.
+    Couper les poivrons en 4 après avoir retirer le pédoncule; les faire frire dans la friteuse jusqu'à ce que la peau noircisse. 
+    Faire frire les piments en entier.
+    Réserver piments et poivrons sur du papier absorbant et laissez refroidir.
+    Pendant ce temps, éplucher et couper les pommes de terre en petits dés et les faire frire à leur tour. Egoutter.
+    Eplucher les poivrons et les piments refroidis et les couper en dés avant de les incorporer aux tomates dans le saladier.
+    Ajouter à leur tour les dés de pommes de terre frits.
+    Dans une poêle,faire cuire les 4 oeufs en oeufs brouillés; les incorporer aux légumes.
+    Ajouter dans le saladier sel, poivre, encore un peu de thym, le Ras El Hanout et les olives.
+    Bien mélanger.
+    Laisser reposer 1 h avant de manger, le temps que les épices et légumes dégagent leurs arômes.
+    Servir froid ou réchauffé.
+    Avec un poulet rôti !
+  ]]>
+  </preparation>
+</recette>

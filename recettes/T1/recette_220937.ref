@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220937">
+  <titre>Tarte au thon à la tomate et au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>150 g de miettes de thon à la tomate (moyenne)</p>
+    <p>70 g gruyère râpé</p>
+    <p>5 petites tomates</p>
+    <p>1 bûche de chèvre</p>
+    <p>thym</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6).Étaler la pâte dans un plat à tarte.
+    Dans un bol, mélanger le thon avec le gruyère, le sel et répartir le mélange uniformément sur le fond de la pâte.
+    Couper les tomates en rondelles ainsi que la bûche de chèvre et les disposer par dessus la préparation au thon.
+    Parsemer de thym généreusement.
+    Enfourner 20 min et déguster !La préparation au thon sur le fond évite de détremper la pâte. Il n'est donc pas nécessaire de la cuire à blanc au préalable.
+  ]]>
+  </preparation>
+</recette>

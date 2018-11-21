@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37502">
+  <titre>Tarte spéciale pic-nic aux parfums d'été</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte brisée prête à dérouler</p>
+    <p>3 pommes de terre de type charlotte (chair ferme)</p>
+    <p>2 boules de mozzarella</p>
+    <p>2 oeufs </p>
+    <p>10 cl de crème fraîche</p>
+    <p>un peu de gruyère râpé (facultatif)</p>
+    <p>thym</p>
+    <p>basilic</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites préchauffer le four à 180°C (thermostat 6).
+    Découpez vos pommes de terre en tranches sans les éplucher et faites-les cuire (10 minutes au micro-ondes dans un cuit-vapeur)
+    Déroulez la pâte dans un plat, découpez les bords aux mesures (utilisez un rouleau à patisserie que vous faites rouler sur les bords du moule)
+    Etalez les rondelles de pommes de terre précuites sur le fond de la tarte.
+    Egouttez la mozzarella et découpez-la en tranches. 
+    Disposez-les au dessus des pommes de terre. 
+    Salez légèrement, et poivrez abondamment.
+    Mélangez les oeufs et la crème fraiche, ajoutez du basilic et du thym à cette préparation.
+    Versez le tout lentement sur la tarte. Vous pouvez rajouter un peu de gruyère rapé par dessus l'ensemble.
+    Mettez au four 20 minutes.
+    Se mange chaud, tiède ou froid. Idéal en pic-nic car bien consistant sans être trop lourd. En plat principal, accompagnez d'une salade.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46536">
+  <titre>Chaussons aux épinard (baléares)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte: </p>
+    <p>500 g de farine</p>
+    <p>21 g de levure de boulanger</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel</p>
+    <p>poivre Pour la farce: </p>
+    <p>1 kg d'épinards frais en branche</p>
+    <p>1 gros oignon</p>
+    <p>50 g de pignons</p>
+    <p>50 g de raisins secs</p>
+    <p>1 botte de persil plat</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recette à réaliser sur 2 jours.
+    Pour la pâte: Bien pétrir pour tout amalgamer et former une pâte assez consistante qui ne colle pas et que l'on pourra travailler au rouleau.
+    Laisser reposer jusqu'à ce qu'elle double de volume.
+    Pour la farce : Laver les épinards, les faire égoutter toute une nuit sur un torchon.
+    Le lendemain, les mettre dans un grand plat, saler, poivrer et remuer de temps en temps pendant la préparation de la pâte.
+    Hacher grossièrement les épinards et les presser fortement pour extraire le plus possible l'eau.
+    Dans un grand  saladier, mélanger épinards, oignons émincés, persil haché, sel et poivre.
+    Former des petits rectangles de pâte avec 1 cuillère à soupe de farce au milieu, refermer le chausson.
+    Faire cuire au four 200°C (thermostat 7)  pendant 30min environ.
+    Recette familiale typique des îles Baléares. Côte du Rhône
+  ]]>
+  </preparation>
+</recette>

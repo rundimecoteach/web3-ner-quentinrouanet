@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37922">
+  <titre>Boeuf aux pousses de bambou</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 g de saindoux ou d'huile</p>
+    <p>600 g de boeuf</p>
+    <p>1 oignon moyen</p>
+    <p>4 cuillerées à soupe de sauce au soja</p>
+    <p>1 verre de saké (ou, à défaut, de vin blanc sec)</p>
+    <p>1 cuillère à café de maïzena</p>
+    <p>250 g de pousses de bambou en boîte</p>
+    <p>1 petit coeur de céleri</p>
+    <p>150 g de champignons frais </p>
+    <p>2 cuillères à soupe de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre la moitié du saindoux dans une sauteuse ou casserole large. Faites-y rissoler légèrement la viande coupée en lanières.
+    Retirez la viande. Remplacez-la par l'oignon coupé en fines rondelles. Laissez blondir.
+    Remettez ensuite la viande. 
+    Arrosez avec la sauce au soja et le saké et la maïzena. Salez. Mélangez.
+    Dans une autre casserole, mettez les pousses de bambou et le coeur de céleri en petits morceaux avec le restant de saindoux. Ajoutez enfin les champignons bien nettoyés et coupés en lamelles et le persil haché. Laissez cuire environs 10 minutes à feu vif. 
+    Versez alors le contenu de cette casserole dans celle contenant le boeuf. Laissez mijoter ensemble 2 à 3 minutes et servez.
+  ]]>
+  </preparation>
+</recette>

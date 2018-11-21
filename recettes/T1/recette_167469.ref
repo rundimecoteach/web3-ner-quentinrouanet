@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167469">
+  <titre>Mousse au chocolat, framboise menthe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>9 blancs d'œufs </p>
+    <p>225 g de chocolat noir à 70%</p>
+    <p>1 c. à café de jus de citron</p>
+    <p>125 g de framboises </p>
+    <p>1 bouquet de menthe .</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le chocolat :Faite fondre le chocolat noir au bain-marie avec une cuillerée à soupe d'eau .Battez les blancs bien fermes , avec 1 cuillerée à café de jus de citron .Monter la mousses :Incorporez les blancs délicatement au chocolat fondu et ajoutez 20 framboises qui sortent du réfrigérateur .Dresser :Réservez la mousse à température ambiante et servez-la rapidement avec des framboises fraîches et des feuilles de menthe .
+  ]]>
+  </preparation>
+</recette>

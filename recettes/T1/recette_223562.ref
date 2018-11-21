@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223562">
+  <titre>Biscuits au chocolat Kinder</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 barres de chocolat Kinder (pas les maxi les normaux)</p>
+    <p>150 g de farine</p>
+    <p>45 g de sucre</p>
+    <p>100 g de beurre mou</p>
+    <p>1 œuf</p>
+    <p>1/2 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les barres Kinder en suivant les carrés, puis en deux; les mettre au frigo.
+    Travailler le beurre ramolli en crème (avec les doigts) et ajouter le sucre petit à petit tout en continuant de mélanger. Une fois une crème homogène obtenue, ajouter l’œuf et bien mélanger.
+    Ajouter à ce mélange, la farine et la levure, petit à petit, en mélangeant bien avec une spatule.
+    Ajouter les Kinder en morceaux et mélanger.
+    Sur une plaque recouverte de papier sulfurisé, former des petits tas à l'aide d'une petite cuillère, bien espacés.
+    Mettre à cuire dans un four préchauffé à 180°C (thermostat 6), pour 10 à 15 minutes, puis les sortir et les retirer de la plaque chaude, et les laisser reposer sans y toucher (pour ne pas qu'ils se déforment) pendant au moins 10 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48987">
+  <titre>Fondant chocolat-amandine</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>1 sachet de préparation crème amandine</p>
+    <p>4 œufs</p>
+    <p>50 g de sucre en poudre</p>
+    <p>20 ml de crème fraîche</p>
+    <p>150 g de beurre</p>
+    <p>1 paquet et demi de sablés chocolat noir type "pépito"</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les sablés puis ajouter le beurre fondu jusqu'à obtention d'une pâte.
+    Tapisser le fond du moule avec cette préparation et bien tasser.
+    Faire fondre le chocolat noir avec 2 cuillères à soupe d'eau.
+    Pendant ce temps, préparer la crème amandine selon le mode d'emploi.
+    Mélanger le sucre et les jaunes d'oeufs au chocolat fondu.
+    Ajouter cette préparation à la crème amandine.
+    Monter les blancs en neige et les incorporer délicatement à la crème amandine-chocolat.
+    Verser le tout sur la pâte.
+    Faire cuire à 190°C (thermostat 7/8) pendant 20 à 30 min en surveillant régulièrement les 10 dernières minutes.
+    Le cœur du gâteau ne doit pas sécher et rester très "coulant".
+  ]]>
+  </preparation>
+</recette>

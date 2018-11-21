@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55496">
+  <titre>Gâteau de riz facile de pascale</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>1 tasse de lait</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1/2 tasse de farine à levure incorporée (farine fermentante)</p>
+    <p>1/2 tasse de sucre</p>
+    <p>1 boîte de riz au lait (ou riz à la crème)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les jaunes avec les sucres et le lait, ajouter la farine, le riz et les blancs battus en neige bien ferme.
+    Verser dans un moule à tarte beurré.
+    Préchauffer le four et faire cuire à 200°C (thermostat 6-7) entre 45 minutes et 1 heure.
+    Très facile et délicieux.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46000">
+  <titre>Champignons farcis à la viande</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 gros champignons de Paris</p>
+    <p>2 cuisses de poulet (ou escalopes)</p>
+    <p>2 steacks hachés</p>
+    <p>1 oignon</p>
+    <p>1 oeuf</p>
+    <p>1 bouquet d'herbes ( persil, basilic, coriandre, ciboulette...)</p>
+    <p>1 morceau de pain trempé dans du lait (ou 3 biscottes)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le poulet à l'eau.
+    Mixer le poulet, puis les oignons, et faire revenir dans un peu d'huile les viandes (steack et poulet) et l'oignon.
+    Creuser les champignons.
+    Ajouter à la viande, l'intérieur des champignons et leurs queues.
+    A cela, ajouter un oeuf entier, le pain trempé préalablement dans du lait, les herbes, sel et poivre.
+    Garnir les champignons avec cette farce, et mettre dans un plat allant au four avec 1 cm d'eau au fond. Faire cuire 20 min (200°C/ th 6-7 environ).
+     
+    Déguster avec du riz blanc.
+  ]]>
+  </preparation>
+</recette>

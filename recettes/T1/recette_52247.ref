@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52247">
+  <titre>Gratin de ravioles au potiron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de potiron </p>
+    <p>4 plaques de ravioles de Romans</p>
+    <p>crème</p>
+    <p>fromage râpé</p>
+    <p>sel, poivre, noix de muscade</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la courge en petits dés, puis les faire chauffer à la poêle avec l'huile d'olive; couvrir et laisser cuire jusqu'à ce que le potiron s'écrase facilement.
+    Laisser évaporer l'eau en découvrant.
+    Ecraser le potiron à la fourchette dans la poêle, ajouter la crème (2 ou 3 cuillères à soupe), et laisser chauffer encore un peu.
+    Saler poivrer, puis ajouter de la noix de muscade.
+    Dans un plat allant au four, alterner une couche de ravioles, une couche de purée de potiron jusqu'à épuisement d'ingrédients.
+    Finir par une couche de ravioles, remettre un peu de crème, puis étaler le fromage râpé.
+    Enfourner à 180°C (thermostat 6), pendant 15 à 20 min.
+    Un régal, avec les courges "lonque de nice" et "potimarron"...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69076">
+  <titre>Tartine au miel et à la mozarella</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses demi tranches de pain complet</p>
+    <p>125 g de mozzarella égouttée</p>
+    <p>100 g de jambon salé coupé en dés</p>
+    <p>1 oignon</p>
+    <p>1 blanc d'oeuf</p>
+    <p>huile d'olive</p>
+    <p>persil</p>
+    <p>paprika</p>
+    <p>vin blanc</p>
+    <p>tabasco (facultatif)</p>
+    <p>herbes de Provence</p>
+    <p>miel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les tranches de pain complet (épaisseur 3 à 4 cm).
+    Imbiber les tranches d'huile d'olive à l'aide d'un pinceau (1 cuillère à soupe d'huile par tranche).
+    Dans une poêle, dorer l'oignon coupé en dès ainsi que les dès de jambon. Rajouter une pincée de paprika et quelques gouttes de tabasco.
+    Déglacer avec 1/4 de verre de vin blanc.
+    Mélanger le blanc d'oeuf avec 1 peu de persil haché. Dans une poêle huilée, brouiller le blanc d'oeuf persillé puis mélanger le tout avec les oignons et le lard.
+    Dresser les tartines avec l'appareil ainsi obtenu. Recouvrir le tout d'une tranche de mozzarella (boule de 125 g coupée en longueur). Assaisonner d'herbe de Provence. Recouvrir le tout d'une cuillère à café de miel liquide.
+    Mettre au four, 20 à 25 min à 200°C (thermostat 6-7).
+    accompagné d'une petite salade Vin blanc
+  ]]>
+  </preparation>
+</recette>

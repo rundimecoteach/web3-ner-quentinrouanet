@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67807">
+  <titre>Fondue comtoise (très digeste)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg comté fruité (c'est à dire au moins 12 mois d'affinage. 200 g par personne)</p>
+    <p>30 cl de vin blanc sec (un Chardonnay n'est pas très tradi mais fait bien l'affaire)</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouchon de kirsch</p>
+    <p>1 cuillère à soupe rase de farine ou maïzena</p>
+    <p>pain coupé en dé (pain rassis ou de campagne) 1 grosse couronne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râpez d'avance tout le fromage et réservez-le dans un saladier. Farinez le fromage en mélangeant avec les mains.
+    Epluchez la gousse d'ail, coupez-la en 2, enlevez le germe et frottez le caquelon avec les morceaux. Passez ce qui reste au presse-ail et laissez-le dans le plat.
+    Versez l evin dans le caquelon, portez le à ébullition puis flambez.  Votre fondue sera moins acide car l'alcool sera "brûlé".
+    Quand l'alcool a fini de bruler vous pouvez rajouter le fromage, poignée par poignée tout en mélangeant au fouet ou à la cuillère en bois. Lorsque tout le fromage est fondu et que votre fondue a un aspect bien lisse, vous pouvez ajouter le kirsch.
+    Mélangez et portez sur le brûleur de la table. Bon appétit!!
+    Pour ceux qui ne boivent pas d'alcool, il suffit de ne pas mettre de kirsch à la fin, le vin a lui perdu quasiment toute sa teneur en alcool. Vin blanc sec
+  ]]>
+  </preparation>
+</recette>

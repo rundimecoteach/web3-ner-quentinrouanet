@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41963">
+  <titre>Parmentier de thon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de thon rouge cru</p>
+    <p>1 kg de pommes de terre</p>
+    <p>8 beaux brins de persil plat</p>
+    <p>2 gousses d'ail</p>
+    <p>125 g de mozzarella</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>3 cuillères à soupe de vinaigre balsamique </p>
+    <p>huile d'olive</p>
+    <p>poivre et sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez, morcelez, et cuisez les pommes de terre, 15 min dans de l'eau légèrement salée.
+    Égouttez, et écrasez-les à la fourchette, avec le lait et 3 cuillères à soupe d'huile d'olive, puis salez et poivrez.
+    Coupez le thon en cube. Ajoutez l'ail pressé, et le persil ciselé finement (feuilles et tiges).
+    Étalez dans un plat à four sur 2-3 cm d'épaisseur, poivrer bien, et arrosez avec le vinaigre.
+    Couvrez de pommes de terre, puis de mozzarella en fines tranches.
+    Arrosez d'un mince filet d'huile d'olive en zigzag.
+    Faites cuire 12-15 min, selon votre goût (plus ou moins gratiné), dans un four préchauffé à 200°C (thermostat 6-7).
+    Dégustez ce plat, avec une salade verte ou une petite salade de tomates, arrosée de vinaigre balsamique et d'huile d'olive... Chez moi, tout le monde a apprécié! C'est une excellente façon de faire manger du poisson aux enfants.
+  ]]>
+  </preparation>
+</recette>

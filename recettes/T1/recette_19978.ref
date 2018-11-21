@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19978">
+  <titre>Daurade au four et sauce aux avocats</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 petites daurades</p>
+    <p>1 cuillère à café de pili-pili ou poivre de cayenne</p>
+    <p>le jus de 2 citrons</p>
+    <p>1 filet d'huile d'olive</p>
+    <p>5 cl d'eau</p>
+    <p>sel</p>
+    <p>Pour la sauce :</p>
+    <p>2 avocats bien mûrs</p>
+    <p>pili-pili (piment oiseau)</p>
+    <p>le jus d'1 citron vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Nettoyer et laver les poissons, puis les rouler dans un mélange de sel et pili-pili de chaque côté. Les napper ensuite du jus d'1 citron et d'huile d'olive, puis laisser mariner 2 h au frais.
+    Enfourner les poissons après les avoir mouillé d'eau puis laisser cuire 30 min en les arrosant de temps en temps.
+    10 min avant de servir, peler et couper les avocats en 2, les dénoyauter puis en extraire la chair à l'aide d'une cuillère à soupe. La déposer dans un bol, puis l'écraser à la fourchette avec du pili-pili et le jus du 2e citron.
+    Sortir les poissons du four, les réserver au chaud, puis récupérer le jus de cuisson.
+    Verser le jus de cuisson sur la purée d'avocats et bien mélanger. Saler, poivrer.
+    Dresser les poissons sur un plat de service chaud et accompagner de la purée d'avocats dans un récipient à part. Servir avec de la semoule.
+  ]]>
+  </preparation>
+</recette>

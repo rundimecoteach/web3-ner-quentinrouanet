@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82711">
+  <titre>Quiche au bacon et vache qui rit</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>8 oeufs</p>
+    <p>10 tranches de bacon</p>
+    <p>40 cl de crème liquide</p>
+    <p>5 vache qui rit</p>
+    <p>50 g de gruyère</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le four à 220°C (thermostat 7-8).
+    Etaler la pâte au fond du plat (laisser le papier cuisson) et mettre au réfrigérateur.
+    Battre les oeufs, ajouter la crème liquide, la vache qui rit coupée en morceaux et le bacon coupé également, saler
+    (pas trop) et poivrer.
+    Mettre au four à 220°C (thermostat 7-8) pendant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

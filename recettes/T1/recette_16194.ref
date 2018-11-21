@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16194">
+  <titre>Jarret de porc au chou rouge</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 jarrets de porc salés</p>
+    <p>150 g de poitrine de porc salée</p>
+    <p>1 chou rouge</p>
+    <p>1 carotte</p>
+    <p>1 branche de céleri</p>
+    <p>2 oignons</p>
+    <p>2 clous de girofle</p>
+    <p>2 gousses d'ail</p>
+    <p>200 g de fromage blanc</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>1 cuillère à soupe de vinaigre de cidre</p>
+    <p>1 bouquet garni</p>
+    <p>noix de muscade</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>10 grains de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, faire dessaler les jarrets et la poitrine salés dans une grande quantité d'eau.
+    Mettre  les jarrets dans un faitout avec un oignon pelé piqué de 2 clous de girofle, le bouquet garni, la carotte épluchée et coupée et le céleri.
+    Couvrir largement d'eau, saler légèrement, ajouter les grains de poivre et laisser cuire 1h30 à petite ébullition.
+    Nettoyer le chou rouge, le couper en lanières.
+    émincer finement un oignon et l'ail
+    couper la poitrine en lardons.
+    Faire revenir dans un peu d'huile l'oignon,l'ail et les lardons.
+    Ajouter le chou, faire suer l'ensemble 10 min, mouiller alors avec 20 cl du bouillon de cuisson des jarrets.
+    Assaisonner légèrement de sel et poivre, puis laisser cuire doucement, à couvert, pendant une heure.Mélanger le fromage blanc, la moutarde, une pincée de muscade râpée, sucre et vinaigre. Saler et poivrer.
+    Dresser le chou dans un plat creux, poser dessus les jarrets bien égouttés et servir aussitôt accompagné du fromage blanc assaisonné.
+  ]]>
+  </preparation>
+</recette>

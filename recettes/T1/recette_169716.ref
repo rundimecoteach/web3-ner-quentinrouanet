@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169716">
+  <titre>Lasagne à la brandade et aux epinards</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de lasagnes</p>
+    <p>200 g de brandade de morue</p>
+    <p>500 g d'épinards surgelés</p>
+    <p>20 cl de lait entier</p>
+    <p>15 cl de creme liquide</p>
+    <p>2 ou 3 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>50 g de parmesan rapé</p>
+    <p>sel, poivre, persil ou basilic frais si vous en avez</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C (thermostat 6).
+    Faites décongeler les épinards dans une casserole, puis ajoutez le parmesan (une poignée) et la crème liquide. Salez, poivrez.
+    Dans une jatte, mélangez la brandade, le lait entier, l'ail écrasé, le persil ou le basilic haché. La mixture doit être légèrement liquide. Ajoutez un filet d'huile et du poivre, mais ne salez pas.
+    Dans un plat à gratin huilé, mettez un peu de lait au fond, puis recouvrez de lasagnes. Alternez les étages d'épinards et de brandade, en finissant par cette dernière. Ajoutez-y le reste de parmesan. 
+    Enfournez pendant 40 minutes à 180°C (thermostat 6) avec un papier d'alu que vous retirerez 10 minutes avant la fin de la cuisson.Servez avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

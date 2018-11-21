@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50843">
+  <titre>Mousse au nutella</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>1 cuillère à soupe de sucre en poudre</p>
+    <p>2 à 3 cuillères à coupe de nutella</p>
+    <p>30 g de beurre</p>
+    <p>50 g de crême fraîche</p>
+    <p>50 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparez les jaunes des blancs d'oeuf.
+    Fouettez le sucre avec les jaunes jusqu'à ce que le mélange blanchisse.
+    Faites fondre le nutella et le beurre au bain-marie.
+    Mélangez les deux préparations puis incorporez la crème fraîche.
+    Fouettez les blancs d'oeuf en neige bien ferme et incorporez-les délicatement au nutella.
+    Versez dans des coupes individuelles et mettez-les au frais 2 à 3 heures !
+    Régalez vous!
+    Cette mousse peut s'accompagner avec de multiples petits biscuits comme des croquants aux amandes.... elle originale et délicieuse!
+  ]]>
+  </preparation>
+</recette>

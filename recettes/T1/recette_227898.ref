@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227898">
+  <titre>Cupcakes chamallows</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour cupcakes:</p>
+    <p>150 g de beurre demi-sel</p>
+    <p>150 g de sucre en poudre</p>
+    <p>175 g de farine à levure incorporée</p>
+    <p>3 oeufs</p>
+    <p>2 cuillères à café d'extrait de vanille</p>
+    <p>Pour glaçage:</p>
+    <p>1 boite de mini chamallows</p>
+    <p>250 g de mascarpone</p>
+    <p>125 g de sucre glace</p>
+    <p>1 cuillère à café de jus de citron</p>
+    <p>colorant alimentaire rouge</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).Remplir un moule à muffins avec des caissettes en papier.
+    Commencer par préparer les cupcakes :
+    Verser tous les ingrédients dans un récipient et fouetter environ 1 minute si fouet électrique (3 min. si vous le faites à la main)
+    Verser cette préparation dans les caissettes en papier, enfourner 20 minutes.
+    Pendant ce temps, préparer le glaçage :
+    Fouetter le mascarpone, le sucre glace, le jus de citron et ajouter une goutte de colorant rouge (ce qui vous donnera une couleur rose) jusqu'à obtention d'un mélange lisse.Répartir ce mélange sur les cupcakes refroidis (très important sinon votre glaçage fond!!!) et décorer de quelques chamallows!
+  ]]>
+  </preparation>
+</recette>

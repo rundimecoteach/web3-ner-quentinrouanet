@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20256">
+  <titre>Gâteau délicieux aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de bon chocolat au lait</p>
+    <p>3 jaunes d'oeuf</p>
+    <p>3 oeufs</p>
+    <p>125 g de cassonade</p>
+    <p>175 g de noisettes en poudre</p>
+    <p>100 g de noisettes entières grillées et concassées</p>
+    <p>175 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez le moule et chemisez le fond d'un cercle de papier sulfurisé beurré. 
+    Faites chauffer le four à 170°c. 
+    Faites fondre le beurre et le chocolat au micro-onde ou au bain-marie. 
+    Battez les 3 oeufs entiers, le sucre et les jaunes d'oeufs jusqu'à ce que la préparation blanchisse et épaississe. 
+    Ajoutez la poudre de noisettes et les noisettes. 
+    Incorporez la préparation beurre-chocolat. 
+    Versez dans le moule et faites cuire pendant environ 50 mn. 
+    Laissez refroidir avant de démouler.
+    Il est possible de mettre des amandes à la place des noisettes.
+  ]]>
+  </preparation>
+</recette>

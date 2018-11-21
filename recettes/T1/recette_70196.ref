@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70196">
+  <titre>Samossas au poireau, carotte et menthe</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick (ou de filo)</p>
+    <p>1 escalope de viande blanche (poulet, dinde...)</p>
+    <p>1 gros poireau</p>
+    <p>1 grosse carotte</p>
+    <p>un peu de chorizo (environ 1/5)</p>
+    <p>10 cl de lait de coco (à défaut, du lait de vache)</p>
+    <p>1 oignon</p>
+    <p>du cumin</p>
+    <p>de la coriandre</p>
+    <p>du curry</p>
+    <p>quelques raisins secs (facultatif)</p>
+    <p>de la menthe</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffez le four à 210°C (thermostat 7).
+    Faire bouillir de l'eau salée avec un petit peu de menthe. Y faire cuire les carottes coupées en petits morceaux durant 5 minutes.
+    Faire cuire la viande hachée avec les oignons et les épices. Ajoutez un soupçon de lait de coco, puis les morceaux de chorizo. Réservez.
+    Emincer le poireau puis le cuire à l'étouffée pendant 15 minutes.
+    Mixer grossièrement la viande et le chorizo avec les 2/3 du poireau, les carottes et quelques raisins secs. Arroser le tout du reste de lait de coco. Ajoutez le reste du poireau non mixé mais émincé.
+    Parfumer d'épices. La farce est prête !
+    Maintenant, il faut farcir les feuilles de bricks. Les couper en 2. Plier un bord vers soi puis y poser un peu de farce. Plier ensuite vers les bords, de façon à former de petits triangles.
+    Enfourner pour 15 à 20 minutes de cuisson.
+    Le lait de coco est remplaçable par du lait de vache. Même si cela donne un peu moins de saveur, il apporte néanmoins du moelleux à la farce.
+  ]]>
+  </preparation>
+</recette>

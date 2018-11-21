@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80304">
+  <titre>Brownie 5 min micro-ondes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de chocolat noir pâtissier</p>
+    <p>175 g de sucre en poudre</p>
+    <p>125 g de beurre</p>
+    <p>2 gros oeufs</p>
+    <p>175 g de farine</p>
+    <p>100 g de noix (Plus il y en a, meilleur c'est! On peut les remplacer par des pépites de chocolat, moi j'aime mieux les noix perso!!)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre et le chocolat 2 min au micro-ondes dans un bol. Bien mélanger pour lisser.
+    Ajouter le sucre, les oeufs et la farine séparément, puis les noix ou les pépites. Bien mélanger. 
+    Verser dans un plat carré. 
+    Faire cuire au micro-ondes 5 min puissance maximum (le maximum de mon micro-ondes, c'est 800 W et je dois ajouter bien souvent 1 min pour qu'il soit cuit à l'intérieur...).
+  ]]>
+  </preparation>
+</recette>

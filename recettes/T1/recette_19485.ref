@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19485">
+  <titre>Gâteau au potiron / citrouille</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de citrouille / potiron</p>
+    <p>3 oeufs</p>
+    <p>4 cuillères à soupe bombées de farine</p>
+    <p>8 cuillères à soupe bombées de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à soupe d'eau de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le potiron (10 mn à l'autocuiseur par exemple). Egoutter et laisser refroidir. 
+    Préchauffer le four à 230°C . 
+    Mixer le potiron avec le reste des ingrédients. 
+    Verser dans un moule à manqué beurré. 
+    Mettre au four à 230°C pendant 5 mn puis baisser à 190°C et laisser 45 mn.
+    Le milieu du gâteau doit rester moelleux.
+  ]]>
+  </preparation>
+</recette>

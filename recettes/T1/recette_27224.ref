@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27224">
+  <titre>Blanc de poulet à la normande</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 blancs de poulet</p>
+    <p>6 cuillères à soupe de farine</p>
+    <p>sel, poivre (mélange de baies) </p>
+    <p>1 à 2 cuillères à café de moutarde</p>
+    <p>80 g de beurre</p>
+    <p>champignons selon votre convenance</p>
+    <p>2 à 3 oignons</p>
+    <p>50 cl de bouillon de volaille ou de légumes (fera très bien l'affaire) </p>
+    <p>1 cuillère à café de concentré de tomate</p>
+    <p>crème fraîche selon votre convenance</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sel, le poivre et la farine. 
+    Passer le poulet dans la farine. 
+    Mettre 40 g de beurre dans une sauteuse et faire revenir le poulet 3 mn de chaque face. 
+    Ajoutez les champignons, les oignons. 
+    Poursuivre la cuisson 4 mn. Bien remuer. 
+    Dans une sauteuse mettre le reste de beurre, de farine, et le bouillon. Laisser épaissir 10 à 15 mn. 
+    Ajouter du cidre, ajuster la sauce. 
+    Verser la viande, les champignons, les oignons. 
+    Ajouter de la crème fraîche selon votre convenance. 
+    Mélanger. 
+    Servir avec des pommes de terre ou des pâtes fraîches.
+     Cidre brut ou doux
+  ]]>
+  </preparation>
+</recette>

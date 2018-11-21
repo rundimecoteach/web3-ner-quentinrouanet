@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34209">
+  <titre>Suisse valentinois de Petite Mamie</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>200 g de beurre</p>
+    <p>150 g d'orangeade</p>
+    <p>1 paquet de levure</p>
+    <p>3 oeufs (garder un peu de jaune pour dorer le dessus) </p>
+    <p>1 zeste de citron râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un puits avec la farine. 
+    Parsemer la levure et l'orangeade. 
+    Malaxer le beurre et le sucre, ensuite le mélanger avec la farine puis les oeufs en broyant sans pétrir. 
+    Etaler en couche mince en forme de bonhomme (la forme de votre choix). 
+    Cuire 30 mn au four 180°C en surveillant la cuisson sur la fin (il faut que le dessus soit doré). 
+    Si on met de la confiture d'orange à la place de l'orangeade, diminuer un peu la quantité de sucre.
+    Très bon à l'heure du goûter accompagné d'un thè.
+  ]]>
+  </preparation>
+</recette>

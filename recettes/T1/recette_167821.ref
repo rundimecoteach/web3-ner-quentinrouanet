@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167821">
+  <titre>Escalopes provençales</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 fines escalopes de veau ou de dinde</p>
+    <p>2 belles tomates (pas trop dures)</p>
+    <p>4 à 6 tranches de bacon fumé ou non (selon la largeur des tranches)</p>
+    <p>Herbes de provence</p>
+    <p>Gruyère rapé</p>
+    <p>Huile d'olive</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les tomates en fines rondelles, oter les graines, saler, poivrer et saupoudrer largement d'herbes de provence. Mettre les escalopes dans un plat à gratin huilé, recouvrir des tranches de bacon. Disposer, en se chevauchant, les tranches de tomates, saupoudrer de gruyère rapé. Arroser chaque escalope d'un filet d'huile d'olive. Mettre au four 15 à 20 minutes à 220°. Accompagner d'une purée de pommes de terre, ou d'un gratin dauphinois. Un rosé Côtes de Provence
+  ]]>
+  </preparation>
+</recette>

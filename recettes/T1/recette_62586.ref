@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62586">
+  <titre>Poulet laotien</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de poulet</p>
+    <p>4 carottes</p>
+    <p>2 poivrons</p>
+    <p>2 courgettes</p>
+    <p>2 tomates</p>
+    <p>1 oignon</p>
+    <p>huile d'olive</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de sauce nuoc mam</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon haché dans un fond d'huile d'olive.
+    Y ajouter les escalopes de poulet.
+    Les faire cuire en les laissant dorer de chaque côté.
+    Pendant ce temps, nettoyer les courgettes, les poivrons et les carottes. Les couper en morceaux dans le sens de la longueur afin d'avoir des petits tronçons (environ 6 cm de longeur).
+    Quand les escalopes sont dorées, ajouter les légumes. Couper les tomates en dés et les ajouter au plat. Ajouter la sauce soja, le nuoc mam, sel et poivre. Couvrir d'eau et laissez mijoter jusqu'a obtenir des légumes fondant.
+    Servir accompagné de riz basmati.
+     Vin rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58302">
+  <titre>Oeufs au plat de Virginie aux oignons et aux câpres</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillères à soupe de câpres</p>
+    <p>4 cuillères à soupes d'oignons surgelés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une poêle.
+    Casser les oeufs dans la poêle et les faire cuire.
+    Les disposer dans une assiette.
+    Dans la poêle et le restant de beurre fondu, jeter les câpres et les oignons jusqu'à ce que ceux-ci soient colorés.
+    Déposer ce mélange sur les oeufs...
+    Déguster.
+    Les câpres et les oignons sont donnés à titre indicatif et peuvent être diminués ou augmentés selon les goûts de chacun.
+  ]]>
+  </preparation>
+</recette>

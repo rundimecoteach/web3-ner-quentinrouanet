@@ -1,0 +1,9 @@
+Pour le fichier tp2.py :
+
+il faut installer la libraire xmltodict
+
+le code se lance à l'aide de la fonction "cleanXml"
+exemple : cleanXml('recette_2103.ref')
+(l'ajout du dossier dans le chemin est géré en interne)
+
+l'affichage s'effectue dans la console

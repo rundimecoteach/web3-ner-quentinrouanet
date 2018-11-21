@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71161">
+  <titre>Tagliatelles sublimes aux courgettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de tagliatelles fraîches (parfumées au poivre si possible)</p>
+    <p>2 courgettes</p>
+    <p>1 gousse d'ail</p>
+    <p>100 g de pecorino râpé</p>
+    <p>100 g de parmesan râpé</p>
+    <p>1 cuillère à soupe de mascarpone</p>
+    <p>huile d'olive, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la courgette émincée finement avec l'ail dans une poêle. 
+    Laisser fondre jusqu'à ce que la courgette prenne une couleur dorée.
+    Faire cuire les pâtes, les égoutter et verser un filet d'huile d'olive puis le mascarpone. Verser les courgettes, puis le pecorino et le parmesan. Servez chaud !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87702">
+  <titre>Terrine de poissons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 médaillons de saumon (200 g)</p>
+    <p>2 coeurs de flétan ou de cabillaud (200 g)</p>
+    <p>1 boîte de crevettes moyennes</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>4 biscottes réduites en miettes</p>
+    <p>2 c. à café de concentré de tomates</p>
+    <p>Jus de 1/2 citron et la moitié du jus des crevettes</p>
+    <p>5 oeufs</p>
+    <p>Sel et poivre</p>
+    <p>Ail séché</p>
+    <p>Ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien mélanger les oeufs, les biscottes, le jus du 1/2 citron et la moitié du jus des crevettes.
+    Ajouter le sel, le poivre, l'ail séché, la ciboulette et la crème.
+    Cuire le saumon et le flétan 5 à 6 minutes, laisser refroidir, égoutter et émietter.
+    Mélanger avec les crevettes et ajouter au tout. Bien mélanger.
+    Mettre dans un moule à cake beurré.
+    Faire cuire au bain-marie, 1 heure environ, dans un four chaud.
+    Servir très frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27054">
+  <titre>Pommes de terre gratinées au reblochon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>1 reblochon</p>
+    <p>3 oignons</p>
+    <p>1 noix de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer les oignons. Eplucher les pommes de terre, les ocuper en cubes. Faire fondre les oignons dans le beurre pendant 15 minutes, les réserver.
+    Faire chauffer l'huile dans une sauteuse, y faire sauter les pommes de terre puis couvrir et laisser cuire 15 minutes à feu moyen.
+    Quand elles commencent à être fondantes, ajouter les oignons, saler et poivrer. Laisser finir de cuire 5 minutes à feu doux puis les verser dans un plat allant au four.
+    Déposer le reblochon coupé en deux dans l'épaisseur (avec ou sans la croûte) et faire fondre et gratiner sous le grill 5 min.
+  ]]>
+  </preparation>
+</recette>

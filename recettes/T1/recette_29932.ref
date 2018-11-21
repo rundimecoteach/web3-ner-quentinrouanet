@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29932">
+  <titre>Tarte ricotta, courgettes et coppa</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>3 courgettes</p>
+    <p>10 tranches de coppa</p>
+    <p>250 g de ricotta</p>
+    <p>2 oeufs</p>
+    <p>50 g de parmesan râpé</p>
+    <p>5-6 feuilles de basilic frais</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et râper les courgettes, puis les faire revenir dans un peu d'huile d'olive. En fin de cuisson, retirer l'eau qu'elles ont rendu.
+    Couper 6 tranches de coppa en petis morceaux et garder les autres pour le décor.
+    Dans un saladier, mélanger la ricotta, les oeufs et le parmesan. Saler et poivrer.
+    Ajouter à la préparation les courgettes, la coppa et le basilic ciselé. Verser le mélange sur le fond de tarte et recouvrir avec les tranches de coppa restantes.
+    Enfourner à 180°C pendant 45 mn environ.
+    Servir avec une salade verte et des pignons de pin avec une vinaigrette au vinaigre balsamique.
+  ]]>
+  </preparation>
+</recette>

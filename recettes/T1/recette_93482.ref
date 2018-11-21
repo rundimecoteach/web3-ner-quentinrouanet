@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93482">
+  <titre>Semoule au lait crémeuse à la MAP</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait (entier de préférence)</p>
+    <p>60 g de semoule de blé fine</p>
+    <p>120 g de sucre semoule</p>
+    <p>quelques gouttes de vanille liquide</p>
+    <p>une machine à pain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser tous les ingrédients dans la cuve de la MAP, sélectionner le programme confiture et mettre en marche.
+    Lorsque le programme est terminé, ne pas trop laisser refroidir (sinon une croûte se forme) avant de verser soit dans un plat, soit des coupes individuelles.
+    Déguster encore un peu tiède de préférence...
+  ]]>
+  </preparation>
+</recette>

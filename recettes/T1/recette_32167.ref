@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32167">
+  <titre>Maquereaux du pêcheur</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 maquereaux frais (1 par personne)</p>
+    <p>2 cuillères à soupe de vignaigre de vin</p>
+    <p>3 gousses d'ail</p>
+    <p>poivre</p>
+    <p>beurre salé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lever les filets.
+    Faire revenir le beurre dans une poêle, faire dorer les filets côté chair pendant 3 à 4 mn, 2 mn côté peau. Couper l'ail en morceaux et l'ajouter au poisson.
+    Déglacer avec le vinaigre pour la dernière minute de cuisson, poivrer et deguster avec des pommes de terre vapeur.
+     muscadet
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50995">
+  <titre>Agneau à la sarriette et aux fèves fraîches</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 épaule d'agneau roulée de 1,2 kg environ</p>
+    <p>1 kg de fèves fraîches</p>
+    <p>1 bouquet de sarriette</p>
+    <p>huile d'olive</p>
+    <p>50g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Enduisez l'épaule roulée d'un mélange : huile, sarriette effeuillée, sel et poivre.
+    Embrochez l'épaule, bien centrée et faites-la cuire au four pendant 40 minutes environ.
+    En cours de cuisson, badigeonnez du mélange huile-sarriette.
+    Cuisez les fèves fraîches, prélablement épluchées (inutile de retirer la peau, si c'est le début de la saison), dans de l'eau bouillante salée additionnée de quelques brins de sarriette.
+    Présentez l'épaule roulée sur un plat de service chaud, entourée des fèves fraîche, égouttées et enrichies de beurre frais.
+    Servez la sauce, à part, dans une saucière.
+  ]]>
+  </preparation>
+</recette>

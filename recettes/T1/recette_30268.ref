@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30268">
+  <titre>Lapin à la paysanne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin en morceaux</p>
+    <p>1 bouquet garni</p>
+    <p>3 échalotes</p>
+    <p>4 tomates</p>
+    <p>1 cuillère à soupe de saindoux</p>
+    <p>40 cl de vin blanc sec</p>
+    <p>100 g de champignons</p>
+    <p>1 gousse d’ail</p>
+    <p>20 g de farine</p>
+    <p>1 l de bouillon</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les morceaux de lapin à rissoler dans une cocotte avec le saindoux. Ajouter la farine, les échalotes ciselées, le vin blanc. Assaisonner.
+    Laisser mijoter 5 min et incorporer les tomates mondées et coupées en dés. Finir la cuisson à feu doux pendant 1 h.
+    Au bout de 45 min, ajouter les champignons, l'ail haché et les lardons rissolés.
+  ]]>
+  </preparation>
+</recette>

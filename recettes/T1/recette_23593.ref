@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23593">
+  <titre>Tourte aux mirabelles</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>75 g de beurre</p>
+    <p>375 g de mirabelles</p>
+    <p>50 g d'amandes hachées</p>
+    <p>1 oeuf + 1 jaune</p>
+    <p>50 g de sucre ne poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, le sel et le beurre mou. Ajouter peu à peu l'équivalent d'un verre d'eau pour que le pâte soit souple mais ferme.
+    Former une boule et laisser reposer durant 30 minutes.
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Dénoyauter les mirabelles.
+    Fouetter l'oeuf entier avec le sucre. Ajouter les mirabelles et les amandes hachées.
+    Etaler les 3/4 de la pâte. En garnir un moule à tarte en laissant déborder la pâte 1 cm tout autour.
+    Verser la préparation aux mirabelles.
+    Etaler le reste de pâte et poser le couvercle formé sur les mirabelles. Souder les bords humidifiés en rabattant le pourtour de pâte dépassant.
+    Dorer avec le jaune d'oeuf délayé dans un peu d'eau, piquer le dessus de la pâte à l'aide d'une fourchette et enfourner pour 30 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

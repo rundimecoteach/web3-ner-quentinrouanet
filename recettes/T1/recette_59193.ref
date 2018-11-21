@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59193">
+  <titre>Tarte alsacienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>200 g de lardons</p>
+    <p>2 pots de 20 cl de crème liquide</p>
+    <p>2 oignons</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortez votre pâte du réfrigérateur.
+    Emincez les oignons en petits morceaux ou fines lamelles (vous pouvez les mettre au mixeur).
+    Faites les revenir dans de l'huile d'olive, salez et poivrer. Faites-les dorer.
+    Etalez votre pâte dans le moule à tarte. Garnissez le fond des lardons et des oignons.
+    Ajoutez la crème liquide dessus. Poivrez légèrement.
+    Enfournez à 180°C (thermostat 6).
+    Servir chaud.
+    Accompagnez ce plat d'une bonne salade.
+  ]]>
+  </preparation>
+</recette>
